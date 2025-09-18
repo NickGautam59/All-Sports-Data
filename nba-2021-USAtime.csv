@@ -1,0 +1,1231 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Home Score,Away Score,Result
+1,1,19-10-2021 18:30,Fiserv Forum,Milwaukee Bucks,Brooklyn Nets,127,104,Milwaukee Bucks
+2,1,19-10-2021 21:00,STAPLES Center,Los Angeles Lakers,Golden State Warriors,114,121,Golden State Warriors
+3,1,20-10-2021 18:00,Spectrum Center,Charlotte Hornets,Indiana Pacers,123,122,Charlotte Hornets
+4,1,20-10-2021 18:00,Little Caesars Arena,Detroit Pistons,Chicago Bulls,88,94,Chicago Bulls
+5,1,20-10-2021 18:30,Madison Square Garden,New York Knicks,Boston Celtics,138,134,New York Knicks
+6,1,20-10-2021 18:30,Scotiabank Arena,Toronto Raptors,Washington Wizards,83,98,Washington Wizards
+7,1,20-10-2021 19:00,FedExForum,Memphis Grizzlies,Cleveland Cavaliers,132,121,Memphis Grizzlies
+8,1,20-10-2021 19:00,Target Center,Minnesota Timberwolves,Houston Rockets,124,106,Minnesota Timberwolves
+9,1,20-10-2021 19:00,Smoothie King Center,New Orleans Pelicans,Philadelphia 76ers,97,117,Philadelphia 76ers
+10,1,20-10-2021 19:30,AT&T Center,San Antonio Spurs,Orlando Magic,123,97,San Antonio Spurs
+11,1,20-10-2021 20:00,Vivint Arena,Utah Jazz,Oklahoma City Thunder,107,86,Utah Jazz
+12,1,20-10-2021 21:00,Footprint Center,Phoenix Suns,Denver Nuggets,98,110,Denver Nuggets
+13,1,20-10-2021 21:00,Moda Center,Portland Trail Blazers,Sacramento Kings,121,124,Sacramento Kings
+14,1,21-10-2021 18:30,State Farm Arena,Atlanta Hawks,Dallas Mavericks,113,87,Atlanta Hawks
+15,1,21-10-2021 19:00,FTX Arena,Miami Heat,Milwaukee Bucks,137,95,Miami Heat
+16,1,21-10-2021 21:00,Chase Center,Golden State Warriors,LA Clippers,115,113,Golden State Warriors
+17,1,22-10-2021 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Charlotte Hornets,112,123,Charlotte Hornets
+18,1,22-10-2021 18:00,Amway Center,Orlando Magic,New York Knicks,96,121,New York Knicks
+19,1,22-10-2021 18:00,Capital One Arena,Washington Wizards,Indiana Pacers,135,134,Washington Wizards
+20,1,22-10-2021 18:30,TD Garden,Boston Celtics,Toronto Raptors,83,115,Toronto Raptors
+21,1,22-10-2021 18:30,Wells Fargo Center,Philadelphia 76ers,Brooklyn Nets,109,114,Brooklyn Nets
+22,1,22-10-2021 19:00,United Center,Chicago Bulls,New Orleans Pelicans,128,112,Chicago Bulls
+23,1,22-10-2021 19:00,Toyota Center,Houston Rockets,Oklahoma City Thunder,124,91,Houston Rockets
+24,1,22-10-2021 20:00,Ball Arena,Denver Nuggets,San Antonio Spurs,102,96,Denver Nuggets
+25,1,22-10-2021 21:00,STAPLES Center,Los Angeles Lakers,Phoenix Suns,105,115,Phoenix Suns
+26,1,22-10-2021 21:00,Golden 1 Center,Sacramento Kings,Utah Jazz,101,110,Utah Jazz
+27,1,23-10-2021 17:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Atlanta Hawks,101,95,Cleveland Cavaliers
+28,1,23-10-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,Miami Heat,102,91,Indiana Pacers
+29,1,23-10-2021 18:30,Scotiabank Arena,Toronto Raptors,Dallas Mavericks,95,103,Dallas Mavericks
+30,1,23-10-2021 19:00,United Center,Chicago Bulls,Detroit Pistons,97,82,Chicago Bulls
+31,1,23-10-2021 19:00,Target Center,Minnesota Timberwolves,New Orleans Pelicans,96,89,Minnesota Timberwolves
+32,1,23-10-2021 19:30,AT&T Center,San Antonio Spurs,Milwaukee Bucks,111,121,Milwaukee Bucks
+33,1,23-10-2021 21:00,Moda Center,Portland Trail Blazers,Phoenix Suns,134,105,Portland Trail Blazers
+34,1,23-10-2021 21:30,STAPLES Center,LA Clippers,Memphis Grizzlies,114,120,Memphis Grizzlies
+35,1,24-10-2021 15:00,Barclays Center,Brooklyn Nets,Charlotte Hornets,95,111,Charlotte Hornets
+36,1,24-10-2021 18:00,Madison Square Garden,New York Knicks,Orlando Magic,104,110,Orlando Magic
+37,1,24-10-2021 18:00,Toyota Center,Houston Rockets,Boston Celtics,97,107,Boston Celtics
+38,1,24-10-2021 18:00,Paycom Center,Oklahoma City Thunder,Philadelphia 76ers,103,115,Philadelphia 76ers
+39,1,24-10-2021 20:00,Golden 1 Center,Sacramento Kings,Golden State Warriors,107,119,Golden State Warriors
+40,1,24-10-2021 20:30,STAPLES Center,Los Angeles Lakers,Memphis Grizzlies,121,118,Los Angeles Lakers
+41,1,25-10-2021 18:00,Spectrum Center,Charlotte Hornets,Boston Celtics,129,140,Boston Celtics
+42,1,25-10-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,Milwaukee Bucks,109,119,Milwaukee Bucks
+43,1,25-10-2021 18:30,State Farm Arena,Atlanta Hawks,Detroit Pistons,122,104,Atlanta Hawks
+44,1,25-10-2021 18:30,Barclays Center,Brooklyn Nets,Washington Wizards,104,90,Brooklyn Nets
+45,1,25-10-2021 18:30,FTX Arena,Miami Heat,Orlando Magic,107,90,Miami Heat
+46,1,25-10-2021 18:30,Scotiabank Arena,Toronto Raptors,Chicago Bulls,108,111,Chicago Bulls
+47,1,25-10-2021 19:00,Target Center,Minnesota Timberwolves,New Orleans Pelicans,98,107,New Orleans Pelicans
+48,1,25-10-2021 20:00,Ball Arena,Denver Nuggets,Cleveland Cavaliers,87,99,Cleveland Cavaliers
+49,1,25-10-2021 21:30,STAPLES Center,LA Clippers,Portland Trail Blazers,116,86,LA Clippers
+50,1,26-10-2021 18:30,Madison Square Garden,New York Knicks,Philadelphia 76ers,112,99,New York Knicks
+51,1,26-10-2021 19:00,Paycom Center,Oklahoma City Thunder,Golden State Warriors,98,106,Golden State Warriors
+52,1,26-10-2021 19:30,American Airlines Center,Dallas Mavericks,Houston Rockets,116,106,Dallas Mavericks
+53,1,26-10-2021 19:30,AT&T Center,San Antonio Spurs,Los Angeles Lakers,121,125,Los Angeles Lakers
+54,1,26-10-2021 21:00,Vivint Arena,Utah Jazz,Denver Nuggets,122,110,Utah Jazz
+55,1,27-10-2021 18:00,Amway Center,Orlando Magic,Charlotte Hornets,111,120,Charlotte Hornets
+56,1,27-10-2021 18:30,TD Garden,Boston Celtics,Washington Wizards,107,116,Washington Wizards
+57,1,27-10-2021 18:30,Barclays Center,Brooklyn Nets,Miami Heat,93,106,Miami Heat
+58,1,27-10-2021 18:30,Scotiabank Arena,Toronto Raptors,Indiana Pacers,118,100,Toronto Raptors
+59,1,27-10-2021 18:30,Smoothie King Center,New Orleans Pelicans,Atlanta Hawks,99,102,Atlanta Hawks
+60,1,27-10-2021 19:00,Fiserv Forum,Milwaukee Bucks,Minnesota Timberwolves,108,113,Minnesota Timberwolves
+61,1,27-10-2021 19:00,Paycom Center,Oklahoma City Thunder,Los Angeles Lakers,123,115,Oklahoma City Thunder
+62,1,27-10-2021 21:00,Footprint Center,Phoenix Suns,Sacramento Kings,107,110,Sacramento Kings
+63,1,27-10-2021 21:00,Moda Center,Portland Trail Blazers,Memphis Grizzlies,116,96,Portland Trail Blazers
+64,1,27-10-2021 21:30,STAPLES Center,LA Clippers,Cleveland Cavaliers,79,92,Cleveland Cavaliers
+65,2,28-10-2021 18:00,Wells Fargo Center,Philadelphia 76ers,Detroit Pistons,110,102,Philadelphia 76ers
+66,2,28-10-2021 18:00,Capital One Arena,Washington Wizards,Atlanta Hawks,122,111,Washington Wizards
+67,2,28-10-2021 19:00,United Center,Chicago Bulls,New York Knicks,103,104,New York Knicks
+68,2,28-10-2021 19:00,Toyota Center,Houston Rockets,Utah Jazz,91,122,Utah Jazz
+69,2,28-10-2021 19:30,American Airlines Center,Dallas Mavericks,San Antonio Spurs,104,99,Dallas Mavericks
+70,2,28-10-2021 21:00,Chase Center,Golden State Warriors,Memphis Grizzlies,101,104,Memphis Grizzlies
+71,2,29-10-2021 18:00,Scotiabank Arena,Toronto Raptors,Orlando Magic,110,109,Toronto Raptors
+72,2,29-10-2021 18:30,Barclays Center,Brooklyn Nets,Indiana Pacers,105,98,Brooklyn Nets
+73,2,29-10-2021 18:30,FTX Arena,Miami Heat,Charlotte Hornets,114,99,Miami Heat
+74,2,29-10-2021 19:00,Smoothie King Center,New Orleans Pelicans,Sacramento Kings,109,113,Sacramento Kings
+75,2,29-10-2021 21:00,Ball Arena,Denver Nuggets,Dallas Mavericks,106,75,Denver Nuggets
+76,2,29-10-2021 21:00,Moda Center,Portland Trail Blazers,LA Clippers,111,92,Portland Trail Blazers
+77,2,29-10-2021 21:30,STAPLES Center,Los Angeles Lakers,Cleveland Cavaliers,113,101,Los Angeles Lakers
+78,2,30-10-2021 16:00,Capital One Arena,Washington Wizards,Boston Celtics,115,112,Washington Wizards
+79,2,30-10-2021 18:00,Little Caesars Arena,Detroit Pistons,Orlando Magic,110,103,Detroit Pistons
+80,2,30-10-2021 18:00,Smoothie King Center,New Orleans Pelicans,New York Knicks,117,123,New York Knicks
+81,2,30-10-2021 18:30,Gainbridge Fieldhouse,Indiana Pacers,Toronto Raptors,94,97,Toronto Raptors
+82,2,30-10-2021 18:30,Wells Fargo Center,Philadelphia 76ers,Atlanta Hawks,122,94,Philadelphia 76ers
+83,2,30-10-2021 19:00,United Center,Chicago Bulls,Utah Jazz,107,99,Chicago Bulls
+84,2,30-10-2021 19:00,FedExForum,Memphis Grizzlies,Miami Heat,103,129,Miami Heat
+85,2,30-10-2021 19:00,Fiserv Forum,Milwaukee Bucks,San Antonio Spurs,93,102,San Antonio Spurs
+86,2,30-10-2021 19:30,Chase Center,Golden State Warriors,Oklahoma City Thunder,103,82,Golden State Warriors
+87,2,30-10-2021 20:00,Target Center,Minnesota Timberwolves,Denver Nuggets,91,93,Denver Nuggets
+88,2,30-10-2021 21:00,Footprint Center,Phoenix Suns,Cleveland Cavaliers,101,92,Phoenix Suns
+89,2,31-10-2021 14:30,American Airlines Center,Dallas Mavericks,Sacramento Kings,105,99,Dallas Mavericks
+90,2,31-10-2021 18:00,Spectrum Center,Charlotte Hornets,Portland Trail Blazers,125,113,Charlotte Hornets
+91,2,31-10-2021 18:00,Fiserv Forum,Milwaukee Bucks,Utah Jazz,95,107,Utah Jazz
+92,2,31-10-2021 18:30,Barclays Center,Brooklyn Nets,Detroit Pistons,117,91,Brooklyn Nets
+93,2,31-10-2021 21:30,STAPLES Center,Los Angeles Lakers,Houston Rockets,95,85,Los Angeles Lakers
+94,2,01-11-2021 18:00,Spectrum Center,Charlotte Hornets,Cleveland Cavaliers,110,113,Cleveland Cavaliers
+95,2,01-11-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,San Antonio Spurs,131,118,Indiana Pacers
+96,2,01-11-2021 18:00,Wells Fargo Center,Philadelphia 76ers,Portland Trail Blazers,113,103,Philadelphia 76ers
+97,2,01-11-2021 18:30,State Farm Arena,Atlanta Hawks,Washington Wizards,118,111,Atlanta Hawks
+98,2,01-11-2021 18:30,TD Garden,Boston Celtics,Chicago Bulls,114,128,Chicago Bulls
+99,2,01-11-2021 18:30,Madison Square Garden,New York Knicks,Toronto Raptors,104,113,Toronto Raptors
+100,2,01-11-2021 19:00,FedExForum,Memphis Grizzlies,Denver Nuggets,106,97,Memphis Grizzlies
+101,2,01-11-2021 19:00,Target Center,Minnesota Timberwolves,Orlando Magic,97,115,Orlando Magic
+102,2,01-11-2021 21:30,STAPLES Center,LA Clippers,Oklahoma City Thunder,99,94,LA Clippers
+103,2,02-11-2021 18:00,Little Caesars Arena,Detroit Pistons,Milwaukee Bucks,89,117,Milwaukee Bucks
+104,2,02-11-2021 18:30,American Airlines Center,Dallas Mavericks,Miami Heat,110,125,Miami Heat
+105,2,02-11-2021 20:00,Vivint Arena,Utah Jazz,Sacramento Kings,119,113,Utah Jazz
+106,2,02-11-2021 21:00,Footprint Center,Phoenix Suns,New Orleans Pelicans,112,100,Phoenix Suns
+107,2,02-11-2021 21:30,STAPLES Center,Los Angeles Lakers,Houston Rockets,119,117,Los Angeles Lakers
+108,2,03-11-2021 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Portland Trail Blazers,107,104,Cleveland Cavaliers
+109,2,03-11-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,New York Knicks,111,98,Indiana Pacers
+110,2,03-11-2021 18:00,Amway Center,Orlando Magic,Boston Celtics,79,92,Boston Celtics
+111,2,03-11-2021 18:00,Wells Fargo Center,Philadelphia 76ers,Chicago Bulls,103,98,Philadelphia 76ers
+112,2,03-11-2021 18:00,Capital One Arena,Washington Wizards,Toronto Raptors,100,109,Toronto Raptors
+113,2,03-11-2021 18:30,Barclays Center,Brooklyn Nets,Atlanta Hawks,117,108,Brooklyn Nets
+114,2,03-11-2021 19:00,FedExForum,Memphis Grizzlies,Denver Nuggets,108,106,Memphis Grizzlies
+115,2,03-11-2021 19:00,Target Center,Minnesota Timberwolves,LA Clippers,115,126,LA Clippers
+116,2,03-11-2021 19:30,AT&T Center,San Antonio Spurs,Dallas Mavericks,108,109,Dallas Mavericks
+117,2,03-11-2021 21:00,Chase Center,Golden State Warriors,Charlotte Hornets,114,92,Golden State Warriors
+118,2,03-11-2021 21:00,Golden 1 Center,Sacramento Kings,New Orleans Pelicans,112,99,Sacramento Kings
+119,3,04-11-2021 18:00,Little Caesars Arena,Detroit Pistons,Philadelphia 76ers,98,109,Philadelphia 76ers
+120,3,04-11-2021 18:30,State Farm Arena,Atlanta Hawks,Utah Jazz,98,116,Utah Jazz
+121,3,04-11-2021 18:30,FTX Arena,Miami Heat,Boston Celtics,78,95,Boston Celtics
+122,3,04-11-2021 21:00,Footprint Center,Phoenix Suns,Houston Rockets,123,111,Phoenix Suns
+123,3,04-11-2021 21:30,STAPLES Center,Los Angeles Lakers,Oklahoma City Thunder,104,107,Oklahoma City Thunder
+124,3,05-11-2021 18:00,Little Caesars Arena,Detroit Pistons,Brooklyn Nets,90,96,Brooklyn Nets
+125,3,05-11-2021 18:00,Amway Center,Orlando Magic,San Antonio Spurs,89,102,San Antonio Spurs
+126,3,05-11-2021 18:00,Capital One Arena,Washington Wizards,Memphis Grizzlies,115,87,Washington Wizards
+127,3,05-11-2021 18:30,Scotiabank Arena,Toronto Raptors,Cleveland Cavaliers,101,102,Cleveland Cavaliers
+128,3,05-11-2021 18:30,Fiserv Forum,Milwaukee Bucks,New York Knicks,98,113,New York Knicks
+129,3,05-11-2021 19:00,Target Center,Minnesota Timberwolves,LA Clippers,84,104,LA Clippers
+130,3,05-11-2021 21:00,Chase Center,Golden State Warriors,New Orleans Pelicans,126,85,Golden State Warriors
+131,3,05-11-2021 21:00,Moda Center,Portland Trail Blazers,Indiana Pacers,110,106,Portland Trail Blazers
+132,3,05-11-2021 21:00,Golden 1 Center,Sacramento Kings,Charlotte Hornets,140,110,Sacramento Kings
+133,3,06-11-2021 16:00,Ball Arena,Denver Nuggets,Houston Rockets,95,94,Denver Nuggets
+134,3,06-11-2021 18:30,FTX Arena,Miami Heat,Utah Jazz,118,115,Miami Heat
+135,3,06-11-2021 19:00,United Center,Chicago Bulls,Philadelphia 76ers,105,114,Philadelphia 76ers
+136,3,06-11-2021 19:30,American Airlines Center,Dallas Mavericks,Boston Celtics,107,104,Dallas Mavericks
+137,3,06-11-2021 21:00,Footprint Center,Phoenix Suns,Atlanta Hawks,121,117,Phoenix Suns
+138,3,06-11-2021 21:30,Moda Center,Portland Trail Blazers,Los Angeles Lakers,105,90,Portland Trail Blazers
+139,3,07-11-2021 14:30,Scotiabank Arena,Toronto Raptors,Brooklyn Nets,103,116,Brooklyn Nets
+140,3,07-11-2021 17:00,Madison Square Garden,New York Knicks,Cleveland Cavaliers,109,126,Cleveland Cavaliers
+141,3,07-11-2021 17:00,Amway Center,Orlando Magic,Utah Jazz,107,100,Orlando Magic
+142,3,07-11-2021 17:00,Capital One Arena,Washington Wizards,Milwaukee Bucks,101,94,Washington Wizards
+143,3,07-11-2021 17:00,Golden 1 Center,Sacramento Kings,Indiana Pacers,91,94,Indiana Pacers
+144,3,07-11-2021 18:00,Paycom Center,Oklahoma City Thunder,San Antonio Spurs,99,94,Oklahoma City Thunder
+145,3,07-11-2021 19:30,Chase Center,Golden State Warriors,Houston Rockets,120,107,Golden State Warriors
+146,3,07-11-2021 20:00,STAPLES Center,LA Clippers,Charlotte Hornets,120,106,LA Clippers
+147,3,08-11-2021 18:00,Wells Fargo Center,Philadelphia 76ers,New York Knicks,96,103,New York Knicks
+148,3,08-11-2021 19:00,United Center,Chicago Bulls,Brooklyn Nets,118,95,Chicago Bulls
+149,3,08-11-2021 19:00,FedExForum,Memphis Grizzlies,Minnesota Timberwolves,125,118,Memphis Grizzlies
+150,3,08-11-2021 19:30,American Airlines Center,Dallas Mavericks,New Orleans Pelicans,108,92,Dallas Mavericks
+151,3,08-11-2021 20:00,Ball Arena,Denver Nuggets,Miami Heat,113,96,Denver Nuggets
+152,3,08-11-2021 21:00,Chase Center,Golden State Warriors,Atlanta Hawks,127,113,Golden State Warriors
+153,3,08-11-2021 21:00,Golden 1 Center,Sacramento Kings,Phoenix Suns,104,109,Phoenix Suns
+154,3,08-11-2021 21:30,STAPLES Center,Los Angeles Lakers,Charlotte Hornets,126,123,Los Angeles Lakers
+155,3,09-11-2021 18:30,Wells Fargo Center,Philadelphia 76ers,Milwaukee Bucks,109,118,Milwaukee Bucks
+156,3,09-11-2021 20:00,Vivint Arena,Utah Jazz,Atlanta Hawks,110,98,Utah Jazz
+157,3,09-11-2021 21:00,STAPLES Center,LA Clippers,Portland Trail Blazers,117,109,LA Clippers
+158,3,10-11-2021 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Washington Wizards,94,97,Washington Wizards
+159,3,10-11-2021 18:00,Amway Center,Orlando Magic,Brooklyn Nets,90,123,Brooklyn Nets
+160,3,10-11-2021 18:30,TD Garden,Boston Celtics,Toronto Raptors,104,88,Boston Celtics
+161,3,10-11-2021 18:30,Madison Square Garden,New York Knicks,Milwaukee Bucks,100,112,Milwaukee Bucks
+162,3,10-11-2021 18:30,Toyota Center,Houston Rockets,Detroit Pistons,104,112,Detroit Pistons
+163,3,10-11-2021 19:00,United Center,Chicago Bulls,Dallas Mavericks,117,107,Chicago Bulls
+164,3,10-11-2021 19:00,FedExForum,Memphis Grizzlies,Charlotte Hornets,108,118,Charlotte Hornets
+165,3,10-11-2021 19:00,Smoothie King Center,New Orleans Pelicans,Oklahoma City Thunder,100,108,Oklahoma City Thunder
+166,3,10-11-2021 19:30,AT&T Center,San Antonio Spurs,Sacramento Kings,136,117,San Antonio Spurs
+167,3,10-11-2021 20:00,Ball Arena,Denver Nuggets,Indiana Pacers,101,98,Denver Nuggets
+168,3,10-11-2021 20:00,Footprint Center,Phoenix Suns,Portland Trail Blazers,119,109,Phoenix Suns
+169,3,10-11-2021 21:00,Chase Center,Golden State Warriors,Minnesota Timberwolves,123,110,Golden State Warriors
+170,3,10-11-2021 21:00,STAPLES Center,Los Angeles Lakers,Miami Heat,120,117,Los Angeles Lakers
+171,4,11-11-2021 18:00,Wells Fargo Center,Philadelphia 76ers,Toronto Raptors,109,115,Toronto Raptors
+172,4,11-11-2021 20:00,Vivint Arena,Utah Jazz,Indiana Pacers,100,111,Indiana Pacers
+173,4,11-11-2021 21:30,STAPLES Center,LA Clippers,Miami Heat,112,109,LA Clippers
+174,4,12-11-2021 18:00,Spectrum Center,Charlotte Hornets,New York Knicks,104,96,Charlotte Hornets
+175,4,12-11-2021 18:30,TD Garden,Boston Celtics,Milwaukee Bucks,122,113,Boston Celtics
+176,4,12-11-2021 18:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Detroit Pistons,98,78,Cleveland Cavaliers
+177,4,12-11-2021 19:00,Toyota Center,Houston Rockets,Portland Trail Blazers,92,104,Portland Trail Blazers
+178,4,12-11-2021 19:00,FedExForum,Memphis Grizzlies,Phoenix Suns,94,119,Phoenix Suns
+179,4,12-11-2021 19:00,Smoothie King Center,New Orleans Pelicans,Brooklyn Nets,112,120,Brooklyn Nets
+180,4,12-11-2021 19:00,Paycom Center,Oklahoma City Thunder,Sacramento Kings,105,103,Oklahoma City Thunder
+181,4,12-11-2021 19:30,AT&T Center,San Antonio Spurs,Dallas Mavericks,109,123,Dallas Mavericks
+182,4,12-11-2021 20:00,Ball Arena,Denver Nuggets,Atlanta Hawks,105,96,Denver Nuggets
+183,4,12-11-2021 21:00,Chase Center,Golden State Warriors,Chicago Bulls,119,93,Golden State Warriors
+184,4,12-11-2021 21:30,STAPLES Center,Los Angeles Lakers,Minnesota Timberwolves,83,107,Minnesota Timberwolves
+185,4,13-11-2021 16:00,Vivint Arena,Utah Jazz,Miami Heat,105,111,Miami Heat
+186,4,13-11-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,Philadelphia 76ers,118,113,Indiana Pacers
+187,4,13-11-2021 18:00,Amway Center,Orlando Magic,Washington Wizards,92,104,Washington Wizards
+188,4,13-11-2021 18:00,Smoothie King Center,New Orleans Pelicans,Memphis Grizzlies,112,101,New Orleans Pelicans
+189,4,13-11-2021 18:30,Scotiabank Arena,Toronto Raptors,Detroit Pistons,121,127,Detroit Pistons
+190,4,13-11-2021 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Boston Celtics,91,89,Cleveland Cavaliers
+191,4,13-11-2021 21:30,STAPLES Center,LA Clippers,Minnesota Timberwolves,129,102,LA Clippers
+192,4,14-11-2021 14:30,STAPLES Center,Los Angeles Lakers,San Antonio Spurs,114,106,Los Angeles Lakers
+193,4,14-11-2021 17:00,State Farm Arena,Atlanta Hawks,Milwaukee Bucks,120,100,Atlanta Hawks
+194,4,14-11-2021 18:00,Spectrum Center,Charlotte Hornets,Golden State Warriors,106,102,Charlotte Hornets
+195,4,14-11-2021 18:00,Toyota Center,Houston Rockets,Phoenix Suns,89,115,Phoenix Suns
+196,4,14-11-2021 18:00,Paycom Center,Oklahoma City Thunder,Brooklyn Nets,96,120,Brooklyn Nets
+197,4,14-11-2021 19:00,Ball Arena,Denver Nuggets,Portland Trail Blazers,124,95,Denver Nuggets
+198,4,14-11-2021 20:30,STAPLES Center,LA Clippers,Chicago Bulls,90,100,Chicago Bulls
+199,4,15-11-2021 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Boston Celtics,92,98,Boston Celtics
+200,4,15-11-2021 18:00,Little Caesars Arena,Detroit Pistons,Sacramento Kings,107,129,Sacramento Kings
+201,4,15-11-2021 18:00,Capital One Arena,Washington Wizards,New Orleans Pelicans,105,100,Washington Wizards
+202,4,15-11-2021 18:30,State Farm Arena,Atlanta Hawks,Orlando Magic,129,111,Atlanta Hawks
+203,4,15-11-2021 18:30,Madison Square Garden,New York Knicks,Indiana Pacers,92,84,New York Knicks
+204,4,15-11-2021 19:00,American Airlines Center,Dallas Mavericks,Denver Nuggets,111,101,Dallas Mavericks
+205,4,15-11-2021 19:00,FedExForum,Memphis Grizzlies,Houston Rockets,136,102,Memphis Grizzlies
+206,4,15-11-2021 19:00,Target Center,Minnesota Timberwolves,Phoenix Suns,96,99,Phoenix Suns
+207,4,15-11-2021 19:00,Paycom Center,Oklahoma City Thunder,Miami Heat,90,103,Miami Heat
+208,4,15-11-2021 21:00,Moda Center,Portland Trail Blazers,Toronto Raptors,118,113,Portland Trail Blazers
+209,4,15-11-2021 21:30,STAPLES Center,Los Angeles Lakers,Chicago Bulls,103,121,Chicago Bulls
+210,4,16-11-2021 18:30,Barclays Center,Brooklyn Nets,Golden State Warriors,99,117,Golden State Warriors
+211,4,16-11-2021 21:00,Vivint Arena,Utah Jazz,Philadelphia 76ers,120,85,Utah Jazz
+212,4,16-11-2021 21:30,STAPLES Center,LA Clippers,San Antonio Spurs,106,92,LA Clippers
+213,4,17-11-2021 18:00,Spectrum Center,Charlotte Hornets,Washington Wizards,97,87,Charlotte Hornets
+214,4,17-11-2021 18:00,Little Caesars Arena,Detroit Pistons,Indiana Pacers,97,89,Detroit Pistons
+215,4,17-11-2021 18:30,State Farm Arena,Atlanta Hawks,Boston Celtics,110,99,Atlanta Hawks
+216,4,17-11-2021 18:30,Barclays Center,Brooklyn Nets,Cleveland Cavaliers,109,99,Brooklyn Nets
+217,4,17-11-2021 18:30,FTX Arena,Miami Heat,New Orleans Pelicans,113,98,Miami Heat
+218,4,17-11-2021 18:30,Madison Square Garden,New York Knicks,Orlando Magic,98,104,Orlando Magic
+219,4,17-11-2021 18:30,Fiserv Forum,Milwaukee Bucks,Los Angeles Lakers,109,102,Milwaukee Bucks
+220,4,17-11-2021 19:00,Target Center,Minnesota Timberwolves,Sacramento Kings,107,97,Minnesota Timberwolves
+221,4,17-11-2021 19:00,Paycom Center,Oklahoma City Thunder,Houston Rockets,101,89,Oklahoma City Thunder
+222,4,17-11-2021 21:00,Footprint Center,Phoenix Suns,Dallas Mavericks,105,98,Phoenix Suns
+223,4,17-11-2021 21:00,Moda Center,Portland Trail Blazers,Chicago Bulls,112,107,Portland Trail Blazers
+224,5,18-11-2021 18:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Golden State Warriors,89,104,Golden State Warriors
+225,5,18-11-2021 18:30,FTX Arena,Miami Heat,Washington Wizards,112,97,Miami Heat
+226,5,18-11-2021 19:00,FedExForum,Memphis Grizzlies,LA Clippers,115,90,Memphis Grizzlies
+227,5,18-11-2021 19:00,Target Center,Minnesota Timberwolves,San Antonio Spurs,120,108,Minnesota Timberwolves
+228,5,18-11-2021 20:00,Ball Arena,Denver Nuggets,Philadelphia 76ers,89,103,Philadelphia 76ers
+229,5,18-11-2021 20:00,Vivint Arena,Utah Jazz,Toronto Raptors,119,103,Utah Jazz
+230,5,19-11-2021 18:00,Spectrum Center,Charlotte Hornets,Indiana Pacers,121,118,Charlotte Hornets
+231,5,19-11-2021 18:00,Little Caesars Arena,Detroit Pistons,Golden State Warriors,102,105,Golden State Warriors
+232,5,19-11-2021 18:30,TD Garden,Boston Celtics,Los Angeles Lakers,130,108,Boston Celtics
+233,5,19-11-2021 18:30,Barclays Center,Brooklyn Nets,Orlando Magic,115,113,Brooklyn Nets
+234,5,19-11-2021 19:00,Fiserv Forum,Milwaukee Bucks,Oklahoma City Thunder,96,89,Milwaukee Bucks
+235,5,19-11-2021 19:00,Smoothie King Center,New Orleans Pelicans,LA Clippers,94,81,New Orleans Pelicans
+236,5,19-11-2021 20:00,Ball Arena,Denver Nuggets,Chicago Bulls,108,114,Chicago Bulls
+237,5,19-11-2021 21:00,Footprint Center,Phoenix Suns,Dallas Mavericks,112,104,Phoenix Suns
+238,5,19-11-2021 21:00,Golden 1 Center,Sacramento Kings,Toronto Raptors,89,108,Toronto Raptors
+239,5,20-11-2021 16:00,Madison Square Garden,New York Knicks,Houston Rockets,106,99,New York Knicks
+240,5,20-11-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,New Orleans Pelicans,111,94,Indiana Pacers
+241,5,20-11-2021 18:00,Capital One Arena,Washington Wizards,Miami Heat,103,100,Washington Wizards
+242,5,20-11-2021 18:30,State Farm Arena,Atlanta Hawks,Charlotte Hornets,115,105,Atlanta Hawks
+243,5,20-11-2021 18:30,TD Garden,Boston Celtics,Oklahoma City Thunder,111,105,Boston Celtics
+244,5,20-11-2021 19:00,Fiserv Forum,Milwaukee Bucks,Orlando Magic,117,108,Milwaukee Bucks
+245,5,20-11-2021 19:00,Target Center,Minnesota Timberwolves,Memphis Grizzlies,138,95,Minnesota Timberwolves
+246,5,20-11-2021 21:00,Moda Center,Portland Trail Blazers,Philadelphia 76ers,118,111,Portland Trail Blazers
+247,5,20-11-2021 21:00,Golden 1 Center,Sacramento Kings,Utah Jazz,105,123,Utah Jazz
+248,5,21-11-2021 14:30,STAPLES Center,LA Clippers,Dallas Mavericks,97,91,LA Clippers
+249,5,21-11-2021 17:00,Little Caesars Arena,Detroit Pistons,Los Angeles Lakers,116,121,Los Angeles Lakers
+250,5,21-11-2021 19:00,United Center,Chicago Bulls,New York Knicks,109,103,Chicago Bulls
+251,5,21-11-2021 19:00,Footprint Center,Phoenix Suns,Denver Nuggets,126,97,Phoenix Suns
+252,5,21-11-2021 19:30,Chase Center,Golden State Warriors,Toronto Raptors,119,104,Golden State Warriors
+253,5,22-11-2021 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Brooklyn Nets,112,117,Brooklyn Nets
+254,5,22-11-2021 18:00,Capital One Arena,Washington Wizards,Charlotte Hornets,103,109,Charlotte Hornets
+255,5,22-11-2021 18:30,State Farm Arena,Atlanta Hawks,Oklahoma City Thunder,113,101,Atlanta Hawks
+256,5,22-11-2021 18:30,TD Garden,Boston Celtics,Houston Rockets,108,90,Boston Celtics
+257,5,22-11-2021 19:00,United Center,Chicago Bulls,Indiana Pacers,77,109,Indiana Pacers
+258,5,22-11-2021 19:00,Fiserv Forum,Milwaukee Bucks,Orlando Magic,123,92,Milwaukee Bucks
+259,5,22-11-2021 19:00,Smoothie King Center,New Orleans Pelicans,Minnesota Timberwolves,96,110,Minnesota Timberwolves
+260,5,22-11-2021 19:30,AT&T Center,San Antonio Spurs,Phoenix Suns,111,115,Phoenix Suns
+261,5,22-11-2021 20:00,Vivint Arena,Utah Jazz,Memphis Grizzlies,118,119,Memphis Grizzlies
+262,5,22-11-2021 21:00,Golden 1 Center,Sacramento Kings,Philadelphia 76ers,94,102,Philadelphia 76ers
+263,5,23-11-2021 18:00,Little Caesars Arena,Detroit Pistons,Miami Heat,92,100,Miami Heat
+264,5,23-11-2021 18:30,Madison Square Garden,New York Knicks,Los Angeles Lakers,106,100,New York Knicks
+265,5,23-11-2021 21:00,Moda Center,Portland Trail Blazers,Denver Nuggets,119,100,Portland Trail Blazers
+266,5,23-11-2021 21:30,STAPLES Center,LA Clippers,Dallas Mavericks,104,112,Dallas Mavericks
+267,5,24-11-2021 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Phoenix Suns,115,120,Phoenix Suns
+268,5,24-11-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,Los Angeles Lakers,116,124,Los Angeles Lakers
+269,5,24-11-2021 18:00,Amway Center,Orlando Magic,Charlotte Hornets,99,106,Charlotte Hornets
+270,5,24-11-2021 18:30,TD Garden,Boston Celtics,Brooklyn Nets,104,123,Brooklyn Nets
+271,5,24-11-2021 19:00,Toyota Center,Houston Rockets,Chicago Bulls,118,113,Houston Rockets
+272,5,24-11-2021 19:00,FedExForum,Memphis Grizzlies,Toronto Raptors,113,126,Toronto Raptors
+273,5,24-11-2021 19:00,Fiserv Forum,Milwaukee Bucks,Detroit Pistons,114,93,Milwaukee Bucks
+274,5,24-11-2021 19:00,Target Center,Minnesota Timberwolves,Miami Heat,113,101,Minnesota Timberwolves
+275,5,24-11-2021 19:00,Smoothie King Center,New Orleans Pelicans,Washington Wizards,127,102,New Orleans Pelicans
+276,5,24-11-2021 19:00,Paycom Center,Oklahoma City Thunder,Utah Jazz,104,110,Utah Jazz
+277,5,24-11-2021 19:30,AT&T Center,San Antonio Spurs,Atlanta Hawks,106,124,Atlanta Hawks
+278,5,24-11-2021 21:00,Chase Center,Golden State Warriors,Philadelphia 76ers,116,96,Golden State Warriors
+279,5,24-11-2021 21:00,Golden 1 Center,Sacramento Kings,Portland Trail Blazers,125,121,Sacramento Kings
+280,6,26-11-2021 14:30,STAPLES Center,LA Clippers,Detroit Pistons,107,96,LA Clippers
+281,6,26-11-2021 18:00,Spectrum Center,Charlotte Hornets,Minnesota Timberwolves,133,115,Charlotte Hornets
+282,6,26-11-2021 18:00,Madison Square Garden,New York Knicks,Phoenix Suns,97,118,Phoenix Suns
+283,6,26-11-2021 18:00,Amway Center,Orlando Magic,Chicago Bulls,88,123,Chicago Bulls
+284,6,26-11-2021 19:00,Gainbridge Fieldhouse,Indiana Pacers,Toronto Raptors,114,97,Indiana Pacers
+285,6,26-11-2021 19:00,FedExForum,Memphis Grizzlies,Atlanta Hawks,100,132,Atlanta Hawks
+286,6,26-11-2021 19:00,Paycom Center,Oklahoma City Thunder,Washington Wizards,99,101,Washington Wizards
+287,6,26-11-2021 19:30,AT&T Center,San Antonio Spurs,Boston Celtics,96,88,San Antonio Spurs
+288,6,26-11-2021 20:00,Ball Arena,Denver Nuggets,Milwaukee Bucks,109,120,Milwaukee Bucks
+289,6,26-11-2021 20:00,Vivint Arena,Utah Jazz,New Orleans Pelicans,97,98,New Orleans Pelicans
+290,6,26-11-2021 21:00,Chase Center,Golden State Warriors,Portland Trail Blazers,118,103,Golden State Warriors
+291,6,26-11-2021 21:30,STAPLES Center,Los Angeles Lakers,Sacramento Kings,137,141,Sacramento Kings
+292,6,27-11-2021 17:00,Wells Fargo Center,Philadelphia 76ers,Minnesota Timberwolves,120,121,Minnesota Timberwolves
+293,6,27-11-2021 18:30,State Farm Arena,Atlanta Hawks,New York Knicks,90,99,New York Knicks
+294,6,27-11-2021 18:30,Barclays Center,Brooklyn Nets,Phoenix Suns,107,113,Phoenix Suns
+295,6,27-11-2021 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Orlando Magic,105,92,Cleveland Cavaliers
+296,6,27-11-2021 19:00,United Center,Chicago Bulls,Miami Heat,104,107,Miami Heat
+297,6,27-11-2021 19:00,Toyota Center,Houston Rockets,Charlotte Hornets,146,143,Houston Rockets
+298,6,27-11-2021 19:30,American Airlines Center,Dallas Mavericks,Washington Wizards,114,120,Washington Wizards
+299,6,27-11-2021 20:00,Vivint Arena,Utah Jazz,New Orleans Pelicans,127,105,Utah Jazz
+300,6,28-11-2021 14:30,STAPLES Center,LA Clippers,Golden State Warriors,90,105,Golden State Warriors
+301,6,28-11-2021 16:00,Gainbridge Fieldhouse,Indiana Pacers,Milwaukee Bucks,100,118,Milwaukee Bucks
+302,6,28-11-2021 17:00,Scotiabank Arena,Toronto Raptors,Boston Celtics,97,109,Boston Celtics
+303,6,28-11-2021 17:00,FedExForum,Memphis Grizzlies,Sacramento Kings,128,101,Memphis Grizzlies
+304,6,28-11-2021 20:30,STAPLES Center,Los Angeles Lakers,Detroit Pistons,110,106,Los Angeles Lakers
+305,6,29-11-2021 18:00,Wells Fargo Center,Philadelphia 76ers,Orlando Magic,101,96,Philadelphia 76ers
+306,6,29-11-2021 18:30,FTX Arena,Miami Heat,Denver Nuggets,111,120,Denver Nuggets
+307,6,29-11-2021 19:00,United Center,Chicago Bulls,Charlotte Hornets,133,119,Chicago Bulls
+308,6,29-11-2021 19:00,Toyota Center,Houston Rockets,Oklahoma City Thunder,102,89,Houston Rockets
+309,6,29-11-2021 19:00,Target Center,Minnesota Timberwolves,Indiana Pacers,100,98,Minnesota Timberwolves
+310,6,29-11-2021 19:30,American Airlines Center,Dallas Mavericks,Cleveland Cavaliers,96,114,Cleveland Cavaliers
+311,6,29-11-2021 19:30,AT&T Center,San Antonio Spurs,Washington Wizards,116,99,San Antonio Spurs
+312,6,29-11-2021 20:00,Vivint Arena,Utah Jazz,Portland Trail Blazers,129,107,Utah Jazz
+313,6,29-11-2021 21:30,STAPLES Center,LA Clippers,New Orleans Pelicans,104,123,New Orleans Pelicans
+314,6,30-11-2021 18:30,Barclays Center,Brooklyn Nets,New York Knicks,112,110,Brooklyn Nets
+315,6,30-11-2021 18:30,Scotiabank Arena,Toronto Raptors,Memphis Grizzlies,91,98,Memphis Grizzlies
+316,6,30-11-2021 21:00,Footprint Center,Phoenix Suns,Golden State Warriors,104,96,Phoenix Suns
+317,6,30-11-2021 21:00,Moda Center,Portland Trail Blazers,Detroit Pistons,110,92,Portland Trail Blazers
+318,6,30-11-2021 21:00,Golden 1 Center,Sacramento Kings,Los Angeles Lakers,92,117,Los Angeles Lakers
+319,6,01-12-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,Atlanta Hawks,111,114,Atlanta Hawks
+320,6,01-12-2021 18:00,Amway Center,Orlando Magic,Denver Nuggets,108,103,Orlando Magic
+321,6,01-12-2021 18:00,Capital One Arena,Washington Wizards,Minnesota Timberwolves,115,107,Washington Wizards
+322,6,01-12-2021 18:30,TD Garden,Boston Celtics,Philadelphia 76ers,88,87,Boston Celtics
+323,6,01-12-2021 18:30,FTX Arena,Miami Heat,Cleveland Cavaliers,85,111,Cleveland Cavaliers
+324,6,01-12-2021 19:00,Fiserv Forum,Milwaukee Bucks,Charlotte Hornets,127,125,Milwaukee Bucks
+325,6,01-12-2021 19:00,Smoothie King Center,New Orleans Pelicans,Dallas Mavericks,107,139,Dallas Mavericks
+326,6,01-12-2021 19:00,Paycom Center,Oklahoma City Thunder,Houston Rockets,110,114,Houston Rockets
+327,6,01-12-2021 21:30,STAPLES Center,LA Clippers,Sacramento Kings,115,124,Sacramento Kings
+328,7,02-12-2021 18:30,Madison Square Garden,New York Knicks,Chicago Bulls,115,119,Chicago Bulls
+329,7,02-12-2021 18:30,Scotiabank Arena,Toronto Raptors,Milwaukee Bucks,97,93,Toronto Raptors
+330,7,02-12-2021 19:00,FedExForum,Memphis Grizzlies,Oklahoma City Thunder,152,79,Memphis Grizzlies
+331,7,02-12-2021 20:00,Footprint Center,Phoenix Suns,Detroit Pistons,114,103,Phoenix Suns
+332,7,02-12-2021 21:00,Moda Center,Portland Trail Blazers,San Antonio Spurs,83,114,San Antonio Spurs
+333,7,03-12-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,Miami Heat,104,113,Miami Heat
+334,7,03-12-2021 18:00,Capital One Arena,Washington Wizards,Cleveland Cavaliers,101,116,Cleveland Cavaliers
+335,7,03-12-2021 18:30,State Farm Arena,Atlanta Hawks,Philadelphia 76ers,96,98,Philadelphia 76ers
+336,7,03-12-2021 18:30,Barclays Center,Brooklyn Nets,Minnesota Timberwolves,110,105,Brooklyn Nets
+337,7,03-12-2021 19:00,Toyota Center,Houston Rockets,Orlando Magic,118,116,Houston Rockets
+338,7,03-12-2021 19:30,American Airlines Center,Dallas Mavericks,New Orleans Pelicans,91,107,New Orleans Pelicans
+339,7,03-12-2021 20:00,Vivint Arena,Utah Jazz,Boston Celtics,137,130,Utah Jazz
+340,7,03-12-2021 21:00,Chase Center,Golden State Warriors,Phoenix Suns,118,96,Golden State Warriors
+341,7,03-12-2021 21:00,STAPLES Center,Los Angeles Lakers,LA Clippers,115,119,LA Clippers
+342,7,04-12-2021 12:00,Madison Square Garden,New York Knicks,Denver Nuggets,99,113,Denver Nuggets
+343,7,04-12-2021 19:00,Barclays Center,Brooklyn Nets,Chicago Bulls,107,111,Chicago Bulls
+344,7,04-12-2021 19:00,Fiserv Forum,Milwaukee Bucks,Miami Heat,124,102,Milwaukee Bucks
+345,7,04-12-2021 19:30,American Airlines Center,Dallas Mavericks,Memphis Grizzlies,90,97,Memphis Grizzlies
+346,7,04-12-2021 19:30,Chase Center,Golden State Warriors,San Antonio Spurs,107,112,San Antonio Spurs
+347,7,04-12-2021 21:00,Moda Center,Portland Trail Blazers,Boston Celtics,117,145,Boston Celtics
+348,7,04-12-2021 21:00,Golden 1 Center,Sacramento Kings,LA Clippers,104,99,Sacramento Kings
+349,7,05-12-2021 14:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Utah Jazz,108,109,Utah Jazz
+350,7,05-12-2021 17:00,State Farm Arena,Atlanta Hawks,Charlotte Hornets,127,130,Charlotte Hornets
+351,7,05-12-2021 17:00,Scotiabank Arena,Toronto Raptors,Washington Wizards,102,90,Toronto Raptors
+352,7,05-12-2021 18:00,Toyota Center,Houston Rockets,New Orleans Pelicans,118,108,Houston Rockets
+353,7,06-12-2021 18:00,Spectrum Center,Charlotte Hornets,Philadelphia 76ers,124,127,Philadelphia 76ers
+354,7,06-12-2021 18:00,Little Caesars Arena,Detroit Pistons,Oklahoma City Thunder,103,114,Oklahoma City Thunder
+355,7,06-12-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,Washington Wizards,116,110,Indiana Pacers
+356,7,06-12-2021 18:30,FTX Arena,Miami Heat,Memphis Grizzlies,90,105,Memphis Grizzlies
+357,7,06-12-2021 19:00,United Center,Chicago Bulls,Denver Nuggets,109,97,Chicago Bulls
+358,7,06-12-2021 19:00,Fiserv Forum,Milwaukee Bucks,Cleveland Cavaliers,112,104,Milwaukee Bucks
+359,7,06-12-2021 19:00,Target Center,Minnesota Timberwolves,Atlanta Hawks,110,121,Atlanta Hawks
+360,7,06-12-2021 20:00,Footprint Center,Phoenix Suns,San Antonio Spurs,108,104,Phoenix Suns
+361,7,06-12-2021 21:00,Chase Center,Golden State Warriors,Orlando Magic,126,95,Golden State Warriors
+362,7,06-12-2021 21:00,Moda Center,Portland Trail Blazers,LA Clippers,90,102,LA Clippers
+363,7,07-12-2021 18:30,American Airlines Center,Dallas Mavericks,Brooklyn Nets,99,102,Brooklyn Nets
+364,7,07-12-2021 19:30,AT&T Center,San Antonio Spurs,New York Knicks,109,121,New York Knicks
+365,7,07-12-2021 21:00,STAPLES Center,Los Angeles Lakers,Boston Celtics,117,102,Los Angeles Lakers
+366,7,08-12-2021 18:00,Spectrum Center,Charlotte Hornets,Philadelphia 76ers,106,110,Philadelphia 76ers
+367,7,08-12-2021 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Chicago Bulls,115,92,Cleveland Cavaliers
+368,7,08-12-2021 18:00,Little Caesars Arena,Detroit Pistons,Washington Wizards,116,119,Washington Wizards
+369,7,08-12-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,New York Knicks,122,102,Indiana Pacers
+370,7,08-12-2021 18:30,FTX Arena,Miami Heat,Milwaukee Bucks,113,104,Miami Heat
+371,7,08-12-2021 18:30,Scotiabank Arena,Toronto Raptors,Oklahoma City Thunder,109,110,Oklahoma City Thunder
+372,7,08-12-2021 19:00,Toyota Center,Houston Rockets,Brooklyn Nets,114,104,Houston Rockets
+373,7,08-12-2021 19:00,FedExForum,Memphis Grizzlies,Dallas Mavericks,96,104,Dallas Mavericks
+374,7,08-12-2021 19:00,Target Center,Minnesota Timberwolves,Utah Jazz,104,136,Utah Jazz
+375,7,08-12-2021 19:00,Smoothie King Center,New Orleans Pelicans,Denver Nuggets,114,120,Denver Nuggets
+376,7,08-12-2021 21:00,Chase Center,Golden State Warriors,Portland Trail Blazers,104,94,Golden State Warriors
+377,7,08-12-2021 21:00,Golden 1 Center,Sacramento Kings,Orlando Magic,142,130,Sacramento Kings
+378,7,08-12-2021 21:30,STAPLES Center,LA Clippers,Boston Celtics,114,111,LA Clippers
+379,8,09-12-2021 18:00,Wells Fargo Center,Philadelphia 76ers,Utah Jazz,96,118,Utah Jazz
+380,8,09-12-2021 19:00,FedExForum,Memphis Grizzlies,Los Angeles Lakers,108,95,Memphis Grizzlies
+381,8,09-12-2021 19:30,AT&T Center,San Antonio Spurs,Denver Nuggets,123,111,San Antonio Spurs
+382,8,10-12-2021 18:00,Spectrum Center,Charlotte Hornets,Sacramento Kings,124,123,Charlotte Hornets
+383,8,10-12-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,Dallas Mavericks,106,93,Indiana Pacers
+384,8,10-12-2021 18:30,State Farm Arena,Atlanta Hawks,Brooklyn Nets,105,113,Brooklyn Nets
+385,8,10-12-2021 18:30,Scotiabank Arena,Toronto Raptors,New York Knicks,90,87,Toronto Raptors
+386,8,10-12-2021 19:00,Toyota Center,Houston Rockets,Milwaukee Bucks,114,123,Milwaukee Bucks
+387,8,10-12-2021 19:00,Target Center,Minnesota Timberwolves,Cleveland Cavaliers,106,123,Cleveland Cavaliers
+388,8,10-12-2021 19:00,Smoothie King Center,New Orleans Pelicans,Detroit Pistons,109,93,New Orleans Pelicans
+389,8,10-12-2021 19:00,Paycom Center,Oklahoma City Thunder,Los Angeles Lakers,95,116,Los Angeles Lakers
+390,8,10-12-2021 21:00,Footprint Center,Phoenix Suns,Boston Celtics,111,90,Phoenix Suns
+391,8,11-12-2021 14:30,STAPLES Center,LA Clippers,Orlando Magic,106,104,LA Clippers
+392,8,11-12-2021 18:00,Capital One Arena,Washington Wizards,Utah Jazz,98,123,Utah Jazz
+393,8,11-12-2021 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Sacramento Kings,117,103,Cleveland Cavaliers
+394,8,11-12-2021 19:00,FTX Arena,Miami Heat,Chicago Bulls,118,92,Miami Heat
+395,8,11-12-2021 19:00,FedExForum,Memphis Grizzlies,Houston Rockets,113,106,Memphis Grizzlies
+396,8,11-12-2021 19:30,Wells Fargo Center,Philadelphia 76ers,Golden State Warriors,102,93,Philadelphia 76ers
+397,8,11-12-2021 19:30,AT&T Center,San Antonio Spurs,Denver Nuggets,112,127,Denver Nuggets
+398,8,12-12-2021 11:00,Madison Square Garden,New York Knicks,Milwaukee Bucks,97,112,Milwaukee Bucks
+399,8,12-12-2021 17:00,Little Caesars Arena,Detroit Pistons,Brooklyn Nets,104,116,Brooklyn Nets
+400,8,12-12-2021 18:00,Paycom Center,Oklahoma City Thunder,Dallas Mavericks,84,103,Dallas Mavericks
+401,8,12-12-2021 18:00,AT&T Center,San Antonio Spurs,New Orleans Pelicans,112,97,San Antonio Spurs
+402,8,12-12-2021 20:00,Moda Center,Portland Trail Blazers,Minnesota Timberwolves,111,116,Minnesota Timberwolves
+403,8,12-12-2021 20:30,STAPLES Center,Los Angeles Lakers,Orlando Magic,106,94,Los Angeles Lakers
+404,8,13-12-2021 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Miami Heat,105,94,Cleveland Cavaliers
+405,8,13-12-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,Golden State Warriors,100,102,Golden State Warriors
+406,8,13-12-2021 18:00,Scotiabank Arena,Toronto Raptors,Sacramento Kings,124,101,Toronto Raptors
+407,8,13-12-2021 18:30,State Farm Arena,Atlanta Hawks,Houston Rockets,126,132,Houston Rockets
+408,8,13-12-2021 18:30,TD Garden,Boston Celtics,Milwaukee Bucks,117,103,Boston Celtics
+409,8,13-12-2021 19:00,FedExForum,Memphis Grizzlies,Philadelphia 76ers,126,91,Memphis Grizzlies
+410,8,13-12-2021 19:30,American Airlines Center,Dallas Mavericks,Charlotte Hornets,120,96,Dallas Mavericks
+411,8,13-12-2021 20:00,Ball Arena,Denver Nuggets,Washington Wizards,113,107,Denver Nuggets
+412,8,13-12-2021 21:30,STAPLES Center,LA Clippers,Phoenix Suns,111,95,LA Clippers
+413,8,14-12-2021 18:30,Barclays Center,Brooklyn Nets,Toronto Raptors,131,129,Brooklyn Nets
+414,8,14-12-2021 18:30,Madison Square Garden,New York Knicks,Golden State Warriors,96,105,Golden State Warriors
+416,8,14-12-2021 21:00,Moda Center,Portland Trail Blazers,Phoenix Suns,107,111,Phoenix Suns
+417,8,15-12-2021 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Houston Rockets,124,89,Cleveland Cavaliers
+418,8,15-12-2021 18:00,Amway Center,Orlando Magic,Atlanta Hawks,99,111,Atlanta Hawks
+419,8,15-12-2021 18:00,Wells Fargo Center,Philadelphia 76ers,Miami Heat,96,101,Miami Heat
+420,8,15-12-2021 18:30,American Airlines Center,Dallas Mavericks,Los Angeles Lakers,104,107,Los Angeles Lakers
+421,8,15-12-2021 19:00,Fiserv Forum,Milwaukee Bucks,Indiana Pacers,114,99,Milwaukee Bucks
+422,8,15-12-2021 19:00,Paycom Center,Oklahoma City Thunder,New Orleans Pelicans,110,113,New Orleans Pelicans
+423,8,15-12-2021 19:30,AT&T Center,San Antonio Spurs,Charlotte Hornets,115,131,Charlotte Hornets
+424,8,15-12-2021 20:00,Ball Arena,Denver Nuggets,Minnesota Timberwolves,107,124,Minnesota Timberwolves
+425,8,15-12-2021 21:00,Vivint Arena,Utah Jazz,LA Clippers,124,103,Utah Jazz
+426,8,15-12-2021 21:00,Moda Center,Portland Trail Blazers,Memphis Grizzlies,103,113,Memphis Grizzlies
+427,8,15-12-2021 21:00,Golden 1 Center,Sacramento Kings,Washington Wizards,119,105,Sacramento Kings
+428,9,16-12-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,Detroit Pistons,122,113,Indiana Pacers
+429,9,16-12-2021 18:30,Barclays Center,Brooklyn Nets,Philadelphia 76ers,114,105,Brooklyn Nets
+431,9,16-12-2021 19:00,Toyota Center,Houston Rockets,New York Knicks,103,116,New York Knicks
+432,9,16-12-2021 20:00,Footprint Center,Phoenix Suns,Washington Wizards,118,98,Phoenix Suns
+433,9,17-12-2021 18:00,Amway Center,Orlando Magic,Miami Heat,105,115,Miami Heat
+434,9,17-12-2021 18:30,State Farm Arena,Atlanta Hawks,Denver Nuggets,115,133,Denver Nuggets
+435,9,17-12-2021 18:30,TD Garden,Boston Celtics,Golden State Warriors,107,111,Golden State Warriors
+438,9,17-12-2021 19:00,Smoothie King Center,New Orleans Pelicans,Milwaukee Bucks,116,112,New Orleans Pelicans
+437,9,17-12-2021 20:00,Vivint Arena,Utah Jazz,San Antonio Spurs,126,128,San Antonio Spurs
+436,9,17-12-2021 21:00,Target Center,Minnesota Timberwolves,Los Angeles Lakers,110,92,Minnesota Timberwolves
+439,9,17-12-2021 21:00,Moda Center,Portland Trail Blazers,Charlotte Hornets,125,116,Portland Trail Blazers
+440,9,17-12-2021 21:00,Golden 1 Center,Sacramento Kings,Memphis Grizzlies,105,124,Memphis Grizzlies
+441,9,18-12-2021 11:00,Little Caesars Arena,Detroit Pistons,Houston Rockets,107,116,Houston Rockets
+445,9,18-12-2021 18:00,TD Garden,Boston Celtics,New York Knicks,114,107,Boston Celtics
+442,9,18-12-2021 18:30,Barclays Center,Brooklyn Nets,Orlando Magic,93,100,Orlando Magic
+443,9,18-12-2021 18:30,Scotiabank Arena,Toronto Raptors,Golden State Warriors,119,100,Toronto Raptors
+444,9,18-12-2021 19:00,Paycom Center,Oklahoma City Thunder,LA Clippers,104,103,Oklahoma City Thunder
+446,9,18-12-2021 20:00,Fiserv Forum,Milwaukee Bucks,Cleveland Cavaliers,90,119,Cleveland Cavaliers
+447,9,18-12-2021 20:00,Vivint Arena,Utah Jazz,Washington Wizards,103,109,Washington Wizards
+449,9,19-12-2021 17:00,Little Caesars Arena,Detroit Pistons,Miami Heat,100,90,Detroit Pistons
+450,9,19-12-2021 17:00,FedExForum,Memphis Grizzlies,Portland Trail Blazers,100,105,Portland Trail Blazers
+451,9,19-12-2021 17:00,Golden 1 Center,Sacramento Kings,San Antonio Spurs,121,114,Sacramento Kings
+448,9,19-12-2021 19:00,United Center,Chicago Bulls,Los Angeles Lakers,115,110,Chicago Bulls
+455,9,19-12-2021 19:00,Target Center,Minnesota Timberwolves,Dallas Mavericks,111,105,Minnesota Timberwolves
+456,9,19-12-2021 19:00,Footprint Center,Phoenix Suns,Charlotte Hornets,137,106,Phoenix Suns
+457,9,20-12-2021 18:30,TD Garden,Boston Celtics,Philadelphia 76ers,103,108,Philadelphia 76ers
+459,9,20-12-2021 19:00,United Center,Chicago Bulls,Houston Rockets,133,118,Chicago Bulls
+460,9,20-12-2021 19:00,FedExForum,Memphis Grizzlies,Oklahoma City Thunder,99,102,Oklahoma City Thunder
+461,9,20-12-2021 20:00,Vivint Arena,Utah Jazz,Charlotte Hornets,112,102,Utah Jazz
+462,9,20-12-2021 21:00,Chase Center,Golden State Warriors,Sacramento Kings,113,98,Golden State Warriors
+463,9,20-12-2021 21:30,STAPLES Center,LA Clippers,San Antonio Spurs,92,116,San Antonio Spurs
+465,9,21-12-2021 18:30,FTX Arena,Miami Heat,Indiana Pacers,125,96,Miami Heat
+466,9,21-12-2021 18:30,Madison Square Garden,New York Knicks,Detroit Pistons,105,91,New York Knicks
+467,9,21-12-2021 19:00,Smoothie King Center,New Orleans Pelicans,Portland Trail Blazers,111,97,New Orleans Pelicans
+468,9,21-12-2021 19:30,American Airlines Center,Dallas Mavericks,Minnesota Timberwolves,114,102,Dallas Mavericks
+469,9,21-12-2021 21:00,STAPLES Center,Los Angeles Lakers,Phoenix Suns,90,108,Phoenix Suns
+470,9,22-12-2021 18:30,State Farm Arena,Atlanta Hawks,Orlando Magic,98,104,Orlando Magic
+471,9,22-12-2021 18:30,TD Garden,Boston Celtics,Cleveland Cavaliers,111,101,Boston Celtics
+473,9,22-12-2021 19:00,Fiserv Forum,Milwaukee Bucks,Houston Rockets,126,106,Milwaukee Bucks
+474,9,22-12-2021 19:00,Paycom Center,Oklahoma City Thunder,Denver Nuggets,108,94,Oklahoma City Thunder
+475,9,22-12-2021 21:00,Golden 1 Center,Sacramento Kings,LA Clippers,89,105,LA Clippers
+476,10,23-12-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,Houston Rockets,118,106,Indiana Pacers
+477,10,23-12-2021 18:00,Amway Center,Orlando Magic,New Orleans Pelicans,104,110,New Orleans Pelicans
+478,10,23-12-2021 18:00,Wells Fargo Center,Philadelphia 76ers,Atlanta Hawks,96,98,Atlanta Hawks
+479,10,23-12-2021 18:30,FTX Arena,Miami Heat,Detroit Pistons,115,112,Miami Heat
+480,10,23-12-2021 18:30,Madison Square Garden,New York Knicks,Washington Wizards,117,124,Washington Wizards
+481,10,23-12-2021 19:30,American Airlines Center,Dallas Mavericks,Milwaukee Bucks,95,102,Milwaukee Bucks
+482,10,23-12-2021 20:00,Ball Arena,Denver Nuggets,Charlotte Hornets,107,115,Charlotte Hornets
+483,10,23-12-2021 20:00,Footprint Center,Phoenix Suns,Oklahoma City Thunder,113,101,Phoenix Suns
+484,10,23-12-2021 20:00,Vivint Arena,Utah Jazz,Minnesota Timberwolves,128,116,Utah Jazz
+485,10,23-12-2021 21:00,Chase Center,Golden State Warriors,Memphis Grizzlies,113,104,Golden State Warriors
+487,10,23-12-2021 21:30,STAPLES Center,Los Angeles Lakers,San Antonio Spurs,110,138,San Antonio Spurs
+488,10,25-12-2021 11:00,Madison Square Garden,New York Knicks,Atlanta Hawks,101,87,New York Knicks
+489,10,25-12-2021 13:30,Fiserv Forum,Milwaukee Bucks,Boston Celtics,117,113,Milwaukee Bucks
+490,10,25-12-2021 16:00,Footprint Center,Phoenix Suns,Golden State Warriors,107,116,Golden State Warriors
+491,10,25-12-2021 19:00,Crypto.com Arena,Los Angeles Lakers,Brooklyn Nets,115,122,Brooklyn Nets
+492,10,25-12-2021 21:30,Vivint Arena,Utah Jazz,Dallas Mavericks,120,116,Utah Jazz
+493,10,26-12-2021 14:30,FTX Arena,Miami Heat,Orlando Magic,93,83,Miami Heat
+494,10,26-12-2021 17:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Toronto Raptors,144,99,Cleveland Cavaliers
+495,10,26-12-2021 17:00,Capital One Arena,Washington Wizards,Philadelphia 76ers,96,117,Philadelphia 76ers
+496,10,26-12-2021 17:00,Golden 1 Center,Sacramento Kings,Memphis Grizzlies,102,127,Memphis Grizzlies
+497,10,26-12-2021 18:00,Paycom Center,Oklahoma City Thunder,New Orleans Pelicans,117,112,Oklahoma City Thunder
+498,10,26-12-2021 18:00,AT&T Center,San Antonio Spurs,Detroit Pistons,144,109,San Antonio Spurs
+499,10,26-12-2021 19:00,United Center,Chicago Bulls,Indiana Pacers,113,105,Chicago Bulls
+500,10,26-12-2021 20:00,Crypto.com Arena,LA Clippers,Denver Nuggets,100,103,Denver Nuggets
+501,10,27-12-2021 18:00,Spectrum Center,Charlotte Hornets,Houston Rockets,123,99,Charlotte Hornets
+502,10,27-12-2021 18:30,State Farm Arena,Atlanta Hawks,Chicago Bulls,118,130,Chicago Bulls
+503,10,27-12-2021 19:00,Target Center,Minnesota Timberwolves,Boston Celtics,108,103,Minnesota Timberwolves
+504,10,27-12-2021 19:30,AT&T Center,San Antonio Spurs,Utah Jazz,104,110,Utah Jazz
+505,10,27-12-2021 20:00,Footprint Center,Phoenix Suns,Memphis Grizzlies,113,114,Memphis Grizzlies
+506,10,27-12-2021 21:00,Moda Center,Portland Trail Blazers,Dallas Mavericks,117,132,Dallas Mavericks
+507,10,27-12-2021 21:30,Crypto.com Arena,LA Clippers,Brooklyn Nets,108,124,Brooklyn Nets
+508,10,28-12-2021 18:00,Amway Center,Orlando Magic,Milwaukee Bucks,110,127,Milwaukee Bucks
+509,10,28-12-2021 18:30,FTX Arena,Miami Heat,Washington Wizards,119,112,Miami Heat
+510,10,28-12-2021 18:30,Scotiabank Arena,Toronto Raptors,Philadelphia 76ers,109,114,Philadelphia 76ers
+511,10,28-12-2021 19:00,Toyota Center,Houston Rockets,Los Angeles Lakers,123,132,Los Angeles Lakers
+512,10,28-12-2021 19:00,Target Center,Minnesota Timberwolves,New York Knicks,88,96,New York Knicks
+513,10,28-12-2021 19:00,Smoothie King Center,New Orleans Pelicans,Cleveland Cavaliers,108,104,New Orleans Pelicans
+514,10,28-12-2021 21:00,Chase Center,Golden State Warriors,Denver Nuggets,86,89,Denver Nuggets
+515,10,28-12-2021 21:00,Golden 1 Center,Sacramento Kings,Oklahoma City Thunder,117,111,Sacramento Kings
+516,10,29-12-2021 18:00,Little Caesars Arena,Detroit Pistons,New York Knicks,85,94,New York Knicks
+517,10,29-12-2021 18:00,Gainbridge Fieldhouse,Indiana Pacers,Charlotte Hornets,108,116,Charlotte Hornets
+518,10,29-12-2021 18:30,TD Garden,Boston Celtics,LA Clippers,82,91,LA Clippers
+519,10,29-12-2021 19:00,United Center,Chicago Bulls,Atlanta Hawks,131,117,Chicago Bulls
+520,10,29-12-2021 19:00,FedExForum,Memphis Grizzlies,Los Angeles Lakers,104,99,Memphis Grizzlies
+522,10,29-12-2021 20:00,Footprint Center,Phoenix Suns,Oklahoma City Thunder,115,97,Phoenix Suns
+523,10,29-12-2021 21:00,Moda Center,Portland Trail Blazers,Utah Jazz,105,120,Utah Jazz
+524,10,29-12-2021 21:30,Golden 1 Center,Sacramento Kings,Dallas Mavericks,95,94,Sacramento Kings
+525,11,30-12-2021 18:00,Barclays Center,Brooklyn Nets,Philadelphia 76ers,102,110,Philadelphia 76ers
+526,11,30-12-2021 18:00,Amway Center,Orlando Magic,Milwaukee Bucks,118,136,Milwaukee Bucks
+527,11,30-12-2021 18:00,Capital One Arena,Washington Wizards,Cleveland Cavaliers,110,93,Washington Wizards
+529,11,31-12-2021 12:00,TD Garden,Boston Celtics,Phoenix Suns,123,108,Boston Celtics
+530,11,31-12-2021 14:00,Gainbridge Fieldhouse,Indiana Pacers,Chicago Bulls,106,108,Chicago Bulls
+531,11,31-12-2021 17:00,Golden 1 Center,Sacramento Kings,Dallas Mavericks,96,112,Dallas Mavericks
+532,11,31-12-2021 18:00,Toyota Center,Houston Rockets,Miami Heat,110,120,Miami Heat
+533,11,31-12-2021 18:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Atlanta Hawks,118,121,Atlanta Hawks
+534,11,31-12-2021 18:30,Scotiabank Arena,Toronto Raptors,LA Clippers,116,108,Toronto Raptors
+535,11,31-12-2021 19:00,FedExForum,Memphis Grizzlies,San Antonio Spurs,118,105,Memphis Grizzlies
+536,11,31-12-2021 19:00,Paycom Center,Oklahoma City Thunder,New York Knicks,95,80,Oklahoma City Thunder
+537,11,31-12-2021 20:00,Vivint Arena,Utah Jazz,Minnesota Timberwolves,120,108,Utah Jazz
+538,11,31-12-2021 21:30,Crypto.com Arena,Los Angeles Lakers,Portland Trail Blazers,139,106,Los Angeles Lakers
+539,11,01-01-2022 17:30,Fiserv Forum,Milwaukee Bucks,New Orleans Pelicans,136,113,Milwaukee Bucks
+540,11,01-01-2022 18:00,Little Caesars Arena,Detroit Pistons,San Antonio Spurs,117,116,Detroit Pistons
+541,11,01-01-2022 18:00,Capital One Arena,Washington Wizards,Chicago Bulls,119,120,Chicago Bulls
+542,11,01-01-2022 18:30,Barclays Center,Brooklyn Nets,LA Clippers,116,120,LA Clippers
+543,11,01-01-2022 19:00,Toyota Center,Houston Rockets,Denver Nuggets,111,124,Denver Nuggets
+544,11,01-01-2022 20:00,Vivint Arena,Utah Jazz,Golden State Warriors,116,123,Golden State Warriors
+545,11,02-01-2022 14:30,Scotiabank Arena,Toronto Raptors,New York Knicks,120,105,Toronto Raptors
+546,11,02-01-2022 17:00,TD Garden,Boston Celtics,Orlando Magic,116,111,Boston Celtics
+547,11,02-01-2022 17:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Indiana Pacers,108,104,Cleveland Cavaliers
+548,11,02-01-2022 17:00,Golden 1 Center,Sacramento Kings,Miami Heat,115,113,Sacramento Kings
+549,11,02-01-2022 18:00,Spectrum Center,Charlotte Hornets,Phoenix Suns,99,133,Phoenix Suns
+550,11,02-01-2022 18:00,Paycom Center,Oklahoma City Thunder,Dallas Mavericks,86,95,Dallas Mavericks
+551,11,02-01-2022 20:30,Crypto.com Arena,Los Angeles Lakers,Minnesota Timberwolves,108,103,Los Angeles Lakers
+552,11,03-01-2022 18:00,Wells Fargo Center,Philadelphia 76ers,Houston Rockets,133,113,Philadelphia 76ers
+553,11,03-01-2022 18:00,Capital One Arena,Washington Wizards,Charlotte Hornets,124,121,Washington Wizards
+554,11,03-01-2022 18:30,Barclays Center,Brooklyn Nets,Memphis Grizzlies,104,118,Memphis Grizzlies
+555,11,03-01-2022 19:00,United Center,Chicago Bulls,Orlando Magic,102,98,Chicago Bulls
+556,11,03-01-2022 19:00,Fiserv Forum,Milwaukee Bucks,Detroit Pistons,106,115,Detroit Pistons
+557,11,03-01-2022 19:00,Smoothie King Center,New Orleans Pelicans,Utah Jazz,104,115,Utah Jazz
+558,11,03-01-2022 19:30,American Airlines Center,Dallas Mavericks,Denver Nuggets,103,89,Dallas Mavericks
+559,11,03-01-2022 21:00,Chase Center,Golden State Warriors,Miami Heat,115,108,Golden State Warriors
+560,11,03-01-2022 21:00,Moda Center,Portland Trail Blazers,Atlanta Hawks,136,131,Portland Trail Blazers
+561,11,03-01-2022 21:30,Crypto.com Arena,LA Clippers,Minnesota Timberwolves,104,122,Minnesota Timberwolves
+562,11,04-01-2022 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Memphis Grizzlies,106,110,Memphis Grizzlies
+563,11,04-01-2022 18:00,Scotiabank Arena,Toronto Raptors,San Antonio Spurs,129,104,Toronto Raptors
+564,11,04-01-2022 18:30,Madison Square Garden,New York Knicks,Indiana Pacers,104,94,New York Knicks
+565,11,04-01-2022 19:00,Smoothie King Center,New Orleans Pelicans,Phoenix Suns,110,123,Phoenix Suns
+566,11,04-01-2022 21:30,Crypto.com Arena,Los Angeles Lakers,Sacramento Kings,122,114,Los Angeles Lakers
+567,11,05-01-2022 18:00,Spectrum Center,Charlotte Hornets,Detroit Pistons,140,111,Charlotte Hornets
+568,11,05-01-2022 18:00,Amway Center,Orlando Magic,Philadelphia 76ers,106,116,Philadelphia 76ers
+569,11,05-01-2022 18:00,Capital One Arena,Washington Wizards,Houston Rockets,111,114,Houston Rockets
+570,11,05-01-2022 18:30,TD Garden,Boston Celtics,San Antonio Spurs,97,99,San Antonio Spurs
+571,11,05-01-2022 18:30,Gainbridge Fieldhouse,Indiana Pacers,Brooklyn Nets,121,129,Brooklyn Nets
+572,11,05-01-2022 18:30,American Airlines Center,Dallas Mavericks,Golden State Warriors,99,82,Dallas Mavericks
+573,11,05-01-2022 19:00,Fiserv Forum,Milwaukee Bucks,Toronto Raptors,111,117,Toronto Raptors
+574,11,05-01-2022 19:00,Target Center,Minnesota Timberwolves,Oklahoma City Thunder,98,90,Minnesota Timberwolves
+575,11,05-01-2022 21:00,Ball Arena,Denver Nuggets,Utah Jazz,109,115,Utah Jazz
+576,11,05-01-2022 21:00,Moda Center,Portland Trail Blazers,Miami Heat,109,115,Miami Heat
+577,11,05-01-2022 21:00,Golden 1 Center,Sacramento Kings,Atlanta Hawks,102,108,Atlanta Hawks
+578,12,06-01-2022 18:30,Madison Square Garden,New York Knicks,Boston Celtics,108,105,New York Knicks
+579,12,06-01-2022 19:00,FedExForum,Memphis Grizzlies,Detroit Pistons,118,88,Memphis Grizzlies
+580,12,06-01-2022 19:00,Smoothie King Center,New Orleans Pelicans,Golden State Warriors,101,96,New Orleans Pelicans
+581,12,06-01-2022 21:00,Footprint Center,Phoenix Suns,LA Clippers,106,89,Phoenix Suns
+582,12,07-01-2022 18:00,Wells Fargo Center,Philadelphia 76ers,San Antonio Spurs,119,100,Philadelphia 76ers
+583,12,07-01-2022 18:30,Barclays Center,Brooklyn Nets,Milwaukee Bucks,109,121,Milwaukee Bucks
+584,12,07-01-2022 18:30,Scotiabank Arena,Toronto Raptors,Utah Jazz,122,108,Toronto Raptors
+585,12,07-01-2022 19:00,United Center,Chicago Bulls,Washington Wizards,130,122,Chicago Bulls
+586,12,07-01-2022 19:00,Toyota Center,Houston Rockets,Dallas Mavericks,106,130,Dallas Mavericks
+587,12,07-01-2022 19:00,Paycom Center,Oklahoma City Thunder,Minnesota Timberwolves,105,135,Minnesota Timberwolves
+588,12,07-01-2022 20:00,Ball Arena,Denver Nuggets,Sacramento Kings,121,111,Denver Nuggets
+589,12,07-01-2022 21:00,Crypto.com Arena,Los Angeles Lakers,Atlanta Hawks,134,118,Los Angeles Lakers
+590,12,07-01-2022 21:00,Moda Center,Portland Trail Blazers,Cleveland Cavaliers,101,114,Cleveland Cavaliers
+591,12,08-01-2022 14:30,Crypto.com Arena,LA Clippers,Memphis Grizzlies,108,123,Memphis Grizzlies
+592,12,08-01-2022 18:00,Spectrum Center,Charlotte Hornets,Milwaukee Bucks,114,106,Charlotte Hornets
+593,12,08-01-2022 18:00,Little Caesars Arena,Detroit Pistons,Orlando Magic,97,92,Detroit Pistons
+594,12,08-01-2022 18:00,Gainbridge Fieldhouse,Indiana Pacers,Utah Jazz,125,113,Indiana Pacers
+595,12,08-01-2022 18:30,TD Garden,Boston Celtics,New York Knicks,99,75,Boston Celtics
+596,12,08-01-2022 20:00,Footprint Center,Phoenix Suns,Miami Heat,100,123,Miami Heat
+602,12,09-01-2022 11:00,Barclays Center,Brooklyn Nets,San Antonio Spurs,121,119,Brooklyn Nets
+597,12,09-01-2022 14:30,Crypto.com Arena,LA Clippers,Atlanta Hawks,106,93,LA Clippers
+598,12,09-01-2022 17:00,Amway Center,Orlando Magic,Washington Wizards,100,102,Washington Wizards
+599,12,09-01-2022 17:00,Scotiabank Arena,Toronto Raptors,New Orleans Pelicans,105,101,Toronto Raptors
+600,12,09-01-2022 18:00,Toyota Center,Houston Rockets,Minnesota Timberwolves,123,141,Minnesota Timberwolves
+601,12,09-01-2022 18:00,Paycom Center,Oklahoma City Thunder,Denver Nuggets,95,99,Denver Nuggets
+603,12,09-01-2022 18:30,American Airlines Center,Dallas Mavericks,Chicago Bulls,113,99,Dallas Mavericks
+604,12,09-01-2022 19:30,Chase Center,Golden State Warriors,Cleveland Cavaliers,96,82,Golden State Warriors
+605,12,09-01-2022 20:00,Moda Center,Portland Trail Blazers,Sacramento Kings,103,88,Portland Trail Blazers
+606,12,09-01-2022 20:30,Crypto.com Arena,Los Angeles Lakers,Memphis Grizzlies,119,127,Memphis Grizzlies
+607,12,10-01-2022 18:00,Spectrum Center,Charlotte Hornets,Milwaukee Bucks,103,99,Charlotte Hornets
+608,12,10-01-2022 18:00,Little Caesars Arena,Detroit Pistons,Utah Jazz,126,116,Detroit Pistons
+609,12,10-01-2022 18:30,TD Garden,Boston Celtics,Indiana Pacers,101,98,Boston Celtics
+610,12,10-01-2022 18:30,Madison Square Garden,New York Knicks,San Antonio Spurs,111,96,New York Knicks
+711,12,10-01-2022 19:00,Toyota Center,Houston Rockets,Philadelphia 76ers,91,111,Philadelphia 76ers
+486,12,10-01-2022 21:00,Moda Center,Portland Trail Blazers,Brooklyn Nets,114,108,Portland Trail Blazers
+611,12,10-01-2022 21:00,Golden 1 Center,Sacramento Kings,Cleveland Cavaliers,108,109,Cleveland Cavaliers
+612,12,11-01-2022 18:00,Capital One Arena,Washington Wizards,Oklahoma City Thunder,122,118,Washington Wizards
+613,12,11-01-2022 18:30,Scotiabank Arena,Toronto Raptors,Phoenix Suns,95,99,Phoenix Suns
+415,12,11-01-2022 19:00,United Center,Chicago Bulls,Detroit Pistons,133,87,Chicago Bulls
+614,12,11-01-2022 19:00,FedExForum,Memphis Grizzlies,Golden State Warriors,116,108,Memphis Grizzlies
+615,12,11-01-2022 19:00,Smoothie King Center,New Orleans Pelicans,Minnesota Timberwolves,128,125,New Orleans Pelicans
+616,12,11-01-2022 21:30,Crypto.com Arena,LA Clippers,Denver Nuggets,87,85,LA Clippers
+618,12,12-01-2022 18:00,Gainbridge Fieldhouse,Indiana Pacers,Boston Celtics,100,119,Boston Celtics
+619,12,12-01-2022 18:00,Wells Fargo Center,Philadelphia 76ers,Charlotte Hornets,98,109,Charlotte Hornets
+620,12,12-01-2022 18:00,Capital One Arena,Washington Wizards,Orlando Magic,112,106,Washington Wizards
+621,12,12-01-2022 18:30,State Farm Arena,Atlanta Hawks,Miami Heat,91,115,Miami Heat
+622,12,12-01-2022 18:30,Madison Square Garden,New York Knicks,Dallas Mavericks,108,85,New York Knicks
+623,12,12-01-2022 19:30,AT&T Center,San Antonio Spurs,Houston Rockets,124,128,Houston Rockets
+624,12,12-01-2022 20:00,Vivint Arena,Utah Jazz,Cleveland Cavaliers,91,111,Cleveland Cavaliers
+625,12,12-01-2022 21:00,United Center,Chicago Bulls,Brooklyn Nets,112,138,Brooklyn Nets
+626,12,12-01-2022 21:00,Golden 1 Center,Sacramento Kings,Los Angeles Lakers,125,116,Sacramento Kings
+627,13,13-01-2022 18:30,Fiserv Forum,Milwaukee Bucks,Golden State Warriors,118,99,Milwaukee Bucks
+628,13,13-01-2022 19:00,FedExForum,Memphis Grizzlies,Minnesota Timberwolves,116,108,Memphis Grizzlies
+629,13,13-01-2022 19:00,Smoothie King Center,New Orleans Pelicans,LA Clippers,113,89,New Orleans Pelicans
+630,13,13-01-2022 19:30,Barclays Center,Brooklyn Nets,Oklahoma City Thunder,109,130,Oklahoma City Thunder
+631,13,13-01-2022 21:00,Ball Arena,Denver Nuggets,Portland Trail Blazers,140,108,Denver Nuggets
+632,13,14-01-2022 18:00,Spectrum Center,Charlotte Hornets,Orlando Magic,109,116,Orlando Magic
+633,13,14-01-2022 18:00,Little Caesars Arena,Detroit Pistons,Toronto Raptors,103,87,Detroit Pistons
+634,13,14-01-2022 18:00,Gainbridge Fieldhouse,Indiana Pacers,Phoenix Suns,94,112,Phoenix Suns
+635,13,14-01-2022 18:00,Wells Fargo Center,Philadelphia 76ers,Boston Celtics,111,99,Philadelphia 76ers
+637,13,14-01-2022 18:30,United Center,Chicago Bulls,Golden State Warriors,96,138,Golden State Warriors
+636,13,14-01-2022 19:00,FTX Arena,Miami Heat,Atlanta Hawks,124,118,Miami Heat
+638,13,14-01-2022 19:30,AT&T Center,San Antonio Spurs,Cleveland Cavaliers,109,114,Cleveland Cavaliers
+639,13,14-01-2022 21:00,FedExForum,Memphis Grizzlies,Dallas Mavericks,85,112,Dallas Mavericks
+640,13,14-01-2022 21:00,Golden 1 Center,Sacramento Kings,Houston Rockets,126,114,Sacramento Kings
+641,13,15-01-2022 17:30,Fiserv Forum,Milwaukee Bucks,Toronto Raptors,96,103,Toronto Raptors
+642,13,15-01-2022 18:00,Capital One Arena,Washington Wizards,Portland Trail Blazers,110,115,Portland Trail Blazers
+643,13,15-01-2022 18:30,State Farm Arena,Atlanta Hawks,New York Knicks,108,117,New York Knicks
+644,13,15-01-2022 18:30,Barclays Center,Brooklyn Nets,New Orleans Pelicans,120,105,Brooklyn Nets
+645,13,15-01-2022 19:00,FTX Arena,Miami Heat,Philadelphia 76ers,98,109,Philadelphia 76ers
+646,13,15-01-2022 19:00,Paycom Center,Oklahoma City Thunder,Cleveland Cavaliers,102,107,Cleveland Cavaliers
+647,13,15-01-2022 19:30,TD Garden,Boston Celtics,Chicago Bulls,114,112,Boston Celtics
+648,13,15-01-2022 19:30,AT&T Center,San Antonio Spurs,LA Clippers,101,94,San Antonio Spurs
+649,13,15-01-2022 20:00,Ball Arena,Denver Nuggets,Los Angeles Lakers,133,96,Denver Nuggets
+650,13,15-01-2022 20:30,American Airlines Center,Dallas Mavericks,Orlando Magic,108,92,Dallas Mavericks
+617,13,16-01-2022 12:00,Little Caesars Arena,Detroit Pistons,Phoenix Suns,108,135,Phoenix Suns
+651,13,16-01-2022 17:00,Golden 1 Center,Sacramento Kings,Houston Rockets,112,118,Houston Rockets
+652,13,16-01-2022 19:00,Target Center,Minnesota Timberwolves,Golden State Warriors,119,99,Minnesota Timberwolves
+653,13,16-01-2022 19:00,Ball Arena,Denver Nuggets,Utah Jazz,102,125,Utah Jazz
+654,13,17-01-2022 11:30,TD Garden,Boston Celtics,New Orleans Pelicans,104,92,Boston Celtics
+655,13,17-01-2022 12:00,Madison Square Garden,New York Knicks,Charlotte Hornets,87,97,Charlotte Hornets
+656,13,17-01-2022 13:00,Capital One Arena,Washington Wizards,Philadelphia 76ers,117,98,Washington Wizards
+657,13,17-01-2022 14:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Brooklyn Nets,114,107,Cleveland Cavaliers
+658,13,17-01-2022 14:30,FedExForum,Memphis Grizzlies,Chicago Bulls,119,106,Memphis Grizzlies
+659,13,17-01-2022 14:30,Crypto.com Arena,LA Clippers,Indiana Pacers,139,133,LA Clippers
+660,13,17-01-2022 17:00,State Farm Arena,Atlanta Hawks,Milwaukee Bucks,121,114,Atlanta Hawks
+661,13,17-01-2022 18:00,Amway Center,Orlando Magic,Portland Trail Blazers,88,98,Portland Trail Blazers
+662,13,17-01-2022 18:30,FTX Arena,Miami Heat,Toronto Raptors,104,99,Miami Heat
+663,13,17-01-2022 19:30,American Airlines Center,Dallas Mavericks,Oklahoma City Thunder,104,102,Dallas Mavericks
+664,13,17-01-2022 19:30,AT&T Center,San Antonio Spurs,Phoenix Suns,107,121,Phoenix Suns
+665,13,17-01-2022 21:30,Crypto.com Arena,Los Angeles Lakers,Utah Jazz,101,95,Los Angeles Lakers
+666,13,18-01-2022 18:30,Madison Square Garden,New York Knicks,Minnesota Timberwolves,110,112,Minnesota Timberwolves
+667,13,18-01-2022 21:00,Chase Center,Golden State Warriors,Detroit Pistons,102,86,Golden State Warriors
+668,13,19-01-2022 18:00,Wells Fargo Center,Philadelphia 76ers,Orlando Magic,123,110,Philadelphia 76ers
+669,13,19-01-2022 18:00,Capital One Arena,Washington Wizards,Brooklyn Nets,118,119,Brooklyn Nets
+670,13,19-01-2022 18:30,State Farm Arena,Atlanta Hawks,Minnesota Timberwolves,134,122,Atlanta Hawks
+671,13,19-01-2022 18:30,TD Garden,Boston Celtics,Charlotte Hornets,102,111,Charlotte Hornets
+672,13,19-01-2022 18:30,FTX Arena,Miami Heat,Portland Trail Blazers,104,92,Miami Heat
+673,13,19-01-2022 19:00,United Center,Chicago Bulls,Cleveland Cavaliers,117,104,Chicago Bulls
+674,13,19-01-2022 19:00,Fiserv Forum,Milwaukee Bucks,Memphis Grizzlies,126,114,Milwaukee Bucks
+675,13,19-01-2022 19:30,American Airlines Center,Dallas Mavericks,Toronto Raptors,102,98,Dallas Mavericks
+676,13,19-01-2022 19:30,AT&T Center,San Antonio Spurs,Oklahoma City Thunder,118,96,San Antonio Spurs
+677,13,19-01-2022 20:00,Vivint Arena,Utah Jazz,Houston Rockets,111,116,Houston Rockets
+678,13,19-01-2022 21:00,Ball Arena,Denver Nuggets,LA Clippers,130,128,Denver Nuggets
+679,13,19-01-2022 21:00,Golden 1 Center,Sacramento Kings,Detroit Pistons,131,133,Detroit Pistons
+680,13,19-01-2022 21:30,Crypto.com Arena,Los Angeles Lakers,Indiana Pacers,104,111,Indiana Pacers
+681,14,20-01-2022 18:30,Madison Square Garden,New York Knicks,New Orleans Pelicans,91,102,New Orleans Pelicans
+682,14,20-01-2022 18:30,American Airlines Center,Dallas Mavericks,Phoenix Suns,101,109,Phoenix Suns
+683,14,20-01-2022 21:00,Chase Center,Golden State Warriors,Indiana Pacers,117,121,Indiana Pacers
+684,14,21-01-2022 18:00,Spectrum Center,Charlotte Hornets,Oklahoma City Thunder,121,98,Charlotte Hornets
+685,14,21-01-2022 18:00,Amway Center,Orlando Magic,Los Angeles Lakers,105,116,Los Angeles Lakers
+686,14,21-01-2022 18:00,Wells Fargo Center,Philadelphia 76ers,LA Clippers,101,102,LA Clippers
+687,14,21-01-2022 18:30,State Farm Arena,Atlanta Hawks,Miami Heat,110,108,Atlanta Hawks
+688,14,21-01-2022 18:30,TD Garden,Boston Celtics,Portland Trail Blazers,105,109,Portland Trail Blazers
+689,14,21-01-2022 19:00,Capital One Arena,Washington Wizards,Toronto Raptors,105,109,Toronto Raptors
+690,14,21-01-2022 19:00,Fiserv Forum,Milwaukee Bucks,Chicago Bulls,94,90,Milwaukee Bucks
+691,14,21-01-2022 19:30,AT&T Center,San Antonio Spurs,Brooklyn Nets,102,117,Brooklyn Nets
+692,14,21-01-2022 20:00,Ball Arena,Denver Nuggets,Memphis Grizzlies,118,122,Memphis Grizzlies
+693,14,21-01-2022 20:00,Vivint Arena,Utah Jazz,Detroit Pistons,111,101,Utah Jazz
+694,14,21-01-2022 21:00,Chase Center,Golden State Warriors,Houston Rockets,105,103,Golden State Warriors
+696,14,22-01-2022 18:00,Fiserv Forum,Milwaukee Bucks,Sacramento Kings,133,127,Milwaukee Bucks
+695,14,22-01-2022 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Oklahoma City Thunder,94,87,Cleveland Cavaliers
+697,14,22-01-2022 20:00,Footprint Center,Phoenix Suns,Indiana Pacers,113,103,Phoenix Suns
+698,14,23-01-2022 12:00,Madison Square Garden,New York Knicks,LA Clippers,110,102,New York Knicks
+699,14,23-01-2022 14:30,Capital One Arena,Washington Wizards,Boston Celtics,87,116,Boston Celtics
+700,14,23-01-2022 17:00,FTX Arena,Miami Heat,Los Angeles Lakers,113,107,Miami Heat
+701,14,23-01-2022 17:00,Amway Center,Orlando Magic,Chicago Bulls,114,95,Orlando Magic
+702,14,23-01-2022 17:00,Scotiabank Arena,Toronto Raptors,Portland Trail Blazers,105,114,Portland Trail Blazers
+703,14,23-01-2022 18:00,Spectrum Center,Charlotte Hornets,Atlanta Hawks,91,113,Atlanta Hawks
+704,14,23-01-2022 18:00,AT&T Center,San Antonio Spurs,Philadelphia 76ers,109,115,Philadelphia 76ers
+705,14,23-01-2022 18:30,American Airlines Center,Dallas Mavericks,Memphis Grizzlies,104,91,Dallas Mavericks
+706,14,23-01-2022 19:00,Target Center,Minnesota Timberwolves,Brooklyn Nets,136,125,Minnesota Timberwolves
+707,14,23-01-2022 19:00,Ball Arena,Denver Nuggets,Detroit Pistons,117,111,Denver Nuggets
+708,14,23-01-2022 19:30,Chase Center,Golden State Warriors,Utah Jazz,94,92,Golden State Warriors
+709,14,24-01-2022 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,New York Knicks,95,93,Cleveland Cavaliers
+712,14,24-01-2022 19:00,Smoothie King Center,New Orleans Pelicans,Indiana Pacers,117,113,New Orleans Pelicans
+730,14,24-01-2022 19:00,Paycom Center,Oklahoma City Thunder,Chicago Bulls,110,111,Chicago Bulls
+713,14,24-01-2022 20:00,Footprint Center,Phoenix Suns,Utah Jazz,115,109,Phoenix Suns
+454,14,25-01-2022 18:00,Wells Fargo Center,Philadelphia 76ers,New Orleans Pelicans,117,107,Philadelphia 76ers
+714,14,25-01-2022 18:00,Little Caesars Arena,Detroit Pistons,Denver Nuggets,105,110,Denver Nuggets
+715,14,25-01-2022 18:00,Scotiabank Arena,Toronto Raptors,Charlotte Hornets,125,113,Toronto Raptors
+716,14,25-01-2022 18:00,Capital One Arena,Washington Wizards,LA Clippers,115,116,LA Clippers
+717,14,25-01-2022 18:30,TD Garden,Boston Celtics,Sacramento Kings,128,75,Boston Celtics
+718,14,25-01-2022 18:30,Barclays Center,Brooklyn Nets,Los Angeles Lakers,96,106,Los Angeles Lakers
+719,14,25-01-2022 19:00,Toyota Center,Houston Rockets,San Antonio Spurs,104,134,San Antonio Spurs
+720,14,25-01-2022 21:00,Chase Center,Golden State Warriors,Dallas Mavericks,130,92,Golden State Warriors
+721,14,25-01-2022 21:00,Moda Center,Portland Trail Blazers,Minnesota Timberwolves,107,109,Minnesota Timberwolves
+722,14,26-01-2022 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Milwaukee Bucks,115,99,Cleveland Cavaliers
+723,14,26-01-2022 18:00,Gainbridge Fieldhouse,Indiana Pacers,Charlotte Hornets,126,158,Charlotte Hornets
+724,14,26-01-2022 18:00,Amway Center,Orlando Magic,LA Clippers,102,111,LA Clippers
+725,14,26-01-2022 18:30,State Farm Arena,Atlanta Hawks,Sacramento Kings,121,104,Atlanta Hawks
+727,14,26-01-2022 18:30,FTX Arena,Miami Heat,New York Knicks,110,96,Miami Heat
+453,14,26-01-2022 19:00,Barclays Center,Brooklyn Nets,Denver Nuggets,118,124,Denver Nuggets
+472,14,26-01-2022 19:00,United Center,Chicago Bulls,Toronto Raptors,111,105,Chicago Bulls
+728,14,26-01-2022 19:30,AT&T Center,San Antonio Spurs,Memphis Grizzlies,110,118,Memphis Grizzlies
+731,14,26-01-2022 21:00,Vivint Arena,Utah Jazz,Phoenix Suns,97,105,Phoenix Suns
+732,14,26-01-2022 21:00,Moda Center,Portland Trail Blazers,Dallas Mavericks,112,132,Dallas Mavericks
+733,15,27-01-2022 18:30,Wells Fargo Center,Philadelphia 76ers,Los Angeles Lakers,105,87,Philadelphia 76ers
+734,15,27-01-2022 21:00,Chase Center,Golden State Warriors,Minnesota Timberwolves,124,115,Golden State Warriors
+736,15,28-01-2022 18:00,Amway Center,Orlando Magic,Detroit Pistons,119,103,Orlando Magic
+735,15,28-01-2022 18:30,Spectrum Center,Charlotte Hornets,Los Angeles Lakers,117,114,Charlotte Hornets
+737,15,28-01-2022 18:30,State Farm Arena,Atlanta Hawks,Boston Celtics,108,92,Atlanta Hawks
+729,15,28-01-2022 19:00,Smoothie King Center,New Orleans Pelicans,Denver Nuggets,105,116,Denver Nuggets
+738,15,28-01-2022 19:00,FTX Arena,Miami Heat,LA Clippers,121,114,Miami Heat
+739,15,28-01-2022 19:00,Toyota Center,Houston Rockets,Portland Trail Blazers,110,125,Portland Trail Blazers
+740,15,28-01-2022 19:00,FedExForum,Memphis Grizzlies,Utah Jazz,119,109,Memphis Grizzlies
+741,15,28-01-2022 19:00,Paycom Center,Oklahoma City Thunder,Indiana Pacers,110,113,Indiana Pacers
+742,15,28-01-2022 19:30,AT&T Center,San Antonio Spurs,Chicago Bulls,131,122,San Antonio Spurs
+743,15,28-01-2022 20:00,Footprint Center,Phoenix Suns,Minnesota Timberwolves,134,124,Phoenix Suns
+744,15,28-01-2022 21:00,Fiserv Forum,Milwaukee Bucks,New York Knicks,123,108,Milwaukee Bucks
+745,15,29-01-2022 18:00,Smoothie King Center,New Orleans Pelicans,Boston Celtics,97,107,Boston Celtics
+746,15,29-01-2022 18:00,American Airlines Center,Dallas Mavericks,Indiana Pacers,132,105,Dallas Mavericks
+747,15,29-01-2022 18:30,Wells Fargo Center,Philadelphia 76ers,Sacramento Kings,103,101,Philadelphia 76ers
+748,15,29-01-2022 19:00,FTX Arena,Miami Heat,Toronto Raptors,120,124,Toronto Raptors
+749,15,29-01-2022 19:00,FedExForum,Memphis Grizzlies,Washington Wizards,115,95,Memphis Grizzlies
+750,15,29-01-2022 19:30,Chase Center,Golden State Warriors,Brooklyn Nets,110,106,Golden State Warriors
+751,15,30-01-2022 12:00,State Farm Arena,Atlanta Hawks,Los Angeles Lakers,129,121,Atlanta Hawks
+752,15,30-01-2022 12:00,Spectrum Center,Charlotte Hornets,LA Clippers,90,115,LA Clippers
+753,15,30-01-2022 14:30,United Center,Chicago Bulls,Portland Trail Blazers,130,116,Chicago Bulls
+754,15,30-01-2022 17:00,Little Caesars Arena,Detroit Pistons,Cleveland Cavaliers,115,105,Detroit Pistons
+755,15,30-01-2022 18:00,Amway Center,Orlando Magic,Dallas Mavericks,110,108,Orlando Magic
+756,15,30-01-2022 18:00,Fiserv Forum,Milwaukee Bucks,Denver Nuggets,100,136,Denver Nuggets
+757,15,30-01-2022 19:00,Target Center,Minnesota Timberwolves,Utah Jazz,126,106,Minnesota Timberwolves
+758,15,30-01-2022 19:00,Footprint Center,Phoenix Suns,San Antonio Spurs,115,110,Phoenix Suns
+759,15,31-01-2022 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,New Orleans Pelicans,93,90,Cleveland Cavaliers
+760,15,31-01-2022 18:00,Gainbridge Fieldhouse,Indiana Pacers,LA Clippers,122,116,Indiana Pacers
+761,15,31-01-2022 18:00,Wells Fargo Center,Philadelphia 76ers,Memphis Grizzlies,122,119,Philadelphia 76ers
+762,15,31-01-2022 18:30,TD Garden,Boston Celtics,Miami Heat,122,92,Boston Celtics
+763,15,31-01-2022 18:30,Madison Square Garden,New York Knicks,Sacramento Kings,116,96,New York Knicks
+767,15,31-01-2022 18:30,State Farm Arena,Atlanta Hawks,Toronto Raptors,100,106,Toronto Raptors
+764,15,31-01-2022 19:00,Toyota Center,Houston Rockets,Golden State Warriors,108,122,Golden State Warriors
+765,15,31-01-2022 19:00,Paycom Center,Oklahoma City Thunder,Portland Trail Blazers,98,81,Oklahoma City Thunder
+766,15,01-02-2022 18:00,Little Caesars Arena,Detroit Pistons,New Orleans Pelicans,101,111,New Orleans Pelicans
+430,15,01-02-2022 18:30,Scotiabank Arena,Toronto Raptors,Chicago Bulls,110,106,Toronto Raptors
+768,15,01-02-2022 18:30,Fiserv Forum,Milwaukee Bucks,Washington Wizards,112,98,Milwaukee Bucks
+769,15,01-02-2022 19:00,United Center,Chicago Bulls,Orlando Magic,126,115,Chicago Bulls
+770,15,01-02-2022 19:00,Target Center,Minnesota Timberwolves,Denver Nuggets,130,115,Minnesota Timberwolves
+771,15,01-02-2022 19:30,AT&T Center,San Antonio Spurs,Golden State Warriors,120,124,Golden State Warriors
+772,15,01-02-2022 21:00,Footprint Center,Phoenix Suns,Brooklyn Nets,121,111,Phoenix Suns
+773,15,02-02-2022 18:00,Gainbridge Fieldhouse,Indiana Pacers,Orlando Magic,118,119,Orlando Magic
+774,15,02-02-2022 18:00,Wells Fargo Center,Philadelphia 76ers,Washington Wizards,103,106,Washington Wizards
+775,15,02-02-2022 18:30,TD Garden,Boston Celtics,Charlotte Hornets,113,107,Boston Celtics
+776,15,02-02-2022 18:30,Madison Square Garden,New York Knicks,Memphis Grizzlies,108,120,Memphis Grizzlies
+777,15,02-02-2022 19:00,Toyota Center,Houston Rockets,Cleveland Cavaliers,115,104,Houston Rockets
+778,15,02-02-2022 19:30,American Airlines Center,Dallas Mavericks,Oklahoma City Thunder,114,120,Oklahoma City Thunder
+779,15,02-02-2022 21:00,Vivint Arena,Utah Jazz,Denver Nuggets,108,104,Utah Jazz
+780,15,02-02-2022 21:00,Golden 1 Center,Sacramento Kings,Brooklyn Nets,112,101,Sacramento Kings
+781,15,02-02-2022 21:30,Crypto.com Arena,Los Angeles Lakers,Portland Trail Blazers,99,94,Los Angeles Lakers
+521,16,03-02-2022 18:00,AT&T Center,San Antonio Spurs,Miami Heat,95,112,Miami Heat
+782,16,03-02-2022 18:00,Little Caesars Arena,Detroit Pistons,Minnesota Timberwolves,117,128,Minnesota Timberwolves
+783,16,03-02-2022 18:30,State Farm Arena,Atlanta Hawks,Phoenix Suns,124,115,Atlanta Hawks
+784,16,03-02-2022 18:30,Scotiabank Arena,Toronto Raptors,Miami Heat,127,120,Toronto Raptors
+785,16,03-02-2022 21:00,Chase Center,Golden State Warriors,Sacramento Kings,126,114,Golden State Warriors
+786,16,03-02-2022 21:00,Crypto.com Arena,LA Clippers,Los Angeles Lakers,111,110,LA Clippers
+787,16,04-02-2022 18:00,Spectrum Center,Charlotte Hornets,Cleveland Cavaliers,101,102,Cleveland Cavaliers
+788,16,04-02-2022 18:00,Little Caesars Arena,Detroit Pistons,Boston Celtics,93,102,Boston Celtics
+789,16,04-02-2022 18:00,Gainbridge Fieldhouse,Indiana Pacers,Chicago Bulls,115,122,Chicago Bulls
+790,16,04-02-2022 18:30,Scotiabank Arena,Toronto Raptors,Atlanta Hawks,125,114,Toronto Raptors
+792,16,04-02-2022 19:30,AT&T Center,San Antonio Spurs,Houston Rockets,131,106,San Antonio Spurs
+793,16,04-02-2022 20:00,Vivint Arena,Utah Jazz,Brooklyn Nets,125,102,Utah Jazz
+794,16,04-02-2022 20:00,Ball Arena,Denver Nuggets,New Orleans Pelicans,105,113,New Orleans Pelicans
+791,16,04-02-2022 21:00,American Airlines Center,Dallas Mavericks,Philadelphia 76ers,107,98,Dallas Mavericks
+795,16,04-02-2022 21:00,Moda Center,Portland Trail Blazers,Oklahoma City Thunder,93,96,Oklahoma City Thunder
+796,16,05-02-2022 16:00,Amway Center,Orlando Magic,Memphis Grizzlies,115,135,Memphis Grizzlies
+797,16,05-02-2022 18:00,Spectrum Center,Charlotte Hornets,Miami Heat,86,104,Miami Heat
+798,16,05-02-2022 18:00,Capital One Arena,Washington Wizards,Phoenix Suns,80,95,Phoenix Suns
+799,16,05-02-2022 19:30,Crypto.com Arena,Los Angeles Lakers,New York Knicks,122,115,Los Angeles Lakers
+800,16,05-02-2022 21:00,Moda Center,Portland Trail Blazers,Milwaukee Bucks,108,137,Milwaukee Bucks
+801,16,05-02-2022 21:00,Golden 1 Center,Sacramento Kings,Oklahoma City Thunder,113,103,Sacramento Kings
+802,16,06-02-2022 14:30,United Center,Chicago Bulls,Philadelphia 76ers,108,119,Philadelphia 76ers
+803,16,06-02-2022 14:30,Target Center,Minnesota Timberwolves,Detroit Pistons,118,105,Minnesota Timberwolves
+804,16,06-02-2022 14:30,Ball Arena,Denver Nuggets,Brooklyn Nets,124,104,Denver Nuggets
+805,16,06-02-2022 17:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Indiana Pacers,98,85,Cleveland Cavaliers
+806,16,06-02-2022 17:00,Amway Center,Orlando Magic,Boston Celtics,83,116,Boston Celtics
+807,16,06-02-2022 17:00,American Airlines Center,Dallas Mavericks,Atlanta Hawks,103,94,Dallas Mavericks
+808,16,06-02-2022 18:00,Toyota Center,Houston Rockets,New Orleans Pelicans,107,120,New Orleans Pelicans
+809,16,06-02-2022 20:00,Crypto.com Arena,LA Clippers,Milwaukee Bucks,113,137,Milwaukee Bucks
+810,16,07-02-2022 18:00,Spectrum Center,Charlotte Hornets,Toronto Raptors,101,116,Toronto Raptors
+811,16,07-02-2022 18:00,Capital One Arena,Washington Wizards,Miami Heat,100,121,Miami Heat
+812,16,07-02-2022 19:00,United Center,Chicago Bulls,Phoenix Suns,124,127,Phoenix Suns
+813,16,07-02-2022 19:00,Paycom Center,Oklahoma City Thunder,Golden State Warriors,98,110,Golden State Warriors
+814,16,07-02-2022 20:00,Vivint Arena,Utah Jazz,New York Knicks,113,104,Utah Jazz
+815,16,08-02-2022 18:00,Wells Fargo Center,Philadelphia 76ers,Phoenix Suns,109,114,Phoenix Suns
+816,16,08-02-2022 18:30,State Farm Arena,Atlanta Hawks,Indiana Pacers,133,112,Atlanta Hawks
+817,16,08-02-2022 18:30,Barclays Center,Brooklyn Nets,Boston Celtics,91,126,Boston Celtics
+818,16,08-02-2022 19:00,FedExForum,Memphis Grizzlies,LA Clippers,135,109,Memphis Grizzlies
+819,16,08-02-2022 19:00,Smoothie King Center,New Orleans Pelicans,Houston Rockets,110,97,New Orleans Pelicans
+820,16,08-02-2022 19:30,American Airlines Center,Dallas Mavericks,Detroit Pistons,116,86,Dallas Mavericks
+821,16,08-02-2022 20:00,Ball Arena,Denver Nuggets,New York Knicks,132,115,Denver Nuggets
+822,16,08-02-2022 21:00,Crypto.com Arena,Los Angeles Lakers,Milwaukee Bucks,116,131,Milwaukee Bucks
+823,16,08-02-2022 21:00,Moda Center,Portland Trail Blazers,Orlando Magic,95,113,Orlando Magic
+824,16,08-02-2022 21:00,Golden 1 Center,Sacramento Kings,Minnesota Timberwolves,114,134,Minnesota Timberwolves
+825,16,09-02-2022 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,San Antonio Spurs,105,92,Cleveland Cavaliers
+826,16,09-02-2022 18:30,Spectrum Center,Charlotte Hornets,Chicago Bulls,109,121,Chicago Bulls
+827,16,09-02-2022 19:00,Paycom Center,Oklahoma City Thunder,Toronto Raptors,98,117,Toronto Raptors
+828,16,09-02-2022 21:00,Vivint Arena,Utah Jazz,Golden State Warriors,111,85,Utah Jazz
+829,16,09-02-2022 21:00,Moda Center,Portland Trail Blazers,Los Angeles Lakers,107,105,Portland Trail Blazers
+830,16,09-02-2022 21:00,Golden 1 Center,Sacramento Kings,Minnesota Timberwolves,132,119,Sacramento Kings
+831,17,10-02-2022 18:00,Little Caesars Arena,Detroit Pistons,Memphis Grizzlies,107,132,Memphis Grizzlies
+832,17,10-02-2022 18:30,Capital One Arena,Washington Wizards,Brooklyn Nets,113,112,Washington Wizards
+833,17,10-02-2022 18:30,Smoothie King Center,New Orleans Pelicans,Miami Heat,97,112,Miami Heat
+834,17,10-02-2022 19:00,Toyota Center,Houston Rockets,Toronto Raptors,120,139,Toronto Raptors
+835,17,10-02-2022 19:30,American Airlines Center,Dallas Mavericks,LA Clippers,112,105,Dallas Mavericks
+836,17,10-02-2022 21:00,Footprint Center,Phoenix Suns,Milwaukee Bucks,131,107,Phoenix Suns
+837,17,10-02-2022 21:00,Chase Center,Golden State Warriors,New York Knicks,114,116,New York Knicks
+838,17,11-02-2022 18:00,Little Caesars Arena,Detroit Pistons,Charlotte Hornets,119,141,Charlotte Hornets
+839,17,11-02-2022 18:00,Gainbridge Fieldhouse,Indiana Pacers,Cleveland Cavaliers,113,120,Cleveland Cavaliers
+840,17,11-02-2022 18:00,Wells Fargo Center,Philadelphia 76ers,Oklahoma City Thunder,100,87,Philadelphia 76ers
+841,17,11-02-2022 18:30,State Farm Arena,Atlanta Hawks,San Antonio Spurs,121,136,San Antonio Spurs
+842,17,11-02-2022 18:30,TD Garden,Boston Celtics,Denver Nuggets,108,102,Boston Celtics
+843,17,11-02-2022 19:00,United Center,Chicago Bulls,Minnesota Timberwolves,134,122,Chicago Bulls
+844,17,11-02-2022 20:00,Vivint Arena,Utah Jazz,Orlando Magic,114,99,Utah Jazz
+845,17,12-02-2022 16:00,Moda Center,Portland Trail Blazers,New York Knicks,112,103,Portland Trail Blazers
+846,17,12-02-2022 18:00,Spectrum Center,Charlotte Hornets,Memphis Grizzlies,118,125,Memphis Grizzlies
+847,17,12-02-2022 18:00,Capital One Arena,Washington Wizards,Sacramento Kings,110,123,Sacramento Kings
+848,17,12-02-2022 18:00,Smoothie King Center,New Orleans Pelicans,San Antonio Spurs,114,124,San Antonio Spurs
+849,17,12-02-2022 18:30,Wells Fargo Center,Philadelphia 76ers,Cleveland Cavaliers,103,93,Philadelphia 76ers
+850,17,12-02-2022 18:30,Scotiabank Arena,Toronto Raptors,Denver Nuggets,109,110,Denver Nuggets
+851,17,12-02-2022 19:00,FTX Arena,Miami Heat,Brooklyn Nets,115,111,Miami Heat
+852,17,12-02-2022 19:00,United Center,Chicago Bulls,Oklahoma City Thunder,106,101,Chicago Bulls
+853,17,12-02-2022 19:30,American Airlines Center,Dallas Mavericks,LA Clippers,97,99,LA Clippers
+854,17,12-02-2022 19:30,Chase Center,Golden State Warriors,Los Angeles Lakers,117,115,Golden State Warriors
+855,17,12-02-2022 20:00,Footprint Center,Phoenix Suns,Orlando Magic,132,105,Phoenix Suns
+856,17,13-02-2022 13:00,TD Garden,Boston Celtics,Atlanta Hawks,105,95,Boston Celtics
+857,17,13-02-2022 14:00,Gainbridge Fieldhouse,Indiana Pacers,Minnesota Timberwolves,120,129,Minnesota Timberwolves
+858,17,14-02-2022 18:00,Capital One Arena,Washington Wizards,Detroit Pistons,103,94,Washington Wizards
+859,17,14-02-2022 18:30,Barclays Center,Brooklyn Nets,Sacramento Kings,109,85,Brooklyn Nets
+860,17,14-02-2022 18:30,Madison Square Garden,New York Knicks,Oklahoma City Thunder,123,127,Oklahoma City Thunder
+861,17,14-02-2022 19:00,United Center,Chicago Bulls,San Antonio Spurs,120,109,Chicago Bulls
+862,17,14-02-2022 19:00,Fiserv Forum,Milwaukee Bucks,Portland Trail Blazers,107,122,Portland Trail Blazers
+863,17,14-02-2022 19:00,Smoothie King Center,New Orleans Pelicans,Toronto Raptors,120,90,New Orleans Pelicans
+864,17,14-02-2022 20:00,Ball Arena,Denver Nuggets,Orlando Magic,121,111,Denver Nuggets
+865,17,14-02-2022 20:00,Vivint Arena,Utah Jazz,Houston Rockets,135,101,Utah Jazz
+866,17,14-02-2022 21:30,Crypto.com Arena,LA Clippers,Golden State Warriors,119,104,LA Clippers
+867,17,15-02-2022 18:30,State Farm Arena,Atlanta Hawks,Cleveland Cavaliers,124,116,Atlanta Hawks
+868,17,15-02-2022 18:30,FTX Arena,Miami Heat,Dallas Mavericks,99,107,Dallas Mavericks
+869,17,15-02-2022 18:30,Wells Fargo Center,Philadelphia 76ers,Boston Celtics,87,135,Boston Celtics
+870,17,15-02-2022 19:00,Fiserv Forum,Milwaukee Bucks,Indiana Pacers,128,119,Milwaukee Bucks
+871,17,15-02-2022 19:00,Target Center,Minnesota Timberwolves,Charlotte Hornets,126,120,Minnesota Timberwolves
+872,17,15-02-2022 19:00,Smoothie King Center,New Orleans Pelicans,Memphis Grizzlies,109,121,Memphis Grizzlies
+873,17,15-02-2022 21:00,Footprint Center,Phoenix Suns,LA Clippers,103,96,Phoenix Suns
+874,17,16-02-2022 18:00,Amway Center,Orlando Magic,Atlanta Hawks,109,130,Atlanta Hawks
+875,17,16-02-2022 18:30,TD Garden,Boston Celtics,Detroit Pistons,111,112,Detroit Pistons
+876,17,16-02-2022 18:30,Gainbridge Fieldhouse,Indiana Pacers,Washington Wizards,113,108,Indiana Pacers
+877,17,16-02-2022 18:30,Madison Square Garden,New York Knicks,Brooklyn Nets,106,111,Brooklyn Nets
+878,17,16-02-2022 19:00,United Center,Chicago Bulls,Sacramento Kings,125,118,Chicago Bulls
+879,17,16-02-2022 19:00,FedExForum,Memphis Grizzlies,Portland Trail Blazers,119,123,Portland Trail Blazers
+880,17,16-02-2022 19:00,Target Center,Minnesota Timberwolves,Toronto Raptors,91,103,Toronto Raptors
+881,17,16-02-2022 19:00,Paycom Center,Oklahoma City Thunder,San Antonio Spurs,106,114,San Antonio Spurs
+882,17,16-02-2022 20:00,Footprint Center,Phoenix Suns,Houston Rockets,124,121,Phoenix Suns
+883,17,16-02-2022 21:00,Chase Center,Golden State Warriors,Denver Nuggets,116,117,Denver Nuggets
+884,17,16-02-2022 21:00,Crypto.com Arena,Los Angeles Lakers,Utah Jazz,106,101,Los Angeles Lakers
+885,17,17-02-2022 18:00,Spectrum Center,Charlotte Hornets,Miami Heat,107,111,Miami Heat
+464,17,17-02-2022 18:30,Barclays Center,Brooklyn Nets,Washington Wizards,103,117,Washington Wizards
+886,17,17-02-2022 19:00,Smoothie King Center,New Orleans Pelicans,Dallas Mavericks,118,125,Dallas Mavericks
+887,17,17-02-2022 19:30,Fiserv Forum,Milwaukee Bucks,Philadelphia 76ers,120,123,Philadelphia 76ers
+888,17,17-02-2022 21:30,Crypto.com Arena,LA Clippers,Houston Rockets,142,111,LA Clippers
+889,18,24-02-2022 18:00,Little Caesars Arena,Detroit Pistons,Cleveland Cavaliers,106,103,Detroit Pistons
+890,18,24-02-2022 18:30,Barclays Center,Brooklyn Nets,Boston Celtics,106,129,Boston Celtics
+891,18,24-02-2022 19:00,United Center,Chicago Bulls,Atlanta Hawks,112,108,Chicago Bulls
+892,18,24-02-2022 19:00,Target Center,Minnesota Timberwolves,Memphis Grizzlies,119,114,Minnesota Timberwolves
+893,18,24-02-2022 19:00,Paycom Center,Oklahoma City Thunder,Phoenix Suns,104,124,Phoenix Suns
+894,18,24-02-2022 21:00,Moda Center,Portland Trail Blazers,Golden State Warriors,95,132,Golden State Warriors
+895,18,24-02-2022 21:00,Golden 1 Center,Sacramento Kings,Denver Nuggets,110,128,Denver Nuggets
+896,18,25-02-2022 18:00,Spectrum Center,Charlotte Hornets,Toronto Raptors,125,93,Charlotte Hornets
+897,18,25-02-2022 18:00,Gainbridge Fieldhouse,Indiana Pacers,Oklahoma City Thunder,125,129,Oklahoma City Thunder
+898,18,25-02-2022 18:00,Amway Center,Orlando Magic,Houston Rockets,119,111,Orlando Magic
+899,18,25-02-2022 18:00,Capital One Arena,Washington Wizards,San Antonio Spurs,153,157,San Antonio Spurs
+900,18,25-02-2022 18:30,Madison Square Garden,New York Knicks,Miami Heat,100,115,Miami Heat
+901,18,25-02-2022 19:00,Target Center,Minnesota Timberwolves,Philadelphia 76ers,102,133,Philadelphia 76ers
+902,18,25-02-2022 20:00,Footprint Center,Phoenix Suns,New Orleans Pelicans,102,117,New Orleans Pelicans
+903,18,25-02-2022 20:00,Vivint Arena,Utah Jazz,Dallas Mavericks,114,109,Utah Jazz
+904,18,25-02-2022 21:00,Crypto.com Arena,Los Angeles Lakers,LA Clippers,102,105,LA Clippers
+905,18,26-02-2022 11:00,Little Caesars Arena,Detroit Pistons,Boston Celtics,104,113,Boston Celtics
+906,18,26-02-2022 18:30,State Farm Arena,Atlanta Hawks,Toronto Raptors,127,100,Atlanta Hawks
+907,18,26-02-2022 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Washington Wizards,92,86,Cleveland Cavaliers
+908,18,26-02-2022 19:00,FTX Arena,Miami Heat,San Antonio Spurs,133,129,Miami Heat
+909,18,26-02-2022 19:00,United Center,Chicago Bulls,Memphis Grizzlies,110,116,Memphis Grizzlies
+910,18,26-02-2022 19:30,Fiserv Forum,Milwaukee Bucks,Brooklyn Nets,123,126,Brooklyn Nets
+911,18,26-02-2022 20:00,Ball Arena,Denver Nuggets,Sacramento Kings,115,110,Denver Nuggets
+912,18,27-02-2022 12:00,Madison Square Garden,New York Knicks,Philadelphia 76ers,109,125,Philadelphia 76ers
+913,18,27-02-2022 14:30,Footprint Center,Phoenix Suns,Utah Jazz,114,118,Utah Jazz
+914,18,27-02-2022 16:00,Gainbridge Fieldhouse,Indiana Pacers,Boston Celtics,128,107,Indiana Pacers
+915,18,27-02-2022 18:00,Spectrum Center,Charlotte Hornets,Detroit Pistons,126,127,Detroit Pistons
+916,18,27-02-2022 18:00,Toyota Center,Houston Rockets,LA Clippers,98,99,LA Clippers
+917,18,27-02-2022 18:30,Chase Center,Golden State Warriors,Dallas Mavericks,101,107,Dallas Mavericks
+918,18,27-02-2022 20:00,Moda Center,Portland Trail Blazers,Denver Nuggets,92,124,Denver Nuggets
+919,18,27-02-2022 21:00,Crypto.com Arena,Los Angeles Lakers,New Orleans Pelicans,95,123,New Orleans Pelicans
+920,18,28-02-2022 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Minnesota Timberwolves,122,127,Minnesota Timberwolves
+921,18,28-02-2022 18:00,Amway Center,Orlando Magic,Indiana Pacers,119,103,Orlando Magic
+726,18,28-02-2022 18:30,Barclays Center,Brooklyn Nets,Toronto Raptors,97,133,Toronto Raptors
+922,18,28-02-2022 18:30,FTX Arena,Miami Heat,Chicago Bulls,112,99,Miami Heat
+923,18,28-02-2022 19:00,FedExForum,Memphis Grizzlies,San Antonio Spurs,118,105,Memphis Grizzlies
+924,18,28-02-2022 19:00,Fiserv Forum,Milwaukee Bucks,Charlotte Hornets,130,106,Milwaukee Bucks
+925,18,28-02-2022 19:00,Paycom Center,Oklahoma City Thunder,Sacramento Kings,110,131,Sacramento Kings
+926,18,01-03-2022 18:00,Capital One Arena,Washington Wizards,Detroit Pistons,116,113,Washington Wizards
+927,18,01-03-2022 18:30,TD Garden,Boston Celtics,Atlanta Hawks,107,98,Boston Celtics
+928,18,01-03-2022 18:30,Scotiabank Arena,Toronto Raptors,Brooklyn Nets,109,108,Toronto Raptors
+929,18,01-03-2022 19:00,Toyota Center,Houston Rockets,LA Clippers,100,113,LA Clippers
+930,18,01-03-2022 19:00,Target Center,Minnesota Timberwolves,Golden State Warriors,129,114,Minnesota Timberwolves
+931,18,01-03-2022 21:00,Crypto.com Arena,Los Angeles Lakers,Dallas Mavericks,104,109,Dallas Mavericks
+932,18,02-03-2022 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Charlotte Hornets,98,119,Charlotte Hornets
+933,18,02-03-2022 18:00,Amway Center,Orlando Magic,Indiana Pacers,114,122,Indiana Pacers
+934,18,02-03-2022 18:30,Wells Fargo Center,Philadelphia 76ers,New York Knicks,123,108,Philadelphia 76ers
+935,18,02-03-2022 19:00,Toyota Center,Houston Rockets,Utah Jazz,127,132,Utah Jazz
+936,18,02-03-2022 19:00,Fiserv Forum,Milwaukee Bucks,Miami Heat,120,119,Milwaukee Bucks
+937,18,02-03-2022 19:00,Smoothie King Center,New Orleans Pelicans,Sacramento Kings,125,95,New Orleans Pelicans
+938,18,02-03-2022 20:00,Ball Arena,Denver Nuggets,Oklahoma City Thunder,107,119,Oklahoma City Thunder
+939,18,02-03-2022 21:00,Footprint Center,Phoenix Suns,Portland Trail Blazers,120,90,Phoenix Suns
+710,19,03-03-2022 18:00,State Farm Arena,Atlanta Hawks,Chicago Bulls,130,124,Atlanta Hawks
+940,19,03-03-2022 18:30,TD Garden,Boston Celtics,Memphis Grizzlies,120,107,Boston Celtics
+941,19,03-03-2022 18:30,Barclays Center,Brooklyn Nets,Miami Heat,107,113,Miami Heat
+942,19,03-03-2022 18:30,Scotiabank Arena,Toronto Raptors,Detroit Pistons,106,108,Detroit Pistons
+943,19,03-03-2022 19:30,American Airlines Center,Dallas Mavericks,Golden State Warriors,122,113,Dallas Mavericks
+944,19,03-03-2022 19:30,AT&T Center,San Antonio Spurs,Sacramento Kings,112,115,Sacramento Kings
+945,19,03-03-2022 21:00,Crypto.com Arena,LA Clippers,Los Angeles Lakers,132,111,LA Clippers
+946,19,04-03-2022 18:00,Little Caesars Arena,Detroit Pistons,Indiana Pacers,111,106,Detroit Pistons
+947,19,04-03-2022 18:00,Wells Fargo Center,Philadelphia 76ers,Cleveland Cavaliers,125,119,Philadelphia 76ers
+948,19,04-03-2022 18:00,Capital One Arena,Washington Wizards,Atlanta Hawks,114,117,Atlanta Hawks
+458,19,04-03-2022 18:30,Scotiabank Arena,Toronto Raptors,Orlando Magic,97,103,Orlando Magic
+949,19,04-03-2022 18:30,United Center,Chicago Bulls,Milwaukee Bucks,112,118,Milwaukee Bucks
+950,19,04-03-2022 19:00,Smoothie King Center,New Orleans Pelicans,Utah Jazz,124,90,New Orleans Pelicans
+951,19,04-03-2022 19:00,Paycom Center,Oklahoma City Thunder,Minnesota Timberwolves,101,138,Minnesota Timberwolves
+952,19,04-03-2022 20:00,Ball Arena,Denver Nuggets,Houston Rockets,116,101,Denver Nuggets
+953,19,04-03-2022 21:00,Footprint Center,Phoenix Suns,New York Knicks,115,114,Phoenix Suns
+954,19,05-03-2022 16:00,American Airlines Center,Dallas Mavericks,Sacramento Kings,114,113,Dallas Mavericks
+955,19,05-03-2022 18:00,Spectrum Center,Charlotte Hornets,San Antonio Spurs,123,117,Charlotte Hornets
+956,19,05-03-2022 19:00,FTX Arena,Miami Heat,Philadelphia 76ers,99,82,Miami Heat
+957,19,05-03-2022 19:00,FedExForum,Memphis Grizzlies,Orlando Magic,124,96,Memphis Grizzlies
+958,19,05-03-2022 19:00,Target Center,Minnesota Timberwolves,Portland Trail Blazers,135,121,Minnesota Timberwolves
+959,19,05-03-2022 19:30,Crypto.com Arena,Los Angeles Lakers,Golden State Warriors,124,116,Los Angeles Lakers
+960,19,06-03-2022 12:00,TD Garden,Boston Celtics,Brooklyn Nets,126,120,Boston Celtics
+961,19,06-03-2022 14:30,Fiserv Forum,Milwaukee Bucks,Phoenix Suns,132,122,Milwaukee Bucks
+963,19,06-03-2022 17:00,Capital One Arena,Washington Wizards,Indiana Pacers,133,123,Washington Wizards
+964,19,06-03-2022 18:00,Toyota Center,Houston Rockets,Memphis Grizzlies,123,112,Houston Rockets
+965,19,06-03-2022 18:00,Paycom Center,Oklahoma City Thunder,Utah Jazz,103,116,Utah Jazz
+962,19,06-03-2022 18:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Toronto Raptors,104,96,Cleveland Cavaliers
+967,19,06-03-2022 19:00,Ball Arena,Denver Nuggets,New Orleans Pelicans,138,130,Denver Nuggets
+966,19,06-03-2022 21:00,Crypto.com Arena,LA Clippers,New York Knicks,93,116,New York Knicks
+968,19,07-03-2022 18:00,Little Caesars Arena,Detroit Pistons,Atlanta Hawks,133,110,Detroit Pistons
+969,19,07-03-2022 18:00,Wells Fargo Center,Philadelphia 76ers,Chicago Bulls,121,106,Philadelphia 76ers
+970,19,07-03-2022 18:30,FTX Arena,Miami Heat,Houston Rockets,123,106,Miami Heat
+971,19,07-03-2022 19:00,Target Center,Minnesota Timberwolves,Portland Trail Blazers,124,81,Minnesota Timberwolves
+972,19,07-03-2022 19:30,American Airlines Center,Dallas Mavericks,Utah Jazz,111,103,Dallas Mavericks
+973,19,07-03-2022 19:30,AT&T Center,San Antonio Spurs,Los Angeles Lakers,117,110,San Antonio Spurs
+528,19,07-03-2022 20:00,Ball Arena,Denver Nuggets,Golden State Warriors,131,124,Denver Nuggets
+974,19,07-03-2022 21:30,Golden 1 Center,Sacramento Kings,New York Knicks,115,131,New York Knicks
+975,19,08-03-2022 18:00,Spectrum Center,Charlotte Hornets,Brooklyn Nets,121,132,Brooklyn Nets
+976,19,08-03-2022 18:00,Gainbridge Fieldhouse,Indiana Pacers,Cleveland Cavaliers,124,127,Cleveland Cavaliers
+977,19,08-03-2022 18:00,Amway Center,Orlando Magic,Phoenix Suns,99,102,Phoenix Suns
+978,19,08-03-2022 18:30,FedExForum,Memphis Grizzlies,New Orleans Pelicans,132,111,Memphis Grizzlies
+979,19,08-03-2022 19:00,Paycom Center,Oklahoma City Thunder,Milwaukee Bucks,115,142,Milwaukee Bucks
+980,19,08-03-2022 21:00,Chase Center,Golden State Warriors,LA Clippers,112,97,Golden State Warriors
+981,19,09-03-2022 18:00,Spectrum Center,Charlotte Hornets,Boston Celtics,101,115,Boston Celtics
+982,19,09-03-2022 18:00,Little Caesars Arena,Detroit Pistons,Chicago Bulls,108,114,Chicago Bulls
+983,19,09-03-2022 18:30,FTX Arena,Miami Heat,Phoenix Suns,90,111,Phoenix Suns
+984,19,09-03-2022 19:00,Fiserv Forum,Milwaukee Bucks,Atlanta Hawks,124,115,Milwaukee Bucks
+985,19,09-03-2022 19:00,Toyota Center,Houston Rockets,Los Angeles Lakers,139,130,Houston Rockets
+986,19,09-03-2022 19:00,Target Center,Minnesota Timberwolves,Oklahoma City Thunder,132,102,Minnesota Timberwolves
+987,19,09-03-2022 19:00,Smoothie King Center,New Orleans Pelicans,Orlando Magic,102,108,Orlando Magic
+988,19,09-03-2022 19:30,American Airlines Center,Dallas Mavericks,New York Knicks,77,107,New York Knicks
+989,19,09-03-2022 19:30,AT&T Center,San Antonio Spurs,Toronto Raptors,104,119,Toronto Raptors
+990,19,09-03-2022 21:00,Vivint Arena,Utah Jazz,Portland Trail Blazers,123,85,Utah Jazz
+991,19,09-03-2022 21:00,Golden 1 Center,Sacramento Kings,Denver Nuggets,100,106,Denver Nuggets
+992,19,09-03-2022 21:30,Crypto.com Arena,LA Clippers,Washington Wizards,115,109,LA Clippers
+993,20,10-03-2022 18:30,Wells Fargo Center,Philadelphia 76ers,Brooklyn Nets,100,129,Brooklyn Nets
+994,20,10-03-2022 21:00,Ball Arena,Denver Nuggets,Golden State Warriors,102,113,Golden State Warriors
+995,20,11-03-2022 18:00,Amway Center,Orlando Magic,Minnesota Timberwolves,118,110,Orlando Magic
+996,20,11-03-2022 18:30,State Farm Arena,Atlanta Hawks,LA Clippers,112,106,Atlanta Hawks
+997,20,11-03-2022 18:30,TD Garden,Boston Celtics,Detroit Pistons,114,103,Boston Celtics
+998,20,11-03-2022 19:00,FTX Arena,Miami Heat,Cleveland Cavaliers,117,105,Miami Heat
+999,20,11-03-2022 19:00,Toyota Center,Houston Rockets,Dallas Mavericks,100,113,Dallas Mavericks
+1000,20,11-03-2022 19:00,FedExForum,Memphis Grizzlies,New York Knicks,118,114,Memphis Grizzlies
+1001,20,11-03-2022 19:00,Smoothie King Center,New Orleans Pelicans,Charlotte Hornets,120,142,Charlotte Hornets
+1002,20,11-03-2022 19:30,AT&T Center,San Antonio Spurs,Utah Jazz,104,102,San Antonio Spurs
+1003,20,11-03-2022 20:00,Footprint Center,Phoenix Suns,Toronto Raptors,112,117,Toronto Raptors
+1004,20,11-03-2022 21:30,Crypto.com Arena,Los Angeles Lakers,Washington Wizards,122,109,Los Angeles Lakers
+1005,20,12-03-2022 19:00,FTX Arena,Miami Heat,Minnesota Timberwolves,104,113,Minnesota Timberwolves
+1006,20,12-03-2022 19:00,United Center,Chicago Bulls,Cleveland Cavaliers,101,91,Chicago Bulls
+1007,20,12-03-2022 19:00,AT&T Center,San Antonio Spurs,Indiana Pacers,108,119,Indiana Pacers
+1008,20,12-03-2022 19:30,Chase Center,Golden State Warriors,Milwaukee Bucks,122,109,Golden State Warriors
+1009,20,12-03-2022 20:00,Ball Arena,Denver Nuggets,Toronto Raptors,115,127,Toronto Raptors
+1010,20,12-03-2022 20:00,Vivint Arena,Utah Jazz,Sacramento Kings,134,125,Utah Jazz
+1011,20,12-03-2022 21:00,Moda Center,Portland Trail Blazers,Washington Wizards,127,118,Portland Trail Blazers
+1012,20,13-03-2022 12:00,Barclays Center,Brooklyn Nets,New York Knicks,110,107,Brooklyn Nets
+1013,20,13-03-2022 14:00,Little Caesars Arena,Detroit Pistons,LA Clippers,102,106,LA Clippers
+1014,20,13-03-2022 14:30,TD Garden,Boston Celtics,Dallas Mavericks,92,95,Dallas Mavericks
+1015,20,13-03-2022 17:00,Amway Center,Orlando Magic,Philadelphia 76ers,114,116,Philadelphia 76ers
+1016,20,13-03-2022 18:00,State Farm Arena,Atlanta Hawks,Indiana Pacers,131,128,Atlanta Hawks
+1017,20,13-03-2022 18:00,Smoothie King Center,New Orleans Pelicans,Houston Rockets,130,105,New Orleans Pelicans
+1018,20,13-03-2022 18:00,Paycom Center,Oklahoma City Thunder,Memphis Grizzlies,118,125,Memphis Grizzlies
+1019,20,13-03-2022 20:00,Footprint Center,Phoenix Suns,Los Angeles Lakers,140,111,Phoenix Suns
+1020,20,14-03-2022 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,LA Clippers,120,111,Cleveland Cavaliers
+1021,20,14-03-2022 18:30,State Farm Arena,Atlanta Hawks,Portland Trail Blazers,122,113,Atlanta Hawks
+1022,20,14-03-2022 18:30,Wells Fargo Center,Philadelphia 76ers,Denver Nuggets,110,114,Denver Nuggets
+1023,20,14-03-2022 19:00,Paycom Center,Oklahoma City Thunder,Charlotte Hornets,116,134,Charlotte Hornets
+1024,20,14-03-2022 19:30,AT&T Center,San Antonio Spurs,Minnesota Timberwolves,139,149,Minnesota Timberwolves
+1025,20,14-03-2022 21:00,Chase Center,Golden State Warriors,Washington Wizards,126,112,Golden State Warriors
+1026,20,14-03-2022 21:00,Golden 1 Center,Sacramento Kings,Chicago Bulls,112,103,Sacramento Kings
+1027,20,14-03-2022 21:00,Vivint Arena,Utah Jazz,Milwaukee Bucks,111,117,Milwaukee Bucks
+1028,20,14-03-2022 21:30,Crypto.com Arena,Los Angeles Lakers,Toronto Raptors,103,114,Toronto Raptors
+1029,20,15-03-2022 18:00,Gainbridge Fieldhouse,Indiana Pacers,Memphis Grizzlies,102,135,Memphis Grizzlies
+1030,20,15-03-2022 18:00,Amway Center,Orlando Magic,Brooklyn Nets,108,150,Brooklyn Nets
+1031,20,15-03-2022 18:30,FTX Arena,Miami Heat,Detroit Pistons,105,98,Miami Heat
+1032,20,15-03-2022 19:00,Smoothie King Center,New Orleans Pelicans,Phoenix Suns,115,131,Phoenix Suns
+1033,20,16-03-2022 18:00,Spectrum Center,Charlotte Hornets,Atlanta Hawks,116,106,Charlotte Hornets
+1034,20,16-03-2022 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Philadelphia 76ers,114,118,Philadelphia 76ers
+1035,20,16-03-2022 18:00,Capital One Arena,Washington Wizards,Denver Nuggets,109,127,Denver Nuggets
+1036,20,16-03-2022 18:30,Barclays Center,Brooklyn Nets,Dallas Mavericks,111,113,Dallas Mavericks
+1037,20,16-03-2022 18:30,Madison Square Garden,New York Knicks,Portland Trail Blazers,128,98,New York Knicks
+1038,20,16-03-2022 19:00,Toyota Center,Houston Rockets,Phoenix Suns,112,129,Phoenix Suns
+1039,20,16-03-2022 19:00,Target Center,Minnesota Timberwolves,Los Angeles Lakers,124,104,Minnesota Timberwolves
+1040,20,16-03-2022 19:30,AT&T Center,San Antonio Spurs,Oklahoma City Thunder,122,120,San Antonio Spurs
+1041,20,16-03-2022 20:00,Vivint Arena,Utah Jazz,Chicago Bulls,125,110,Utah Jazz
+1042,20,16-03-2022 21:00,Chase Center,Golden State Warriors,Boston Celtics,88,110,Boston Celtics
+1043,20,16-03-2022 21:00,Golden 1 Center,Sacramento Kings,Milwaukee Bucks,126,135,Milwaukee Bucks
+1044,20,16-03-2022 21:30,Crypto.com Arena,LA Clippers,Toronto Raptors,100,130,Toronto Raptors
+1045,21,17-03-2022 18:00,Amway Center,Orlando Magic,Detroit Pistons,120,134,Detroit Pistons
+1046,21,18-03-2022 18:00,Wells Fargo Center,Philadelphia 76ers,Dallas Mavericks,111,101,Philadelphia 76ers
+1047,21,18-03-2022 18:30,State Farm Arena,Atlanta Hawks,Memphis Grizzlies,120,105,Atlanta Hawks
+1048,21,18-03-2022 18:30,Barclays Center,Brooklyn Nets,Portland Trail Blazers,128,123,Brooklyn Nets
+1049,21,18-03-2022 18:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Denver Nuggets,119,116,Cleveland Cavaliers
+1050,21,18-03-2022 18:30,Madison Square Garden,New York Knicks,Washington Wizards,100,97,New York Knicks
+1051,21,18-03-2022 18:30,Scotiabank Arena,Toronto Raptors,Los Angeles Lakers,123,128,Los Angeles Lakers
+1052,21,18-03-2022 19:00,FTX Arena,Miami Heat,Oklahoma City Thunder,120,108,Miami Heat
+1053,21,18-03-2022 19:00,Toyota Center,Houston Rockets,Indiana Pacers,118,121,Indiana Pacers
+1054,21,18-03-2022 19:30,AT&T Center,San Antonio Spurs,New Orleans Pelicans,91,124,New Orleans Pelicans
+1055,21,18-03-2022 20:00,Vivint Arena,Utah Jazz,LA Clippers,121,92,Utah Jazz
+1056,21,18-03-2022 21:00,Footprint Center,Phoenix Suns,Chicago Bulls,129,102,Phoenix Suns
+1057,21,18-03-2022 21:00,Golden 1 Center,Sacramento Kings,Boston Celtics,97,126,Boston Celtics
+1058,21,19-03-2022 16:00,Target Center,Minnesota Timberwolves,Milwaukee Bucks,138,119,Minnesota Timberwolves
+1059,21,19-03-2022 18:00,Spectrum Center,Charlotte Hornets,Dallas Mavericks,129,108,Charlotte Hornets
+1060,21,19-03-2022 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Detroit Pistons,113,109,Cleveland Cavaliers
+1061,21,19-03-2022 19:00,Capital One Arena,Washington Wizards,Los Angeles Lakers,127,119,Washington Wizards
+1062,21,20-03-2022 14:30,Gainbridge Fieldhouse,Indiana Pacers,Portland Trail Blazers,129,98,Indiana Pacers
+1063,21,20-03-2022 14:30,Toyota Center,Houston Rockets,Memphis Grizzlies,98,122,Memphis Grizzlies
+1064,21,20-03-2022 17:00,State Farm Arena,Atlanta Hawks,New Orleans Pelicans,112,117,New Orleans Pelicans
+1065,21,20-03-2022 17:00,Amway Center,Orlando Magic,Oklahoma City Thunder,90,85,Orlando Magic
+1066,21,20-03-2022 17:00,Golden 1 Center,Sacramento Kings,Phoenix Suns,124,127,Phoenix Suns
+1067,21,20-03-2022 18:30,Madison Square Garden,New York Knicks,Utah Jazz,93,108,Utah Jazz
+1068,21,20-03-2022 19:00,Ball Arena,Denver Nuggets,Boston Celtics,104,124,Boston Celtics
+1069,21,20-03-2022 19:30,Wells Fargo Center,Philadelphia 76ers,Toronto Raptors,88,93,Toronto Raptors
+1070,21,20-03-2022 19:30,Chase Center,Golden State Warriors,San Antonio Spurs,108,110,San Antonio Spurs
+1071,21,21-03-2022 18:00,Spectrum Center,Charlotte Hornets,New Orleans Pelicans,106,103,Charlotte Hornets
+1072,21,21-03-2022 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Los Angeles Lakers,120,131,Los Angeles Lakers
+1073,21,21-03-2022 18:00,Little Caesars Arena,Detroit Pistons,Portland Trail Blazers,115,119,Portland Trail Blazers
+1074,21,21-03-2022 18:30,Wells Fargo Center,Philadelphia 76ers,Miami Heat,113,106,Philadelphia 76ers
+1075,21,21-03-2022 18:30,Barclays Center,Brooklyn Nets,Utah Jazz,114,106,Brooklyn Nets
+1076,21,21-03-2022 19:00,United Center,Chicago Bulls,Toronto Raptors,113,99,Chicago Bulls
+1077,21,21-03-2022 19:00,Toyota Center,Houston Rockets,Washington Wizards,115,97,Houston Rockets
+1078,21,21-03-2022 19:00,Paycom Center,Oklahoma City Thunder,Boston Celtics,123,132,Boston Celtics
+1079,21,21-03-2022 19:30,American Airlines Center,Dallas Mavericks,Minnesota Timberwolves,110,108,Dallas Mavericks
+1080,21,22-03-2022 18:00,Amway Center,Orlando Magic,Golden State Warriors,94,90,Orlando Magic
+1081,21,22-03-2022 18:30,Madison Square Garden,New York Knicks,Atlanta Hawks,111,117,Atlanta Hawks
+1082,21,22-03-2022 19:00,Fiserv Forum,Milwaukee Bucks,Chicago Bulls,126,98,Milwaukee Bucks
+1083,21,22-03-2022 21:00,Ball Arena,Denver Nuggets,LA Clippers,127,115,Denver Nuggets
+1084,21,23-03-2022 18:00,Spectrum Center,Charlotte Hornets,New York Knicks,106,121,New York Knicks
+1085,21,23-03-2022 18:00,Little Caesars Arena,Detroit Pistons,Atlanta Hawks,122,101,Detroit Pistons
+1086,21,23-03-2022 18:00,Gainbridge Fieldhouse,Indiana Pacers,Sacramento Kings,109,110,Sacramento Kings
+1087,21,23-03-2022 18:30,TD Garden,Boston Celtics,Utah Jazz,125,97,Boston Celtics
+1088,21,23-03-2022 18:30,FTX Arena,Miami Heat,Golden State Warriors,104,118,Golden State Warriors
+1089,21,23-03-2022 18:30,FedExForum,Memphis Grizzlies,Brooklyn Nets,132,120,Memphis Grizzlies
+1090,21,23-03-2022 19:00,Target Center,Minnesota Timberwolves,Phoenix Suns,116,125,Phoenix Suns
+1091,21,23-03-2022 19:00,Paycom Center,Oklahoma City Thunder,Orlando Magic,118,102,Oklahoma City Thunder
+1092,21,23-03-2022 19:30,American Airlines Center,Dallas Mavericks,Houston Rockets,110,91,Dallas Mavericks
+1093,21,23-03-2022 21:00,Crypto.com Arena,Los Angeles Lakers,Philadelphia 76ers,121,126,Philadelphia 76ers
+1094,21,23-03-2022 21:00,Moda Center,Portland Trail Blazers,San Antonio Spurs,96,133,San Antonio Spurs
+1095,22,24-03-2022 18:30,Scotiabank Arena,Toronto Raptors,Cleveland Cavaliers,117,104,Toronto Raptors
+1096,22,24-03-2022 19:00,FedExForum,Memphis Grizzlies,Indiana Pacers,133,103,Memphis Grizzlies
+1097,22,24-03-2022 19:00,Fiserv Forum,Milwaukee Bucks,Washington Wizards,114,102,Milwaukee Bucks
+1098,22,24-03-2022 19:00,Smoothie King Center,New Orleans Pelicans,Chicago Bulls,126,109,New Orleans Pelicans
+1099,22,24-03-2022 20:00,Ball Arena,Denver Nuggets,Phoenix Suns,130,140,Phoenix Suns
+1100,22,25-03-2022 18:00,Spectrum Center,Charlotte Hornets,Utah Jazz,107,101,Charlotte Hornets
+1101,22,25-03-2022 18:00,Little Caesars Arena,Detroit Pistons,Washington Wizards,97,100,Washington Wizards
+1102,22,25-03-2022 18:30,State Farm Arena,Atlanta Hawks,Golden State Warriors,121,110,Atlanta Hawks
+1103,22,25-03-2022 19:00,FTX Arena,Miami Heat,New York Knicks,103,111,New York Knicks
+1104,22,25-03-2022 19:00,Target Center,Minnesota Timberwolves,Dallas Mavericks,116,95,Minnesota Timberwolves
+1105,22,25-03-2022 21:00,Moda Center,Portland Trail Blazers,Houston Rockets,106,125,Houston Rockets
+1106,22,25-03-2022 21:30,Crypto.com Arena,LA Clippers,Philadelphia 76ers,97,122,Philadelphia 76ers
+1107,22,26-03-2022 16:00,Smoothie King Center,New Orleans Pelicans,San Antonio Spurs,103,107,San Antonio Spurs
+1108,22,26-03-2022 18:00,Amway Center,Orlando Magic,Sacramento Kings,110,114,Sacramento Kings
+1109,22,26-03-2022 18:30,Scotiabank Arena,Toronto Raptors,Indiana Pacers,131,91,Toronto Raptors
+1110,22,26-03-2022 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Chicago Bulls,94,98,Chicago Bulls
+1111,22,26-03-2022 19:00,FTX Arena,Miami Heat,Brooklyn Nets,95,110,Brooklyn Nets
+1112,22,26-03-2022 19:00,FedExForum,Memphis Grizzlies,Milwaukee Bucks,127,102,Memphis Grizzlies
+1113,22,26-03-2022 20:00,Ball Arena,Denver Nuggets,Oklahoma City Thunder,113,107,Denver Nuggets
+1114,22,26-03-2022 21:00,Moda Center,Portland Trail Blazers,Houston Rockets,98,115,Houston Rockets
+1115,22,27-03-2022 14:30,Little Caesars Arena,Detroit Pistons,New York Knicks,102,104,New York Knicks
+1116,22,27-03-2022 17:00,TD Garden,Boston Celtics,Minnesota Timberwolves,134,112,Boston Celtics
+1117,22,27-03-2022 17:00,Capital One Arena,Washington Wizards,Golden State Warriors,123,115,Washington Wizards
+1118,22,27-03-2022 17:00,Footprint Center,Phoenix Suns,Philadelphia 76ers,114,104,Phoenix Suns
+1119,22,27-03-2022 18:00,Smoothie King Center,New Orleans Pelicans,Los Angeles Lakers,116,108,New Orleans Pelicans
+1120,22,27-03-2022 18:30,Barclays Center,Brooklyn Nets,Charlotte Hornets,110,119,Charlotte Hornets
+1121,22,27-03-2022 18:30,American Airlines Center,Dallas Mavericks,Utah Jazz,114,100,Dallas Mavericks
+1122,22,28-03-2022 18:00,Spectrum Center,Charlotte Hornets,Denver Nuggets,109,113,Denver Nuggets
+1123,22,28-03-2022 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Orlando Magic,107,101,Cleveland Cavaliers
+1124,22,28-03-2022 18:00,Gainbridge Fieldhouse,Indiana Pacers,Atlanta Hawks,123,132,Atlanta Hawks
+1125,22,28-03-2022 18:30,FTX Arena,Miami Heat,Sacramento Kings,123,100,Miami Heat
+1126,22,28-03-2022 18:30,Madison Square Garden,New York Knicks,Chicago Bulls,109,104,New York Knicks
+1127,22,28-03-2022 18:30,Scotiabank Arena,Toronto Raptors,Boston Celtics,115,112,Toronto Raptors
+1128,22,28-03-2022 19:00,Toyota Center,Houston Rockets,San Antonio Spurs,120,123,San Antonio Spurs
+1129,22,28-03-2022 19:00,FedExForum,Memphis Grizzlies,Golden State Warriors,123,95,Memphis Grizzlies
+1130,22,28-03-2022 21:00,Moda Center,Portland Trail Blazers,Oklahoma City Thunder,131,134,Oklahoma City Thunder
+1131,22,29-03-2022 18:00,Wells Fargo Center,Philadelphia 76ers,Milwaukee Bucks,116,118,Milwaukee Bucks
+1132,22,29-03-2022 18:00,Capital One Arena,Washington Wizards,Chicago Bulls,94,107,Chicago Bulls
+1133,22,29-03-2022 18:30,Barclays Center,Brooklyn Nets,Detroit Pistons,130,123,Brooklyn Nets
+1134,22,29-03-2022 18:30,American Airlines Center,Dallas Mavericks,Los Angeles Lakers,128,110,Dallas Mavericks
+1135,22,29-03-2022 21:00,Crypto.com Arena,LA Clippers,Utah Jazz,121,115,LA Clippers
+1136,22,30-03-2022 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Dallas Mavericks,112,120,Dallas Mavericks
+1137,22,30-03-2022 18:00,Gainbridge Fieldhouse,Indiana Pacers,Denver Nuggets,118,125,Denver Nuggets
+1138,22,30-03-2022 18:00,Capital One Arena,Washington Wizards,Orlando Magic,127,110,Washington Wizards
+1139,22,30-03-2022 18:30,TD Garden,Boston Celtics,Miami Heat,98,106,Miami Heat
+1140,22,30-03-2022 18:30,Madison Square Garden,New York Knicks,Charlotte Hornets,114,125,Charlotte Hornets
+1141,22,30-03-2022 18:30,Scotiabank Arena,Toronto Raptors,Minnesota Timberwolves,125,102,Toronto Raptors
+1142,22,30-03-2022 19:00,Toyota Center,Houston Rockets,Sacramento Kings,118,121,Sacramento Kings
+1143,22,30-03-2022 19:00,Paycom Center,Oklahoma City Thunder,Atlanta Hawks,118,136,Atlanta Hawks
+1144,22,30-03-2022 19:30,AT&T Center,San Antonio Spurs,Memphis Grizzlies,111,112,Memphis Grizzlies
+1145,22,30-03-2022 21:00,Chase Center,Golden State Warriors,Phoenix Suns,103,107,Phoenix Suns
+1146,22,30-03-2022 21:00,Moda Center,Portland Trail Blazers,New Orleans Pelicans,107,117,New Orleans Pelicans
+1147,23,31-03-2022 18:00,Little Caesars Arena,Detroit Pistons,Philadelphia 76ers,102,94,Detroit Pistons
+452,23,31-03-2022 18:30,State Farm Arena,Atlanta Hawks,Cleveland Cavaliers,131,107,Atlanta Hawks
+1148,23,31-03-2022 18:30,Barclays Center,Brooklyn Nets,Milwaukee Bucks,119,120,Milwaukee Bucks
+1149,23,31-03-2022 19:00,United Center,Chicago Bulls,LA Clippers,135,130,Chicago Bulls
+1150,23,31-03-2022 21:00,Vivint Arena,Utah Jazz,Los Angeles Lakers,122,109,Utah Jazz
+1151,23,01-04-2022 18:00,Amway Center,Orlando Magic,Toronto Raptors,89,102,Toronto Raptors
+1152,23,01-04-2022 18:00,Capital One Arena,Washington Wizards,Dallas Mavericks,135,103,Washington Wizards
+1153,23,01-04-2022 18:30,TD Garden,Boston Celtics,Indiana Pacers,128,123,Boston Celtics
+1154,23,01-04-2022 19:00,Toyota Center,Houston Rockets,Sacramento Kings,117,122,Sacramento Kings
+1155,23,01-04-2022 19:00,FedExForum,Memphis Grizzlies,Phoenix Suns,122,114,Memphis Grizzlies
+1156,23,01-04-2022 19:00,Fiserv Forum,Milwaukee Bucks,LA Clippers,119,153,LA Clippers
+1157,23,01-04-2022 19:00,Paycom Center,Oklahoma City Thunder,Detroit Pistons,101,110,Detroit Pistons
+1158,23,01-04-2022 19:30,AT&T Center,San Antonio Spurs,Portland Trail Blazers,130,111,San Antonio Spurs
+1159,23,01-04-2022 20:00,Ball Arena,Denver Nuggets,Minnesota Timberwolves,130,136,Minnesota Timberwolves
+1160,23,01-04-2022 21:30,Crypto.com Arena,Los Angeles Lakers,New Orleans Pelicans,111,114,New Orleans Pelicans
+1161,23,02-04-2022 11:30,Wells Fargo Center,Philadelphia 76ers,Charlotte Hornets,144,114,Philadelphia 76ers
+1162,23,02-04-2022 12:00,Madison Square Garden,New York Knicks,Cleveland Cavaliers,101,119,Cleveland Cavaliers
+1163,23,02-04-2022 18:30,State Farm Arena,Atlanta Hawks,Brooklyn Nets,122,115,Atlanta Hawks
+1164,23,02-04-2022 19:00,United Center,Chicago Bulls,Miami Heat,109,127,Miami Heat
+1165,23,02-04-2022 19:30,Chase Center,Golden State Warriors,Utah Jazz,111,107,Golden State Warriors
+1166,23,03-04-2022 12:00,TD Garden,Boston Celtics,Washington Wizards,144,102,Boston Celtics
+1167,23,03-04-2022 12:00,Fiserv Forum,Milwaukee Bucks,Dallas Mavericks,112,118,Dallas Mavericks
+1168,23,03-04-2022 14:30,Crypto.com Arena,Los Angeles Lakers,Denver Nuggets,118,129,Denver Nuggets
+1169,23,03-04-2022 16:00,Gainbridge Fieldhouse,Indiana Pacers,Detroit Pistons,117,121,Detroit Pistons
+1170,23,03-04-2022 17:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Philadelphia 76ers,108,112,Philadelphia 76ers
+1171,23,03-04-2022 17:00,Amway Center,Orlando Magic,New York Knicks,88,118,New York Knicks
+1172,23,03-04-2022 18:00,Scotiabank Arena,Toronto Raptors,Miami Heat,109,114,Miami Heat
+1173,23,03-04-2022 18:00,Toyota Center,Houston Rockets,Minnesota Timberwolves,132,139,Minnesota Timberwolves
+1174,23,03-04-2022 18:00,Paycom Center,Oklahoma City Thunder,Phoenix Suns,117,96,Oklahoma City Thunder
+1175,23,03-04-2022 18:00,AT&T Center,San Antonio Spurs,Portland Trail Blazers,113,92,San Antonio Spurs
+1176,23,03-04-2022 20:00,Golden 1 Center,Sacramento Kings,Golden State Warriors,90,109,Golden State Warriors
+1177,23,03-04-2022 20:30,Crypto.com Arena,LA Clippers,New Orleans Pelicans,119,100,LA Clippers
+1178,23,05-04-2022 18:00,Gainbridge Fieldhouse,Indiana Pacers,Philadelphia 76ers,122,131,Philadelphia 76ers
+1179,23,05-04-2022 18:00,Amway Center,Orlando Magic,Cleveland Cavaliers,120,115,Orlando Magic
+1180,23,05-04-2022 18:30,Barclays Center,Brooklyn Nets,Houston Rockets,118,108,Brooklyn Nets
+1181,23,05-04-2022 18:30,FTX Arena,Miami Heat,Charlotte Hornets,144,115,Miami Heat
+1182,23,05-04-2022 18:30,Scotiabank Arena,Toronto Raptors,Atlanta Hawks,118,105,Toronto Raptors
+1183,23,05-04-2022 19:00,United Center,Chicago Bulls,Milwaukee Bucks,106,127,Milwaukee Bucks
+1184,23,05-04-2022 19:00,Target Center,Minnesota Timberwolves,Washington Wizards,114,132,Washington Wizards
+1185,23,05-04-2022 19:00,Paycom Center,Oklahoma City Thunder,Portland Trail Blazers,98,94,Oklahoma City Thunder
+1186,23,05-04-2022 20:00,Ball Arena,Denver Nuggets,San Antonio Spurs,97,116,San Antonio Spurs
+1187,23,05-04-2022 20:00,Vivint Arena,Utah Jazz,Memphis Grizzlies,121,115,Utah Jazz
+1188,23,05-04-2022 21:00,Golden 1 Center,Sacramento Kings,New Orleans Pelicans,109,123,New Orleans Pelicans
+1189,23,05-04-2022 21:30,Footprint Center,Phoenix Suns,Los Angeles Lakers,121,110,Phoenix Suns
+1190,23,06-04-2022 18:00,Little Caesars Arena,Detroit Pistons,Dallas Mavericks,113,131,Dallas Mavericks
+1191,23,06-04-2022 18:30,Madison Square Garden,New York Knicks,Brooklyn Nets,98,110,Brooklyn Nets
+1192,23,06-04-2022 19:00,State Farm Arena,Atlanta Hawks,Washington Wizards,118,103,Atlanta Hawks
+1193,23,06-04-2022 19:00,United Center,Chicago Bulls,Boston Celtics,94,117,Boston Celtics
+1194,23,06-04-2022 20:00,Vivint Arena,Utah Jazz,Oklahoma City Thunder,137,101,Utah Jazz
+1195,23,06-04-2022 21:00,Crypto.com Arena,LA Clippers,Phoenix Suns,113,109,LA Clippers
+1196,24,07-04-2022 18:00,Spectrum Center,Charlotte Hornets,Orlando Magic,128,101,Charlotte Hornets
+1197,24,07-04-2022 18:30,Scotiabank Arena,Toronto Raptors,Philadelphia 76ers,119,114,Toronto Raptors
+1198,24,07-04-2022 18:30,Fiserv Forum,Milwaukee Bucks,Boston Celtics,127,121,Milwaukee Bucks
+1199,24,07-04-2022 19:00,Target Center,Minnesota Timberwolves,San Antonio Spurs,127,121,Minnesota Timberwolves
+1200,24,07-04-2022 19:00,Smoothie King Center,New Orleans Pelicans,Portland Trail Blazers,127,94,New Orleans Pelicans
+1201,24,07-04-2022 20:00,Ball Arena,Denver Nuggets,Memphis Grizzlies,122,109,Denver Nuggets
+1202,24,07-04-2022 21:00,Chase Center,Golden State Warriors,Los Angeles Lakers,128,112,Golden State Warriors
+1203,24,08-04-2022 18:00,Little Caesars Arena,Detroit Pistons,Milwaukee Bucks,101,131,Milwaukee Bucks
+1204,24,08-04-2022 18:00,Capital One Arena,Washington Wizards,New York Knicks,92,114,New York Knicks
+1205,24,08-04-2022 18:30,Barclays Center,Brooklyn Nets,Cleveland Cavaliers,118,107,Brooklyn Nets
+1206,24,08-04-2022 18:30,Scotiabank Arena,Toronto Raptors,Houston Rockets,117,115,Toronto Raptors
+1207,24,08-04-2022 19:00,FTX Arena,Miami Heat,Atlanta Hawks,113,109,Miami Heat
+1208,24,08-04-2022 19:00,United Center,Chicago Bulls,Charlotte Hornets,117,133,Charlotte Hornets
+1209,24,08-04-2022 19:30,American Airlines Center,Dallas Mavericks,Portland Trail Blazers,128,78,Dallas Mavericks
+1210,24,08-04-2022 20:30,Vivint Arena,Utah Jazz,Phoenix Suns,105,111,Phoenix Suns
+1211,24,08-04-2022 21:30,Crypto.com Arena,Los Angeles Lakers,Oklahoma City Thunder,120,101,Los Angeles Lakers
+1214,24,09-04-2022 12:00,Wells Fargo Center,Philadelphia 76ers,Indiana Pacers,133,120,Philadelphia 76ers
+1213,24,09-04-2022 17:00,FedExForum,Memphis Grizzlies,New Orleans Pelicans,141,114,Memphis Grizzlies
+1215,24,09-04-2022 19:30,AT&T Center,San Antonio Spurs,Golden State Warriors,94,100,Golden State Warriors
+1212,24,09-04-2022 20:30,Crypto.com Arena,LA Clippers,Sacramento Kings,117,98,LA Clippers
+1216,24,10-04-2022 14:30,Barclays Center,Brooklyn Nets,Indiana Pacers,134,126,Brooklyn Nets
+1217,24,10-04-2022 14:30,Spectrum Center,Charlotte Hornets,Washington Wizards,124,108,Charlotte Hornets
+1218,24,10-04-2022 14:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Milwaukee Bucks,133,115,Cleveland Cavaliers
+1221,24,10-04-2022 14:30,Toyota Center,Houston Rockets,Atlanta Hawks,114,130,Atlanta Hawks
+1223,24,10-04-2022 18:00,FedExForum,Memphis Grizzlies,Boston Celtics,110,139,Boston Celtics
+1226,24,10-04-2022 18:00,Madison Square Garden,New York Knicks,Toronto Raptors,105,94,New York Knicks
+1227,24,10-04-2022 18:00,Amway Center,Orlando Magic,Miami Heat,125,111,Orlando Magic
+1228,24,10-04-2022 18:00,Wells Fargo Center,Philadelphia 76ers,Detroit Pistons,118,106,Philadelphia 76ers
+1224,24,10-04-2022 19:30,Target Center,Minnesota Timberwolves,Chicago Bulls,120,124,Chicago Bulls
+1219,24,10-04-2022 20:30,American Airlines Center,Dallas Mavericks,San Antonio Spurs,130,120,Dallas Mavericks
+1220,24,10-04-2022 20:30,Ball Arena,Denver Nuggets,Los Angeles Lakers,141,146,Los Angeles Lakers
+1222,24,10-04-2022 20:30,Crypto.com Arena,LA Clippers,Oklahoma City Thunder,138,88,LA Clippers
+1225,24,10-04-2022 20:30,Smoothie King Center,New Orleans Pelicans,Golden State Warriors,107,128,Golden State Warriors
+1229,24,10-04-2022 20:30,Footprint Center,Phoenix Suns,Sacramento Kings,109,116,Sacramento Kings
+1230,24,10-04-2022 20:30,Moda Center,Portland Trail Blazers,Utah Jazz,80,111,Utah Jazz
