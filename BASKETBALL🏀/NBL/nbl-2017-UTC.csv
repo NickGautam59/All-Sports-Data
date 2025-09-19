@@ -1,0 +1,113 @@
+Match Number,Round Number,Date,Home Team,Away Team,Home Score,Away Score,Winner
+1,1,05-10-2017 08:30,Adelaide 36ers,Melbourne United,97,99,Melbourne United
+2,1,06-10-2017 08:30,Cairns Taipans,Illawarra Hawks,88,87,Cairns Taipans
+3,1,07-10-2017 08:30,Sydney Kings,Adelaide 36ers,96,105,Adelaide 36ers
+4,1,07-10-2017 09:30,Perth Wildcats,Brisbane Bullets,96,86,Perth Wildcats
+5,1,08-10-2017 04:00,New Zealand Breakers,Cairns Taipans,71,82,Cairns Taipans
+6,2,12-10-2017 08:30,Cairns Taipans,Adelaide 36ers,70,96,Adelaide 36ers
+7,2,13-10-2017 06:30,New Zealand Breakers,Sydney Kings,87,85,New Zealand Breakers
+8,2,13-10-2017 10:30,Perth Wildcats,Illawarra Hawks,74,64,Perth Wildcats
+9,2,14-10-2017 06:30,Adelaide 36ers,Melbourne United,79,99,Melbourne United
+11,2,15-10-2017 04:00,Sydney Kings,Illawarra Hawks,103,87,Sydney Kings
+12,3,19-10-2017 06:30,New Zealand Breakers,Sydney Kings,90,73,New Zealand Breakers
+13,3,20-10-2017 08:30,Brisbane Bullets,Cairns Taipans,83,78,Brisbane Bullets
+14,3,20-10-2017 10:30,Perth Wildcats,Melbourne United,89,84,Perth Wildcats
+15,3,21-10-2017 06:30,Adelaide 36ers,Sydney Kings,114,84,Adelaide 36ers
+18,3,22-10-2017 04:00,Melbourne United,New Zealand Breakers,76,88,New Zealand Breakers
+17,3,22-10-2017 06:00,Illawarra Hawks,Brisbane Bullets,105,96,Illawarra Hawks
+16,3,22-10-2017 08:00,Cairns Taipans,Perth Wildcats,90,69,Cairns Taipans
+19,4,26-10-2017 08:30,Brisbane Bullets,New Zealand Breakers,96,101,New Zealand Breakers
+20,4,26-10-2017 10:30,Perth Wildcats,Illawarra Hawks,105,74,Perth Wildcats
+21,4,27-10-2017 08:30,Cairns Taipans,Adelaide 36ers,80,84,Adelaide 36ers
+22,4,28-10-2017 06:30,Brisbane Bullets,Melbourne United,87,85,Brisbane Bullets
+23,4,29-10-2017 04:00,Illawarra Hawks,Sydney Kings,94,99,Sydney Kings
+25,5,02-11-2017 06:30,New Zealand Breakers,Adelaide 36ers,92,88,New Zealand Breakers
+24,5,02-11-2017 08:30,Melbourne United,Cairns Taipans,87,65,Melbourne United
+26,5,03-11-2017 08:30,Brisbane Bullets,Illawarra Hawks,81,112,Illawarra Hawks
+27,5,03-11-2017 10:30,Perth Wildcats,Sydney Kings,93,69,Perth Wildcats
+29,5,04-11-2017 06:30,Melbourne United,Adelaide 36ers,101,84,Melbourne United
+28,5,04-11-2017 08:30,Cairns Taipans,New Zealand Breakers,70,73,New Zealand Breakers
+30,5,05-11-2017 04:00,Sydney Kings,Illawarra Hawks,83,93,Illawarra Hawks
+32,6,09-11-2017 06:30,New Zealand Breakers,Perth Wildcats,88,84,New Zealand Breakers
+31,6,09-11-2017 08:30,Cairns Taipans,Melbourne United,92,69,Cairns Taipans
+34,6,11-11-2017 06:30,Melbourne United,Sydney Kings,108,90,Melbourne United
+33,6,11-11-2017 08:30,Adelaide 36ers,Illawarra Hawks,87,96,Illawarra Hawks
+35,6,12-11-2017 04:00,Brisbane Bullets,Cairns Taipans,82,74,Brisbane Bullets
+36,6,12-11-2017 08:00,Perth Wildcats,New Zealand Breakers,82,88,New Zealand Breakers
+37,7,16-11-2017 08:30,Illawarra Hawks,Sydney Kings,97,93,Illawarra Hawks
+38,7,17-11-2017 08:30,Brisbane Bullets,Perth Wildcats,85,90,Perth Wildcats
+39,7,18-11-2017 06:30,Adelaide 36ers,Sydney Kings,108,93,Adelaide 36ers
+40,7,18-11-2017 08:30,Cairns Taipans,Illawarra Hawks,87,66,Cairns Taipans
+42,7,19-11-2017 02:00,New Zealand Breakers,Brisbane Bullets,90,82,New Zealand Breakers
+41,7,19-11-2017 04:00,Melbourne United,Perth Wildcats,59,91,Perth Wildcats
+43,8,30-11-2017 08:30,Sydney Kings,Cairns Taipans,81,72,Sydney Kings
+44,8,01-12-2017 06:30,New Zealand Breakers,Perth Wildcats,73,89,Perth Wildcats
+45,8,02-12-2017 08:30,Adelaide 36ers,Brisbane Bullets,84,83,Adelaide 36ers
+46,8,02-12-2017 08:30,Cairns Taipans,Sydney Kings,80,71,Cairns Taipans
+10,8,03-12-2017 04:00,Brisbane Bullets,New Zealand Breakers,81,76,Brisbane Bullets
+47,8,04-12-2017 08:30,Melbourne United,Illawarra Hawks,91,73,Melbourne United
+48,9,07-12-2017 06:30,New Zealand Breakers,Brisbane Bullets,96,89,New Zealand Breakers
+49,9,08-12-2017 10:30,Perth Wildcats,Adelaide 36ers,88,79,Perth Wildcats
+51,9,09-12-2017 06:30,Sydney Kings,Brisbane Bullets,77,85,Brisbane Bullets
+50,9,09-12-2017 08:30,Cairns Taipans,Melbourne United,79,70,Cairns Taipans
+53,9,10-12-2017 04:00,Illawarra Hawks,Perth Wildcats,91,99,Perth Wildcats
+52,9,10-12-2017 06:00,Adelaide 36ers,New Zealand Breakers,95,92,Adelaide 36ers
+54,9,11-12-2017 08:30,Melbourne United,Sydney Kings,95,69,Melbourne United
+55,10,14-12-2017 08:30,Cairns Taipans,Brisbane Bullets,74,75,Brisbane Bullets
+56,10,15-12-2017 06:30,New Zealand Breakers,Adelaide 36ers,75,90,Adelaide 36ers
+58,10,16-12-2017 06:30,Perth Wildcats,Brisbane Bullets,76,82,Brisbane Bullets
+57,10,16-12-2017 08:30,Illawarra Hawks,Melbourne United,78,84,Melbourne United
+59,10,17-12-2017 04:00,Sydney Kings,Cairns Taipans,88,69,Sydney Kings
+60,11,21-12-2017 08:30,Sydney Kings,New Zealand Breakers,95,98,New Zealand Breakers
+61,11,22-12-2017 08:30,Melbourne United,Adelaide 36ers,99,91,Melbourne United
+62,11,23-12-2017 06:30,Brisbane Bullets,Sydney Kings,95,101,Sydney Kings
+63,11,23-12-2017 08:30,Illawarra Hawks,Perth Wildcats,96,84,Illawarra Hawks
+64,11,24-12-2017 04:00,Adelaide 36ers,Cairns Taipans,75,94,Cairns Taipans
+65,12,26-12-2017 08:30,Melbourne United,Brisbane Bullets,69,68,Melbourne United
+66,12,28-12-2017 08:30,Illawarra Hawks,Cairns Taipans,106,102,Illawarra Hawks
+67,12,29-12-2017 08:30,Adelaide 36ers,New Zealand Breakers,88,85,Adelaide 36ers
+68,12,30-12-2017 08:30,Sydney Kings,Melbourne United,79,103,Melbourne United
+70,12,31-12-2017 04:00,Illawarra Hawks,Brisbane Bullets,104,82,Illawarra Hawks
+69,12,31-12-2017 08:00,Cairns Taipans,Perth Wildcats,68,83,Perth Wildcats
+71,13,04-01-2018 08:30,Adelaide 36ers,Perth Wildcats,97,86,Adelaide 36ers
+72,13,05-01-2018 08:30,Cairns Taipans,Brisbane Bullets,83,80,Cairns Taipans
+74,13,06-01-2018 06:30,Sydney Kings,Perth Wildcats,68,76,Perth Wildcats
+73,13,06-01-2018 08:30,Illawarra Hawks,Melbourne United,77,79,Melbourne United
+76,13,07-01-2018 02:00,New Zealand Breakers,Cairns Taipans,82,69,New Zealand Breakers
+75,13,07-01-2018 04:00,Brisbane Bullets,Adelaide 36ers,84,95,Adelaide 36ers
+77,14,11-01-2018 08:30,Adelaide 36ers,Cairns Taipans,100,90,Adelaide 36ers
+78,14,12-01-2018 08:30,Perth Wildcats,Melbourne United,80,82,Melbourne United
+80,14,13-01-2018 06:30,Sydney Kings,Adelaide 36ers,101,104,Adelaide 36ers
+79,14,13-01-2018 08:30,Illawarra Hawks,New Zealand Breakers,90,79,Illawarra Hawks
+81,14,14-01-2018 04:00,Brisbane Bullets,Perth Wildcats,80,81,Perth Wildcats
+89,15,18-01-2018 06:30,New Zealand Breakers,Melbourne United,98,81,New Zealand Breakers
+83,15,19-01-2018 08:30,Adelaide 36ers,Illawarra Hawks,112,90,Adelaide 36ers
+84,15,19-01-2018 10:30,Perth Wildcats,Sydney Kings,77,84,Sydney Kings
+85,15,20-01-2018 06:30,Brisbane Bullets,Melbourne United,98,105,Melbourne United
+86,15,20-01-2018 08:30,Cairns Taipans,New Zealand Breakers,81,71,Cairns Taipans
+88,15,21-01-2018 04:00,Sydney Kings,Perth Wildcats,84,56,Sydney Kings
+87,15,21-01-2018 06:00,Illawarra Hawks,Adelaide 36ers,93,112,Adelaide 36ers
+82,16,24-01-2018 08:30,Melbourne United,Cairns Taipans,79,68,Melbourne United
+90,16,27-01-2018 06:30,Brisbane Bullets,Adelaide 36ers,95,90,Brisbane Bullets
+91,16,27-01-2018 09:30,Perth Wildcats,New Zealand Breakers,90,76,Perth Wildcats
+93,16,28-01-2018 04:00,Sydney Kings,Melbourne United,76,93,Melbourne United
+92,16,28-01-2018 06:00,Illawarra Hawks,Cairns Taipans,88,78,Illawarra Hawks
+94,17,02-02-2018 08:30,Illawarra Hawks,New Zealand Breakers,73,77,New Zealand Breakers
+95,17,02-02-2018 10:30,Perth Wildcats,Adelaide 36ers,111,90,Perth Wildcats
+97,17,03-02-2018 06:30,Melbourne United,Brisbane Bullets,69,61,Melbourne United
+96,17,03-02-2018 08:30,Cairns Taipans,Sydney Kings,86,93,Sydney Kings
+99,17,04-02-2018 02:00,New Zealand Breakers,Illawarra Hawks,88,84,New Zealand Breakers
+98,17,04-02-2018 04:00,Adelaide 36ers,Perth Wildcats,94,82,Adelaide 36ers
+100,18,08-02-2018 08:30,Brisbane Bullets,Illawarra Hawks,99,91,Brisbane Bullets
+101,18,09-02-2018 08:30,Melbourne United,New Zealand Breakers,89,83,Melbourne United
+102,18,09-02-2018 10:30,Perth Wildcats,Cairns Taipans,83,85,Cairns Taipans
+103,18,10-02-2018 06:30,Sydney Kings,Brisbane Bullets,92,80,Sydney Kings
+105,18,11-02-2018 02:00,New Zealand Breakers,Melbourne United,82,100,Melbourne United
+104,18,11-02-2018 04:00,Illawarra Hawks,Adelaide 36ers,87,111,Adelaide 36ers
+106,19,15-02-2018 08:30,Brisbane Bullets,Sydney Kings,73,90,Sydney Kings
+108,19,16-02-2018 06:30,New Zealand Breakers,Illawarra Hawks,82,84,Illawarra Hawks
+107,19,16-02-2018 08:30,Melbourne United,Perth Wildcats,97,85,Melbourne United
+109,19,17-02-2018 06:30,Adelaide 36ers,Brisbane Bullets,105,82,Adelaide 36ers
+110,19,18-02-2018 04:00,Melbourne United,Illawarra Hawks,84,94,Illawarra Hawks
+112,19,18-02-2018 06:00,Sydney Kings,New Zealand Breakers,101,86,Sydney Kings
+111,19,18-02-2018 08:00,Perth Wildcats,Cairns Taipans,89,61,Perth Wildcats

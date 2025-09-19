@@ -1,0 +1,141 @@
+Match Number,Round Number,Date,Home Team,Away Team,Home Score,Away Score,Winner
+2,1,01-10-2022 08:00,South East Melbourne Phoenix,Tasmania JackJumpers,84,79,South East Melbourne Phoenix
+1,1,01-10-2022 10:00,Illawarra Hawks,Sydney Kings,97,106,Sydney Kings
+3,1,02-10-2022 03:00,Melbourne United,New Zealand Breakers,101,97,Melbourne United
+4,1,02-10-2022 05:00,Perth Wildcats,Brisbane Bullets,87,73,Perth Wildcats
+5,1,03-10-2022 08:30,Tasmania JackJumpers,Cairns Taipans,84,106,Cairns Taipans
+8,2,06-10-2022 08:30,Illawarra Hawks,South East Melbourne Phoenix,85,72,Illawarra Hawks
+9,2,07-10-2022 06:30,New Zealand Breakers,Tasmania JackJumpers,71,65,New Zealand Breakers
+10,2,07-10-2022 08:30,Sydney Kings,Brisbane Bullets,100,90,Sydney Kings
+11,2,08-10-2022 06:30,South East Melbourne Phoenix,Cairns Taipans,76,85,Cairns Taipans
+12,2,08-10-2022 09:00,Perth Wildcats,Illawarra Hawks,77,71,Perth Wildcats
+13,2,09-10-2022 03:00,Tasmania JackJumpers,Brisbane Bullets,90,86,Tasmania JackJumpers
+6,2,09-10-2022 05:00,Melbourne United,Sydney Kings,71,91,Sydney Kings
+7,2,10-10-2022 08:30,Cairns Taipans,Perth Wildcats,76,103,Perth Wildcats
+14,3,13-10-2022 08:30,Adelaide 36ers,Tasmania JackJumpers,72,97,Tasmania JackJumpers
+15,3,14-10-2022 08:30,Sydney Kings,Cairns Taipans,78,83,Cairns Taipans
+16,3,14-10-2022 10:30,Perth Wildcats,Melbourne United,81,84,Melbourne United
+21,3,15-10-2022 06:30,Adelaide 36ers,Illawarra Hawks,90,80,Adelaide 36ers
+17,3,15-10-2022 09:00,South East Melbourne Phoenix,New Zealand Breakers,77,85,New Zealand Breakers
+18,3,16-10-2022 03:00,Melbourne United,Tasmania JackJumpers,64,74,Tasmania JackJumpers
+19,3,16-10-2022 05:00,Brisbane Bullets,Sydney Kings,85,102,Sydney Kings
+20,3,17-10-2022 08:30,Illawarra Hawks,New Zealand Breakers,62,88,New Zealand Breakers
+22,4,20-10-2022 06:30,New Zealand Breakers,South East Melbourne Phoenix,77,99,South East Melbourne Phoenix
+23,4,20-10-2022 08:30,Melbourne United,Cairns Taipans,77,81,Cairns Taipans
+24,4,21-10-2022 08:30,Sydney Kings,Adelaide 36ers,88,92,Adelaide 36ers
+25,4,22-10-2022 06:30,South East Melbourne Phoenix,Brisbane Bullets,89,88,South East Melbourne Phoenix
+26,4,22-10-2022 09:00,Tasmania JackJumpers,Perth Wildcats,103,72,Tasmania JackJumpers
+27,4,23-10-2022 03:00,Cairns Taipans,New Zealand Breakers,64,68,New Zealand Breakers
+28,4,23-10-2022 05:00,Melbourne United,Sydney Kings,69,87,Sydney Kings
+29,4,24-10-2022 08:30,Illawarra Hawks,Brisbane Bullets,56,82,Brisbane Bullets
+36,5,27-10-2022 08:30,Brisbane Bullets,Illawarra Hawks,86,61,Brisbane Bullets
+37,5,28-10-2022 08:30,Adelaide 36ers,New Zealand Breakers,70,99,New Zealand Breakers
+30,5,28-10-2022 10:30,Perth Wildcats,South East Melbourne Phoenix,90,91,South East Melbourne Phoenix
+31,5,29-10-2022 06:30,Illawarra Hawks,Melbourne United,100,106,Melbourne United
+32,5,29-10-2022 09:00,Sydney Kings,Cairns Taipans,106,103,Sydney Kings
+33,5,30-10-2022 03:00,New Zealand Breakers,Tasmania JackJumpers,94,62,New Zealand Breakers
+34,5,30-10-2022 05:00,South East Melbourne Phoenix,Adelaide 36ers,103,98,South East Melbourne Phoenix
+35,5,31-10-2022 08:30,Melbourne United,Perth Wildcats,94,77,Melbourne United
+41,6,03-11-2022 08:30,Illawarra Hawks,Adelaide 36ers,80,96,Adelaide 36ers
+42,6,03-11-2022 10:30,Perth Wildcats,Tasmania JackJumpers,77,85,Tasmania JackJumpers
+43,6,04-11-2022 08:30,Cairns Taipans,Melbourne United,97,72,Cairns Taipans
+44,6,05-11-2022 06:30,Tasmania JackJumpers,Brisbane Bullets,72,74,Brisbane Bullets
+38,6,05-11-2022 09:00,Adelaide 36ers,Perth Wildcats,89,94,Perth Wildcats
+39,6,06-11-2022 03:00,New Zealand Breakers,Sydney Kings,77,81,Sydney Kings
+40,6,06-11-2022 05:00,Melbourne United,South East Melbourne Phoenix,110,85,Melbourne United
+45,7,17-11-2022 08:30,Melbourne United,Adelaide 36ers,86,91,Adelaide 36ers
+46,7,17-11-2022 10:30,Perth Wildcats,South East Melbourne Phoenix,103,96,Perth Wildcats
+47,7,18-11-2022 08:30,Tasmania JackJumpers,New Zealand Breakers,76,84,New Zealand Breakers
+48,7,19-11-2022 06:30,South East Melbourne Phoenix,Melbourne United,84,69,South East Melbourne Phoenix
+49,7,19-11-2022 09:00,Brisbane Bullets,Cairns Taipans,82,90,Cairns Taipans
+50,7,20-11-2022 03:00,New Zealand Breakers,Adelaide 36ers,89,83,New Zealand Breakers
+51,7,20-11-2022 05:00,Sydney Kings,Illawarra Hawks,83,82,Sydney Kings
+52,8,24-11-2022 10:30,Perth Wildcats,Adelaide 36ers,82,96,Adelaide 36ers
+53,8,25-11-2022 08:30,Cairns Taipans,New Zealand Breakers,71,82,New Zealand Breakers
+54,8,26-11-2022 09:00,Melbourne United,Tasmania JackJumpers,90,94,Tasmania JackJumpers
+55,8,27-11-2022 03:00,New Zealand Breakers,Brisbane Bullets,116,79,New Zealand Breakers
+56,8,27-11-2022 05:00,South East Melbourne Phoenix,Illawarra Hawks,112,78,South East Melbourne Phoenix
+57,8,28-11-2022 08:30,Cairns Taipans,Sydney Kings,94,88,Cairns Taipans
+58,9,01-12-2022 06:30,New Zealand Breakers,South East Melbourne Phoenix,110,84,New Zealand Breakers
+59,9,01-12-2022 08:30,Brisbane Bullets,Perth Wildcats,106,95,Brisbane Bullets
+60,9,02-12-2022 08:30,Adelaide 36ers,Cairns Taipans,78,75,Adelaide 36ers
+61,9,03-12-2022 06:30,New Zealand Breakers,Perth Wildcats,84,92,Perth Wildcats
+62,9,03-12-2022 09:00,South East Melbourne Phoenix,Melbourne United,78,72,South East Melbourne Phoenix
+63,9,04-12-2022 03:00,Sydney Kings,Adelaide 36ers,97,78,Sydney Kings
+64,9,04-12-2022 05:00,Brisbane Bullets,Tasmania JackJumpers,84,99,Tasmania JackJumpers
+65,9,05-12-2022 08:30,Illawarra Hawks,Melbourne United,93,79,Illawarra Hawks
+68,10,08-12-2022 06:30,New Zealand Breakers,Sydney Kings,81,88,Sydney Kings
+69,10,08-12-2022 08:30,South East Melbourne Phoenix,Illawarra Hawks,111,72,South East Melbourne Phoenix
+70,10,09-12-2022 08:30,Adelaide 36ers,Perth Wildcats,90,98,Perth Wildcats
+71,10,10-12-2022 06:30,Cairns Taipans,Illawarra Hawks,102,101,Cairns Taipans
+72,10,10-12-2022 09:00,Melbourne United,Brisbane Bullets,104,88,Melbourne United
+73,10,11-12-2022 03:00,South East Melbourne Phoenix,Adelaide 36ers,102,84,South East Melbourne Phoenix
+66,10,11-12-2022 05:00,Sydney Kings,Tasmania JackJumpers,76,84,Tasmania JackJumpers
+67,10,12-12-2022 10:30,Perth Wildcats,Melbourne United,90,89,Perth Wildcats
+76,11,14-12-2022 08:30,Cairns Taipans,Brisbane Bullets,85,76,Cairns Taipans
+77,11,15-12-2022 08:30,Melbourne United,South East Melbourne Phoenix,92,76,Melbourne United
+78,11,16-12-2022 08:30,Illawarra Hawks,Sydney Kings,79,86,Sydney Kings
+80,11,17-12-2022 06:30,Tasmania JackJumpers,Cairns Taipans,82,91,Cairns Taipans
+81,11,17-12-2022 09:00,Adelaide 36ers,Brisbane Bullets,108,77,Adelaide 36ers
+82,11,18-12-2022 03:00,South East Melbourne Phoenix,Sydney Kings,113,112,South East Melbourne Phoenix
+83,11,18-12-2022 05:00,Melbourne United,Illawarra Hawks,88,77,Melbourne United
+74,11,19-12-2022 08:30,Adelaide 36ers,Tasmania JackJumpers,93,82,Adelaide 36ers
+75,11,20-12-2022 08:30,Cairns Taipans,Perth Wildcats,83,105,Perth Wildcats
+84,12,21-12-2022 08:30,Brisbane Bullets,South East Melbourne Phoenix,77,104,South East Melbourne Phoenix
+85,12,22-12-2022 08:30,Tasmania JackJumpers,Illawarra Hawks,87,60,Tasmania JackJumpers
+86,12,23-12-2022 08:30,Melbourne United,Cairns Taipans,84,81,Melbourne United
+87,12,24-12-2022 06:30,Adelaide 36ers,South East Melbourne Phoenix,94,88,Adelaide 36ers
+88,12,25-12-2022 07:30,Sydney Kings,Melbourne United,101,80,Sydney Kings
+89,12,26-12-2022 08:30,Tasmania JackJumpers,New Zealand Breakers,93,82,Tasmania JackJumpers
+90,12,27-12-2022 08:30,Brisbane Bullets,Perth Wildcats,97,93,Brisbane Bullets
+97,13,29-12-2022 08:30,Adelaide 36ers,Brisbane Bullets,87,84,Adelaide 36ers
+91,13,30-12-2022 08:30,Sydney Kings,Tasmania JackJumpers,97,77,Sydney Kings
+93,13,31-12-2022 06:30,Illawarra Hawks,Perth Wildcats,97,107,Perth Wildcats
+92,13,31-12-2022 09:00,Cairns Taipans,Adelaide 36ers,86,83,Cairns Taipans
+94,13,01-01-2023 03:00,Tasmania JackJumpers,South East Melbourne Phoenix,99,74,Tasmania JackJumpers
+95,13,01-01-2023 05:00,Brisbane Bullets,Melbourne United,86,99,Melbourne United
+96,13,02-01-2023 08:30,Illawarra Hawks,Cairns Taipans,89,96,Cairns Taipans
+102,14,04-01-2023 06:30,New Zealand Breakers,Perth Wildcats,97,94,New Zealand Breakers
+103,14,04-01-2023 08:30,Sydney Kings,South East Melbourne Phoenix,118,102,Sydney Kings
+104,14,05-01-2023 08:30,Brisbane Bullets,Cairns Taipans,81,107,Cairns Taipans
+105,14,06-01-2023 08:30,Adelaide 36ers,Illawarra Hawks,103,95,Adelaide 36ers
+98,14,07-01-2023 06:30,Tasmania JackJumpers,Melbourne United,85,92,Melbourne United
+99,14,07-01-2023 09:00,Sydney Kings,Perth Wildcats,108,87,Sydney Kings
+100,14,08-01-2023 03:00,Adelaide 36ers,New Zealand Breakers,83,85,New Zealand Breakers
+101,14,08-01-2023 05:00,Cairns Taipans,South East Melbourne Phoenix,94,85,Cairns Taipans
+106,15,10-01-2023 08:30,Illawarra Hawks,Tasmania JackJumpers,89,92,Tasmania JackJumpers
+79,15,10-01-2023 10:30,Perth Wildcats,New Zealand Breakers,93,90,Perth Wildcats
+107,15,11-01-2023 08:30,Brisbane Bullets,Sydney Kings,67,116,Sydney Kings
+108,15,12-01-2023 06:30,New Zealand Breakers,Melbourne United,65,77,Melbourne United
+109,15,12-01-2023 08:30,Tasmania JackJumpers,Adelaide 36ers,98,82,Tasmania JackJumpers
+110,15,13-01-2023 08:30,Cairns Taipans,Illawarra Hawks,89,84,Cairns Taipans
+111,15,14-01-2023 06:30,Brisbane Bullets,Melbourne United,91,101,Melbourne United
+112,15,14-01-2023 09:00,Perth Wildcats,Adelaide 36ers,112,97,Perth Wildcats
+113,15,15-01-2023 03:00,New Zealand Breakers,Cairns Taipans,83,85,Cairns Taipans
+114,15,15-01-2023 05:00,Sydney Kings,Illawarra Hawks,84,79,Sydney Kings
+115,15,16-01-2023 08:30,South East Melbourne Phoenix,Brisbane Bullets,79,84,Brisbane Bullets
+116,16,18-01-2023 08:30,Tasmania JackJumpers,South East Melbourne Phoenix,75,86,South East Melbourne Phoenix
+118,16,19-01-2023 06:30,New Zealand Breakers,Illawarra Hawks,76,78,Illawarra Hawks
+117,16,19-01-2023 08:30,Brisbane Bullets,Adelaide 36ers,106,101,Brisbane Bullets
+119,16,20-01-2023 08:30,Cairns Taipans,Tasmania JackJumpers,77,85,Tasmania JackJumpers
+120,16,20-01-2023 10:30,Perth Wildcats,Sydney Kings,111,104,Perth Wildcats
+121,16,21-01-2023 06:30,Illawarra Hawks,Brisbane Bullets,86,103,Brisbane Bullets
+122,16,21-01-2023 09:00,Adelaide 36ers,Melbourne United,87,94,Melbourne United
+123,16,22-01-2023 03:00,South East Melbourne Phoenix,Perth Wildcats,112,91,South East Melbourne Phoenix
+124,16,22-01-2023 05:00,Sydney Kings,New Zealand Breakers,88,93,New Zealand Breakers
+127,17,25-01-2023 08:30,South East Melbourne Phoenix,Cairns Taipans,85,80,South East Melbourne Phoenix
+128,17,26-01-2023 08:30,Brisbane Bullets,New Zealand Breakers,71,99,New Zealand Breakers
+129,17,27-01-2023 08:30,Tasmania JackJumpers,Sydney Kings,77,91,Sydney Kings
+130,17,27-01-2023 10:30,Perth Wildcats,Illawarra Hawks,106,86,Perth Wildcats
+131,17,28-01-2023 06:30,New Zealand Breakers,Melbourne United,80,74,New Zealand Breakers
+132,17,28-01-2023 09:00,Cairns Taipans,Brisbane Bullets,94,87,Cairns Taipans
+133,17,29-01-2023 03:00,Tasmania JackJumpers,Perth Wildcats,102,94,Tasmania JackJumpers
+125,17,29-01-2023 05:00,Sydney Kings,South East Melbourne Phoenix,111,106,Sydney Kings
+126,17,30-01-2023 08:30,Cairns Taipans,Adelaide 36ers,96,99,Adelaide 36ers
+134,18,02-02-2023 08:30,Illawarra Hawks,New Zealand Breakers,81,91,New Zealand Breakers
+135,18,03-02-2023 08:30,Adelaide 36ers,Sydney Kings,115,108,Adelaide 36ers
+136,18,03-02-2023 10:30,Perth Wildcats,Cairns Taipans,71,84,Cairns Taipans
+137,18,04-02-2023 06:30,Illawarra Hawks,Tasmania JackJumpers,63,87,Tasmania JackJumpers
+138,18,04-02-2023 09:00,Brisbane Bullets,New Zealand Breakers,75,80,New Zealand Breakers
+139,18,05-02-2023 03:00,Melbourne United,Adelaide 36ers,116,107,Melbourne United
+140,18,05-02-2023 05:00,Perth Wildcats,Sydney Kings,96,84,Perth Wildcats

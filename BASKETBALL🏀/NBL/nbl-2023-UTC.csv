@@ -1,0 +1,141 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+4,1,28/09/2023 09:30,John Cain Arena,Melbourne United,South East Melbourne Phoenix,82 - 67
+6,1,29/09/2023 09:30,Nissan Arena,Brisbane Bullets,Adelaide 36ers,86 - 71
+8,1,29/09/2023 11:30,RAC Arena,Perth Wildcats,Tasmania JackJumpers,101 - 95
+10,1,30/09/2023 07:30,Spark Arena,New Zealand Breakers,Cairns Taipans,98 - 87
+12,1,30/09/2023 10:00,WIN Entertainment Centre,Illawarra Hawks,Sydney Kings,81 - 96
+14,1,01/10/2023 03:00,Adelaide Entertainment Centre,Adelaide 36ers,Melbourne United,74 - 82
+16,1,01/10/2023 05:00,John Cain Arena,South East Melbourne Phoenix,Perth Wildcats,110 - 99
+2,2,05/10/2023 06:30,Spark Arena,New Zealand Breakers,Brisbane Bullets,84 - 89
+1,2,05/10/2023 08:30,Cairns Convention Centre,Cairns Taipans,South East Melbourne Phoenix,87 - 80
+3,2,06/10/2023 08:30,MyState Bank Arena,Tasmania JackJumpers,Sydney Kings,80 - 72
+5,2,06/10/2023 10:30,RAC Arena,Perth Wildcats,Adelaide 36ers,82 - 75
+7,2,07/10/2023 06:30,WIN Entertainment Centre,Illawarra Hawks,South East Melbourne Phoenix,113 - 106
+9,2,07/10/2023 09:00,Nissan Arena,Brisbane Bullets,Cairns Taipans,86 - 89
+11,2,08/10/2023 03:00,John Cain Arena,Melbourne United,Tasmania JackJumpers,75 - 80
+13,2,08/10/2023 05:00,Qudos Bank Arena,Sydney Kings,Adelaide 36ers,109 - 100
+15,3,12/10/2023 08:30,MyState Bank Arena,Tasmania JackJumpers,Illawarra Hawks,103 - 73
+17,3,13/10/2023 08:30,Nissan Arena,Brisbane Bullets,Sydney Kings,102 - 113
+18,3,13/10/2023 10:30,RAC Arena,Perth Wildcats,Melbourne United,81 - 88
+21,3,14/10/2023 06:30,Adelaide Entertainment Centre,Adelaide 36ers,Illawarra Hawks,89 - 80
+24,3,14/10/2023 09:00,John Cain Arena,South East Melbourne Phoenix,Tasmania JackJumpers,86 - 85
+27,3,15/10/2023 03:00,John Cain Arena,Melbourne United,Brisbane Bullets,89 - 78
+32,3,15/10/2023 05:00,Qudos Bank Arena,Sydney Kings,Perth Wildcats,99 - 86
+33,4,19/10/2023 08:30,Adelaide Entertainment Centre,Adelaide 36ers,South East Melbourne Phoenix,85 - 102
+36,4,20/10/2023 08:30,WIN Entertainment Centre,Illawarra Hawks,Melbourne United,91 - 101
+39,4,21/10/2023 06:30,John Cain Arena,South East Melbourne Phoenix,Brisbane Bullets,96 - 73
+42,4,21/10/2023 09:00,Adelaide Entertainment Centre,Adelaide 36ers,Perth Wildcats,89 - 78
+45,4,22/10/2023 03:00,John Cain Arena,Melbourne United,New Zealand Breakers,97 - 88
+19,4,22/10/2023 05:00,Qudos Bank Arena,Sydney Kings,Tasmania JackJumpers,95 - 105
+23,5,26/10/2023 06:30,Spark Arena,New Zealand Breakers,Adelaide 36ers,85 - 97
+25,5,26/10/2023 08:30,WIN Entertainment Centre,Illawarra Hawks,Cairns Taipans,84 - 83
+28,5,27/10/2023 08:30,MyState Bank Arena,Tasmania JackJumpers,Melbourne United,82 - 90
+30,5,27/10/2023 10:30,RAC Arena,Perth Wildcats,Brisbane Bullets,79 - 84
+34,5,28/10/2023 06:30,John Cain Arena,South East Melbourne Phoenix,New Zealand Breakers,103 - 100
+37,5,28/10/2023 09:00,Cairns Convention Centre,Cairns Taipans,Sydney Kings,87 - 80
+41,5,29/10/2023 03:00,John Cain Arena,Melbourne United,Illawarra Hawks,96 - 84
+44,5,29/10/2023 05:00,Nissan Arena,Brisbane Bullets,Tasmania JackJumpers,90 - 87
+46,6,02/11/2023 08:30,Nissan Arena,Brisbane Bullets,South East Melbourne Phoenix,108 - 92
+20,6,03/11/2023 06:30,Wolfbrook Arena,New Zealand Breakers,Cairns Taipans,91 - 81
+22,6,03/11/2023 08:30,WIN Entertainment Centre,Illawarra Hawks,Sydney Kings,83 - 103
+26,6,04/11/2023 06:30,Silverdome,Tasmania JackJumpers,Brisbane Bullets,87 - 85
+29,6,04/11/2023 09:00,RAC Arena,Perth Wildcats,Adelaide 36ers,99 - 88
+31,6,05/11/2023 03:00,John Cain Arena,South East Melbourne Phoenix,Cairns Taipans,91 - 78
+35,6,05/11/2023 05:00,Qudos Bank Arena,Sydney Kings,New Zealand Breakers,87 - 85
+38,6,06/11/2023 08:30,John Cain Arena,Melbourne United,Perth Wildcats,95 - 102
+40,7,10/11/2023 10:30,RAC Arena,Perth Wildcats,New Zealand Breakers,94 - 76
+43,7,11/11/2023 06:30,Cairns Convention Centre,Cairns Taipans,Illawarra Hawks,81 - 71
+47,7,11/11/2023 09:00,Adelaide Entertainment Centre,Adelaide 36ers,Tasmania JackJumpers,72 - 82
+48,7,12/11/2023 03:00,John Cain Arena,South East Melbourne Phoenix,Melbourne United,83 - 92
+52,7,12/11/2023 05:00,Qudos Bank Arena,Sydney Kings,Brisbane Bullets,104 - 95
+50,8,16/11/2023 08:30,Silverdome,Tasmania JackJumpers,New Zealand Breakers,92 - 97
+54,8,16/11/2023 10:30,RAC Arena,Perth Wildcats,Cairns Taipans,88 - 80
+56,8,17/11/2023 08:30,Adelaide Entertainment Centre,Adelaide 36ers,South East Melbourne Phoenix,96 - 93
+58,8,18/11/2023 06:30,Cairns Convention Centre,Cairns Taipans,Tasmania JackJumpers,87 - 90
+60,8,18/11/2023 09:00,Nissan Arena,Brisbane Bullets,Perth Wildcats,76 - 79
+62,8,19/11/2023 03:00,Spark Arena,New Zealand Breakers,Illawarra Hawks,65 - 69
+63,8,19/11/2023 05:00,John Cain Arena,Melbourne United,Sydney Kings,105 - 93
+66,9,30/11/2023 06:30,Wolfbrook Arena,New Zealand Breakers,Adelaide 36ers,96 - 83
+49,9,01/12/2023 08:30,Cairns Convention Centre,Cairns Taipans,Brisbane Bullets,79 - 84
+51,9,01/12/2023 10:30,RAC Arena,Perth Wildcats,Sydney Kings,114 - 105
+53,9,02/12/2023 06:30,John Cain Arena,South East Melbourne Phoenix,New Zealand Breakers,90 - 79
+55,9,02/12/2023 09:00,MyState Bank Arena,Tasmania JackJumpers,Adelaide 36ers,94 - 59
+57,9,03/12/2023 03:00,John Cain Arena,Melbourne United,Cairns Taipans,103 - 115
+59,9,03/12/2023 05:00,Nissan Arena,Brisbane Bullets,Illawarra Hawks,78 - 77
+61,10,07/12/2023 08:30,Cairns Convention Centre,Cairns Taipans,Sydney Kings,83 - 86
+64,10,08/12/2023 08:30,WIN Entertainment Centre,Illawarra Hawks,Perth Wildcats,100 - 82
+65,10,09/12/2023 06:30,Spark Arena,New Zealand Breakers,Tasmania JackJumpers,80 - 97
+67,10,09/12/2023 09:00,Adelaide Entertainment Centre,Adelaide 36ers,Cairns Taipans,101 - 116
+68,10,10/12/2023 03:00,John Cain Arena,Melbourne United,Brisbane Bullets,103 - 68
+69,10,10/12/2023 05:00,Qudos Bank Arena,Sydney Kings,South East Melbourne Phoenix,94 - 104
+70,11,14/12/2023 08:30,John Cain Arena,South East Melbourne Phoenix,Melbourne United,78 - 106
+71,11,15/12/2023 08:30,Cairns Convention Centre,Cairns Taipans,New Zealand Breakers,82 - 111
+72,11,15/12/2023 10:30,RAC Arena,Perth Wildcats,Tasmania JackJumpers,89 - 88
+73,11,16/12/2023 06:30,Gippsland Regional Indoor Sports Stadium,South East Melbourne Phoenix,Illawarra Hawks,72 - 100
+74,11,16/12/2023 09:00,John Cain Arena,Melbourne United,Adelaide 36ers,107 - 96
+75,11,17/12/2023 03:00,MyState Bank Arena,Tasmania JackJumpers,Sydney Kings,82 - 90
+76,11,17/12/2023 05:00,Nissan Arena,Brisbane Bullets,Cairns Taipans,101 - 102
+77,12,22/12/2023 06:30,Spark Arena,New Zealand Breakers,Sydney Kings,109 - 101
+80,12,22/12/2023 08:30,Cairns Convention Centre,Cairns Taipans,South East Melbourne Phoenix,94 - 75
+83,12,23/12/2023 06:30,WIN Entertainment Centre,Illawarra Hawks,Tasmania JackJumpers,89 - 100
+88,12,23/12/2023 09:00,John Cain Arena,Melbourne United,Perth Wildcats,109 - 103
+89,12,24/12/2023 03:00,Adelaide Entertainment Centre,Adelaide 36ers,Brisbane Bullets,95 - 88
+92,12,25/12/2023 06:30,MyState Bank Arena,Tasmania JackJumpers,South East Melbourne Phoenix,77 - 85
+95,12,25/12/2023 08:30,Qudos Bank Arena,Sydney Kings,Illawarra Hawks,90 - 94
+96,12,26/12/2023 08:30,Cairns Convention Centre,Cairns Taipans,Perth Wildcats,102 - 105
+78,12,27/12/2023 08:30,Nissan Arena,Brisbane Bullets,New Zealand Breakers,71 - 81
+82,13,28/12/2023 08:30,Adelaide Entertainment Centre,Adelaide 36ers,Perth Wildcats,82 - 100
+85,13,29/12/2023 08:30,Qudos Bank Arena,Sydney Kings,Cairns Taipans,101 - 82
+86,13,30/12/2023 09:00,Nissan Arena,Brisbane Bullets,South East Melbourne Phoenix,95 - 83
+90,13,31/12/2023 06:30,WIN Entertainment Centre,Illawarra Hawks,Adelaide 36ers,91 - 84
+93,13,31/12/2023 08:30,Cairns Convention Centre,Cairns Taipans,Melbourne United,95 - 78
+97,13,01/01/2024 05:00,MyState Bank Arena,Tasmania JackJumpers,New Zealand Breakers,93 - 98
+99,14,04/01/2024 08:30,Qudos Bank Arena,Sydney Kings,Melbourne United,85 - 101
+101,14,05/01/2024 08:30,WIN Entertainment Centre,Illawarra Hawks,South East Melbourne Phoenix,116 - 78
+103,14,06/01/2024 06:30,MyState Bank Arena,Tasmania JackJumpers,Cairns Taipans,103 - 86
+79,14,06/01/2024 09:00,Adelaide Entertainment Centre,Adelaide 36ers,Melbourne United,100 - 96
+81,14,07/01/2024 03:00,Spark Arena,New Zealand Breakers,Perth Wildcats,102 - 108
+84,14,07/01/2024 05:00,Qudos Bank Arena,Sydney Kings,Brisbane Bullets,93 - 101
+87,15,10/01/2024 08:30,Nissan Arena,Brisbane Bullets,Tasmania JackJumpers,80 - 77
+91,15,11/01/2024 08:30,Adelaide Entertainment Centre,Adelaide 36ers,Sydney Kings,95 - 82
+94,15,12/01/2024 06:30,TSB Stadium,New Zealand Breakers,Melbourne United,81 - 82
+98,15,12/01/2024 08:30,MyState Bank Arena,Tasmania JackJumpers,Illawarra Hawks,107 - 108
+100,15,13/01/2024 06:30,Cairns Convention Centre,Cairns Taipans,Adelaide 36ers,111 - 101
+102,15,13/01/2024 09:00,RAC Arena,Perth Wildcats,South East Melbourne Phoenix,100 - 79
+104,15,14/01/2024 03:00,Nissan Arena,Brisbane Bullets,Illawarra Hawks,110 - 103
+105,15,14/01/2024 05:00,Qudos Bank Arena,Sydney Kings,New Zealand Breakers,105 - 76
+106,16,17/01/2024 08:30,State Basketball Centre,South East Melbourne Phoenix,Adelaide 36ers,85 - 110
+107,16,18/01/2024 08:30,WIN Entertainment Centre,Illawarra Hawks,Cairns Taipans,92 - 93
+108,16,19/01/2024 08:30,MyState Bank Arena,Tasmania JackJumpers,Melbourne United,107 - 86
+109,16,19/01/2024 10:30,RAC Arena,Perth Wildcats,Brisbane Bullets,118 - 86
+110,16,20/01/2024 06:30,Spark Arena,New Zealand Breakers,South East Melbourne Phoenix,106 - 75
+111,16,20/01/2024 09:00,WIN Entertainment Centre,Illawarra Hawks,Adelaide 36ers,89 - 96
+112,16,21/01/2024 03:00,Qudos Bank Arena,Sydney Kings,Perth Wildcats,98 - 104
+113,16,21/01/2024 05:00,Cairns Convention Centre,Cairns Taipans,Brisbane Bullets,84 - 102
+114,17,25/01/2024 08:30,State Basketball Centre,South East Melbourne Phoenix,Sydney Kings,104 - 98
+116,17,25/01/2024 10:30,RAC Arena,Perth Wildcats,Illawarra Hawks,77 - 95
+118,17,26/01/2024 06:30,Eventfinda Stadium,New Zealand Breakers,Tasmania JackJumpers,94 - 88
+120,17,26/01/2024 08:30,Nissan Arena,Brisbane Bullets,Melbourne United,77 - 93
+122,17,27/01/2024 06:30,Adelaide Entertainment Centre,Adelaide 36ers,Cairns Taipans,88 - 71
+124,17,27/01/2024 09:00,State Basketball Centre,South East Melbourne Phoenix,Perth Wildcats,91 - 103
+125,17,28/01/2024 03:00,WIN Entertainment Centre,Illawarra Hawks,New Zealand Breakers,89 - 85
+128,17,28/01/2024 05:00,Qudos Bank Arena,Sydney Kings,Melbourne United,98 - 86
+130,18,01/02/2024 08:30,Cairns Convention Centre,Cairns Taipans,Tasmania JackJumpers,86 - 94
+132,18,02/02/2024 08:30,Adelaide Entertainment Centre,Adelaide 36ers,Sydney Kings,85 - 78
+133,18,03/02/2024 06:30,WIN Entertainment Centre,Illawarra Hawks,Brisbane Bullets,89 - 76
+115,18,03/02/2024 09:00,John Cain Arena,Melbourne United,South East Melbourne Phoenix,99 - 83
+117,18,04/02/2024 03:00,MyState Bank Arena,Tasmania JackJumpers,Adelaide 36ers,109 - 86
+119,18,04/02/2024 05:00,RAC Arena,Perth Wildcats,New Zealand Breakers,78 - 89
+121,19,09/02/2024 06:30,Spark Arena,New Zealand Breakers,Illawarra Hawks,88 - 85
+123,19,09/02/2024 08:30,Nissan Arena,Brisbane Bullets,Adelaide 36ers,102 - 84
+126,19,10/02/2024 06:30,John Cain Arena,South East Melbourne Phoenix,Tasmania JackJumpers,67 - 94
+127,19,10/02/2024 09:00,RAC Arena,Perth Wildcats,Cairns Taipans,117 - 88
+129,19,11/02/2024 03:00,John Cain Arena,Melbourne United,New Zealand Breakers,94 - 81
+131,19,11/02/2024 05:00,Qudos Bank Arena,Sydney Kings,Illawarra Hawks,95 - 106
+134,20,15/02/2024 08:30,WIN Entertainment Centre,Illawarra Hawks,Perth Wildcats,108 - 92
+135,20,16/02/2024 06:30,Spark Arena,New Zealand Breakers,Brisbane Bullets,103 - 87
+136,20,16/02/2024 08:30,Cairns Convention Centre,Cairns Taipans,Melbourne United,97 - 88
+137,20,17/02/2024 06:30,John Cain Arena,South East Melbourne Phoenix,Sydney Kings,67 - 122
+138,20,17/02/2024 09:00,MyState Bank Arena,Tasmania JackJumpers,Perth Wildcats,86 - 72
+139,20,18/02/2024 03:00,John Cain Arena,Melbourne United,Illawarra Hawks,92 - 87
+140,20,18/02/2024 05:00,Adelaide Entertainment Centre,Adelaide 36ers,New Zealand Breakers,76 - 70
