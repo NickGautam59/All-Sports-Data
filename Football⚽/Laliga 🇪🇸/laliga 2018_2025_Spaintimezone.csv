@@ -1,0 +1,2661 @@
+Match Number,Round Number,Date,Home Team,Away Team,Result,Home Score,Away Score
+1,1,17/08/2018,Girona FC,R. Valladolid CF,Draw,0,0
+2,1,17/08/2018,Real Betis,Levante UD,Levante UD,0,3
+3,1,18/08/2018,RC Celta,RCD Espanyol,Draw,1,1
+4,1,18/08/2018,Villarreal CF,Real Sociedad,Real Sociedad,1,2
+5,1,18/08/2018,FC Barcelona,D. Alavés,FC Barcelona,3,0
+6,1,19/08/2018,SD Eibar,SD Huesca,SD Huesca,1,2
+7,1,19/08/2018,Rayo Vallecano,Sevilla FC,Sevilla FC,1,4
+8,1,19/08/2018,Real Madrid,Getafe CF,Real Madrid,2,0
+9,1,20/08/2018,Valencia CF,Atlético de Madrid,Draw,1,1
+10,1,20/08/2018,Athletic Club,CD Leganés,Athletic Club,2,1
+11,2,24/08/2018,Getafe CF,SD Eibar,Getafe CF,2,0
+12,2,24/08/2018,CD Leganés,Real Sociedad,Draw,2,2
+13,2,25/08/2018,D. Alavés,Real Betis,Draw,0,0
+14,2,25/08/2018,Atlético de Madrid,Rayo Vallecano,Atlético de Madrid,1,0
+15,2,25/08/2018,R. Valladolid CF,FC Barcelona,FC Barcelona,0,1
+16,2,26/08/2018,RCD Espanyol,Valencia CF,RCD Espanyol,2,0
+17,2,26/08/2018,Sevilla FC,Villarreal CF,Draw,0,0
+18,2,26/08/2018,Girona FC,Real Madrid,Real Madrid,1,4
+19,2,27/08/2018,Levante UD,RC Celta,RC Celta,1,2
+20,2,27/08/2018,Athletic Club,SD Huesca,Draw,2,2
+21,3,31/08/2018,Getafe CF,R. Valladolid CF,Draw,0,0
+22,3,31/08/2018,SD Eibar,Real Sociedad,SD Eibar,2,1
+23,3,31/08/2018,Villarreal CF,Girona FC,Girona FC,0,1
+24,3,01/09/2018,RC Celta,Atlético de Madrid,RC Celta,2,0
+26,3,01/09/2018,Real Madrid,CD Leganés,Real Madrid,4,1
+27,3,02/09/2018,Levante UD,Valencia CF,Draw,2,2
+28,3,02/09/2018,D. Alavés,RCD Espanyol,D. Alavés,2,1
+29,3,02/09/2018,FC Barcelona,SD Huesca,FC Barcelona,8,2
+30,3,02/09/2018,Real Betis,Sevilla FC,Real Betis,1,0
+31,4,14/09/2018,SD Huesca,Rayo Vallecano,Rayo Vallecano,0,1
+32,4,15/09/2018,Atlético de Madrid,SD Eibar,Draw,1,1
+33,4,15/09/2018,Real Sociedad,FC Barcelona,FC Barcelona,1,2
+34,4,15/09/2018,Valencia CF,Real Betis,Draw,0,0
+35,4,15/09/2018,Athletic Club,Real Madrid,Draw,1,1
+36,4,16/09/2018,CD Leganés,Villarreal CF,Villarreal CF,0,1
+37,4,16/09/2018,RCD Espanyol,Levante UD,RCD Espanyol,1,0
+38,4,16/09/2018,R. Valladolid CF,D. Alavés,D. Alavés,0,1
+39,4,16/09/2018,Sevilla FC,Getafe CF,Getafe CF,0,2
+40,4,17/09/2018,Girona FC,RC Celta,Girona FC,3,2
+44,5,21/09/2018,SD Huesca,Real Sociedad,Real Sociedad,0,1
+46,5,22/09/2018,Rayo Vallecano,D. Alavés,D. Alavés,1,5
+42,5,22/09/2018,RC Celta,R. Valladolid CF,Draw,3,3
+43,5,22/09/2018,SD Eibar,CD Leganés,SD Eibar,1,0
+48,5,22/09/2018,Getafe CF,Atlético de Madrid,Atlético de Madrid,0,2
+49,5,22/09/2018,Real Madrid,RCD Espanyol,Real Madrid,1,0
+45,5,23/09/2018,Levante UD,Sevilla FC,Sevilla FC,2,6
+50,5,23/09/2018,Villarreal CF,Valencia CF,Draw,0,0
+47,5,23/09/2018,Real Betis,Athletic Club,Draw,2,2
+41,5,23/09/2018,FC Barcelona,Girona FC,Draw,2,2
+57,6,25/09/2018,RCD Espanyol,SD Eibar,RCD Espanyol,1,0
+59,6,25/09/2018,Real Sociedad,Rayo Vallecano,Draw,2,2
+53,6,25/09/2018,Atlético de Madrid,SD Huesca,Atlético de Madrid,3,0
+52,6,26/09/2018,Athletic Club,Villarreal CF,Villarreal CF,0,3
+54,6,26/09/2018,CD Leganés,FC Barcelona,CD Leganés,2,1
+56,6,26/09/2018,Valencia CF,RC Celta,Draw,1,1
+60,6,26/09/2018,Sevilla FC,Real Madrid,Sevilla FC,3,0
+51,6,27/09/2018,D. Alavés,Getafe CF,Draw,1,1
+58,6,27/09/2018,R. Valladolid CF,Levante UD,R. Valladolid CF,2,1
+55,6,27/09/2018,Girona FC,Real Betis,Real Betis,0,1
+68,7,28/09/2018,Rayo Vallecano,RCD Espanyol,Draw,2,2
+64,7,29/09/2018,Real Sociedad,Valencia CF,Valencia CF,0,1
+67,7,29/09/2018,FC Barcelona,Athletic Club,Draw,1,1
+63,7,29/09/2018,SD Eibar,Sevilla FC,Sevilla FC,1,3
+65,7,29/09/2018,Real Madrid,Atlético de Madrid,Draw,0,0
+69,7,30/09/2018,SD Huesca,Girona FC,Draw,1,1
+70,7,30/09/2018,Villarreal CF,R. Valladolid CF,R. Valladolid CF,0,1
+66,7,30/09/2018,Levante UD,D. Alavés,Levante UD,2,1
+61,7,30/09/2018,Real Betis,CD Leganés,Real Betis,1,0
+62,7,01/10/2018,RC Celta,Getafe CF,Draw,1,1
+72,8,05/10/2018,Athletic Club,Real Sociedad,Real Sociedad,1,3
+79,8,06/10/2018,Girona FC,SD Eibar,SD Eibar,2,3
+75,8,06/10/2018,Getafe CF,Levante UD,Levante UD,0,1
+71,8,06/10/2018,D. Alavés,Real Madrid,D. Alavés,1,0
+76,8,06/10/2018,CD Leganés,Rayo Vallecano,CD Leganés,1,0
+80,8,07/10/2018,R. Valladolid CF,SD Huesca,R. Valladolid CF,1,0
+73,8,07/10/2018,Atlético de Madrid,Real Betis,Atlético de Madrid,1,0
+74,8,07/10/2018,RCD Espanyol,Villarreal CF,RCD Espanyol,3,1
+78,8,07/10/2018,Sevilla FC,RC Celta,Sevilla FC,2,1
+77,8,07/10/2018,Valencia CF,FC Barcelona,Draw,1,1
+83,9,19/10/2018,RC Celta,D. Alavés,D. Alavés,0,1
+90,9,20/10/2018,Real Madrid,Levante UD,Levante UD,1,2
+89,9,20/10/2018,Valencia CF,CD Leganés,Draw,1,1
+85,9,20/10/2018,Villarreal CF,Atlético de Madrid,Draw,1,1
+81,9,20/10/2018,FC Barcelona,Sevilla FC,FC Barcelona,4,2
+87,9,21/10/2018,Rayo Vallecano,Getafe CF,Getafe CF,1,2
+84,9,21/10/2018,SD Eibar,Athletic Club,Draw,1,1
+86,9,21/10/2018,SD Huesca,RCD Espanyol,RCD Espanyol,0,2
+82,9,21/10/2018,Real Betis,R. Valladolid CF,R. Valladolid CF,0,1
+88,9,22/10/2018,Real Sociedad,Girona FC,Draw,0,0
+25,9,24/10/2018,Rayo Vallecano,Athletic Club,Draw,1,1
+98,10,26/10/2018,R. Valladolid CF,RCD Espanyol,Draw,1,1
+96,10,27/10/2018,Girona FC,Rayo Vallecano,Girona FC,2,1
+93,10,27/10/2018,Athletic Club,Valencia CF,Draw,0,0
+95,10,27/10/2018,RC Celta,SD Eibar,RC Celta,4,0
+100,10,27/10/2018,Levante UD,CD Leganés,Levante UD,2,0
+94,10,27/10/2018,Atlético de Madrid,Real Sociedad,Atlético de Madrid,2,0
+97,10,28/10/2018,Getafe CF,Real Betis,Getafe CF,2,0
+91,10,28/10/2018,FC Barcelona,Real Madrid,FC Barcelona,5,1
+92,10,28/10/2018,D. Alavés,Villarreal CF,D. Alavés,2,1
+99,10,28/10/2018,Sevilla FC,SD Huesca,Sevilla FC,2,1
+106,11,03/11/2018,CD Leganés,Atlético de Madrid,Draw,1,1
+102,11,03/11/2018,Real Madrid,R. Valladolid CF,Real Madrid,2,0
+109,11,03/11/2018,Valencia CF,Girona FC,Girona FC,0,1
+107,11,03/11/2018,Rayo Vallecano,FC Barcelona,FC Barcelona,2,3
+104,11,04/11/2018,SD Eibar,D. Alavés,SD Eibar,2,1
+110,11,04/11/2018,Villarreal CF,Levante UD,Draw,1,1
+103,11,04/11/2018,Real Sociedad,Sevilla FC,Draw,0,0
+108,11,04/11/2018,SD Huesca,Getafe CF,Draw,1,1
+101,11,04/11/2018,Real Betis,RC Celta,Draw,3,3
+105,11,05/11/2018,RCD Espanyol,Athletic Club,RCD Espanyol,1,0
+116,12,09/11/2018,Levante UD,Real Sociedad,Real Sociedad,1,3
+119,12,10/11/2018,R. Valladolid CF,SD Eibar,Draw,0,0
+114,12,10/11/2018,Getafe CF,Valencia CF,Valencia CF,0,1
+118,12,10/11/2018,Atlético de Madrid,Athletic Club,Atlético de Madrid,3,2
+115,12,10/11/2018,Girona FC,CD Leganés,Draw,0,0
+111,12,11/11/2018,D. Alavés,SD Huesca,D. Alavés,2,1
+112,12,11/11/2018,FC Barcelona,Real Betis,Real Betis,3,4
+117,12,11/11/2018,Rayo Vallecano,Villarreal CF,Draw,2,2
+120,12,11/11/2018,Sevilla FC,RCD Espanyol,Sevilla FC,2,1
+113,12,11/11/2018,RC Celta,Real Madrid,Real Madrid,2,4
+127,13,23/11/2018,CD Leganés,D. Alavés,CD Leganés,1,0
+123,13,24/11/2018,SD Eibar,Real Madrid,SD Eibar,3,0
+130,13,24/11/2018,Valencia CF,Rayo Vallecano,Valencia CF,3,0
+125,13,24/11/2018,SD Huesca,Levante UD,Draw,2,2
+121,13,24/11/2018,Atlético de Madrid,FC Barcelona,Draw,1,1
+122,13,25/11/2018,Athletic Club,Getafe CF,Draw,1,1
+126,13,25/11/2018,Sevilla FC,R. Valladolid CF,Sevilla FC,1,0
+124,13,25/11/2018,RCD Espanyol,Girona FC,Girona FC,1,3
+128,13,25/11/2018,Villarreal CF,Real Betis,Villarreal CF,2,1
+129,13,26/11/2018,Real Sociedad,RC Celta,Real Sociedad,2,1
+138,14,30/11/2018,Rayo Vallecano,SD Eibar,Rayo Vallecano,1,0
+134,14,01/12/2018,RC Celta,SD Huesca,RC Celta,2,0
+140,14,01/12/2018,R. Valladolid CF,CD Leganés,CD Leganés,2,4
+139,14,01/12/2018,Getafe CF,RCD Espanyol,Getafe CF,3,0
+135,14,01/12/2018,Real Madrid,Valencia CF,Real Madrid,2,0
+133,14,02/12/2018,Real Betis,Real Sociedad,Real Betis,1,0
+137,14,02/12/2018,Girona FC,Atlético de Madrid,Draw,1,1
+132,14,02/12/2018,FC Barcelona,Villarreal CF,FC Barcelona,2,0
+131,14,02/12/2018,D. Alavés,Sevilla FC,Draw,1,1
+136,14,03/12/2018,Levante UD,Athletic Club,Levante UD,3,0
+149,15,07/12/2018,CD Leganés,Getafe CF,Draw,1,1
+146,15,08/12/2018,Atlético de Madrid,D. Alavés,Atlético de Madrid,3,0
+150,15,08/12/2018,Valencia CF,Sevilla FC,Draw,1,1
+148,15,08/12/2018,Villarreal CF,RC Celta,RC Celta,2,3
+147,15,08/12/2018,RCD Espanyol,FC Barcelona,FC Barcelona,0,4
+143,15,09/12/2018,SD Eibar,Levante UD,Draw,4,4
+144,15,09/12/2018,SD Huesca,Real Madrid,Real Madrid,0,1
+145,15,09/12/2018,Real Sociedad,R. Valladolid CF,R. Valladolid CF,1,2
+142,15,09/12/2018,Real Betis,Rayo Vallecano,Real Betis,2,0
+141,15,10/12/2018,Athletic Club,Girona FC,Athletic Club,1,0
+152,16,14/12/2018,RC Celta,CD Leganés,Draw,0,0
+154,16,15/12/2018,Getafe CF,Real Sociedad,Getafe CF,1,0
+156,16,15/12/2018,R. Valladolid CF,Atlético de Madrid,Atlético de Madrid,2,3
+160,16,15/12/2018,Real Madrid,Rayo Vallecano,Real Madrid,1,0
+153,16,15/12/2018,SD Eibar,Valencia CF,Draw,1,1
+159,16,16/12/2018,Sevilla FC,Girona FC,Sevilla FC,2,0
+158,16,16/12/2018,RCD Espanyol,Real Betis,Real Betis,1,3
+155,16,16/12/2018,SD Huesca,Villarreal CF,Draw,2,2
+157,16,16/12/2018,Levante UD,FC Barcelona,FC Barcelona,0,5
+151,16,17/12/2018,D. Alavés,Athletic Club,Draw,0,0
+167,17,21/12/2018,Girona FC,Getafe CF,Draw,1,1
+166,17,21/12/2018,Real Sociedad,D. Alavés,D. Alavés,0,1
+164,17,22/12/2018,Real Betis,SD Eibar,Draw,1,1
+162,17,22/12/2018,Atlético de Madrid,RCD Espanyol,Atlético de Madrid,1,0
+163,17,22/12/2018,FC Barcelona,RC Celta,FC Barcelona,2,0
+161,17,22/12/2018,Athletic Club,R. Valladolid CF,Draw,1,1
+168,17,23/12/2018,Valencia CF,SD Huesca,Valencia CF,2,1
+165,17,23/12/2018,CD Leganés,Sevilla FC,Draw,1,1
+169,17,23/12/2018,Rayo Vallecano,Levante UD,Rayo Vallecano,2,1
+170,17,03/01/2019,Villarreal CF,Real Madrid,Draw,2,2
+179,18,04/01/2019,Levante UD,Girona FC,Draw,2,2
+173,18,04/01/2019,RCD Espanyol,CD Leganés,RCD Espanyol,1,0
+180,18,05/01/2019,R. Valladolid CF,Rayo Vallecano,Rayo Vallecano,0,1
+171,18,05/01/2019,D. Alavés,Valencia CF,D. Alavés,2,1
+178,18,05/01/2019,SD Huesca,Real Betis,SD Huesca,2,1
+172,18,06/01/2019,SD Eibar,Villarreal CF,Draw,0,0
+176,18,06/01/2019,Sevilla FC,Atlético de Madrid,Draw,1,1
+174,18,06/01/2019,Real Madrid,Real Sociedad,Real Sociedad,0,2
+177,18,06/01/2019,Getafe CF,FC Barcelona,FC Barcelona,1,2
+175,18,07/01/2019,RC Celta,Athletic Club,Athletic Club,1,2
+187,19,11/01/2019,Rayo Vallecano,RC Celta,Rayo Vallecano,4,2
+190,19,12/01/2019,CD Leganés,SD Huesca,CD Leganés,1,0
+185,19,12/01/2019,Valencia CF,R. Valladolid CF,Draw,1,1
+186,19,12/01/2019,Girona FC,D. Alavés,Draw,1,1
+189,19,12/01/2019,Villarreal CF,Getafe CF,Getafe CF,1,2
+182,19,13/01/2019,Atlético de Madrid,Levante UD,Atlético de Madrid,1,0
+181,19,13/01/2019,Athletic Club,Sevilla FC,Athletic Club,2,0
+183,19,13/01/2019,FC Barcelona,SD Eibar,FC Barcelona,3,0
+184,19,13/01/2019,Real Betis,Real Madrid,Real Madrid,1,2
+188,19,14/01/2019,Real Sociedad,RCD Espanyol,Real Sociedad,3,2
+198,20,18/01/2019,Getafe CF,D. Alavés,Getafe CF,4,0
+197,20,19/01/2019,Real Madrid,Sevilla FC,Real Madrid,2,0
+200,20,19/01/2019,SD Huesca,Atlético de Madrid,Atlético de Madrid,0,3
+193,20,19/01/2019,RC Celta,Valencia CF,Valencia CF,1,2
+192,20,20/01/2019,Real Betis,Girona FC,Real Betis,3,2
+199,20,20/01/2019,Villarreal CF,Athletic Club,Draw,1,1
+195,20,20/01/2019,Levante UD,R. Valladolid CF,Levante UD,2,0
+196,20,20/01/2019,Rayo Vallecano,Real Sociedad,Draw,2,2
+191,20,20/01/2019,FC Barcelona,CD Leganés,FC Barcelona,3,1
+194,20,21/01/2019,SD Eibar,RCD Espanyol,SD Eibar,3,0
+210,21,26/01/2019,Sevilla FC,Levante UD,Sevilla FC,5,0
+203,21,26/01/2019,Atlético de Madrid,Getafe CF,Atlético de Madrid,2,0
+208,21,26/01/2019,CD Leganés,SD Eibar,Draw,2,2
+205,21,26/01/2019,Valencia CF,Villarreal CF,Valencia CF,3,0
+207,21,27/01/2019,R. Valladolid CF,RC Celta,R. Valladolid CF,2,1
+206,21,27/01/2019,Girona FC,FC Barcelona,FC Barcelona,0,2
+202,21,27/01/2019,Athletic Club,Real Betis,Athletic Club,1,0
+209,21,27/01/2019,Real Sociedad,SD Huesca,Draw,0,0
+204,21,27/01/2019,RCD Espanyol,Real Madrid,Real Madrid,2,4
+201,21,28/01/2019,D. Alavés,Rayo Vallecano,Rayo Vallecano,0,1
+214,22,01/02/2019,SD Huesca,R. Valladolid CF,SD Huesca,4,0
+219,22,02/02/2019,Levante UD,Getafe CF,Draw,0,0
+216,22,02/02/2019,Real Sociedad,Athletic Club,Real Sociedad,2,1
+211,22,02/02/2019,FC Barcelona,Valencia CF,Draw,2,2
+212,22,02/02/2019,RC Celta,Sevilla FC,RC Celta,1,0
+218,22,03/02/2019,Villarreal CF,RCD Espanyol,Draw,2,2
+217,22,03/02/2019,Real Betis,Atlético de Madrid,Real Betis,1,0
+213,22,03/02/2019,SD Eibar,Girona FC,SD Eibar,3,0
+215,22,03/02/2019,Real Madrid,D. Alavés,Real Madrid,3,0
+220,22,04/02/2019,Rayo Vallecano,CD Leganés,CD Leganés,1,2
+226,23,08/02/2019,R. Valladolid CF,Villarreal CF,Draw,0,0
+228,23,09/02/2019,Getafe CF,RC Celta,Getafe CF,3,1
+221,23,09/02/2019,Atlético de Madrid,Real Madrid,Real Madrid,1,3
+224,23,09/02/2019,RCD Espanyol,Rayo Vallecano,RCD Espanyol,2,1
+225,23,09/02/2019,Girona FC,SD Huesca,SD Huesca,0,2
+227,23,10/02/2019,CD Leganés,Real Betis,CD Leganés,3,0
+230,23,10/02/2019,Valencia CF,Real Sociedad,Draw,0,0
+229,23,10/02/2019,Sevilla FC,SD Eibar,Draw,2,2
+223,23,10/02/2019,Athletic Club,FC Barcelona,Draw,0,0
+222,23,11/02/2019,D. Alavés,Levante UD,D. Alavés,2,0
+233,24,15/02/2019,SD Eibar,Getafe CF,Draw,2,2
+232,24,16/02/2019,RC Celta,Levante UD,Levante UD,1,4
+236,24,16/02/2019,Rayo Vallecano,Atlético de Madrid,Atlético de Madrid,0,1
+239,24,16/02/2019,Real Sociedad,CD Leganés,Real Sociedad,3,0
+231,24,16/02/2019,FC Barcelona,R. Valladolid CF,FC Barcelona,1,0
+238,24,17/02/2019,Real Madrid,Girona FC,Girona FC,1,2
+237,24,17/02/2019,Valencia CF,RCD Espanyol,Draw,0,0
+240,24,17/02/2019,Villarreal CF,Sevilla FC,Villarreal CF,3,0
+234,24,17/02/2019,Real Betis,D. Alavés,Draw,1,1
+235,24,18/02/2019,SD Huesca,Athletic Club,Athletic Club,0,1
+244,25,22/02/2019,RCD Espanyol,SD Huesca,Draw,1,1
+245,25,23/02/2019,Getafe CF,Rayo Vallecano,Getafe CF,2,1
+249,25,23/02/2019,Sevilla FC,FC Barcelona,FC Barcelona,2,4
+241,25,23/02/2019,D. Alavés,RC Celta,Draw,0,0
+242,25,23/02/2019,Athletic Club,SD Eibar,Athletic Club,1,0
+247,25,24/02/2019,CD Leganés,Valencia CF,Draw,1,1
+243,25,24/02/2019,Atlético de Madrid,Villarreal CF,Atlético de Madrid,2,0
+250,25,24/02/2019,R. Valladolid CF,Real Betis,Real Betis,0,2
+248,25,24/02/2019,Levante UD,Real Madrid,Real Madrid,1,2
+246,25,25/02/2019,Girona FC,Real Sociedad,Draw,0,0
+260,26,01/03/2019,Rayo Vallecano,Girona FC,Girona FC,0,2
+252,26,02/03/2019,RCD Espanyol,R. Valladolid CF,RCD Espanyol,3,1
+256,26,02/03/2019,Villarreal CF,D. Alavés,D. Alavés,1,2
+253,26,02/03/2019,SD Huesca,Sevilla FC,SD Huesca,2,1
+255,26,02/03/2019,Real Madrid,FC Barcelona,FC Barcelona,0,1
+259,26,03/03/2019,SD Eibar,RC Celta,SD Eibar,1,0
+251,26,03/03/2019,Real Betis,Getafe CF,Getafe CF,1,2
+258,26,03/03/2019,Real Sociedad,Atlético de Madrid,Atlético de Madrid,0,2
+257,26,03/03/2019,Valencia CF,Athletic Club,Valencia CF,2,0
+254,26,04/03/2019,CD Leganés,Levante UD,CD Leganés,1,0
+262,27,08/03/2019,Athletic Club,RCD Espanyol,Draw,1,1
+261,27,09/03/2019,D. Alavés,SD Eibar,Draw,1,1
+263,27,09/03/2019,Atlético de Madrid,CD Leganés,Atlético de Madrid,1,0
+264,27,09/03/2019,FC Barcelona,Rayo Vallecano,FC Barcelona,3,1
+265,27,09/03/2019,Getafe CF,SD Huesca,Getafe CF,2,1
+268,27,10/03/2019,RC Celta,Real Betis,Real Betis,0,1
+266,27,10/03/2019,Girona FC,Valencia CF,Valencia CF,2,3
+267,27,10/03/2019,Levante UD,Villarreal CF,Villarreal CF,0,2
+270,27,10/03/2019,Sevilla FC,Real Sociedad,Sevilla FC,5,2
+269,27,10/03/2019,R. Valladolid CF,Real Madrid,Real Madrid,1,4
+279,28,15/03/2019,Real Sociedad,Levante UD,Draw,1,1
+274,28,16/03/2019,SD Huesca,D. Alavés,D. Alavés,1,3
+276,28,16/03/2019,Real Madrid,RC Celta,Real Madrid,2,0
+271,28,16/03/2019,Athletic Club,Atlético de Madrid,Athletic Club,2,0
+278,28,16/03/2019,CD Leganés,Girona FC,Girona FC,0,2
+272,28,17/03/2019,SD Eibar,R. Valladolid CF,R. Valladolid CF,1,2
+273,28,17/03/2019,RCD Espanyol,Sevilla FC,Sevilla FC,0,1
+277,28,17/03/2019,Valencia CF,Getafe CF,Draw,0,0
+280,28,17/03/2019,Villarreal CF,Rayo Vallecano,Villarreal CF,3,1
+275,28,17/03/2019,Real Betis,FC Barcelona,FC Barcelona,1,4
+286,29,29/03/2019,Girona FC,Athletic Club,Athletic Club,1,2
+284,29,30/03/2019,Getafe CF,CD Leganés,CD Leganés,0,2
+282,29,30/03/2019,FC Barcelona,RCD Espanyol,FC Barcelona,2,0
+283,29,30/03/2019,RC Celta,Villarreal CF,RC Celta,3,2
+281,29,30/03/2019,D. Alavés,Atlético de Madrid,Atlético de Madrid,0,4
+288,29,31/03/2019,Levante UD,SD Eibar,Draw,2,2
+287,29,31/03/2019,Rayo Vallecano,Real Betis,Draw,1,1
+285,29,31/03/2019,Sevilla FC,Valencia CF,Valencia CF,0,1
+290,29,31/03/2019,R. Valladolid CF,Real Sociedad,Draw,1,1
+289,29,31/03/2019,Real Madrid,SD Huesca,Real Madrid,3,2
+292,30,02/04/2019,Atlético de Madrid,Girona FC,Atlético de Madrid,2,0
+294,30,02/04/2019,RCD Espanyol,Getafe CF,Draw,1,1
+297,30,02/04/2019,Villarreal CF,FC Barcelona,Draw,4,4
+291,30,03/04/2019,Athletic Club,Levante UD,Athletic Club,3,2
+293,30,03/04/2019,SD Eibar,Rayo Vallecano,SD Eibar,2,1
+299,30,03/04/2019,SD Huesca,RC Celta,Draw,3,3
+300,30,03/04/2019,Valencia CF,Real Madrid,Valencia CF,2,1
+296,30,04/04/2019,Sevilla FC,D. Alavés,Sevilla FC,2,0
+295,30,04/04/2019,CD Leganés,R. Valladolid CF,CD Leganés,1,0
+298,30,04/04/2019,Real Sociedad,Real Betis,Real Sociedad,2,1
+308,31,06/04/2019,Girona FC,RCD Espanyol,RCD Espanyol,1,2
+307,31,06/04/2019,Real Madrid,SD Eibar,Real Madrid,2,1
+304,31,06/04/2019,Rayo Vallecano,Valencia CF,Rayo Vallecano,2,0
+306,31,06/04/2019,FC Barcelona,Atlético de Madrid,FC Barcelona,2,0
+301,31,07/04/2019,D. Alavés,CD Leganés,Draw,1,1
+305,31,07/04/2019,Getafe CF,Athletic Club,Getafe CF,1,0
+310,31,07/04/2019,R. Valladolid CF,Sevilla FC,Sevilla FC,0,2
+303,31,07/04/2019,RC Celta,Real Sociedad,RC Celta,3,1
+309,31,07/04/2019,Levante UD,SD Huesca,Draw,2,2
+302,31,07/04/2019,Real Betis,Villarreal CF,Real Betis,2,1
+315,32,13/04/2019,RCD Espanyol,D. Alavés,RCD Espanyol,2,1
+316,32,13/04/2019,SD Huesca,FC Barcelona,Draw,0,0
+312,32,13/04/2019,Atlético de Madrid,RC Celta,Atlético de Madrid,2,0
+317,32,13/04/2019,Sevilla FC,Real Betis,Sevilla FC,3,2
+319,32,14/04/2019,R. Valladolid CF,Getafe CF,Draw,2,2
+311,32,14/04/2019,Athletic Club,Rayo Vallecano,Athletic Club,3,2
+318,32,14/04/2019,Real Sociedad,SD Eibar,Draw,1,1
+313,32,14/04/2019,Girona FC,Villarreal CF,Villarreal CF,0,1
+320,32,14/04/2019,Valencia CF,Levante UD,Valencia CF,3,1
+314,32,15/04/2019,CD Leganés,Real Madrid,Draw,1,1
+321,33,19/04/2019,D. Alavés,R. Valladolid CF,Draw,2,2
+324,33,20/04/2019,RC Celta,Girona FC,RC Celta,2,1
+327,33,20/04/2019,SD Eibar,Atlético de Madrid,Atlético de Madrid,0,1
+329,33,20/04/2019,Rayo Vallecano,SD Huesca,Draw,0,0
+322,33,20/04/2019,FC Barcelona,Real Sociedad,FC Barcelona,2,1
+328,33,21/04/2019,Levante UD,RCD Espanyol,Draw,2,2
+325,33,21/04/2019,Getafe CF,Sevilla FC,Getafe CF,3,0
+326,33,21/04/2019,Real Madrid,Athletic Club,Real Madrid,3,0
+330,33,21/04/2019,Villarreal CF,CD Leganés,Villarreal CF,2,1
+323,33,21/04/2019,Real Betis,Valencia CF,Valencia CF,1,2
+338,34,23/04/2019,SD Huesca,SD Eibar,SD Huesca,2,0
+339,34,23/04/2019,R. Valladolid CF,Girona FC,R. Valladolid CF,1,0
+331,34,23/04/2019,D. Alavés,FC Barcelona,FC Barcelona,0,2
+332,34,24/04/2019,Atlético de Madrid,Valencia CF,Atlético de Madrid,3,2
+335,34,24/04/2019,CD Leganés,Athletic Club,Athletic Club,0,1
+337,34,24/04/2019,RCD Espanyol,RC Celta,Draw,1,1
+336,34,24/04/2019,Levante UD,Real Betis,Levante UD,4,0
+340,34,25/04/2019,Sevilla FC,Rayo Vallecano,Sevilla FC,5,0
+334,34,25/04/2019,Real Sociedad,Villarreal CF,Villarreal CF,0,1
+333,34,25/04/2019,Getafe CF,Real Madrid,Draw,0,0
+346,35,27/04/2019,Athletic Club,D. Alavés,Draw,1,1
+341,35,27/04/2019,Atlético de Madrid,R. Valladolid CF,Atlético de Madrid,1,0
+347,35,27/04/2019,CD Leganés,RC Celta,Draw,0,0
+342,35,27/04/2019,FC Barcelona,Levante UD,FC Barcelona,1,0
+348,35,28/04/2019,Valencia CF,SD Eibar,SD Eibar,0,1
+344,35,28/04/2019,Girona FC,Sevilla FC,Girona FC,1,0
+349,35,28/04/2019,Real Sociedad,Getafe CF,Real Sociedad,2,1
+350,35,28/04/2019,Villarreal CF,SD Huesca,Draw,1,1
+345,35,28/04/2019,Rayo Vallecano,Real Madrid,Rayo Vallecano,1,0
+343,35,29/04/2019,Real Betis,RCD Espanyol,Draw,1,1
+360,36,03/05/2019,Sevilla FC,CD Leganés,CD Leganés,0,3
+354,36,04/05/2019,Levante UD,Rayo Vallecano,Levante UD,4,1
+357,36,04/05/2019,RCD Espanyol,Atlético de Madrid,RCD Espanyol,3,0
+351,36,04/05/2019,D. Alavés,Real Sociedad,Real Sociedad,0,1
+358,36,04/05/2019,RC Celta,FC Barcelona,RC Celta,2,0
+352,36,05/05/2019,Getafe CF,Girona FC,Getafe CF,2,0
+359,36,05/05/2019,SD Eibar,Real Betis,SD Eibar,1,0
+355,36,05/05/2019,Real Madrid,Villarreal CF,Real Madrid,3,2
+356,36,05/05/2019,R. Valladolid CF,Athletic Club,R. Valladolid CF,1,0
+353,36,05/05/2019,SD Huesca,Valencia CF,Valencia CF,2,6
+361,37,12/05/2019,Athletic Club,RC Celta,Athletic Club,3,1
+362,37,12/05/2019,Atlético de Madrid,Sevilla FC,Draw,1,1
+363,37,12/05/2019,FC Barcelona,Getafe CF,FC Barcelona,2,0
+364,37,12/05/2019,Real Betis,SD Huesca,Real Betis,2,1
+365,37,12/05/2019,Girona FC,Levante UD,Levante UD,1,2
+366,37,12/05/2019,Rayo Vallecano,R. Valladolid CF,R. Valladolid CF,1,2
+367,37,12/05/2019,Valencia CF,D. Alavés,Valencia CF,3,1
+368,37,12/05/2019,Villarreal CF,SD Eibar,Villarreal CF,1,0
+369,37,12/05/2019,CD Leganés,RCD Espanyol,RCD Espanyol,0,2
+370,37,12/05/2019,Real Sociedad,Real Madrid,Real Sociedad,3,1
+377,38,18/05/2019,Levante UD,Atlético de Madrid,Draw,2,2
+373,38,18/05/2019,RCD Espanyol,Real Sociedad,RCD Espanyol,2,0
+374,38,18/05/2019,Getafe CF,Villarreal CF,Draw,2,2
+376,38,18/05/2019,Sevilla FC,Athletic Club,Sevilla FC,2,0
+380,38,18/05/2019,R. Valladolid CF,Valencia CF,Valencia CF,0,2
+371,38,18/05/2019,D. Alavés,Girona FC,D. Alavés,2,1
+372,38,18/05/2019,RC Celta,Rayo Vallecano,Draw,2,2
+375,38,18/05/2019,SD Huesca,CD Leganés,SD Huesca,2,1
+379,38,19/05/2019,Real Madrid,Real Betis,Real Betis,0,2
+378,38,19/05/2019,SD Eibar,FC Barcelona,Draw,2,2
+1,1,16/08/2019,Athletic Club,FC Barcelona,Athletic Club,1,0
+2,1,17/08/2019,RC Celta,Real Madrid,Real Madrid,1,3
+3,1,17/08/2019,Valencia CF,Real Sociedad,Draw,1,1
+9,1,17/08/2019,RCD Mallorca,SD Eibar,RCD Mallorca,2,1
+4,1,17/08/2019,CD Leganés,C.A. Osasuna,C.A. Osasuna,0,1
+5,1,17/08/2019,Villarreal CF,Granada CF,Draw,4,4
+6,1,18/08/2019,D. Alavés,Levante UD,D. Alavés,1,0
+7,1,18/08/2019,RCD Espanyol,Sevilla FC,Sevilla FC,0,2
+10,1,18/08/2019,Real Betis,R. Valladolid CF,R. Valladolid CF,1,2
+8,1,18/08/2019,Atlético de Madrid,Getafe CF,Atlético de Madrid,1,0
+11,2,23/08/2019,Granada CF,Sevilla FC,Sevilla FC,0,1
+12,2,23/08/2019,Levante UD,Villarreal CF,Levante UD,2,1
+13,2,24/08/2019,C.A. Osasuna,SD Eibar,Draw,0,0
+14,2,24/08/2019,Real Madrid,R. Valladolid CF,Draw,1,1
+15,2,24/08/2019,RC Celta,Valencia CF,RC Celta,1,0
+16,2,24/08/2019,Getafe CF,Athletic Club,Draw,1,1
+17,2,25/08/2019,D. Alavés,RCD Espanyol,Draw,0,0
+18,2,25/08/2019,RCD Mallorca,Real Sociedad,Real Sociedad,0,1
+20,2,25/08/2019,CD Leganés,Atlético de Madrid,Atlético de Madrid,0,1
+19,2,25/08/2019,FC Barcelona,Real Betis,FC Barcelona,5,2
+21,3,30/08/2019,Sevilla FC,RC Celta,Draw,1,1
+22,3,30/08/2019,Athletic Club,Real Sociedad,Athletic Club,2,0
+23,3,31/08/2019,C.A. Osasuna,FC Barcelona,Draw,2,2
+24,3,31/08/2019,Getafe CF,D. Alavés,Draw,1,1
+25,3,31/08/2019,Levante UD,R. Valladolid CF,Levante UD,2,0
+26,3,31/08/2019,Real Betis,CD Leganés,Real Betis,2,1
+27,3,01/09/2019,Valencia CF,RCD Mallorca,Valencia CF,2,0
+28,3,01/09/2019,Atlético de Madrid,SD Eibar,Atlético de Madrid,3,2
+29,3,01/09/2019,RCD Espanyol,Granada CF,Granada CF,0,3
+30,3,01/09/2019,Villarreal CF,Real Madrid,Draw,2,2
+37,4,13/09/2019,RCD Mallorca,Athletic Club,Draw,0,0
+38,4,14/09/2019,Real Madrid,Levante UD,Real Madrid,3,2
+36,4,14/09/2019,CD Leganés,Villarreal CF,Villarreal CF,0,3
+39,4,14/09/2019,Real Sociedad,Atlético de Madrid,Real Sociedad,2,0
+32,4,14/09/2019,FC Barcelona,Valencia CF,FC Barcelona,5,2
+35,4,15/09/2019,SD Eibar,RCD Espanyol,RCD Espanyol,1,2
+31,4,15/09/2019,D. Alavés,Sevilla FC,Sevilla FC,0,1
+34,4,15/09/2019,RC Celta,Granada CF,Granada CF,0,2
+40,4,15/09/2019,R. Valladolid CF,C.A. Osasuna,Draw,1,1
+33,4,15/09/2019,Real Betis,Getafe CF,Draw,1,1
+47,5,20/09/2019,C.A. Osasuna,Real Betis,Draw,0,0
+50,5,21/09/2019,Villarreal CF,R. Valladolid CF,Villarreal CF,2,0
+46,5,21/09/2019,Levante UD,SD Eibar,Draw,0,0
+42,5,21/09/2019,Atlético de Madrid,RC Celta,Draw,0,0
+45,5,21/09/2019,Granada CF,FC Barcelona,Granada CF,2,0
+44,5,22/09/2019,Getafe CF,RCD Mallorca,Getafe CF,4,2
+43,5,22/09/2019,RCD Espanyol,Real Sociedad,Real Sociedad,1,3
+49,5,22/09/2019,Valencia CF,CD Leganés,Draw,1,1
+41,5,22/09/2019,Athletic Club,D. Alavés,Athletic Club,2,0
+48,5,22/09/2019,Sevilla FC,Real Madrid,Real Madrid,0,1
+60,6,24/09/2019,R. Valladolid CF,Granada CF,Draw,1,1
+52,6,24/09/2019,Real Betis,Levante UD,Real Betis,3,1
+51,6,24/09/2019,FC Barcelona,Villarreal CF,FC Barcelona,2,1
+55,6,25/09/2019,CD Leganés,Athletic Club,Draw,1,1
+56,6,25/09/2019,RCD Mallorca,Atlético de Madrid,Atlético de Madrid,0,2
+59,6,25/09/2019,Valencia CF,Getafe CF,Draw,3,3
+57,6,25/09/2019,Real Madrid,C.A. Osasuna,Real Madrid,2,0
+54,6,26/09/2019,SD Eibar,Sevilla FC,SD Eibar,3,2
+53,6,26/09/2019,RC Celta,RCD Espanyol,Draw,1,1
+58,6,26/09/2019,Real Sociedad,D. Alavés,Real Sociedad,3,0
+70,7,27/09/2019,Villarreal CF,Real Betis,Villarreal CF,5,1
+62,7,28/09/2019,Athletic Club,Valencia CF,Valencia CF,0,1
+66,7,28/09/2019,Getafe CF,FC Barcelona,FC Barcelona,0,2
+67,7,28/09/2019,Granada CF,CD Leganés,Granada CF,1,0
+63,7,28/09/2019,Atlético de Madrid,Real Madrid,Draw,0,0
+65,7,29/09/2019,RCD Espanyol,R. Valladolid CF,R. Valladolid CF,0,2
+64,7,29/09/2019,SD Eibar,RC Celta,SD Eibar,2,0
+61,7,29/09/2019,D. Alavés,RCD Mallorca,D. Alavés,2,0
+68,7,29/09/2019,Levante UD,C.A. Osasuna,Draw,1,1
+69,7,29/09/2019,Sevilla FC,Real Sociedad,Sevilla FC,3,2
+72,8,04/10/2019,Real Betis,SD Eibar,Draw,1,1
+74,8,05/10/2019,CD Leganés,Levante UD,Levante UD,1,2
+77,8,05/10/2019,Real Madrid,Granada CF,Real Madrid,4,2
+79,8,05/10/2019,Valencia CF,D. Alavés,Valencia CF,2,1
+76,8,05/10/2019,C.A. Osasuna,Villarreal CF,C.A. Osasuna,2,1
+75,8,06/10/2019,RCD Mallorca,RCD Espanyol,RCD Mallorca,2,0
+73,8,06/10/2019,RC Celta,Athletic Club,RC Celta,1,0
+80,8,06/10/2019,R. Valladolid CF,Atlético de Madrid,Draw,0,0
+78,8,06/10/2019,Real Sociedad,Getafe CF,Getafe CF,1,2
+71,8,06/10/2019,FC Barcelona,Sevilla FC,FC Barcelona,4,0
+87,9,18/10/2019,Granada CF,C.A. Osasuna,Granada CF,1,0
+84,9,19/10/2019,SD Eibar,FC Barcelona,FC Barcelona,0,3
+83,9,19/10/2019,Atlético de Madrid,Valencia CF,Draw,1,1
+86,9,19/10/2019,Getafe CF,CD Leganés,Getafe CF,2,0
+88,9,19/10/2019,RCD Mallorca,Real Madrid,RCD Mallorca,1,0
+81,9,20/10/2019,D. Alavés,RC Celta,D. Alavés,2,0
+89,9,20/10/2019,Real Sociedad,Real Betis,Real Sociedad,3,1
+85,9,20/10/2019,RCD Espanyol,Villarreal CF,Villarreal CF,0,1
+82,9,20/10/2019,Athletic Club,R. Valladolid CF,Draw,1,1
+90,9,20/10/2019,Sevilla FC,Levante UD,Sevilla FC,1,0
+99,10,25/10/2019,Villarreal CF,D. Alavés,Villarreal CF,4,1
+95,10,26/10/2019,CD Leganés,RCD Mallorca,CD Leganés,1,0
+100,10,26/10/2019,R. Valladolid CF,SD Eibar,R. Valladolid CF,2,0
+91,10,26/10/2019,Atlético de Madrid,Athletic Club,Atlético de Madrid,2,0
+93,10,27/10/2019,RC Celta,Real Sociedad,Real Sociedad,0,1
+94,10,27/10/2019,Granada CF,Real Betis,Granada CF,1,0
+96,10,27/10/2019,Levante UD,RCD Espanyol,RCD Espanyol,0,1
+98,10,27/10/2019,Sevilla FC,Getafe CF,Sevilla FC,2,0
+97,10,27/10/2019,C.A. Osasuna,Valencia CF,C.A. Osasuna,3,1
+101,11,29/10/2019,D. Alavés,Atlético de Madrid,Draw,1,1
+103,11,29/10/2019,FC Barcelona,R. Valladolid CF,FC Barcelona,5,1
+109,11,30/10/2019,Real Sociedad,Levante UD,Levante UD,1,2
+110,11,30/10/2019,Valencia CF,Sevilla FC,Draw,1,1
+102,11,30/10/2019,Athletic Club,RCD Espanyol,Athletic Club,3,0
+104,11,30/10/2019,Real Betis,RC Celta,Real Betis,2,1
+108,11,30/10/2019,Real Madrid,CD Leganés,Real Madrid,5,0
+105,11,31/10/2019,SD Eibar,Villarreal CF,SD Eibar,2,1
+107,11,31/10/2019,RCD Mallorca,C.A. Osasuna,Draw,2,2
+106,11,31/10/2019,Getafe CF,Granada CF,Getafe CF,3,1
+112,12,02/11/2019,RCD Espanyol,Valencia CF,Valencia CF,1,2
+115,12,02/11/2019,Levante UD,FC Barcelona,Levante UD,3,1
+118,12,02/11/2019,Sevilla FC,Atlético de Madrid,Draw,1,1
+117,12,02/11/2019,Real Madrid,Real Betis,Draw,0,0
+120,12,03/11/2019,R. Valladolid CF,RCD Mallorca,R. Valladolid CF,3,0
+119,12,03/11/2019,Villarreal CF,Athletic Club,Draw,0,0
+116,12,03/11/2019,C.A. Osasuna,D. Alavés,C.A. Osasuna,4,2
+111,12,03/11/2019,RC Celta,Getafe CF,Getafe CF,0,1
+114,12,03/11/2019,CD Leganés,SD Eibar,SD Eibar,1,2
+113,12,03/11/2019,Granada CF,Real Sociedad,Real Sociedad,1,2
+129,13,08/11/2019,Real Sociedad,CD Leganés,Draw,1,1
+121,13,09/11/2019,D. Alavés,R. Valladolid CF,D. Alavés,3,0
+130,13,09/11/2019,Valencia CF,Granada CF,Valencia CF,2,0
+126,13,09/11/2019,SD Eibar,Real Madrid,Real Madrid,0,4
+124,13,09/11/2019,FC Barcelona,RC Celta,FC Barcelona,4,1
+122,13,10/11/2019,Athletic Club,Levante UD,Athletic Club,2,1
+123,13,10/11/2019,Atlético de Madrid,RCD Espanyol,Atlético de Madrid,3,1
+127,13,10/11/2019,Getafe CF,C.A. Osasuna,Draw,0,0
+125,13,10/11/2019,Real Betis,Sevilla FC,Sevilla FC,1,2
+128,13,11/11/2019,RCD Mallorca,Villarreal CF,RCD Mallorca,3,1
+136,14,22/11/2019,Levante UD,RCD Mallorca,Levante UD,2,1
+135,14,23/11/2019,CD Leganés,FC Barcelona,FC Barcelona,1,2
+131,14,23/11/2019,Real Betis,Valencia CF,Real Betis,2,1
+134,14,23/11/2019,Granada CF,Atlético de Madrid,Draw,1,1
+138,14,23/11/2019,Real Madrid,Real Sociedad,Real Madrid,3,1
+133,14,24/11/2019,RCD Espanyol,Getafe CF,Draw,1,1
+137,14,24/11/2019,C.A. Osasuna,Athletic Club,Athletic Club,1,2
+132,14,24/11/2019,SD Eibar,D. Alavés,D. Alavés,0,2
+139,14,24/11/2019,Villarreal CF,RC Celta,RC Celta,1,3
+140,14,24/11/2019,R. Valladolid CF,Sevilla FC,Sevilla FC,0,1
+144,15,29/11/2019,RC Celta,R. Valladolid CF,Draw,0,0
+141,15,30/11/2019,D. Alavés,Real Madrid,Real Madrid,1,2
+148,15,30/11/2019,Real Sociedad,SD Eibar,Real Sociedad,4,1
+147,15,30/11/2019,RCD Mallorca,Real Betis,Real Betis,1,2
+150,15,30/11/2019,Valencia CF,Villarreal CF,Valencia CF,2,1
+149,15,01/12/2019,Sevilla FC,CD Leganés,Sevilla FC,1,0
+142,15,01/12/2019,Athletic Club,Granada CF,Athletic Club,2,0
+145,15,01/12/2019,RCD Espanyol,C.A. Osasuna,C.A. Osasuna,2,4
+146,15,01/12/2019,Getafe CF,Levante UD,Getafe CF,4,0
+143,15,01/12/2019,Atlético de Madrid,FC Barcelona,FC Barcelona,0,1
+159,16,06/12/2019,Villarreal CF,Atlético de Madrid,Draw,0,0
+158,16,07/12/2019,Real Madrid,RCD Espanyol,Real Madrid,2,0
+154,16,07/12/2019,Granada CF,D. Alavés,Granada CF,3,0
+156,16,07/12/2019,Levante UD,Valencia CF,Valencia CF,2,4
+151,16,07/12/2019,FC Barcelona,RCD Mallorca,FC Barcelona,5,2
+153,16,08/12/2019,SD Eibar,Getafe CF,Getafe CF,0,1
+152,16,08/12/2019,Real Betis,Athletic Club,Real Betis,3,2
+160,16,08/12/2019,R. Valladolid CF,Real Sociedad,Draw,0,0
+155,16,08/12/2019,CD Leganés,RC Celta,CD Leganés,3,2
+157,16,08/12/2019,C.A. Osasuna,Sevilla FC,Draw,1,1
+161,17,13/12/2019,D. Alavés,CD Leganés,Draw,1,1
+167,17,14/12/2019,Granada CF,Levante UD,Levante UD,1,2
+168,17,14/12/2019,Real Sociedad,FC Barcelona,Draw,2,2
+162,17,14/12/2019,Athletic Club,SD Eibar,Draw,0,0
+163,17,14/12/2019,Atlético de Madrid,C.A. Osasuna,Atlético de Madrid,2,0
+166,17,15/12/2019,Getafe CF,R. Valladolid CF,Getafe CF,2,0
+164,17,15/12/2019,RC Celta,RCD Mallorca,Draw,2,2
+165,17,15/12/2019,RCD Espanyol,Real Betis,Draw,2,2
+169,17,15/12/2019,Sevilla FC,Villarreal CF,Villarreal CF,1,2
+170,17,15/12/2019,Valencia CF,Real Madrid,Draw,1,1
+92,17,18/12/2019,FC Barcelona,Real Madrid,Draw,0,0
+173,18,20/12/2019,SD Eibar,Granada CF,SD Eibar,3,0
+176,18,21/12/2019,RCD Mallorca,Sevilla FC,Sevilla FC,0,2
+171,18,21/12/2019,FC Barcelona,D. Alavés,FC Barcelona,4,1
+179,18,21/12/2019,Villarreal CF,Getafe CF,Villarreal CF,1,0
+180,18,21/12/2019,R. Valladolid CF,Valencia CF,Draw,1,1
+174,18,22/12/2019,CD Leganés,RCD Espanyol,CD Leganés,2,0
+177,18,22/12/2019,C.A. Osasuna,Real Sociedad,Real Sociedad,3,4
+172,18,22/12/2019,Real Betis,Atlético de Madrid,Atlético de Madrid,1,2
+175,18,22/12/2019,Levante UD,RC Celta,Levante UD,3,1
+178,18,22/12/2019,Real Madrid,Athletic Club,Draw,0,0
+190,19,03/01/2020,R. Valladolid CF,CD Leganés,Draw,2,2
+188,19,03/01/2020,Sevilla FC,Athletic Club,Draw,1,1
+189,19,04/01/2020,Valencia CF,SD Eibar,Valencia CF,1,0
+185,19,04/01/2020,Getafe CF,Real Madrid,Real Madrid,0,3
+182,19,04/01/2020,Atlético de Madrid,Levante UD,Atlético de Madrid,2,1
+184,19,04/01/2020,RCD Espanyol,FC Barcelona,Draw,2,2
+186,19,05/01/2020,Granada CF,RCD Mallorca,Granada CF,1,0
+187,19,05/01/2020,Real Sociedad,Villarreal CF,Villarreal CF,1,2
+181,19,05/01/2020,D. Alavés,Real Betis,Draw,1,1
+183,19,05/01/2020,RC Celta,C.A. Osasuna,Draw,1,1
+195,20,17/01/2020,CD Leganés,Getafe CF,Getafe CF,0,3
+196,20,18/01/2020,Levante UD,D. Alavés,D. Alavés,0,1
+199,20,18/01/2020,Real Madrid,Sevilla FC,Real Madrid,2,1
+198,20,18/01/2020,C.A. Osasuna,R. Valladolid CF,Draw,0,0
+194,20,18/01/2020,SD Eibar,Atlético de Madrid,SD Eibar,2,0
+197,20,19/01/2020,RCD Mallorca,Valencia CF,RCD Mallorca,4,1
+193,20,19/01/2020,Real Betis,Real Sociedad,Real Betis,3,0
+200,20,19/01/2020,Villarreal CF,RCD Espanyol,RCD Espanyol,1,2
+191,20,19/01/2020,Athletic Club,RC Celta,Draw,1,1
+192,20,19/01/2020,FC Barcelona,Granada CF,FC Barcelona,1,0
+206,21,24/01/2020,C.A. Osasuna,Levante UD,C.A. Osasuna,2,0
+204,21,25/01/2020,RCD Espanyol,Athletic Club,Draw,1,1
+209,21,25/01/2020,Valencia CF,FC Barcelona,Valencia CF,2,0
+201,21,25/01/2020,D. Alavés,Villarreal CF,Villarreal CF,1,2
+208,21,25/01/2020,Sevilla FC,Granada CF,Sevilla FC,2,0
+202,21,26/01/2020,Atlético de Madrid,CD Leganés,Draw,0,0
+203,21,26/01/2020,RC Celta,SD Eibar,Draw,0,0
+205,21,26/01/2020,Getafe CF,Real Betis,Getafe CF,1,0
+207,21,26/01/2020,Real Sociedad,RCD Mallorca,Real Sociedad,3,0
+210,21,26/01/2020,R. Valladolid CF,Real Madrid,Real Madrid,0,1
+214,22,01/02/2020,Granada CF,RCD Espanyol,Granada CF,2,1
+217,22,01/02/2020,Real Madrid,Atlético de Madrid,Real Madrid,1,0
+216,22,01/02/2020,RCD Mallorca,R. Valladolid CF,R. Valladolid CF,0,1
+219,22,01/02/2020,Valencia CF,RC Celta,Valencia CF,1,0
+215,22,02/02/2020,CD Leganés,Real Sociedad,CD Leganés,2,1
+213,22,02/02/2020,SD Eibar,Real Betis,Draw,1,1
+211,22,02/02/2020,Athletic Club,Getafe CF,Getafe CF,0,2
+218,22,02/02/2020,Sevilla FC,D. Alavés,Draw,1,1
+220,22,02/02/2020,Villarreal CF,C.A. Osasuna,Villarreal CF,3,1
+212,22,02/02/2020,FC Barcelona,Levante UD,FC Barcelona,2,1
+221,23,07/02/2020,D. Alavés,SD Eibar,D. Alavés,2,1
+227,23,08/02/2020,Levante UD,CD Leganés,Levante UD,2,0
+226,23,08/02/2020,Getafe CF,Valencia CF,Getafe CF,3,0
+230,23,08/02/2020,R. Valladolid CF,Villarreal CF,Draw,1,1
+222,23,08/02/2020,Atlético de Madrid,Granada CF,Atlético de Madrid,1,0
+225,23,09/02/2020,RCD Espanyol,RCD Mallorca,RCD Espanyol,1,0
+229,23,09/02/2020,Real Sociedad,Athletic Club,Real Sociedad,2,1
+228,23,09/02/2020,C.A. Osasuna,Real Madrid,Real Madrid,1,4
+224,23,09/02/2020,RC Celta,Sevilla FC,RC Celta,2,1
+223,23,09/02/2020,Real Betis,FC Barcelona,FC Barcelona,2,3
+239,24,14/02/2020,Valencia CF,Atlético de Madrid,Draw,2,2
+236,24,15/02/2020,RCD Mallorca,D. Alavés,RCD Mallorca,1,0
+232,24,15/02/2020,FC Barcelona,Getafe CF,FC Barcelona,2,1
+240,24,15/02/2020,Villarreal CF,Levante UD,Villarreal CF,2,1
+234,24,15/02/2020,Granada CF,R. Valladolid CF,Granada CF,2,1
+238,24,16/02/2020,Sevilla FC,RCD Espanyol,Draw,2,2
+235,24,16/02/2020,CD Leganés,Real Betis,Draw,0,0
+231,24,16/02/2020,Athletic Club,C.A. Osasuna,C.A. Osasuna,0,1
+237,24,16/02/2020,Real Madrid,RC Celta,Draw,2,2
+244,25,21/02/2020,Real Betis,RCD Mallorca,Draw,3,3
+245,25,22/02/2020,RC Celta,CD Leganés,RC Celta,1,0
+243,25,22/02/2020,FC Barcelona,SD Eibar,FC Barcelona,5,0
+249,25,22/02/2020,Real Sociedad,Valencia CF,Real Sociedad,3,0
+247,25,22/02/2020,Levante UD,Real Madrid,Levante UD,1,0
+248,25,23/02/2020,C.A. Osasuna,Granada CF,Granada CF,0,3
+241,25,23/02/2020,D. Alavés,Athletic Club,D. Alavés,2,1
+250,25,23/02/2020,R. Valladolid CF,RCD Espanyol,R. Valladolid CF,2,1
+246,25,23/02/2020,Getafe CF,Sevilla FC,Sevilla FC,0,3
+242,25,23/02/2020,Atlético de Madrid,Villarreal CF,Atlético de Madrid,3,1
+258,26,28/02/2020,Real Sociedad,R. Valladolid CF,Real Sociedad,1,0
+252,26,29/02/2020,SD Eibar,Levante UD,SD Eibar,3,0
+260,26,29/02/2020,Valencia CF,Real Betis,Valencia CF,2,1
+255,26,29/02/2020,CD Leganés,D. Alavés,Draw,1,1
+254,26,29/02/2020,Granada CF,RC Celta,Draw,0,0
+259,26,01/03/2020,Sevilla FC,C.A. Osasuna,Sevilla FC,3,2
+251,26,01/03/2020,Athletic Club,Villarreal CF,Athletic Club,1,0
+253,26,01/03/2020,RCD Espanyol,Atlético de Madrid,Draw,1,1
+256,26,01/03/2020,RCD Mallorca,Getafe CF,Getafe CF,0,1
+257,26,01/03/2020,Real Madrid,FC Barcelona,Real Madrid,2,0
+261,27,06/03/2020,D. Alavés,Valencia CF,Draw,1,1
+265,27,07/03/2020,SD Eibar,RCD Mallorca,RCD Mallorca,1,2
+262,27,07/03/2020,Atlético de Madrid,Sevilla FC,Draw,2,2
+263,27,07/03/2020,FC Barcelona,Real Sociedad,FC Barcelona,1,0
+266,27,07/03/2020,Getafe CF,RC Celta,Draw,0,0
+268,27,08/03/2020,C.A. Osasuna,RCD Espanyol,C.A. Osasuna,1,0
+270,27,08/03/2020,R. Valladolid CF,Athletic Club,Athletic Club,1,4
+267,27,08/03/2020,Levante UD,Granada CF,Draw,1,1
+269,27,08/03/2020,Villarreal CF,CD Leganés,CD Leganés,1,2
+264,27,08/03/2020,Real Betis,Real Madrid,Real Betis,2,1
+233,27,10/03/2020,SD Eibar,Real Sociedad,Real Sociedad,1,2
+279,28,11/06/2020,Sevilla FC,Real Betis,Sevilla FC,2,0
+274,28,12/06/2020,Granada CF,Getafe CF,Granada CF,2,1
+280,28,12/06/2020,Valencia CF,Levante UD,Draw,1,1
+273,28,13/06/2020,RCD Espanyol,D. Alavés,RCD Espanyol,2,0
+272,28,13/06/2020,RC Celta,Villarreal CF,Villarreal CF,0,1
+275,28,13/06/2020,CD Leganés,R. Valladolid CF,R. Valladolid CF,1,2
+276,28,13/06/2020,RCD Mallorca,FC Barcelona,FC Barcelona,0,4
+271,28,14/06/2020,Athletic Club,Atlético de Madrid,Draw,1,1
+277,28,14/06/2020,Real Madrid,SD Eibar,Real Madrid,3,1
+278,28,14/06/2020,Real Sociedad,C.A. Osasuna,Draw,1,1
+286,29,15/06/2020,Levante UD,Sevilla FC,Draw,1,1
+283,29,15/06/2020,Real Betis,Granada CF,Draw,2,2
+285,29,16/06/2020,Getafe CF,RCD Espanyol,Draw,0,0
+289,29,16/06/2020,Villarreal CF,RCD Mallorca,Villarreal CF,1,0
+282,29,16/06/2020,FC Barcelona,CD Leganés,FC Barcelona,2,0
+284,29,17/06/2020,SD Eibar,Athletic Club,Draw,2,2
+290,29,17/06/2020,R. Valladolid CF,RC Celta,Draw,0,0
+287,29,17/06/2020,C.A. Osasuna,Atlético de Madrid,Atlético de Madrid,0,5
+281,29,18/06/2020,D. Alavés,Real Sociedad,D. Alavés,2,0
+288,29,18/06/2020,Real Madrid,Valencia CF,Real Madrid,3,0
+296,30,19/06/2020,Granada CF,Villarreal CF,Villarreal CF,0,1
+297,30,19/06/2020,RCD Mallorca,CD Leganés,Draw,1,1
+299,30,19/06/2020,Sevilla FC,FC Barcelona,Draw,0,0
+294,30,20/06/2020,RCD Espanyol,Levante UD,Levante UD,1,3
+291,30,20/06/2020,Athletic Club,Real Betis,Athletic Club,1,0
+295,30,20/06/2020,Getafe CF,SD Eibar,Draw,1,1
+292,30,20/06/2020,Atlético de Madrid,R. Valladolid CF,Atlético de Madrid,1,0
+293,30,21/06/2020,RC Celta,D. Alavés,RC Celta,6,0
+300,30,21/06/2020,Valencia CF,C.A. Osasuna,Valencia CF,2,0
+298,30,21/06/2020,Real Sociedad,Real Madrid,Real Madrid,1,2
+309,31,22/06/2020,Villarreal CF,Sevilla FC,Draw,2,2
+305,31,22/06/2020,CD Leganés,Granada CF,Draw,0,0
+306,31,23/06/2020,Levante UD,Atlético de Madrid,Atlético de Madrid,0,1
+310,31,23/06/2020,R. Valladolid CF,Getafe CF,Draw,1,1
+302,31,23/06/2020,FC Barcelona,Athletic Club,FC Barcelona,1,0
+301,31,24/06/2020,D. Alavés,C.A. Osasuna,C.A. Osasuna,0,1
+308,31,24/06/2020,Real Sociedad,RC Celta,RC Celta,0,1
+307,31,24/06/2020,Real Madrid,RCD Mallorca,Real Madrid,2,0
+304,31,25/06/2020,SD Eibar,Valencia CF,SD Eibar,1,0
+303,31,25/06/2020,Real Betis,RCD Espanyol,Real Betis,1,0
+319,32,26/06/2020,Sevilla FC,R. Valladolid CF,Draw,1,1
+311,32,27/06/2020,Athletic Club,RCD Mallorca,Athletic Club,3,1
+313,32,27/06/2020,RC Celta,FC Barcelona,Draw,2,2
+318,32,27/06/2020,C.A. Osasuna,CD Leganés,C.A. Osasuna,2,1
+312,32,27/06/2020,Atlético de Madrid,D. Alavés,Atlético de Madrid,2,1
+317,32,28/06/2020,Levante UD,Real Betis,Levante UD,4,2
+320,32,28/06/2020,Villarreal CF,Valencia CF,Villarreal CF,2,0
+316,32,28/06/2020,Granada CF,SD Eibar,SD Eibar,1,2
+314,32,28/06/2020,RCD Espanyol,Real Madrid,Real Madrid,0,1
+315,32,29/06/2020,Getafe CF,Real Sociedad,Getafe CF,2,1
+326,33,30/06/2020,RCD Mallorca,RC Celta,RCD Mallorca,5,1
+325,33,30/06/2020,CD Leganés,Sevilla FC,Sevilla FC,0,3
+322,33,30/06/2020,FC Barcelona,Atlético de Madrid,Draw,2,2
+321,33,01/07/2020,D. Alavés,Granada CF,Granada CF,0,2
+329,33,01/07/2020,Valencia CF,Athletic Club,Athletic Club,0,2
+323,33,01/07/2020,Real Betis,Villarreal CF,Villarreal CF,0,2
+330,33,01/07/2020,R. Valladolid CF,Levante UD,Draw,0,0
+324,33,02/07/2020,SD Eibar,C.A. Osasuna,C.A. Osasuna,0,2
+328,33,02/07/2020,Real Sociedad,RCD Espanyol,Real Sociedad,2,1
+327,33,02/07/2020,Real Madrid,Getafe CF,Real Madrid,1,0
+332,34,03/07/2020,Atlético de Madrid,RCD Mallorca,Atlético de Madrid,3,0
+333,34,04/07/2020,RC Celta,Real Betis,Draw,1,1
+340,34,04/07/2020,R. Valladolid CF,D. Alavés,R. Valladolid CF,1,0
+335,34,04/07/2020,Granada CF,Valencia CF,Draw,2,2
+331,34,05/07/2020,Athletic Club,Real Madrid,Real Madrid,0,1
+334,34,05/07/2020,RCD Espanyol,CD Leganés,CD Leganés,0,1
+337,34,05/07/2020,C.A. Osasuna,Getafe CF,Draw,0,0
+339,34,05/07/2020,Villarreal CF,FC Barcelona,FC Barcelona,1,4
+336,34,06/07/2020,Levante UD,Real Sociedad,Draw,1,1
+338,34,06/07/2020,Sevilla FC,SD Eibar,Sevilla FC,1,0
+350,35,07/07/2020,Valencia CF,R. Valladolid CF,Valencia CF,2,1
+344,35,07/07/2020,RC Celta,Atlético de Madrid,Draw,1,1
+343,35,08/07/2020,Real Betis,C.A. Osasuna,Real Betis,3,0
+346,35,08/07/2020,Getafe CF,Villarreal CF,Villarreal CF,1,3
+342,35,08/07/2020,FC Barcelona,RCD Espanyol,FC Barcelona,1,0
+345,35,09/07/2020,SD Eibar,CD Leganés,Draw,0,0
+347,35,09/07/2020,RCD Mallorca,Levante UD,RCD Mallorca,2,0
+341,35,09/07/2020,Athletic Club,Sevilla FC,Sevilla FC,1,2
+349,35,10/07/2020,Real Sociedad,Granada CF,Granada CF,2,3
+348,35,10/07/2020,Real Madrid,D. Alavés,Real Madrid,2,0
+357,36,11/07/2020,C.A. Osasuna,RC Celta,C.A. Osasuna,2,1
+360,36,11/07/2020,R. Valladolid CF,FC Barcelona,FC Barcelona,0,1
+352,36,11/07/2020,Atlético de Madrid,Real Betis,Atlético de Madrid,1,0
+353,36,12/07/2020,RCD Espanyol,SD Eibar,SD Eibar,0,2
+356,36,12/07/2020,Levante UD,Athletic Club,Athletic Club,1,2
+355,36,12/07/2020,CD Leganés,Valencia CF,CD Leganés,1,0
+358,36,12/07/2020,Sevilla FC,RCD Mallorca,Sevilla FC,2,0
+351,36,13/07/2020,D. Alavés,Getafe CF,Draw,0,0
+359,36,13/07/2020,Villarreal CF,Real Sociedad,Real Sociedad,1,2
+354,36,13/07/2020,Granada CF,Real Madrid,Real Madrid,1,2
+365,37,16/07/2020,SD Eibar,R. Valladolid CF,SD Eibar,3,1
+361,37,16/07/2020,Athletic Club,CD Leganés,CD Leganés,0,2
+362,37,16/07/2020,FC Barcelona,C.A. Osasuna,C.A. Osasuna,1,2
+363,37,16/07/2020,Real Betis,D. Alavés,D. Alavés,1,2
+364,37,16/07/2020,RC Celta,Levante UD,Levante UD,2,3
+366,37,16/07/2020,Getafe CF,Atlético de Madrid,Atlético de Madrid,0,2
+367,37,16/07/2020,RCD Mallorca,Granada CF,Granada CF,1,2
+368,37,16/07/2020,Real Madrid,Villarreal CF,Real Madrid,2,1
+369,37,16/07/2020,Real Sociedad,Sevilla FC,Draw,0,0
+370,37,16/07/2020,Valencia CF,RCD Espanyol,Valencia CF,1,0
+371,38,19/07/2020,D. Alavés,FC Barcelona,FC Barcelona,0,5
+379,38,19/07/2020,Villarreal CF,SD Eibar,Villarreal CF,4,0
+380,38,19/07/2020,R. Valladolid CF,Real Betis,R. Valladolid CF,2,0
+372,38,19/07/2020,Atlético de Madrid,Real Sociedad,Draw,1,1
+373,38,19/07/2020,RCD Espanyol,RC Celta,Draw,0,0
+374,38,19/07/2020,Granada CF,Athletic Club,Granada CF,4,0
+375,38,19/07/2020,CD Leganés,Real Madrid,Draw,2,2
+376,38,19/07/2020,Levante UD,Getafe CF,Levante UD,1,0
+377,38,19/07/2020,C.A. Osasuna,RCD Mallorca,Draw,2,2
+378,38,19/07/2020,Sevilla FC,Valencia CF,Sevilla FC,1,0
+2,1,12/09/2020,SD Eibar,RC Celta,Draw,0,0
+1,1,12/09/2020,Granada CF,Athletic Club,Granada CF,2,0
+3,1,12/09/2020,Cádiz CF,CA Osasuna,CA Osasuna,0,2
+10,1,13/09/2020,Deportivo Alavés,Real Betis,Real Betis,0,1
+7,1,13/09/2020,Real Valladolid CF,Real Sociedad,Draw,1,1
+8,1,13/09/2020,Villarreal CF,SD Huesca,Draw,1,1
+9,1,13/09/2020,Valencia CF,Levante UD,Valencia CF,4,2
+12,2,19/09/2020,Villarreal CF,SD Eibar,Villarreal CF,2,1
+11,2,19/09/2020,Getafe CF,CA Osasuna,Getafe CF,1,0
+13,2,19/09/2020,RC Celta,Valencia CF,RC Celta,2,1
+17,2,20/09/2020,SD Huesca,Cádiz CF,Cádiz CF,0,2
+18,2,20/09/2020,Granada CF,Deportivo Alavés,Granada CF,2,1
+20,2,20/09/2020,Real Betis,Real Valladolid CF,Real Betis,2,0
+19,2,20/09/2020,Real Sociedad,Real Madrid,Draw,0,0
+21,3,26/09/2020,Deportivo Alavés,Getafe CF,Draw,0,0
+28,3,26/09/2020,Valencia CF,SD Huesca,Draw,1,1
+30,3,26/09/2020,Elche CF,Real Sociedad,Real Sociedad,0,3
+24,3,26/09/2020,Real Betis,Real Madrid,Real Madrid,2,3
+27,3,27/09/2020,CA Osasuna,Levante UD,Levante UD,1,3
+25,3,27/09/2020,SD Eibar,Athletic Club,Athletic Club,1,2
+22,3,27/09/2020,Atlético de Madrid,Granada CF,Atlético de Madrid,6,1
+26,3,27/09/2020,Cádiz CF,Sevilla FC,Sevilla FC,1,3
+29,3,27/09/2020,Real Valladolid CF,RC Celta,Draw,1,1
+23,3,27/09/2020,FC Barcelona,Villarreal CF,FC Barcelona,4,0
+38,4,29/09/2020,Real Sociedad,Valencia CF,Valencia CF,0,1
+34,4,29/09/2020,Getafe CF,Real Betis,Getafe CF,3,0
+36,4,30/09/2020,SD Huesca,Atlético de Madrid,Draw,0,0
+40,4,30/09/2020,Villarreal CF,Deportivo Alavés,Villarreal CF,3,1
+33,4,30/09/2020,SD Eibar,Elche CF,Elche CF,0,1
+37,4,30/09/2020,Real Madrid,Real Valladolid CF,Real Madrid,1,0
+31,4,01/10/2020,Athletic Club,Cádiz CF,Cádiz CF,0,1
+39,4,01/10/2020,Sevilla FC,Levante UD,Sevilla FC,1,0
+32,4,01/10/2020,RC Celta,FC Barcelona,FC Barcelona,0,3
+49,5,03/10/2020,Real Valladolid CF,SD Eibar,SD Eibar,1,2
+42,5,03/10/2020,Atlético de Madrid,Villarreal CF,Draw,0,0
+47,5,03/10/2020,Real Sociedad,Getafe CF,Real Sociedad,3,0
+50,5,03/10/2020,Elche CF,SD Huesca,Draw,0,0
+48,5,03/10/2020,Valencia CF,Real Betis,Real Betis,0,2
+46,5,04/10/2020,CA Osasuna,RC Celta,CA Osasuna,2,0
+41,5,04/10/2020,Deportivo Alavés,Athletic Club,Deportivo Alavés,1,0
+45,5,04/10/2020,Levante UD,Real Madrid,Real Madrid,0,2
+44,5,04/10/2020,Cádiz CF,Granada CF,Draw,1,1
+43,5,04/10/2020,FC Barcelona,Sevilla FC,Draw,1,1
+57,6,17/10/2020,Granada CF,Sevilla FC,Granada CF,1,0
+54,6,17/10/2020,RC Celta,Atlético de Madrid,Atlético de Madrid,0,2
+59,6,17/10/2020,Real Madrid,Cádiz CF,Cádiz CF,0,1
+56,6,17/10/2020,Getafe CF,FC Barcelona,Getafe CF,1,0
+52,6,18/10/2020,Athletic Club,Levante UD,Athletic Club,2,0
+55,6,18/10/2020,SD Eibar,CA Osasuna,Draw,0,0
+60,6,18/10/2020,Villarreal CF,Valencia CF,Villarreal CF,2,1
+51,6,18/10/2020,Deportivo Alavés,Elche CF,Elche CF,0,2
+58,6,18/10/2020,SD Huesca,Real Valladolid CF,Draw,2,2
+53,6,18/10/2020,Real Betis,Real Sociedad,Real Sociedad,0,3
+70,7,23/10/2020,Elche CF,Valencia CF,Elche CF,2,1
+62,7,24/10/2020,FC Barcelona,Real Madrid,Real Madrid,1,3
+66,7,24/10/2020,CA Osasuna,Athletic Club,CA Osasuna,1,0
+68,7,24/10/2020,Sevilla FC,SD Eibar,SD Eibar,0,1
+61,7,24/10/2020,Atlético de Madrid,Real Betis,Atlético de Madrid,2,0
+69,7,25/10/2020,Real Valladolid CF,Deportivo Alavés,Deportivo Alavés,0,2
+64,7,25/10/2020,Cádiz CF,Villarreal CF,Draw,0,0
+63,7,25/10/2020,Getafe CF,Granada CF,Granada CF,0,1
+67,7,25/10/2020,Real Sociedad,SD Huesca,Real Sociedad,4,1
+65,7,26/10/2020,Levante UD,RC Celta,Draw,1,1
+75,8,30/10/2020,SD Eibar,Cádiz CF,Cádiz CF,0,2
+78,8,31/10/2020,Real Madrid,SD Huesca,Real Madrid,4,1
+72,8,31/10/2020,Athletic Club,Sevilla FC,Athletic Club,2,1
+77,8,31/10/2020,CA Osasuna,Atlético de Madrid,Atlético de Madrid,1,3
+71,8,31/10/2020,Deportivo Alavés,FC Barcelona,Draw,1,1
+73,8,01/11/2020,Real Betis,Elche CF,Real Betis,3,1
+74,8,01/11/2020,RC Celta,Real Sociedad,Real Sociedad,1,4
+76,8,01/11/2020,Granada CF,Levante UD,Draw,1,1
+79,8,01/11/2020,Valencia CF,Getafe CF,Draw,2,2
+80,8,02/11/2020,Villarreal CF,Real Valladolid CF,Villarreal CF,2,0
+90,9,06/11/2020,Elche CF,RC Celta,Draw,1,1
+84,9,07/11/2020,SD Huesca,SD Eibar,Draw,1,1
+82,9,07/11/2020,FC Barcelona,Real Betis,FC Barcelona,5,2
+87,9,07/11/2020,Sevilla FC,CA Osasuna,Sevilla FC,1,0
+81,9,07/11/2020,Atlético de Madrid,Cádiz CF,Atlético de Madrid,4,0
+83,9,08/11/2020,Getafe CF,Villarreal CF,Villarreal CF,1,3
+86,9,08/11/2020,Real Sociedad,Granada CF,Real Sociedad,2,0
+85,9,08/11/2020,Levante UD,Deportivo Alavés,Draw,1,1
+89,9,08/11/2020,Real Valladolid CF,Athletic Club,Real Valladolid CF,2,1
+88,9,08/11/2020,Valencia CF,Real Madrid,Valencia CF,4,1
+98,10,20/11/2020,CA Osasuna,SD Huesca,Draw,1,1
+97,10,21/11/2020,Levante UD,Elche CF,Draw,1,1
+100,10,21/11/2020,Villarreal CF,Real Madrid,Draw,1,1
+99,10,21/11/2020,Sevilla FC,RC Celta,Sevilla FC,4,2
+93,10,21/11/2020,Atlético de Madrid,FC Barcelona,Atlético de Madrid,1,0
+94,10,22/11/2020,SD Eibar,Getafe CF,Draw,0,0
+95,10,22/11/2020,Cádiz CF,Real Sociedad,Real Sociedad,0,1
+96,10,22/11/2020,Granada CF,Real Valladolid CF,Real Valladolid CF,1,3
+91,10,22/11/2020,Deportivo Alavés,Valencia CF,Draw,2,2
+92,10,23/11/2020,Athletic Club,Real Betis,Athletic Club,4,0
+109,11,27/11/2020,Real Valladolid CF,Levante UD,Draw,1,1
+110,11,28/11/2020,Elche CF,Cádiz CF,Draw,1,1
+108,11,28/11/2020,Valencia CF,Atlético de Madrid,Atlético de Madrid,0,1
+105,11,28/11/2020,SD Huesca,Sevilla FC,Sevilla FC,0,1
+106,11,28/11/2020,Real Madrid,Deportivo Alavés,Deportivo Alavés,1,2
+101,11,29/11/2020,FC Barcelona,CA Osasuna,FC Barcelona,4,0
+104,11,29/11/2020,Getafe CF,Athletic Club,Draw,1,1
+103,11,29/11/2020,RC Celta,Granada CF,RC Celta,3,1
+107,11,29/11/2020,Real Sociedad,Villarreal CF,Draw,1,1
+102,11,30/11/2020,Real Betis,SD Eibar,SD Eibar,0,2
+112,12,04/12/2020,Athletic Club,RC Celta,RC Celta,0,2
+117,12,05/12/2020,Levante UD,Getafe CF,Levante UD,3,0
+119,12,05/12/2020,Sevilla FC,Real Madrid,Real Madrid,0,1
+113,12,05/12/2020,Atlético de Madrid,Real Valladolid CF,Atlético de Madrid,2,0
+115,12,05/12/2020,Cádiz CF,FC Barcelona,Cádiz CF,2,1
+116,12,06/12/2020,Granada CF,SD Huesca,Draw,3,3
+118,12,06/12/2020,CA Osasuna,Real Betis,Real Betis,0,2
+120,12,06/12/2020,Villarreal CF,Elche CF,Draw,0,0
+111,12,06/12/2020,Deportivo Alavés,Real Sociedad,Draw,0,0
+114,12,07/12/2020,SD Eibar,Valencia CF,Draw,0,0
+129,13,11/12/2020,Real Valladolid CF,CA Osasuna,Real Valladolid CF,3,2
+128,13,12/12/2020,Valencia CF,Athletic Club,Draw,2,2
+124,13,12/12/2020,Getafe CF,Sevilla FC,Sevilla FC,0,1
+125,13,12/12/2020,SD Huesca,Deportivo Alavés,SD Huesca,1,0
+126,13,12/12/2020,Real Madrid,Atlético de Madrid,Real Madrid,2,0
+127,13,13/12/2020,Real Sociedad,SD Eibar,Draw,1,1
+122,13,13/12/2020,Real Betis,Villarreal CF,Draw,1,1
+130,13,13/12/2020,Elche CF,Granada CF,Granada CF,0,1
+121,13,13/12/2020,FC Barcelona,Levante UD,FC Barcelona,1,0
+123,13,14/12/2020,RC Celta,Cádiz CF,RC Celta,4,0
+182,13,15/12/2020,Real Madrid,Athletic Club,Real Madrid,3,1
+181,13,16/12/2020,FC Barcelona,Real Sociedad,FC Barcelona,2,1
+131,14,18/12/2020,Athletic Club,SD Huesca,Athletic Club,2,0
+132,14,19/12/2020,Atlético de Madrid,Elche CF,Atlético de Madrid,3,1
+133,14,19/12/2020,FC Barcelona,Valencia CF,Draw,2,2
+138,14,19/12/2020,Levante UD,Real Sociedad,Levante UD,2,1
+139,14,19/12/2020,CA Osasuna,Villarreal CF,Villarreal CF,1,3
+140,14,19/12/2020,Sevilla FC,Real Valladolid CF,Draw,1,1
+134,14,20/12/2020,RC Celta,Deportivo Alavés,RC Celta,2,0
+137,14,20/12/2020,Granada CF,Real Betis,Granada CF,2,0
+136,14,20/12/2020,Cádiz CF,Getafe CF,Getafe CF,0,2
+135,14,20/12/2020,SD Eibar,Real Madrid,Real Madrid,1,3
+147,15,22/12/2020,Valencia CF,Sevilla FC,Sevilla FC,0,1
+150,15,22/12/2020,Elche CF,CA Osasuna,Draw,2,2
+144,15,22/12/2020,SD Huesca,Levante UD,Draw,1,1
+146,15,22/12/2020,Real Sociedad,Atlético de Madrid,Atlético de Madrid,0,2
+148,15,22/12/2020,Real Valladolid CF,FC Barcelona,FC Barcelona,0,3
+149,15,22/12/2020,Villarreal CF,Athletic Club,Draw,1,1
+143,15,23/12/2020,Getafe CF,RC Celta,Draw,1,1
+145,15,23/12/2020,Real Madrid,Granada CF,Real Madrid,2,0
+141,15,23/12/2020,Deportivo Alavés,SD Eibar,Deportivo Alavés,2,1
+142,15,23/12/2020,Real Betis,Cádiz CF,Real Betis,1,0
+159,16,29/12/2020,Sevilla FC,Villarreal CF,Sevilla FC,2,0
+153,16,29/12/2020,FC Barcelona,SD Eibar,Draw,1,1
+155,16,29/12/2020,Cádiz CF,Real Valladolid CF,Draw,0,0
+157,16,29/12/2020,Levante UD,Real Betis,Levante UD,4,3
+156,16,30/12/2020,Granada CF,Valencia CF,Granada CF,2,1
+152,16,30/12/2020,Atlético de Madrid,Getafe CF,Atlético de Madrid,1,0
+154,16,30/12/2020,RC Celta,SD Huesca,RC Celta,2,1
+160,16,30/12/2020,Elche CF,Real Madrid,Draw,1,1
+151,16,31/12/2020,Athletic Club,Real Sociedad,Real Sociedad,0,1
+158,16,31/12/2020,CA Osasuna,Deportivo Alavés,Draw,1,1
+170,17,02/01/2021,Villarreal CF,Levante UD,Villarreal CF,2,1
+163,17,02/01/2021,Real Betis,Sevilla FC,Draw,1,1
+165,17,02/01/2021,Getafe CF,Real Valladolid CF,Real Valladolid CF,0,1
+167,17,02/01/2021,Real Madrid,RC Celta,Real Madrid,2,0
+162,17,03/01/2021,Athletic Club,Elche CF,Athletic Club,1,0
+161,17,03/01/2021,Deportivo Alavés,Atlético de Madrid,Atlético de Madrid,1,2
+164,17,03/01/2021,SD Eibar,Granada CF,SD Eibar,2,0
+168,17,03/01/2021,Real Sociedad,CA Osasuna,Draw,1,1
+166,17,03/01/2021,SD Huesca,FC Barcelona,FC Barcelona,0,1
+169,17,04/01/2021,Valencia CF,Cádiz CF,Draw,1,1
+14,17,06/01/2021,Athletic Club,FC Barcelona,FC Barcelona,2,3
+172,18,08/01/2021,RC Celta,Villarreal CF,Villarreal CF,0,4
+178,18,09/01/2021,Sevilla FC,Real Sociedad,Sevilla FC,3,2
+174,18,09/01/2021,Granada CF,FC Barcelona,FC Barcelona,0,4
+177,18,09/01/2021,CA Osasuna,Real Madrid,Draw,0,0
+176,18,10/01/2021,Levante UD,SD Eibar,Levante UD,2,1
+173,18,10/01/2021,Cádiz CF,Deportivo Alavés,Cádiz CF,3,1
+179,18,10/01/2021,Real Valladolid CF,Valencia CF,Valencia CF,0,1
+180,18,11/01/2021,Elche CF,Getafe CF,Getafe CF,1,3
+175,18,11/01/2021,SD Huesca,Real Betis,Real Betis,0,2
+35,18,12/01/2021,Granada CF,CA Osasuna,Granada CF,2,0
+4,18,12/01/2021,Atlético de Madrid,Sevilla FC,Atlético de Madrid,2,0
+187,19,19/01/2021,Cádiz CF,Levante UD,Draw,2,2
+189,19,19/01/2021,Real Valladolid CF,Elche CF,Draw,2,2
+183,19,19/01/2021,Deportivo Alavés,Sevilla FC,Sevilla FC,1,2
+186,19,20/01/2021,Getafe CF,SD Huesca,Getafe CF,1,0
+184,19,20/01/2021,Real Betis,RC Celta,Real Betis,2,1
+190,19,20/01/2021,Villarreal CF,Granada CF,Draw,2,2
+188,19,21/01/2021,Valencia CF,CA Osasuna,Draw,1,1
+185,19,21/01/2021,SD Eibar,Atlético de Madrid,Atlético de Madrid,1,2
+196,20,22/01/2021,Levante UD,Real Valladolid CF,Draw,2,2
+195,20,23/01/2021,SD Huesca,Villarreal CF,Draw,0,0
+199,20,23/01/2021,Sevilla FC,Cádiz CF,Sevilla FC,3,0
+198,20,23/01/2021,Real Sociedad,Real Betis,Draw,2,2
+191,20,23/01/2021,Deportivo Alavés,Real Madrid,Real Madrid,1,4
+197,20,24/01/2021,CA Osasuna,Granada CF,CA Osasuna,3,1
+200,20,24/01/2021,Elche CF,FC Barcelona,FC Barcelona,0,2
+194,20,24/01/2021,RC Celta,SD Eibar,Draw,1,1
+193,20,24/01/2021,Atlético de Madrid,Valencia CF,Atlético de Madrid,3,1
+192,20,25/01/2021,Athletic Club,Getafe CF,Athletic Club,5,1
+209,21,29/01/2021,Real Valladolid CF,SD Huesca,SD Huesca,1,3
+203,21,30/01/2021,SD Eibar,Sevilla FC,Sevilla FC,0,2
+207,21,30/01/2021,Real Madrid,Levante UD,Levante UD,1,2
+208,21,30/01/2021,Valencia CF,Elche CF,Valencia CF,1,0
+210,21,30/01/2021,Villarreal CF,Real Sociedad,Draw,1,1
+204,21,31/01/2021,Getafe CF,Deportivo Alavés,Draw,0,0
+205,21,31/01/2021,Cádiz CF,Atlético de Madrid,Atlético de Madrid,2,4
+206,21,31/01/2021,Granada CF,RC Celta,Draw,0,0
+201,21,31/01/2021,FC Barcelona,Athletic Club,FC Barcelona,2,1
+202,21,01/02/2021,Real Betis,CA Osasuna,Real Betis,1,0
+211,22,05/02/2021,Deportivo Alavés,Real Valladolid CF,Deportivo Alavés,1,0
+216,22,06/02/2021,Levante UD,Granada CF,Draw,2,2
+215,22,06/02/2021,SD Huesca,Real Madrid,Real Madrid,1,2
+220,22,06/02/2021,Elche CF,Villarreal CF,Draw,2,2
+219,22,06/02/2021,Sevilla FC,Getafe CF,Sevilla FC,3,0
+218,22,07/02/2021,Real Sociedad,Cádiz CF,Real Sociedad,4,1
+212,22,07/02/2021,Athletic Club,Valencia CF,Draw,1,1
+217,22,07/02/2021,CA Osasuna,SD Eibar,CA Osasuna,2,1
+214,22,07/02/2021,Real Betis,FC Barcelona,FC Barcelona,2,3
+213,22,08/02/2021,Atlético de Madrid,RC Celta,Draw,2,2
+6,22,09/02/2021,Real Madrid,Getafe CF,Real Madrid,2,0
+222,23,12/02/2021,RC Celta,Elche CF,RC Celta,3,1
+226,23,13/02/2021,Granada CF,Atlético de Madrid,Atlético de Madrid,1,2
+229,23,13/02/2021,Sevilla FC,SD Huesca,Sevilla FC,1,0
+223,23,13/02/2021,SD Eibar,Real Valladolid CF,Draw,1,1
+221,23,13/02/2021,FC Barcelona,Deportivo Alavés,FC Barcelona,5,1
+224,23,14/02/2021,Getafe CF,Real Sociedad,Real Sociedad,0,1
+228,23,14/02/2021,Real Madrid,Valencia CF,Real Madrid,2,0
+227,23,14/02/2021,Levante UD,CA Osasuna,CA Osasuna,0,1
+230,23,14/02/2021,Villarreal CF,Real Betis,Real Betis,1,2
+225,23,15/02/2021,Cádiz CF,Athletic Club,Athletic Club,0,4
+15,23,17/02/2021,Levante UD,Atlético de Madrid,Draw,1,1
+234,24,19/02/2021,Real Betis,Getafe CF,Real Betis,1,0
+240,24,20/02/2021,Elche CF,SD Eibar,Elche CF,1,0
+232,24,20/02/2021,Atlético de Madrid,Levante UD,Levante UD,0,2
+238,24,20/02/2021,Valencia CF,RC Celta,Valencia CF,2,0
+239,24,20/02/2021,Real Valladolid CF,Real Madrid,Real Madrid,0,1
+233,24,21/02/2021,FC Barcelona,Cádiz CF,Draw,1,1
+237,24,21/02/2021,Real Sociedad,Deportivo Alavés,Real Sociedad,4,0
+235,24,21/02/2021,SD Huesca,Granada CF,SD Huesca,3,2
+231,24,21/02/2021,Athletic Club,Villarreal CF,Draw,1,1
+236,24,22/02/2021,CA Osasuna,Sevilla FC,Sevilla FC,0,2
+5,24,24/02/2021,FC Barcelona,Elche CF,FC Barcelona,3,0
+247,25,26/02/2021,Levante UD,Athletic Club,Draw,1,1
+243,25,27/02/2021,SD Eibar,SD Huesca,Draw,1,1
+249,25,27/02/2021,Sevilla FC,FC Barcelona,FC Barcelona,0,2
+241,25,27/02/2021,Deportivo Alavés,CA Osasuna,CA Osasuna,0,1
+244,25,27/02/2021,Getafe CF,Valencia CF,Getafe CF,3,0
+242,25,28/02/2021,RC Celta,Real Valladolid CF,Draw,1,1
+245,25,28/02/2021,Cádiz CF,Real Betis,Real Betis,0,1
+246,25,28/02/2021,Granada CF,Elche CF,Granada CF,2,1
+250,25,28/02/2021,Villarreal CF,Atlético de Madrid,Atlético de Madrid,0,2
+248,25,01/03/2021,Real Madrid,Real Sociedad,Draw,1,1
+258,26,05/03/2021,Valencia CF,Villarreal CF,Valencia CF,2,1
+259,26,06/03/2021,Real Valladolid CF,Getafe CF,Real Valladolid CF,2,1
+260,26,06/03/2021,Elche CF,Sevilla FC,Elche CF,2,1
+254,26,06/03/2021,Cádiz CF,SD Eibar,Cádiz CF,1,0
+256,26,06/03/2021,CA Osasuna,FC Barcelona,FC Barcelona,0,2
+255,26,07/03/2021,SD Huesca,RC Celta,RC Celta,3,4
+252,26,07/03/2021,Atlético de Madrid,Real Madrid,Draw,1,1
+257,26,07/03/2021,Real Sociedad,Levante UD,Real Sociedad,1,0
+251,26,07/03/2021,Athletic Club,Granada CF,Athletic Club,2,1
+253,26,08/03/2021,Real Betis,Deportivo Alavés,Real Betis,3,2
+171,26,10/03/2021,Atlético de Madrid,Athletic Club,Atlético de Madrid,2,1
+267,27,12/03/2021,Levante UD,Valencia CF,Levante UD,1,0
+261,27,13/03/2021,Deportivo Alavés,Cádiz CF,Draw,1,1
+269,27,13/03/2021,Real Madrid,Elche CF,Real Madrid,2,1
+268,27,13/03/2021,CA Osasuna,Real Valladolid CF,Draw,0,0
+265,27,13/03/2021,Getafe CF,Atlético de Madrid,Draw,0,0
+263,27,14/03/2021,RC Celta,Athletic Club,Draw,0,0
+266,27,14/03/2021,Granada CF,Real Sociedad,Granada CF,1,0
+264,27,14/03/2021,SD Eibar,Villarreal CF,Villarreal CF,1,3
+270,27,14/03/2021,Sevilla FC,Real Betis,Sevilla FC,1,0
+262,27,15/03/2021,FC Barcelona,SD Huesca,FC Barcelona,4,1
+16,27,17/03/2021,Sevilla FC,Elche CF,Sevilla FC,2,0
+273,28,19/03/2021,Real Betis,Levante UD,Real Betis,2,0
+271,28,20/03/2021,Athletic Club,SD Eibar,Draw,1,1
+274,28,20/03/2021,RC Celta,Real Madrid,Real Madrid,1,3
+276,28,20/03/2021,SD Huesca,CA Osasuna,Draw,0,0
+279,28,20/03/2021,Real Valladolid CF,Sevilla FC,Draw,1,1
+275,28,21/03/2021,Getafe CF,Elche CF,Draw,1,1
+278,28,21/03/2021,Valencia CF,Granada CF,Valencia CF,2,1
+280,28,21/03/2021,Villarreal CF,Cádiz CF,Villarreal CF,2,1
+272,28,21/03/2021,Atlético de Madrid,Deportivo Alavés,Atlético de Madrid,1,0
+277,28,21/03/2021,Real Sociedad,FC Barcelona,FC Barcelona,1,6
+285,29,02/04/2021,Levante UD,SD Huesca,SD Huesca,0,2
+284,29,03/04/2021,Granada CF,Villarreal CF,Villarreal CF,0,3
+287,29,03/04/2021,Real Madrid,SD Eibar,Real Madrid,2,0
+286,29,03/04/2021,CA Osasuna,Getafe CF,Draw,0,0
+281,29,04/04/2021,Deportivo Alavés,RC Celta,RC Celta,1,3
+290,29,04/04/2021,Elche CF,Real Betis,Draw,1,1
+283,29,04/04/2021,Cádiz CF,Valencia CF,Cádiz CF,2,1
+289,29,04/04/2021,Sevilla FC,Atlético de Madrid,Sevilla FC,1,0
+282,29,05/04/2021,FC Barcelona,Real Valladolid CF,FC Barcelona,1,0
+288,29,07/04/2021,Real Sociedad,Athletic Club,Draw,1,1
+296,30,09/04/2021,SD Huesca,Elche CF,SD Huesca,3,1
+295,30,10/04/2021,Getafe CF,Cádiz CF,Cádiz CF,0,1
+291,30,10/04/2021,Athletic Club,Deportivo Alavés,Draw,0,0
+294,30,10/04/2021,SD Eibar,Levante UD,Levante UD,0,1
+297,30,10/04/2021,Real Madrid,FC Barcelona,Real Madrid,2,1
+300,30,11/04/2021,Villarreal CF,CA Osasuna,CA Osasuna,1,2
+298,30,11/04/2021,Valencia CF,Real Sociedad,Draw,2,2
+299,30,11/04/2021,Real Valladolid CF,Granada CF,Granada CF,1,2
+292,30,11/04/2021,Real Betis,Atlético de Madrid,Draw,1,1
+293,30,12/04/2021,RC Celta,Sevilla FC,Sevilla FC,3,4
+329,31,18/04/2021,CA Osasuna,Elche CF,CA Osasuna,2,0
+330,31,18/04/2021,Real Sociedad,Sevilla FC,Sevilla FC,1,2
+321,31,18/04/2021,Deportivo Alavés,SD Huesca,Deportivo Alavés,1,0
+323,31,18/04/2021,Atlético de Madrid,SD Eibar,Atlético de Madrid,5,0
+325,31,18/04/2021,Real Betis,Valencia CF,Draw,2,2
+327,31,18/04/2021,Cádiz CF,RC Celta,Draw,0,0
+326,31,18/04/2021,Getafe CF,Real Madrid,Draw,0,0
+328,31,18/04/2021,Levante UD,Villarreal CF,Villarreal CF,1,5
+307,32,21/04/2021,Levante UD,Sevilla FC,Sevilla FC,0,1
+308,32,21/04/2021,CA Osasuna,Valencia CF,CA Osasuna,3,1
+304,32,21/04/2021,Real Betis,Athletic Club,Draw,0,0
+301,32,21/04/2021,Deportivo Alavés,Villarreal CF,Deportivo Alavés,2,1
+310,32,21/04/2021,Elche CF,Real Valladolid CF,Draw,1,1
+305,32,21/04/2021,Cádiz CF,Real Madrid,Real Madrid,0,3
+302,32,22/04/2021,Atlético de Madrid,SD Huesca,Atlético de Madrid,2,0
+306,32,22/04/2021,Granada CF,SD Eibar,Granada CF,4,1
+309,32,22/04/2021,Real Sociedad,RC Celta,Real Sociedad,2,1
+303,32,22/04/2021,FC Barcelona,Getafe CF,FC Barcelona,5,2
+320,33,24/04/2021,Elche CF,Levante UD,Elche CF,1,0
+318,33,24/04/2021,Real Valladolid CF,Cádiz CF,Draw,1,1
+317,33,24/04/2021,Valencia CF,Deportivo Alavés,Draw,1,1
+315,33,24/04/2021,Real Madrid,Real Betis,Draw,0,0
+314,33,25/04/2021,SD Huesca,Getafe CF,Getafe CF,0,2
+319,33,25/04/2021,Villarreal CF,FC Barcelona,FC Barcelona,1,2
+312,33,25/04/2021,RC Celta,CA Osasuna,RC Celta,2,1
+316,33,25/04/2021,Sevilla FC,Granada CF,Sevilla FC,2,1
+311,33,25/04/2021,Athletic Club,Atlético de Madrid,Athletic Club,2,1
+313,33,26/04/2021,SD Eibar,Real Sociedad,Real Sociedad,0,1
+322,33,28/04/2021,Athletic Club,Real Valladolid CF,Draw,2,2
+324,33,29/04/2021,FC Barcelona,Granada CF,Granada CF,1,2
+331,34,30/04/2021,RC Celta,Levante UD,RC Celta,2,0
+332,34,01/05/2021,SD Eibar,Deportivo Alavés,SD Eibar,3,0
+340,34,01/05/2021,Elche CF,Atlético de Madrid,Atlético de Madrid,0,1
+334,34,01/05/2021,SD Huesca,Real Sociedad,SD Huesca,1,0
+335,34,01/05/2021,Real Madrid,CA Osasuna,Real Madrid,2,0
+338,34,02/05/2021,Real Valladolid CF,Real Betis,Draw,1,1
+339,34,02/05/2021,Villarreal CF,Getafe CF,Villarreal CF,1,0
+333,34,02/05/2021,Granada CF,Cádiz CF,Cádiz CF,0,1
+337,34,02/05/2021,Valencia CF,FC Barcelona,FC Barcelona,2,3
+336,34,03/05/2021,Sevilla FC,Athletic Club,Athletic Club,0,1
+348,35,07/05/2021,Real Sociedad,Elche CF,Real Sociedad,2,0
+341,35,08/05/2021,Deportivo Alavés,Levante UD,Draw,2,2
+343,35,08/05/2021,FC Barcelona,Atlético de Madrid,Draw,0,0
+346,35,08/05/2021,Cádiz CF,SD Huesca,Cádiz CF,2,1
+342,35,08/05/2021,Athletic Club,CA Osasuna,Draw,2,2
+345,35,09/05/2021,Getafe CF,SD Eibar,SD Eibar,0,1
+349,35,09/05/2021,Valencia CF,Real Valladolid CF,Valencia CF,3,0
+350,35,09/05/2021,Villarreal CF,RC Celta,RC Celta,2,4
+347,35,09/05/2021,Real Madrid,Sevilla FC,Draw,2,2
+344,35,10/05/2021,Real Betis,Granada CF,Real Betis,2,1
+357,36,11/05/2021,CA Osasuna,Cádiz CF,CA Osasuna,3,2
+360,36,11/05/2021,Elche CF,Deportivo Alavés,Deportivo Alavés,0,2
+356,36,11/05/2021,Levante UD,FC Barcelona,Draw,3,3
+358,36,12/05/2021,Sevilla FC,Valencia CF,Sevilla FC,1,0
+352,36,12/05/2021,RC Celta,Getafe CF,RC Celta,1,0
+355,36,12/05/2021,SD Huesca,Athletic Club,SD Huesca,1,0
+351,36,12/05/2021,Atlético de Madrid,Real Sociedad,Atlético de Madrid,2,1
+359,36,13/05/2021,Real Valladolid CF,Villarreal CF,Villarreal CF,0,2
+353,36,13/05/2021,SD Eibar,Real Betis,Draw,1,1
+354,36,13/05/2021,Granada CF,Real Madrid,Real Madrid,1,4
+370,37,16/05/2021,Villarreal CF,Sevilla FC,Villarreal CF,4,0
+361,37,16/05/2021,Deportivo Alavés,Granada CF,Deportivo Alavés,4,2
+362,37,16/05/2021,Athletic Club,Real Madrid,Real Madrid,0,1
+363,37,16/05/2021,Atlético de Madrid,CA Osasuna,Atlético de Madrid,2,1
+364,37,16/05/2021,FC Barcelona,RC Celta,RC Celta,1,2
+365,37,16/05/2021,Real Betis,SD Huesca,Real Betis,1,0
+366,37,16/05/2021,Getafe CF,Levante UD,Getafe CF,2,1
+367,37,16/05/2021,Cádiz CF,Elche CF,Elche CF,1,3
+368,37,16/05/2021,Real Sociedad,Real Valladolid CF,Real Sociedad,4,1
+369,37,16/05/2021,Valencia CF,SD Eibar,Valencia CF,4,1
+375,38,21/05/2021,Levante UD,Cádiz CF,Draw,2,2
+371,38,22/05/2021,RC Celta,Real Betis,Real Betis,2,3
+372,38,22/05/2021,SD Eibar,FC Barcelona,FC Barcelona,0,1
+374,38,22/05/2021,SD Huesca,Valencia CF,Draw,0,0
+376,38,22/05/2021,CA Osasuna,Real Sociedad,Real Sociedad,0,1
+377,38,22/05/2021,Real Madrid,Villarreal CF,Real Madrid,2,1
+380,38,22/05/2021,Elche CF,Athletic Club,Elche CF,2,0
+379,38,23/05/2021,Real Valladolid CF,Atlético de Madrid,Atlético de Madrid,1,2
+373,38,23/05/2021,Granada CF,Getafe CF,Draw,0,0
+378,38,23/05/2021,Sevilla FC,Deportivo Alavés,Sevilla FC,1,0
+1,1,13/08/2021,Valencia CF,Getafe CF,Valencia CF,1,0
+3,1,14/08/2021,RCD Mallorca,Real Betis,Draw,1,1
+4,1,14/08/2021,Cádiz CF,Levante UD,Draw,1,1
+2,1,14/08/2021,CA Osasuna,RCD Espanyol de Barcelona,Draw,0,0
+5,1,14/08/2021,Deportivo Alavés,Real Madrid,Real Madrid,1,4
+6,1,15/08/2021,RC Celta,Atlético de Madrid,Atlético de Madrid,1,2
+7,1,15/08/2021,FC Barcelona,Real Sociedad,FC Barcelona,4,2
+8,1,15/08/2021,Sevilla FC,Rayo Vallecano,Sevilla FC,3,0
+9,1,16/08/2021,Villarreal CF,Granada CF,Draw,0,0
+10,1,16/08/2021,Elche CF,Athletic Club,Draw,0,0
+14,2,20/08/2021,Real Betis,Cádiz CF,Draw,1,1
+11,2,21/08/2021,Deportivo Alavés,RCD Mallorca,RCD Mallorca,0,1
+16,2,21/08/2021,Granada CF,Valencia CF,Draw,1,1
+17,2,21/08/2021,RCD Espanyol de Barcelona,Villarreal CF,Draw,0,0
+12,2,21/08/2021,Athletic Club,FC Barcelona,Draw,1,1
+20,2,22/08/2021,Real Sociedad,Rayo Vallecano,Real Sociedad,1,0
+13,2,22/08/2021,Atlético de Madrid,Elche CF,Atlético de Madrid,1,0
+18,2,22/08/2021,Levante UD,Real Madrid,Draw,3,3
+15,2,23/08/2021,Getafe CF,Sevilla FC,Sevilla FC,0,1
+19,2,23/08/2021,CA Osasuna,RC Celta,Draw,0,0
+25,3,27/08/2021,RCD Mallorca,RCD Espanyol de Barcelona,RCD Mallorca,1,0
+28,3,27/08/2021,Valencia CF,Deportivo Alavés,Valencia CF,3,0
+24,3,28/08/2021,RC Celta,Athletic Club,Athletic Club,0,1
+27,3,28/08/2021,Real Sociedad,Levante UD,Real Sociedad,1,0
+30,3,28/08/2021,Elche CF,Sevilla FC,Draw,1,1
+23,3,28/08/2021,Real Betis,Real Madrid,Real Madrid,0,1
+22,3,29/08/2021,FC Barcelona,Getafe CF,FC Barcelona,2,1
+26,3,29/08/2021,Cádiz CF,CA Osasuna,CA Osasuna,2,3
+29,3,29/08/2021,Rayo Vallecano,Granada CF,Rayo Vallecano,4,0
+21,3,29/08/2021,Atlético de Madrid,Villarreal CF,Draw,2,2
+36,4,11/09/2021,Levante UD,Rayo Vallecano,Draw,1,1
+31,4,11/09/2021,Athletic Club,RCD Mallorca,Athletic Club,2,0
+35,4,12/09/2021,RCD Espanyol de Barcelona,Atlético de Madrid,Atlético de Madrid,1,2
+37,4,12/09/2021,CA Osasuna,Valencia CF,Valencia CF,1,4
+33,4,12/09/2021,Cádiz CF,Real Sociedad,Real Sociedad,0,2
+38,4,12/09/2021,Real Madrid,RC Celta,Real Madrid,5,2
+32,4,13/09/2021,Getafe CF,Elche CF,Elche CF,0,1
+34,4,13/09/2021,Granada CF,Real Betis,Real Betis,1,2
+45,5,17/09/2021,RC Celta,Cádiz CF,Cádiz CF,1,2
+49,5,18/09/2021,Rayo Vallecano,Getafe CF,Rayo Vallecano,3,0
+42,5,18/09/2021,Atlético de Madrid,Athletic Club,Draw,0,0
+50,5,18/09/2021,Elche CF,Levante UD,Draw,1,1
+41,5,18/09/2021,Deportivo Alavés,CA Osasuna,CA Osasuna,0,2
+46,5,19/09/2021,RCD Mallorca,Villarreal CF,Draw,0,0
+47,5,19/09/2021,Real Sociedad,Sevilla FC,Draw,0,0
+44,5,19/09/2021,Real Betis,RCD Espanyol de Barcelona,Draw,2,2
+48,5,19/09/2021,Valencia CF,Real Madrid,Real Madrid,1,2
+43,5,20/09/2021,FC Barcelona,Granada CF,Draw,1,1
+52,6,21/09/2021,Getafe CF,Atlético de Madrid,Atlético de Madrid,1,2
+51,6,21/09/2021,Athletic Club,Rayo Vallecano,Rayo Vallecano,1,2
+56,6,21/09/2021,Levante UD,RC Celta,RC Celta,0,2
+55,6,22/09/2021,RCD Espanyol de Barcelona,Deportivo Alavés,RCD Espanyol de Barcelona,1,0
+59,6,22/09/2021,Sevilla FC,Valencia CF,Sevilla FC,3,1
+58,6,22/09/2021,Real Madrid,RCD Mallorca,Real Madrid,6,1
+60,6,22/09/2021,Villarreal CF,Elche CF,Villarreal CF,4,1
+54,6,23/09/2021,Granada CF,Real Sociedad,Real Sociedad,2,3
+57,6,23/09/2021,CA Osasuna,Real Betis,Real Betis,1,3
+53,6,23/09/2021,Cádiz CF,FC Barcelona,Draw,0,0
+61,7,25/09/2021,Deportivo Alavés,Atlético de Madrid,Deportivo Alavés,1,0
+69,7,25/09/2021,Valencia CF,Athletic Club,Draw,1,1
+68,7,25/09/2021,Sevilla FC,RCD Espanyol de Barcelona,Sevilla FC,2,0
+66,7,25/09/2021,Real Madrid,Villarreal CF,Draw,0,0
+65,7,26/09/2021,RCD Mallorca,CA Osasuna,CA Osasuna,2,3
+62,7,26/09/2021,FC Barcelona,Levante UD,FC Barcelona,3,0
+67,7,26/09/2021,Real Sociedad,Elche CF,Real Sociedad,1,0
+70,7,26/09/2021,Rayo Vallecano,Cádiz CF,Rayo Vallecano,3,1
+63,7,26/09/2021,Real Betis,Getafe CF,Real Betis,2,0
+64,7,27/09/2021,RC Celta,Granada CF,RC Celta,1,0
+71,8,01/10/2021,Athletic Club,Deportivo Alavés,Athletic Club,1,0
+78,8,02/10/2021,CA Osasuna,Rayo Vallecano,CA Osasuna,1,0
+73,8,02/10/2021,RCD Mallorca,Levante UD,RCD Mallorca,1,0
+75,8,02/10/2021,Cádiz CF,Valencia CF,Draw,0,0
+72,8,02/10/2021,Atlético de Madrid,FC Barcelona,Atlético de Madrid,2,0
+80,8,03/10/2021,Elche CF,RC Celta,Elche CF,1,0
+77,8,03/10/2021,RCD Espanyol de Barcelona,Real Madrid,RCD Espanyol de Barcelona,2,1
+74,8,03/10/2021,Getafe CF,Real Sociedad,Draw,1,1
+79,8,03/10/2021,Villarreal CF,Real Betis,Villarreal CF,2,0
+76,8,03/10/2021,Granada CF,Sevilla FC,Granada CF,1,0
+86,9,16/10/2021,Levante UD,Getafe CF,Draw,0,0
+88,9,16/10/2021,Real Sociedad,RCD Mallorca,Real Sociedad,1,0
+89,9,17/10/2021,Rayo Vallecano,Elche CF,Rayo Vallecano,2,1
+83,9,17/10/2021,RC Celta,Sevilla FC,Sevilla FC,0,1
+90,9,17/10/2021,Villarreal CF,CA Osasuna,CA Osasuna,1,2
+82,9,17/10/2021,FC Barcelona,Valencia CF,FC Barcelona,3,1
+81,9,18/10/2021,Deportivo Alavés,Real Betis,Real Betis,0,1
+85,9,18/10/2021,RCD Espanyol de Barcelona,Cádiz CF,RCD Espanyol de Barcelona,2,0
+97,10,22/10/2021,CA Osasuna,Granada CF,Draw,1,1
+99,10,23/10/2021,Valencia CF,RCD Mallorca,Draw,2,2
+96,10,23/10/2021,Cádiz CF,Deportivo Alavés,Deportivo Alavés,0,2
+100,10,23/10/2021,Elche CF,RCD Espanyol de Barcelona,Draw,2,2
+91,10,23/10/2021,Athletic Club,Villarreal CF,Athletic Club,2,1
+98,10,24/10/2021,Sevilla FC,Levante UD,Sevilla FC,5,3
+93,10,24/10/2021,FC Barcelona,Real Madrid,Real Madrid,1,2
+94,10,24/10/2021,Real Betis,Rayo Vallecano,Real Betis,3,2
+92,10,24/10/2021,Atlético de Madrid,Real Sociedad,Draw,2,2
+95,10,25/10/2021,Getafe CF,RC Celta,RC Celta,0,3
+101,11,26/10/2021,Deportivo Alavés,Elche CF,Deportivo Alavés,1,0
+106,11,26/10/2021,RCD Espanyol de Barcelona,Athletic Club,Draw,1,1
+110,11,26/10/2021,Villarreal CF,Cádiz CF,Draw,3,3
+104,11,27/10/2021,RCD Mallorca,Sevilla FC,Draw,1,1
+109,11,27/10/2021,Rayo Vallecano,FC Barcelona,Rayo Vallecano,1,0
+102,11,27/10/2021,Real Betis,Valencia CF,Real Betis,4,1
+108,11,27/10/2021,Real Madrid,CA Osasuna,Draw,0,0
+103,11,28/10/2021,RC Celta,Real Sociedad,Real Sociedad,0,2
+105,11,28/10/2021,Granada CF,Getafe CF,Draw,1,1
+107,11,28/10/2021,Levante UD,Atlético de Madrid,Draw,2,2
+120,12,30/10/2021,Elche CF,Real Madrid,Real Madrid,1,2
+117,12,30/10/2021,Sevilla FC,CA Osasuna,Sevilla FC,2,0
+118,12,30/10/2021,Valencia CF,Villarreal CF,Valencia CF,2,0
+112,12,30/10/2021,FC Barcelona,Deportivo Alavés,Draw,1,1
+114,12,31/10/2021,Cádiz CF,RCD Mallorca,Draw,1,1
+111,12,31/10/2021,Atlético de Madrid,Real Betis,Atlético de Madrid,3,0
+113,12,31/10/2021,Getafe CF,RCD Espanyol de Barcelona,Getafe CF,2,1
+116,12,31/10/2021,Real Sociedad,Athletic Club,Draw,1,1
+119,12,01/11/2021,Rayo Vallecano,RC Celta,Draw,0,0
+115,12,01/11/2021,Levante UD,Granada CF,Granada CF,0,3
+122,13,05/11/2021,Athletic Club,Cádiz CF,Cádiz CF,0,1
+126,13,06/11/2021,RCD Espanyol de Barcelona,Granada CF,RCD Espanyol de Barcelona,2,0
+124,13,06/11/2021,RC Celta,FC Barcelona,Draw,3,3
+121,13,06/11/2021,Deportivo Alavés,Levante UD,Deportivo Alavés,2,1
+128,13,06/11/2021,Real Madrid,Rayo Vallecano,Real Madrid,2,1
+130,13,07/11/2021,Villarreal CF,Getafe CF,Villarreal CF,1,0
+129,13,07/11/2021,Valencia CF,Atlético de Madrid,Draw,3,3
+125,13,07/11/2021,RCD Mallorca,Elche CF,Draw,2,2
+127,13,07/11/2021,CA Osasuna,Real Sociedad,Real Sociedad,0,2
+123,13,07/11/2021,Real Betis,Sevilla FC,Sevilla FC,0,2
+136,14,19/11/2021,Levante UD,Athletic Club,Draw,0,0
+133,14,20/11/2021,RC Celta,Villarreal CF,Draw,1,1
+138,14,20/11/2021,Sevilla FC,Deportivo Alavés,Draw,2,2
+131,14,20/11/2021,Atlético de Madrid,CA Osasuna,Atlético de Madrid,1,0
+132,14,20/11/2021,FC Barcelona,RCD Espanyol de Barcelona,FC Barcelona,1,0
+134,14,21/11/2021,Getafe CF,Cádiz CF,Getafe CF,4,0
+135,14,21/11/2021,Granada CF,Real Madrid,Real Madrid,1,4
+140,14,21/11/2021,Elche CF,Real Betis,Real Betis,0,3
+137,14,21/11/2021,Real Sociedad,Valencia CF,Draw,0,0
+139,14,22/11/2021,Rayo Vallecano,RCD Mallorca,Rayo Vallecano,3,1
+142,15,26/11/2021,Athletic Club,Granada CF,Draw,2,2
+141,15,27/11/2021,Deportivo Alavés,RC Celta,RC Celta,1,2
+149,15,27/11/2021,Valencia CF,Rayo Vallecano,Draw,1,1
+144,15,27/11/2021,RCD Mallorca,Getafe CF,Draw,0,0
+150,15,27/11/2021,Villarreal CF,FC Barcelona,FC Barcelona,1,3
+143,15,28/11/2021,Real Betis,Levante UD,Real Betis,3,1
+146,15,28/11/2021,RCD Espanyol de Barcelona,Real Sociedad,RCD Espanyol de Barcelona,1,0
+145,15,28/11/2021,Cádiz CF,Atlético de Madrid,Atlético de Madrid,1,4
+148,15,28/11/2021,Real Madrid,Sevilla FC,Real Madrid,2,1
+147,15,29/11/2021,CA Osasuna,Elche CF,Draw,1,1
+87,16,01/12/2021,Real Madrid,Athletic Club,Real Madrid,1,0
+155,16,03/12/2021,Granada CF,Deportivo Alavés,Granada CF,2,1
+158,16,04/12/2021,Sevilla FC,Villarreal CF,Sevilla FC,1,0
+152,16,04/12/2021,FC Barcelona,Real Betis,Real Betis,0,1
+151,16,04/12/2021,Atlético de Madrid,RCD Mallorca,RCD Mallorca,1,2
+157,16,04/12/2021,Real Sociedad,Real Madrid,Real Madrid,0,2
+159,16,05/12/2021,Rayo Vallecano,RCD Espanyol de Barcelona,Rayo Vallecano,1,0
+160,16,05/12/2021,Elche CF,Cádiz CF,Elche CF,3,1
+156,16,05/12/2021,Levante UD,CA Osasuna,Draw,0,0
+153,16,05/12/2021,RC Celta,Valencia CF,Valencia CF,1,2
+154,16,06/12/2021,Getafe CF,Athletic Club,Draw,0,0
+164,17,10/12/2021,RCD Mallorca,RC Celta,Draw,0,0
+166,17,11/12/2021,RCD Espanyol de Barcelona,Levante UD,RCD Espanyol de Barcelona,4,3
+161,17,11/12/2021,Deportivo Alavés,Getafe CF,Draw,1,1
+169,17,11/12/2021,Valencia CF,Elche CF,Valencia CF,2,1
+162,17,11/12/2021,Athletic Club,Sevilla FC,Sevilla FC,0,1
+170,17,12/12/2021,Villarreal CF,Rayo Vallecano,Villarreal CF,2,0
+167,17,12/12/2021,CA Osasuna,FC Barcelona,Draw,2,2
+163,17,12/12/2021,Real Betis,Real Sociedad,Real Betis,4,0
+168,17,12/12/2021,Real Madrid,Atlético de Madrid,Real Madrid,2,0
+165,17,13/12/2021,Cádiz CF,Granada CF,Draw,1,1
+173,18,17/12/2021,RC Celta,RCD Espanyol de Barcelona,RC Celta,3,1
+180,18,18/12/2021,Rayo Vallecano,Deportivo Alavés,Rayo Vallecano,2,0
+178,18,18/12/2021,Real Sociedad,Villarreal CF,Villarreal CF,1,3
+172,18,18/12/2021,FC Barcelona,Elche CF,FC Barcelona,3,2
+179,18,18/12/2021,Sevilla FC,Atlético de Madrid,Sevilla FC,2,1
+175,18,19/12/2021,Granada CF,RCD Mallorca,Granada CF,4,1
+171,18,19/12/2021,Athletic Club,Real Betis,Athletic Club,3,2
+174,18,19/12/2021,Getafe CF,CA Osasuna,Getafe CF,1,0
+177,18,19/12/2021,Real Madrid,Cádiz CF,Draw,0,0
+176,18,20/12/2021,Levante UD,Valencia CF,Valencia CF,3,4
+40,18,21/12/2021,Villarreal CF,Deportivo Alavés,Villarreal CF,5,2
+39,18,21/12/2021,Sevilla FC,FC Barcelona,Draw,1,1
+84,18,22/12/2021,Granada CF,Atlético de Madrid,Granada CF,2,1
+201,18,22/12/2021,Athletic Club,Real Madrid,Real Madrid,1,2
+188,19,31/12/2021,Valencia CF,RCD Espanyol de Barcelona,RCD Espanyol de Barcelona,1,2
+185,19,02/01/2022,Getafe CF,Real Madrid,Getafe CF,1,0
+182,19,02/01/2022,Atlético de Madrid,Rayo Vallecano,Atlético de Madrid,2,0
+190,19,02/01/2022,Elche CF,Granada CF,Draw,0,0
+181,19,02/01/2022,Deportivo Alavés,Real Sociedad,Draw,1,1
+183,19,02/01/2022,Real Betis,RC Celta,RC Celta,0,2
+184,19,02/01/2022,RCD Mallorca,FC Barcelona,FC Barcelona,0,1
+189,19,03/01/2022,Villarreal CF,Levante UD,Villarreal CF,5,0
+187,19,03/01/2022,CA Osasuna,Athletic Club,Athletic Club,1,3
+186,19,03/01/2022,Cádiz CF,Sevilla FC,Sevilla FC,0,1
+194,20,08/01/2022,Levante UD,RCD Mallorca,Levante UD,2,0
+197,20,08/01/2022,Real Sociedad,RC Celta,Real Sociedad,1,0
+192,20,08/01/2022,Granada CF,FC Barcelona,Draw,1,1
+196,20,08/01/2022,Real Madrid,Valencia CF,Real Madrid,4,1
+199,20,09/01/2022,Rayo Vallecano,Real Betis,Draw,1,1
+198,20,09/01/2022,Sevilla FC,Getafe CF,Sevilla FC,1,0
+191,20,09/01/2022,Deportivo Alavés,Athletic Club,Draw,0,0
+195,20,09/01/2022,CA Osasuna,Cádiz CF,CA Osasuna,2,0
+200,20,09/01/2022,Villarreal CF,Atlético de Madrid,Draw,2,2
+193,20,10/01/2022,RCD Espanyol de Barcelona,Elche CF,Elche CF,1,2
+210,21,16/01/2022,Elche CF,Villarreal CF,Elche CF,1,0
+202,21,16/01/2022,Atlético de Madrid,Levante UD,Draw,1,1
+204,21,18/01/2022,Real Betis,Deportivo Alavés,Real Betis,4,0
+208,21,18/01/2022,Cádiz CF,RCD Espanyol de Barcelona,Draw,2,2
+205,21,19/01/2022,RC Celta,CA Osasuna,RC Celta,2,0
+209,21,19/01/2022,Valencia CF,Sevilla FC,Draw,1,1
+207,21,20/01/2022,Getafe CF,Granada CF,Getafe CF,4,2
+214,22,21/01/2022,RCD Espanyol de Barcelona,Real Betis,Real Betis,1,4
+215,22,22/01/2022,Levante UD,Cádiz CF,Cádiz CF,0,2
+220,22,22/01/2022,Villarreal CF,RCD Mallorca,Villarreal CF,3,0
+218,22,22/01/2022,Sevilla FC,RC Celta,Draw,2,2
+212,22,22/01/2022,Atlético de Madrid,Valencia CF,Atlético de Madrid,3,2
+213,22,23/01/2022,Granada CF,CA Osasuna,CA Osasuna,0,2
+216,22,23/01/2022,Real Madrid,Elche CF,Draw,2,2
+217,22,23/01/2022,Real Sociedad,Getafe CF,Draw,0,0
+219,22,23/01/2022,Rayo Vallecano,Athletic Club,Athletic Club,0,1
+211,22,23/01/2022,Deportivo Alavés,FC Barcelona,FC Barcelona,0,1
+226,23,04/02/2022,Getafe CF,Levante UD,Getafe CF,3,0
+230,23,05/02/2022,Elche CF,Deportivo Alavés,Elche CF,3,1
+225,23,05/02/2022,RCD Mallorca,Cádiz CF,RCD Mallorca,2,1
+224,23,05/02/2022,RC Celta,Rayo Vallecano,RC Celta,2,0
+227,23,05/02/2022,CA Osasuna,Sevilla FC,Draw,0,0
+229,23,06/02/2022,Valencia CF,Real Sociedad,Draw,0,0
+222,23,06/02/2022,FC Barcelona,Atlético de Madrid,FC Barcelona,4,2
+223,23,06/02/2022,Real Betis,Villarreal CF,Villarreal CF,0,2
+228,23,06/02/2022,Real Madrid,Granada CF,Real Madrid,1,0
+221,23,07/02/2022,Athletic Club,RCD Espanyol de Barcelona,Athletic Club,2,1
+238,24,11/02/2022,Sevilla FC,Elche CF,Sevilla FC,2,0
+234,24,12/02/2022,Cádiz CF,RC Celta,Draw,0,0
+240,24,12/02/2022,Villarreal CF,Real Madrid,Draw,0,0
+239,24,12/02/2022,Rayo Vallecano,CA Osasuna,CA Osasuna,0,3
+232,24,12/02/2022,Atlético de Madrid,Getafe CF,Atlético de Madrid,4,3
+231,24,13/02/2022,Deportivo Alavés,Valencia CF,Deportivo Alavés,2,1
+236,24,13/02/2022,Levante UD,Real Betis,Real Betis,2,4
+237,24,13/02/2022,Real Sociedad,Granada CF,Real Sociedad,2,0
+235,24,13/02/2022,RCD Espanyol de Barcelona,FC Barcelona,Draw,2,2
+233,24,14/02/2022,RCD Mallorca,Athletic Club,RCD Mallorca,3,2
+250,25,18/02/2022,Elche CF,Rayo Vallecano,Elche CF,2,1
+245,25,19/02/2022,Granada CF,Villarreal CF,Villarreal CF,1,4
+247,25,19/02/2022,CA Osasuna,Atlético de Madrid,Atlético de Madrid,0,3
+244,25,19/02/2022,Cádiz CF,Getafe CF,Draw,1,1
+248,25,19/02/2022,Real Madrid,Deportivo Alavés,Real Madrid,3,0
+246,25,20/02/2022,RCD Espanyol de Barcelona,Sevilla FC,Draw,1,1
+249,25,20/02/2022,Valencia CF,FC Barcelona,FC Barcelona,1,4
+242,25,20/02/2022,Real Betis,RCD Mallorca,Real Betis,2,1
+241,25,20/02/2022,Athletic Club,Real Sociedad,Athletic Club,4,0
+243,25,21/02/2022,RC Celta,Levante UD,Draw,1,1
+256,26,25/02/2022,Levante UD,Elche CF,Levante UD,3,0
+253,26,26/02/2022,RCD Mallorca,Valencia CF,Valencia CF,0,1
+254,26,26/02/2022,Getafe CF,Deportivo Alavés,Draw,2,2
+259,26,26/02/2022,Rayo Vallecano,Real Madrid,Real Madrid,0,1
+251,26,26/02/2022,Atlético de Madrid,RC Celta,Atlético de Madrid,2,0
+260,26,27/02/2022,Villarreal CF,RCD Espanyol de Barcelona,Villarreal CF,5,1
+258,26,27/02/2022,Sevilla FC,Real Betis,Sevilla FC,2,1
+257,26,27/02/2022,Real Sociedad,CA Osasuna,Real Sociedad,1,0
+252,26,27/02/2022,FC Barcelona,Athletic Club,FC Barcelona,4,0
+255,26,28/02/2022,Granada CF,Cádiz CF,Draw,0,0
+206,26,02/03/2022,RCD Mallorca,Real Sociedad,Real Sociedad,0,2
+261,27,04/03/2022,Deportivo Alavés,Sevilla FC,Draw,0,0
+267,27,05/03/2022,CA Osasuna,Villarreal CF,CA Osasuna,1,0
+266,27,05/03/2022,RCD Espanyol de Barcelona,Getafe CF,RCD Espanyol de Barcelona,2,0
+269,27,05/03/2022,Valencia CF,Granada CF,Valencia CF,3,1
+268,27,05/03/2022,Real Madrid,Real Sociedad,Real Madrid,4,1
+265,27,06/03/2022,Cádiz CF,Rayo Vallecano,Cádiz CF,2,0
+270,27,06/03/2022,Elche CF,FC Barcelona,FC Barcelona,1,2
+264,27,06/03/2022,RC Celta,RCD Mallorca,RC Celta,4,3
+263,27,06/03/2022,Real Betis,Atlético de Madrid,Atlético de Madrid,1,3
+262,27,07/03/2022,Athletic Club,Levante UD,Athletic Club,3,1
+271,28,11/03/2022,Atlético de Madrid,Cádiz CF,Atlético de Madrid,2,1
+277,28,12/03/2022,Levante UD,RCD Espanyol de Barcelona,Draw,1,1
+276,28,12/03/2022,Granada CF,Elche CF,Elche CF,0,1
+280,28,12/03/2022,Villarreal CF,RC Celta,Villarreal CF,1,0
+275,28,12/03/2022,Getafe CF,Valencia CF,Draw,0,0
+279,28,13/03/2022,Rayo Vallecano,Sevilla FC,Draw,1,1
+273,28,13/03/2022,Real Betis,Athletic Club,Real Betis,1,0
+278,28,13/03/2022,Real Sociedad,Deportivo Alavés,Real Sociedad,1,0
+272,28,13/03/2022,FC Barcelona,CA Osasuna,FC Barcelona,4,0
+274,28,14/03/2022,RCD Mallorca,Real Madrid,Real Madrid,0,3
+282,29,18/03/2022,Athletic Club,Getafe CF,Draw,1,1
+281,29,19/03/2022,Deportivo Alavés,Granada CF,Granada CF,2,3
+290,29,19/03/2022,Elche CF,Valencia CF,Valencia CF,0,1
+286,29,19/03/2022,CA Osasuna,Levante UD,CA Osasuna,3,1
+289,29,19/03/2022,Rayo Vallecano,Atlético de Madrid,Atlético de Madrid,0,1
+285,29,20/03/2022,RCD Espanyol de Barcelona,RCD Mallorca,RCD Espanyol de Barcelona,1,0
+283,29,20/03/2022,RC Celta,Real Betis,Draw,0,0
+284,29,20/03/2022,Cádiz CF,Villarreal CF,Cádiz CF,1,0
+288,29,20/03/2022,Sevilla FC,Real Sociedad,Draw,0,0
+287,29,20/03/2022,Real Madrid,FC Barcelona,FC Barcelona,0,4
+296,30,02/04/2022,Getafe CF,RCD Mallorca,Getafe CF,1,0
+298,30,02/04/2022,Levante UD,Villarreal CF,Levante UD,2,0
+295,30,02/04/2022,RC Celta,Real Madrid,Real Madrid,1,2
+292,30,02/04/2022,Atlético de Madrid,Deportivo Alavés,Atlético de Madrid,4,1
+291,30,03/04/2022,Athletic Club,Elche CF,Athletic Club,2,1
+294,30,03/04/2022,Real Betis,CA Osasuna,Real Betis,4,1
+297,30,03/04/2022,Granada CF,Rayo Vallecano,Draw,2,2
+300,30,03/04/2022,Valencia CF,Cádiz CF,Draw,0,0
+293,30,03/04/2022,FC Barcelona,Sevilla FC,FC Barcelona,1,0
+299,30,04/04/2022,Real Sociedad,RCD Espanyol de Barcelona,Real Sociedad,1,0
+307,31,08/04/2022,Sevilla FC,Granada CF,Sevilla FC,4,2
+302,31,09/04/2022,Cádiz CF,Real Betis,Real Betis,1,2
+301,31,09/04/2022,RCD Mallorca,Atlético de Madrid,RCD Mallorca,1,0
+309,31,09/04/2022,Villarreal CF,Athletic Club,Draw,1,1
+306,31,09/04/2022,Real Madrid,Getafe CF,Real Madrid,2,0
+305,31,10/04/2022,CA Osasuna,Deportivo Alavés,CA Osasuna,1,0
+303,31,10/04/2022,RCD Espanyol de Barcelona,RC Celta,RCD Espanyol de Barcelona,1,0
+310,31,10/04/2022,Elche CF,Real Sociedad,Real Sociedad,1,2
+304,31,10/04/2022,Levante UD,FC Barcelona,FC Barcelona,2,3
+308,31,11/04/2022,Rayo Vallecano,Valencia CF,Draw,1,1
+317,32,15/04/2022,Real Sociedad,Real Betis,Draw,0,0
+320,32,16/04/2022,Elche CF,RCD Mallorca,Elche CF,3,0
+311,32,16/04/2022,Deportivo Alavés,Rayo Vallecano,Deportivo Alavés,1,0
+319,32,16/04/2022,Valencia CF,CA Osasuna,CA Osasuna,1,2
+315,32,16/04/2022,Getafe CF,Villarreal CF,Villarreal CF,1,2
+316,32,17/04/2022,Granada CF,Levante UD,Levante UD,1,4
+313,32,17/04/2022,Atlético de Madrid,RCD Espanyol de Barcelona,Atlético de Madrid,2,1
+312,32,17/04/2022,Athletic Club,RC Celta,RC Celta,0,2
+318,32,17/04/2022,Sevilla FC,Real Madrid,Real Madrid,2,3
+314,32,18/04/2022,FC Barcelona,Cádiz CF,Cádiz CF,0,1
+324,33,19/04/2022,RCD Mallorca,Deportivo Alavés,RCD Mallorca,2,1
+322,33,19/04/2022,Real Betis,Elche CF,Elche CF,0,1
+330,33,19/04/2022,Villarreal CF,Valencia CF,Villarreal CF,2,0
+321,33,20/04/2022,Atlético de Madrid,Granada CF,Draw,0,0
+323,33,20/04/2022,RC Celta,Getafe CF,Getafe CF,0,2
+328,33,20/04/2022,CA Osasuna,Real Madrid,Real Madrid,1,3
+326,33,21/04/2022,RCD Espanyol de Barcelona,Rayo Vallecano,Rayo Vallecano,0,1
+327,33,21/04/2022,Levante UD,Sevilla FC,Sevilla FC,2,3
+325,33,21/04/2022,Cádiz CF,Athletic Club,Athletic Club,2,3
+329,33,21/04/2022,Real Sociedad,FC Barcelona,FC Barcelona,0,1
+203,33,24/04/2022,FC Barcelona,Rayo Vallecano,Rayo Vallecano,0,1
+337,34,29/04/2022,Sevilla FC,Cádiz CF,Draw,1,1
+331,34,30/04/2022,Deportivo Alavés,Villarreal CF,Deportivo Alavés,2,1
+336,34,30/04/2022,Real Madrid,RCD Espanyol de Barcelona,Real Madrid,4,0
+338,34,30/04/2022,Valencia CF,Levante UD,Draw,1,1
+332,34,30/04/2022,Athletic Club,Atlético de Madrid,Athletic Club,2,0
+340,34,01/05/2022,Elche CF,CA Osasuna,Draw,1,1
+335,34,01/05/2022,Granada CF,RC Celta,Draw,1,1
+339,34,01/05/2022,Rayo Vallecano,Real Sociedad,Draw,1,1
+333,34,01/05/2022,FC Barcelona,RCD Mallorca,FC Barcelona,2,1
+334,34,02/05/2022,Getafe CF,Real Betis,Draw,0,0
+349,35,06/05/2022,Levante UD,Real Sociedad,Levante UD,2,1
+345,35,07/05/2022,RCD Mallorca,Granada CF,Granada CF,2,6
+341,35,07/05/2022,Athletic Club,Valencia CF,Draw,0,0
+344,35,07/05/2022,RC Celta,Deportivo Alavés,RC Celta,4,0
+347,35,07/05/2022,Cádiz CF,Elche CF,Cádiz CF,3,0
+343,35,07/05/2022,Real Betis,FC Barcelona,FC Barcelona,1,2
+346,35,08/05/2022,Getafe CF,Rayo Vallecano,Draw,0,0
+350,35,08/05/2022,Villarreal CF,Sevilla FC,Draw,1,1
+348,35,08/05/2022,RCD Espanyol de Barcelona,CA Osasuna,Draw,1,1
+342,35,08/05/2022,Atlético de Madrid,Real Madrid,Atlético de Madrid,1,0
+358,36,10/05/2022,Valencia CF,Real Betis,Real Betis,0,3
+353,36,10/05/2022,Granada CF,Athletic Club,Granada CF,1,0
+352,36,11/05/2022,FC Barcelona,RC Celta,FC Barcelona,3,1
+351,36,11/05/2022,Deportivo Alavés,RCD Espanyol de Barcelona,Deportivo Alavés,2,1
+354,36,11/05/2022,CA Osasuna,Getafe CF,Draw,1,1
+357,36,11/05/2022,Sevilla FC,RCD Mallorca,Draw,0,0
+360,36,11/05/2022,Elche CF,Atlético de Madrid,Atlético de Madrid,0,2
+356,36,12/05/2022,Real Sociedad,Cádiz CF,Real Sociedad,3,0
+359,36,12/05/2022,Rayo Vallecano,Villarreal CF,Villarreal CF,1,5
+355,36,12/05/2022,Real Madrid,Levante UD,Real Madrid,6,0
+368,37,14/05/2022,RCD Espanyol de Barcelona,Valencia CF,Draw,1,1
+361,37,15/05/2022,Athletic Club,CA Osasuna,Athletic Club,2,0
+362,37,15/05/2022,Atlético de Madrid,Sevilla FC,Draw,1,1
+363,37,15/05/2022,Real Betis,Granada CF,Real Betis,2,0
+364,37,15/05/2022,RC Celta,Elche CF,RC Celta,1,0
+365,37,15/05/2022,RCD Mallorca,Rayo Vallecano,RCD Mallorca,2,1
+366,37,15/05/2022,Getafe CF,FC Barcelona,Draw,0,0
+367,37,15/05/2022,Cádiz CF,Real Madrid,Draw,1,1
+369,37,15/05/2022,Levante UD,Deportivo Alavés,Levante UD,3,1
+370,37,15/05/2022,Villarreal CF,Real Sociedad,Real Sociedad,1,2
+375,38,20/05/2022,Real Madrid,Real Betis,Draw,0,0
+379,38,20/05/2022,Rayo Vallecano,Levante UD,Levante UD,2,4
+378,38,21/05/2022,Valencia CF,RC Celta,Valencia CF,2,0
+380,38,22/05/2022,Elche CF,Getafe CF,Elche CF,3,1
+371,38,22/05/2022,Deportivo Alavés,Cádiz CF,Cádiz CF,0,1
+373,38,22/05/2022,Granada CF,RCD Espanyol de Barcelona,Draw,0,0
+374,38,22/05/2022,CA Osasuna,RCD Mallorca,RCD Mallorca,0,2
+372,38,22/05/2022,FC Barcelona,Villarreal CF,Villarreal CF,0,2
+376,38,22/05/2022,Real Sociedad,Atlético de Madrid,Atlético de Madrid,1,2
+377,38,22/05/2022,Sevilla FC,Athletic Club,Sevilla FC,1,0
+1,1,12/08/2022,CA Osasuna,Sevilla FC,CA Osasuna,2,1
+2,1,13/08/2022,RC Celta,RCD Espanyol de Barcelona,Draw,2,2
+3,1,13/08/2022,Real Valladolid CF,Villarreal CF,Villarreal CF,0,3
+4,1,13/08/2022,FC Barcelona,Rayo Vallecano,Draw,0,0
+5,1,14/08/2022,Cádiz CF,Real Sociedad,Real Sociedad,0,1
+6,1,14/08/2022,Valencia CF,Girona FC,Valencia CF,1,0
+7,1,14/08/2022,UD Almería,Real Madrid,Real Madrid,1,2
+8,1,15/08/2022,Athletic Club,RCD Mallorca,Draw,0,0
+9,1,15/08/2022,Getafe CF,Atlético de Madrid,Atlético de Madrid,0,3
+10,1,15/08/2022,Real Betis,Elche CF,Real Betis,3,0
+11,2,19/08/2022,RCD Espanyol de Barcelona,Rayo Vallecano,Rayo Vallecano,0,2
+12,2,19/08/2022,Sevilla FC,Real Valladolid CF,Draw,1,1
+13,2,20/08/2022,CA Osasuna,Cádiz CF,CA Osasuna,2,0
+14,2,20/08/2022,RCD Mallorca,Real Betis,Real Betis,1,2
+15,2,20/08/2022,RC Celta,Real Madrid,Real Madrid,1,4
+16,2,21/08/2022,Athletic Club,Valencia CF,Athletic Club,1,0
+17,2,21/08/2022,Atlético de Madrid,Villarreal CF,Villarreal CF,0,2
+18,2,21/08/2022,Real Sociedad,FC Barcelona,FC Barcelona,1,4
+19,2,22/08/2022,Elche CF,UD Almería,Draw,1,1
+20,2,22/08/2022,Girona FC,Getafe CF,Girona FC,3,1
+21,3,26/08/2022,Girona FC,RC Celta,RC Celta,0,1
+22,3,26/08/2022,Real Betis,CA Osasuna,Real Betis,1,0
+23,3,27/08/2022,Elche CF,Real Sociedad,Real Sociedad,0,1
+24,3,27/08/2022,Rayo Vallecano,RCD Mallorca,RCD Mallorca,0,2
+25,3,27/08/2022,UD Almería,Sevilla FC,UD Almería,2,1
+26,3,28/08/2022,Getafe CF,Villarreal CF,Draw,0,0
+27,3,28/08/2022,FC Barcelona,Real Valladolid CF,FC Barcelona,4,0
+28,3,28/08/2022,RCD Espanyol de Barcelona,Real Madrid,Real Madrid,1,3
+29,3,29/08/2022,Cádiz CF,Athletic Club,Athletic Club,0,4
+30,3,29/08/2022,Valencia CF,Atlético de Madrid,Atlético de Madrid,0,1
+38,4,02/09/2022,RC Celta,Cádiz CF,RC Celta,3,0
+40,4,03/09/2022,RCD Mallorca,Girona FC,Draw,1,1
+35,4,03/09/2022,Real Madrid,Real Betis,Real Madrid,2,1
+33,4,03/09/2022,Real Sociedad,Atlético de Madrid,Draw,1,1
+34,4,03/09/2022,Sevilla FC,FC Barcelona,FC Barcelona,0,3
+32,4,04/09/2022,CA Osasuna,Rayo Vallecano,CA Osasuna,2,1
+31,4,04/09/2022,Athletic Club,RCD Espanyol de Barcelona,RCD Espanyol de Barcelona,0,1
+36,4,04/09/2022,Villarreal CF,Elche CF,Villarreal CF,4,0
+37,4,04/09/2022,Valencia CF,Getafe CF,Valencia CF,5,1
+39,4,05/09/2022,Real Valladolid CF,UD Almería,Real Valladolid CF,1,0
+47,5,09/09/2022,Girona FC,Real Valladolid CF,Girona FC,2,1
+45,5,10/09/2022,Rayo Vallecano,Valencia CF,Rayo Vallecano,2,1
+44,5,10/09/2022,RCD Espanyol de Barcelona,Sevilla FC,Sevilla FC,2,3
+49,5,10/09/2022,Cádiz CF,FC Barcelona,FC Barcelona,0,4
+41,5,10/09/2022,Atlético de Madrid,RC Celta,Atlético de Madrid,4,1
+50,5,11/09/2022,Real Madrid,RCD Mallorca,Real Madrid,4,1
+48,5,11/09/2022,Elche CF,Athletic Club,Athletic Club,1,4
+43,5,11/09/2022,Getafe CF,Real Sociedad,Getafe CF,2,1
+42,5,11/09/2022,Real Betis,Villarreal CF,Real Betis,1,0
+46,5,12/09/2022,UD Almería,CA Osasuna,CA Osasuna,0,1
+57,6,16/09/2022,Real Valladolid CF,Cádiz CF,Cádiz CF,0,1
+60,6,17/09/2022,RCD Mallorca,UD Almería,RCD Mallorca,1,0
+53,6,17/09/2022,FC Barcelona,Elche CF,FC Barcelona,3,0
+55,6,17/09/2022,Valencia CF,RC Celta,Valencia CF,3,0
+51,6,17/09/2022,Athletic Club,Rayo Vallecano,Athletic Club,3,2
+56,6,18/09/2022,CA Osasuna,Getafe CF,Getafe CF,0,2
+59,6,18/09/2022,Villarreal CF,Sevilla FC,Draw,1,1
+54,6,18/09/2022,Real Betis,Girona FC,Real Betis,2,1
+58,6,18/09/2022,Real Sociedad,RCD Espanyol de Barcelona,Real Sociedad,2,1
+52,6,18/09/2022,Atlético de Madrid,Real Madrid,Real Madrid,1,2
+70,7,30/09/2022,Athletic Club,UD Almería,Athletic Club,4,0
+62,7,01/10/2022,Cádiz CF,Villarreal CF,Draw,0,0
+61,7,01/10/2022,Getafe CF,Real Valladolid CF,Real Valladolid CF,2,3
+65,7,01/10/2022,Sevilla FC,Atlético de Madrid,Atlético de Madrid,0,2
+66,7,01/10/2022,RCD Mallorca,FC Barcelona,FC Barcelona,0,1
+63,7,02/10/2022,RCD Espanyol de Barcelona,Valencia CF,Draw,2,2
+67,7,02/10/2022,RC Celta,Real Betis,RC Celta,1,0
+64,7,02/10/2022,Girona FC,Real Sociedad,Real Sociedad,3,5
+69,7,02/10/2022,Real Madrid,CA Osasuna,Draw,1,1
+68,7,03/10/2022,Rayo Vallecano,Elche CF,Rayo Vallecano,2,1
+76,8,07/10/2022,CA Osasuna,Valencia CF,Valencia CF,1,2
+78,8,08/10/2022,UD Almería,Rayo Vallecano,UD Almería,3,1
+71,8,08/10/2022,Atlético de Madrid,Girona FC,Atlético de Madrid,2,1
+79,8,08/10/2022,Sevilla FC,Athletic Club,Draw,1,1
+74,8,08/10/2022,Getafe CF,Real Madrid,Real Madrid,0,1
+80,8,09/10/2022,Real Valladolid CF,Real Betis,Draw,0,0
+75,8,09/10/2022,Cádiz CF,RCD Espanyol de Barcelona,Draw,2,2
+77,8,09/10/2022,Real Sociedad,Villarreal CF,Real Sociedad,1,0
+72,8,09/10/2022,FC Barcelona,RC Celta,FC Barcelona,1,0
+73,8,10/10/2022,Elche CF,RCD Mallorca,Draw,1,1
+87,9,14/10/2022,Rayo Vallecano,Getafe CF,Draw,0,0
+88,9,15/10/2022,Girona FC,Cádiz CF,Draw,1,1
+86,9,15/10/2022,Valencia CF,Elche CF,Draw,2,2
+83,9,15/10/2022,RCD Mallorca,Sevilla FC,Sevilla FC,0,1
+81,9,15/10/2022,Athletic Club,Atlético de Madrid,Atlético de Madrid,0,1
+82,9,16/10/2022,RC Celta,Real Sociedad,Real Sociedad,1,2
+85,9,16/10/2022,Real Madrid,FC Barcelona,Real Madrid,3,1
+84,9,16/10/2022,RCD Espanyol de Barcelona,Real Valladolid CF,RCD Espanyol de Barcelona,1,0
+90,9,16/10/2022,Real Betis,UD Almería,Real Betis,3,1
+89,9,17/10/2022,Villarreal CF,CA Osasuna,Villarreal CF,2,0
+94,10,18/10/2022,Sevilla FC,Valencia CF,Draw,1,1
+96,10,18/10/2022,Getafe CF,Athletic Club,Draw,2,2
+91,10,18/10/2022,Atlético de Madrid,Rayo Vallecano,Draw,1,1
+97,10,19/10/2022,Cádiz CF,Real Betis,Draw,0,0
+98,10,19/10/2022,Real Valladolid CF,RC Celta,Real Valladolid CF,4,1
+99,10,19/10/2022,Real Sociedad,RCD Mallorca,Real Sociedad,1,0
+93,10,19/10/2022,Elche CF,Real Madrid,Real Madrid,0,3
+95,10,20/10/2022,UD Almería,Girona FC,UD Almería,3,2
+100,10,20/10/2022,CA Osasuna,RCD Espanyol de Barcelona,CA Osasuna,1,0
+92,10,20/10/2022,FC Barcelona,Villarreal CF,FC Barcelona,3,0
+108,11,22/10/2022,Rayo Vallecano,Cádiz CF,Rayo Vallecano,5,1
+109,11,22/10/2022,Real Valladolid CF,Real Sociedad,Real Valladolid CF,1,0
+107,11,22/10/2022,Valencia CF,RCD Mallorca,RCD Mallorca,1,2
+102,11,22/10/2022,Real Madrid,Sevilla FC,Real Madrid,3,1
+106,11,23/10/2022,RCD Espanyol de Barcelona,Elche CF,Draw,2,2
+105,11,23/10/2022,Real Betis,Atlético de Madrid,Atlético de Madrid,1,2
+103,11,23/10/2022,Girona FC,CA Osasuna,Draw,1,1
+110,11,23/10/2022,Villarreal CF,UD Almería,Villarreal CF,2,1
+104,11,23/10/2022,FC Barcelona,Athletic Club,FC Barcelona,4,0
+101,11,24/10/2022,RC Celta,Getafe CF,Draw,1,1
+118,12,28/10/2022,RCD Mallorca,RCD Espanyol de Barcelona,Draw,1,1
+114,12,29/10/2022,UD Almería,RC Celta,UD Almería,3,1
+115,12,29/10/2022,Cádiz CF,Atlético de Madrid,Cádiz CF,3,2
+119,12,29/10/2022,Sevilla FC,Rayo Vallecano,Rayo Vallecano,0,1
+116,12,29/10/2022,Valencia CF,FC Barcelona,FC Barcelona,0,1
+113,12,30/10/2022,CA Osasuna,Real Valladolid CF,CA Osasuna,2,0
+120,12,30/10/2022,Real Madrid,Girona FC,Draw,1,1
+111,12,30/10/2022,Athletic Club,Villarreal CF,Athletic Club,1,0
+117,12,30/10/2022,Real Sociedad,Real Betis,Real Betis,0,2
+112,12,31/10/2022,Elche CF,Getafe CF,Getafe CF,0,1
+126,13,04/11/2022,Girona FC,Athletic Club,Girona FC,2,1
+129,13,05/11/2022,Getafe CF,Cádiz CF,Draw,0,0
+127,13,05/11/2022,Real Valladolid CF,Elche CF,Real Valladolid CF,2,1
+123,13,05/11/2022,RC Celta,CA Osasuna,CA Osasuna,1,2
+130,13,05/11/2022,FC Barcelona,UD Almería,FC Barcelona,2,0
+121,13,06/11/2022,Atlético de Madrid,RCD Espanyol de Barcelona,Draw,1,1
+124,13,06/11/2022,Real Sociedad,Valencia CF,Draw,1,1
+128,13,06/11/2022,Villarreal CF,RCD Mallorca,RCD Mallorca,0,2
+122,13,06/11/2022,Real Betis,Sevilla FC,Draw,1,1
+125,13,07/11/2022,Rayo Vallecano,Real Madrid,Rayo Vallecano,3,2
+132,14,08/11/2022,Elche CF,Girona FC,Girona FC,1,2
+131,14,08/11/2022,Athletic Club,Real Valladolid CF,Athletic Club,3,0
+136,14,08/11/2022,CA Osasuna,FC Barcelona,FC Barcelona,1,2
+134,14,09/11/2022,UD Almería,Getafe CF,UD Almería,1,0
+140,14,09/11/2022,Sevilla FC,Real Sociedad,Real Sociedad,1,2
+133,14,09/11/2022,RCD Espanyol de Barcelona,Villarreal CF,Villarreal CF,0,1
+135,14,09/11/2022,RCD Mallorca,Atlético de Madrid,RCD Mallorca,1,0
+138,14,10/11/2022,Rayo Vallecano,RC Celta,Draw,0,0
+137,14,10/11/2022,Valencia CF,Real Betis,Valencia CF,3,0
+139,14,10/11/2022,Real Madrid,Cádiz CF,Real Madrid,2,1
+145,15,29/12/2022,Girona FC,Rayo Vallecano,Draw,2,2
+146,15,29/12/2022,Real Betis,Athletic Club,Draw,0,0
+141,15,29/12/2022,Atlético de Madrid,Elche CF,Atlético de Madrid,2,0
+144,15,30/12/2022,Getafe CF,RCD Mallorca,Getafe CF,2,0
+143,15,30/12/2022,RC Celta,Sevilla FC,Draw,1,1
+150,15,30/12/2022,Cádiz CF,UD Almería,Draw,1,1
+148,15,30/12/2022,Real Valladolid CF,Real Madrid,Real Madrid,0,2
+142,15,31/12/2022,FC Barcelona,RCD Espanyol de Barcelona,Draw,1,1
+147,15,31/12/2022,Real Sociedad,CA Osasuna,Real Sociedad,2,0
+149,15,31/12/2022,Villarreal CF,Valencia CF,Villarreal CF,2,1
+157,16,06/01/2023,Elche CF,RC Celta,RC Celta,0,1
+159,16,06/01/2023,Valencia CF,Cádiz CF,Cádiz CF,0,1
+160,16,07/01/2023,Villarreal CF,Real Madrid,Villarreal CF,2,1
+153,16,07/01/2023,RCD Mallorca,Real Valladolid CF,RCD Mallorca,1,0
+154,16,07/01/2023,RCD Espanyol de Barcelona,Girona FC,Draw,2,2
+155,16,08/01/2023,UD Almería,Real Sociedad,Real Sociedad,0,2
+156,16,08/01/2023,Rayo Vallecano,Real Betis,Real Betis,1,2
+158,16,08/01/2023,Sevilla FC,Getafe CF,Sevilla FC,2,1
+152,16,08/01/2023,Atlético de Madrid,FC Barcelona,FC Barcelona,0,1
+151,16,09/01/2023,Athletic Club,CA Osasuna,Draw,0,0
+161,17,13/01/2023,RC Celta,Villarreal CF,Draw,1,1
+170,17,14/01/2023,Real Valladolid CF,Rayo Vallecano,Rayo Vallecano,0,1
+165,17,14/01/2023,Girona FC,Sevilla FC,Girona FC,2,1
+168,17,14/01/2023,CA Osasuna,RCD Mallorca,CA Osasuna,1,0
+166,17,14/01/2023,Real Sociedad,Athletic Club,Real Sociedad,3,1
+169,17,15/01/2023,Getafe CF,RCD Espanyol de Barcelona,RCD Espanyol de Barcelona,1,2
+164,17,15/01/2023,UD Almería,Atlético de Madrid,Draw,1,1
+162,17,16/01/2023,Cádiz CF,Elche CF,Draw,1,1
+167,17,01/02/2023,Real Betis,FC Barcelona,FC Barcelona,1,2
+163,17,02/02/2023,Real Madrid,Valencia CF,Real Madrid,2,0
+177,18,20/01/2023,RCD Mallorca,RC Celta,RCD Mallorca,1,0
+175,18,21/01/2023,Rayo Vallecano,Real Sociedad,Real Sociedad,0,2
+176,18,21/01/2023,RCD Espanyol de Barcelona,Real Betis,RCD Espanyol de Barcelona,1,0
+172,18,21/01/2023,Atlético de Madrid,Real Valladolid CF,Atlético de Madrid,3,0
+178,18,21/01/2023,Sevilla FC,Cádiz CF,Sevilla FC,1,0
+180,18,22/01/2023,Villarreal CF,Girona FC,Villarreal CF,1,0
+174,18,22/01/2023,Elche CF,CA Osasuna,Draw,1,1
+173,18,22/01/2023,FC Barcelona,Getafe CF,FC Barcelona,1,0
+171,18,22/01/2023,Athletic Club,Real Madrid,Real Madrid,0,2
+179,18,23/01/2023,Valencia CF,UD Almería,Draw,2,2
+183,19,27/01/2023,UD Almería,RCD Espanyol de Barcelona,UD Almería,3,1
+181,19,28/01/2023,Cádiz CF,RCD Mallorca,Cádiz CF,2,0
+186,19,28/01/2023,Girona FC,FC Barcelona,FC Barcelona,0,1
+188,19,28/01/2023,Sevilla FC,Elche CF,Sevilla FC,3,0
+187,19,28/01/2023,Getafe CF,Real Betis,Real Betis,0,1
+189,19,29/01/2023,Real Valladolid CF,Valencia CF,Real Valladolid CF,1,0
+185,19,29/01/2023,CA Osasuna,Atlético de Madrid,Atlético de Madrid,0,1
+184,19,29/01/2023,RC Celta,Athletic Club,RC Celta,1,0
+182,19,29/01/2023,Real Madrid,Real Sociedad,Draw,0,0
+190,19,30/01/2023,Villarreal CF,Rayo Vallecano,Rayo Vallecano,0,1
+191,20,03/02/2023,Athletic Club,Cádiz CF,Athletic Club,4,1
+197,20,04/02/2023,RCD Espanyol de Barcelona,CA Osasuna,Draw,1,1
+195,20,04/02/2023,Elche CF,Villarreal CF,Elche CF,3,1
+192,20,04/02/2023,Atlético de Madrid,Getafe CF,Draw,1,1
+194,20,04/02/2023,Real Betis,RC Celta,RC Celta,3,4
+196,20,05/02/2023,RCD Mallorca,Real Madrid,RCD Mallorca,1,0
+199,20,05/02/2023,Girona FC,Valencia CF,Girona FC,1,0
+198,20,05/02/2023,Real Sociedad,Real Valladolid CF,Real Valladolid CF,0,1
+193,20,05/02/2023,FC Barcelona,Sevilla FC,FC Barcelona,3,0
+200,20,06/02/2023,Rayo Vallecano,UD Almería,Rayo Vallecano,2,0
+202,21,10/02/2023,Cádiz CF,Girona FC,Cádiz CF,2,0
+204,21,11/02/2023,UD Almería,Real Betis,Real Betis,2,3
+209,21,11/02/2023,Sevilla FC,RCD Mallorca,Sevilla FC,2,0
+205,21,11/02/2023,Valencia CF,Athletic Club,Athletic Club,1,2
+201,21,12/02/2023,Getafe CF,Rayo Vallecano,Draw,1,1
+206,21,12/02/2023,RC Celta,Atlético de Madrid,Atlético de Madrid,0,1
+210,21,12/02/2023,Real Valladolid CF,CA Osasuna,Draw,0,0
+207,21,12/02/2023,Villarreal CF,FC Barcelona,FC Barcelona,0,1
+203,21,13/02/2023,RCD Espanyol de Barcelona,Real Sociedad,Real Sociedad,2,3
+208,21,15/02/2023,Real Madrid,Elche CF,Real Madrid,4,0
+220,22,17/02/2023,Girona FC,UD Almería,Girona FC,6,2
+219,22,18/02/2023,Real Sociedad,RC Celta,Draw,1,1
+212,22,18/02/2023,Real Betis,Real Valladolid CF,Real Betis,2,1
+214,22,18/02/2023,RCD Mallorca,Villarreal CF,RCD Mallorca,4,2
+216,22,18/02/2023,CA Osasuna,Real Madrid,Real Madrid,0,2
+213,22,19/02/2023,Elche CF,RCD Espanyol de Barcelona,RCD Espanyol de Barcelona,0,1
+217,22,19/02/2023,Rayo Vallecano,Sevilla FC,Draw,1,1
+218,22,19/02/2023,Atlético de Madrid,Athletic Club,Atlético de Madrid,1,0
+211,22,19/02/2023,FC Barcelona,Cádiz CF,FC Barcelona,2,0
+215,22,20/02/2023,Getafe CF,Valencia CF,Getafe CF,1,0
+227,23,24/02/2023,Elche CF,Real Betis,Real Betis,2,3
+224,23,25/02/2023,RCD Espanyol de Barcelona,RCD Mallorca,RCD Espanyol de Barcelona,2,1
+223,23,25/02/2023,Cádiz CF,Rayo Vallecano,Cádiz CF,1,0
+226,23,25/02/2023,Real Madrid,Atlético de Madrid,Draw,1,1
+230,23,25/02/2023,Valencia CF,Real Sociedad,Valencia CF,1,0
+221,23,26/02/2023,Athletic Club,Girona FC,Girona FC,2,3
+222,23,26/02/2023,RC Celta,Real Valladolid CF,RC Celta,3,0
+225,23,26/02/2023,UD Almería,FC Barcelona,UD Almería,1,0
+229,23,26/02/2023,Sevilla FC,CA Osasuna,CA Osasuna,2,3
+228,23,27/02/2023,Villarreal CF,Getafe CF,Villarreal CF,2,1
+239,24,03/03/2023,Real Sociedad,Cádiz CF,Draw,0,0
+234,24,04/03/2023,Getafe CF,Girona FC,Getafe CF,3,2
+235,24,04/03/2023,UD Almería,Villarreal CF,Villarreal CF,0,2
+238,24,04/03/2023,RCD Mallorca,Elche CF,Elche CF,0,1
+231,24,04/03/2023,Atlético de Madrid,Sevilla FC,Atlético de Madrid,6,1
+240,24,05/03/2023,Real Valladolid CF,RCD Espanyol de Barcelona,Real Valladolid CF,2,1
+232,24,05/03/2023,FC Barcelona,Valencia CF,FC Barcelona,1,0
+236,24,05/03/2023,Rayo Vallecano,Athletic Club,Draw,0,0
+233,24,05/03/2023,Real Betis,Real Madrid,Draw,0,0
+237,24,06/03/2023,CA Osasuna,RC Celta,Draw,0,0
+245,25,10/03/2023,Cádiz CF,Getafe CF,Draw,2,2
+248,25,11/03/2023,Real Madrid,RCD Espanyol de Barcelona,Real Madrid,3,1
+243,25,11/03/2023,Elche CF,Real Valladolid CF,Draw,1,1
+242,25,11/03/2023,RC Celta,Rayo Vallecano,RC Celta,3,0
+249,25,11/03/2023,Valencia CF,CA Osasuna,Valencia CF,1,0
+244,25,12/03/2023,RCD Mallorca,Real Sociedad,Draw,1,1
+250,25,12/03/2023,Sevilla FC,UD Almería,Sevilla FC,2,1
+247,25,12/03/2023,Villarreal CF,Real Betis,Draw,1,1
+241,25,12/03/2023,Athletic Club,FC Barcelona,FC Barcelona,0,1
+246,25,13/03/2023,Girona FC,Atlético de Madrid,Atlético de Madrid,0,1
+257,26,17/03/2023,Real Valladolid CF,Athletic Club,Athletic Club,1,3
+256,26,18/03/2023,UD Almería,Cádiz CF,Draw,1,1
+260,26,18/03/2023,Rayo Vallecano,Girona FC,Draw,2,2
+258,26,18/03/2023,RCD Espanyol de Barcelona,RC Celta,RC Celta,1,3
+251,26,18/03/2023,Atlético de Madrid,Valencia CF,Atlético de Madrid,3,0
+253,26,19/03/2023,Real Betis,RCD Mallorca,Real Betis,1,0
+255,26,19/03/2023,CA Osasuna,Villarreal CF,Villarreal CF,0,3
+259,26,19/03/2023,Real Sociedad,Elche CF,Real Sociedad,2,0
+254,26,19/03/2023,Getafe CF,Sevilla FC,Getafe CF,2,0
+252,26,19/03/2023,FC Barcelona,Real Madrid,FC Barcelona,2,1
+263,27,31/03/2023,RCD Mallorca,CA Osasuna,Draw,0,0
+267,27,01/04/2023,Girona FC,RCD Espanyol de Barcelona,Girona FC,2,1
+261,27,01/04/2023,Athletic Club,Getafe CF,Draw,0,0
+264,27,01/04/2023,Cádiz CF,Sevilla FC,Sevilla FC,0,2
+266,27,01/04/2023,Elche CF,FC Barcelona,FC Barcelona,0,4
+270,27,02/04/2023,RC Celta,UD Almería,Draw,2,2
+265,27,02/04/2023,Real Madrid,Real Valladolid CF,Real Madrid,6,0
+268,27,02/04/2023,Villarreal CF,Real Sociedad,Villarreal CF,2,0
+262,27,02/04/2023,Atlético de Madrid,Real Betis,Atlético de Madrid,1,0
+269,27,03/04/2023,Valencia CF,Rayo Vallecano,Draw,1,1
+277,28,07/04/2023,Sevilla FC,RC Celta,Draw,2,2
+278,28,08/04/2023,CA Osasuna,Elche CF,CA Osasuna,2,1
+275,28,08/04/2023,RCD Espanyol de Barcelona,Athletic Club,Athletic Club,1,2
+280,28,08/04/2023,Real Sociedad,Getafe CF,Real Sociedad,2,0
+273,28,08/04/2023,Real Madrid,Villarreal CF,Villarreal CF,2,3
+279,28,09/04/2023,Real Valladolid CF,RCD Mallorca,Draw,3,3
+272,28,09/04/2023,Real Betis,Cádiz CF,Cádiz CF,0,2
+274,28,09/04/2023,UD Almería,Valencia CF,UD Almería,2,1
+276,28,09/04/2023,Rayo Vallecano,Atlético de Madrid,Atlético de Madrid,1,2
+271,28,10/04/2023,FC Barcelona,Girona FC,Draw,0,0
+288,29,14/04/2023,Rayo Vallecano,CA Osasuna,Rayo Vallecano,2,1
+285,29,15/04/2023,Villarreal CF,Real Valladolid CF,Real Valladolid CF,1,2
+281,29,15/04/2023,Athletic Club,Real Sociedad,Athletic Club,2,0
+282,29,15/04/2023,Real Betis,RCD Espanyol de Barcelona,Real Betis,3,1
+284,29,15/04/2023,Cádiz CF,Real Madrid,Real Madrid,0,2
+287,29,16/04/2023,Girona FC,Elche CF,Girona FC,2,0
+286,29,16/04/2023,Getafe CF,FC Barcelona,Draw,0,0
+290,29,16/04/2023,Atlético de Madrid,UD Almería,Atlético de Madrid,2,1
+289,29,16/04/2023,Valencia CF,Sevilla FC,Sevilla FC,0,2
+283,29,17/04/2023,RC Celta,RCD Mallorca,RCD Mallorca,0,1
+298,30,21/04/2023,RCD Espanyol de Barcelona,Cádiz CF,Draw,0,0
+295,30,22/04/2023,CA Osasuna,Real Betis,CA Osasuna,3,2
+293,30,22/04/2023,UD Almería,Athletic Club,Athletic Club,1,2
+299,30,22/04/2023,Real Sociedad,Rayo Vallecano,Real Sociedad,2,1
+300,30,22/04/2023,Real Valladolid CF,Girona FC,Real Valladolid CF,1,0
+296,30,22/04/2023,Real Madrid,RC Celta,Real Madrid,2,0
+291,30,23/04/2023,Elche CF,Valencia CF,Valencia CF,0,2
+294,30,23/04/2023,FC Barcelona,Atlético de Madrid,FC Barcelona,1,0
+297,30,23/04/2023,RCD Mallorca,Getafe CF,RCD Mallorca,3,1
+292,30,23/04/2023,Sevilla FC,Villarreal CF,Sevilla FC,2,1
+305,31,25/04/2023,Cádiz CF,CA Osasuna,CA Osasuna,0,1
+307,31,25/04/2023,Girona FC,Real Madrid,Girona FC,4,2
+303,31,25/04/2023,Real Betis,Real Sociedad,Draw,0,0
+302,31,26/04/2023,Atlético de Madrid,RCD Mallorca,Atlético de Madrid,3,1
+310,31,26/04/2023,Getafe CF,UD Almería,UD Almería,1,2
+304,31,26/04/2023,RC Celta,Elche CF,RC Celta,1,0
+308,31,26/04/2023,Rayo Vallecano,FC Barcelona,Rayo Vallecano,2,1
+306,31,27/04/2023,Valencia CF,Real Valladolid CF,Valencia CF,2,1
+309,31,27/04/2023,Villarreal CF,RCD Espanyol de Barcelona,Villarreal CF,4,2
+301,31,27/04/2023,Athletic Club,Sevilla FC,Sevilla FC,0,1
+315,32,28/04/2023,CA Osasuna,Real Sociedad,Real Sociedad,0,2
+312,32,29/04/2023,Elche CF,Rayo Vallecano,Elche CF,4,0
+319,32,29/04/2023,Real Madrid,UD Almería,Real Madrid,4,2
+311,32,29/04/2023,FC Barcelona,Real Betis,FC Barcelona,4,0
+313,32,30/04/2023,Cádiz CF,Valencia CF,Cádiz CF,2,1
+318,32,30/04/2023,Villarreal CF,RC Celta,Villarreal CF,3,1
+314,32,30/04/2023,RCD Espanyol de Barcelona,Getafe CF,RCD Espanyol de Barcelona,1,0
+317,32,30/04/2023,Real Valladolid CF,Atlético de Madrid,Atlético de Madrid,2,5
+316,32,01/05/2023,RCD Mallorca,Athletic Club,Draw,1,1
+320,32,01/05/2023,Sevilla FC,Girona FC,Girona FC,0,2
+323,33,02/05/2023,FC Barcelona,CA Osasuna,FC Barcelona,1,0
+326,33,02/05/2023,UD Almería,Elche CF,UD Almería,2,1
+330,33,02/05/2023,Real Sociedad,Real Madrid,Real Sociedad,2,0
+324,33,03/05/2023,Valencia CF,Villarreal CF,Draw,1,1
+322,33,03/05/2023,Atlético de Madrid,Cádiz CF,Atlético de Madrid,5,1
+328,33,03/05/2023,Getafe CF,RC Celta,Getafe CF,1,0
+327,33,04/05/2023,Girona FC,RCD Mallorca,Girona FC,2,1
+329,33,04/05/2023,Sevilla FC,RCD Espanyol de Barcelona,Sevilla FC,3,2
+321,33,04/05/2023,Athletic Club,Real Betis,Real Betis,0,1
+325,33,04/05/2023,Rayo Vallecano,Real Valladolid CF,Rayo Vallecano,2,1
+337,34,12/05/2023,RCD Mallorca,Cádiz CF,RCD Mallorca,1,0
+340,34,13/05/2023,Real Sociedad,Girona FC,Draw,2,2
+339,34,13/05/2023,CA Osasuna,UD Almería,CA Osasuna,3,1
+333,34,13/05/2023,Villarreal CF,Athletic Club,Villarreal CF,5,1
+336,34,13/05/2023,Real Madrid,Getafe CF,Real Madrid,1,0
+332,34,14/05/2023,RC Celta,Valencia CF,Valencia CF,1,2
+334,34,14/05/2023,Elche CF,Atlético de Madrid,Elche CF,1,0
+338,34,14/05/2023,Real Valladolid CF,Sevilla FC,Sevilla FC,0,3
+335,34,14/05/2023,RCD Espanyol de Barcelona,FC Barcelona,FC Barcelona,2,4
+331,34,15/05/2023,Real Betis,Rayo Vallecano,Real Betis,3,1
+344,35,19/05/2023,Cádiz CF,Real Valladolid CF,Cádiz CF,2,0
+346,35,20/05/2023,Girona FC,Villarreal CF,Villarreal CF,1,2
+341,35,20/05/2023,Athletic Club,RC Celta,Athletic Club,2,1
+345,35,20/05/2023,UD Almería,RCD Mallorca,UD Almería,3,0
+348,35,20/05/2023,Getafe CF,Elche CF,Draw,1,1
+343,35,20/05/2023,FC Barcelona,Real Sociedad,Real Sociedad,1,2
+349,35,21/05/2023,Rayo Vallecano,RCD Espanyol de Barcelona,RCD Espanyol de Barcelona,1,2
+342,35,21/05/2023,Atlético de Madrid,CA Osasuna,Atlético de Madrid,3,0
+350,35,21/05/2023,Valencia CF,Real Madrid,Valencia CF,1,0
+347,35,21/05/2023,Sevilla FC,Real Betis,Draw,0,0
+352,36,23/05/2023,RC Celta,Girona FC,Draw,1,1
+360,36,23/05/2023,Real Sociedad,UD Almería,Real Sociedad,1,0
+357,36,23/05/2023,Real Valladolid CF,FC Barcelona,Real Valladolid CF,3,1
+353,36,24/05/2023,Elche CF,Sevilla FC,Draw,1,1
+358,36,24/05/2023,Villarreal CF,Cádiz CF,Villarreal CF,2,0
+359,36,24/05/2023,Real Madrid,Rayo Vallecano,Real Madrid,2,1
+351,36,24/05/2023,Real Betis,Getafe CF,Getafe CF,0,1
+356,36,24/05/2023,RCD Espanyol de Barcelona,Atlético de Madrid,Draw,3,3
+354,36,25/05/2023,RCD Mallorca,Valencia CF,RCD Mallorca,1,0
+355,36,25/05/2023,CA Osasuna,Athletic Club,CA Osasuna,2,0
+370,37,27/05/2023,Sevilla FC,Real Madrid,Real Madrid,1,2
+361,37,28/05/2023,Athletic Club,Elche CF,Elche CF,0,1
+362,37,28/05/2023,Atlético de Madrid,Real Sociedad,Atlético de Madrid,2,1
+363,37,28/05/2023,FC Barcelona,RCD Mallorca,FC Barcelona,3,0
+364,37,28/05/2023,Getafe CF,CA Osasuna,Getafe CF,2,1
+365,37,28/05/2023,Cádiz CF,RC Celta,Cádiz CF,1,0
+366,37,28/05/2023,Rayo Vallecano,Villarreal CF,Rayo Vallecano,2,1
+367,37,28/05/2023,UD Almería,Real Valladolid CF,Draw,0,0
+368,37,28/05/2023,Girona FC,Real Betis,Real Betis,1,2
+369,37,28/05/2023,Valencia CF,RCD Espanyol de Barcelona,Draw,2,2
+372,38,04/06/2023,RCD Mallorca,Rayo Vallecano,RCD Mallorca,3,0
+373,38,04/06/2023,Real Sociedad,Sevilla FC,Real Sociedad,2,1
+374,38,04/06/2023,Real Madrid,Athletic Club,Draw,1,1
+375,38,04/06/2023,Villarreal CF,Atlético de Madrid,Draw,2,2
+380,38,04/06/2023,CA Osasuna,Girona FC,CA Osasuna,2,1
+371,38,04/06/2023,Real Betis,Valencia CF,Draw,1,1
+376,38,04/06/2023,RC Celta,FC Barcelona,RC Celta,2,1
+377,38,04/06/2023,Real Valladolid CF,Getafe CF,Draw,0,0
+378,38,04/06/2023,Elche CF,Cádiz CF,Draw,1,1
+379,38,04/06/2023,RCD Espanyol de Barcelona,UD Almería,Draw,3,3
+1,1,11/08/2023,UD Almería,Rayo Vallecano,Rayo Vallecano,0,2
+5,1,11/08/2023,Sevilla FC,Valencia CF,Valencia CF,1,2
+9,1,12/08/2023,Real Sociedad,Girona FC,Draw,1,1
+6,1,12/08/2023,UD Las Palmas,RCD Mallorca,Draw,1,1
+2,1,12/08/2023,Athletic Club,Real Madrid,Real Madrid,0,2
+4,1,13/08/2023,RC Celta,CA Osasuna,CA Osasuna,0,2
+8,1,13/08/2023,Villarreal CF,Real Betis,Real Betis,1,2
+7,1,13/08/2023,Getafe CF,FC Barcelona,Draw,0,0
+10,1,14/08/2023,Cádiz CF,Deportivo Alavés,Cádiz CF,1,0
+3,1,14/08/2023,Atlético de Madrid,Granada CF,Atlético de Madrid,3,1
+13,2,18/08/2023,RCD Mallorca,Villarreal CF,Villarreal CF,0,1
+20,2,18/08/2023,Valencia CF,UD Las Palmas,Valencia CF,1,0
+18,2,19/08/2023,Real Sociedad,RC Celta,Draw,1,1
+11,2,19/08/2023,UD Almería,Real Madrid,Real Madrid,1,3
+16,2,19/08/2023,CA Osasuna,Athletic Club,Athletic Club,0,2
+19,2,20/08/2023,Girona FC,Getafe CF,Girona FC,3,0
+12,2,20/08/2023,FC Barcelona,Cádiz CF,FC Barcelona,2,0
+17,2,20/08/2023,Real Betis,Atlético de Madrid,Draw,0,0
+15,2,21/08/2023,Deportivo Alavés,Sevilla FC,Deportivo Alavés,4,3
+14,2,21/08/2023,Granada CF,Rayo Vallecano,Rayo Vallecano,0,2
+24,3,25/08/2023,UD Las Palmas,Real Sociedad,Draw,0,0
+22,3,25/08/2023,RC Celta,Real Madrid,Real Madrid,0,1
+23,3,26/08/2023,Granada CF,RCD Mallorca,Granada CF,3,2
+25,3,26/08/2023,Cádiz CF,UD Almería,Draw,1,1
+28,3,26/08/2023,Sevilla FC,Girona FC,Girona FC,1,2
+27,3,27/08/2023,Villarreal CF,FC Barcelona,FC Barcelona,3,4
+29,3,27/08/2023,Valencia CF,CA Osasuna,CA Osasuna,1,2
+21,3,27/08/2023,Athletic Club,Real Betis,Athletic Club,4,2
+30,3,28/08/2023,Getafe CF,Deportivo Alavés,Getafe CF,1,0
+26,3,28/08/2023,Rayo Vallecano,Atlético de Madrid,Atlético de Madrid,0,7
+34,4,01/09/2023,Cádiz CF,Villarreal CF,Cádiz CF,3,1
+31,4,01/09/2023,UD Almería,RC Celta,RC Celta,2,3
+40,4,02/09/2023,Real Sociedad,Granada CF,Real Sociedad,5,3
+39,4,02/09/2023,Real Madrid,Getafe CF,Real Madrid,2,1
+36,4,02/09/2023,Deportivo Alavés,Valencia CF,Deportivo Alavés,1,0
+33,4,02/09/2023,Real Betis,Rayo Vallecano,Real Betis,1,0
+35,4,03/09/2023,Girona FC,UD Las Palmas,Girona FC,1,0
+37,4,03/09/2023,RCD Mallorca,Athletic Club,Draw,0,0
+38,4,03/09/2023,CA Osasuna,FC Barcelona,FC Barcelona,1,2
+32,4,23/12/2023,Atlético de Madrid,Sevilla FC,Atlético de Madrid,1,0
+50,5,15/09/2023,Rayo Vallecano,Deportivo Alavés,Rayo Vallecano,2,0
+41,5,16/09/2023,Athletic Club,Cádiz CF,Athletic Club,3,0
+47,5,16/09/2023,Valencia CF,Atlético de Madrid,Valencia CF,3,0
+43,5,16/09/2023,RC Celta,RCD Mallorca,RCD Mallorca,0,1
+42,5,16/09/2023,FC Barcelona,Real Betis,FC Barcelona,5,0
+44,5,17/09/2023,Getafe CF,CA Osasuna,Getafe CF,3,2
+46,5,17/09/2023,Villarreal CF,UD Almería,Villarreal CF,2,1
+49,5,17/09/2023,Sevilla FC,UD Las Palmas,Sevilla FC,1,0
+45,5,17/09/2023,Real Madrid,Real Sociedad,Real Madrid,2,1
+48,5,18/09/2023,Granada CF,Girona FC,Girona FC,2,4
+58,6,22/09/2023,Deportivo Alavés,Athletic Club,Athletic Club,0,2
+55,6,23/09/2023,Girona FC,RCD Mallorca,Girona FC,5,3
+56,6,23/09/2023,CA Osasuna,Sevilla FC,Draw,0,0
+53,6,23/09/2023,FC Barcelona,RC Celta,FC Barcelona,3,2
+51,6,23/09/2023,UD Almería,Valencia CF,Draw,2,2
+59,6,24/09/2023,Real Sociedad,Getafe CF,Real Sociedad,4,3
+57,6,24/09/2023,Rayo Vallecano,Villarreal CF,Draw,1,1
+54,6,24/09/2023,Real Betis,Cádiz CF,Draw,1,1
+60,6,24/09/2023,UD Las Palmas,Granada CF,UD Las Palmas,1,0
+52,6,24/09/2023,Atlético de Madrid,Real Madrid,Atlético de Madrid,3,1
+63,7,26/09/2023,Sevilla FC,UD Almería,Sevilla FC,5,1
+65,7,26/09/2023,RCD Mallorca,FC Barcelona,Draw,2,2
+61,7,27/09/2023,Athletic Club,Getafe CF,Draw,2,2
+67,7,27/09/2023,Villarreal CF,Girona FC,Girona FC,1,2
+69,7,27/09/2023,Real Madrid,UD Las Palmas,Real Madrid,2,0
+62,7,27/09/2023,Cádiz CF,Rayo Vallecano,Draw,0,0
+68,7,27/09/2023,Valencia CF,Real Sociedad,Real Sociedad,0,1
+66,7,28/09/2023,Granada CF,Real Betis,Draw,1,1
+70,7,28/09/2023,RC Celta,Deportivo Alavés,Draw,1,1
+64,7,28/09/2023,CA Osasuna,Atlético de Madrid,Atlético de Madrid,0,2
+73,8,29/09/2023,FC Barcelona,Sevilla FC,FC Barcelona,1,0
+75,8,30/09/2023,Getafe CF,Villarreal CF,Draw,0,0
+80,8,30/09/2023,Rayo Vallecano,RCD Mallorca,Draw,2,2
+76,8,30/09/2023,Girona FC,Real Madrid,Real Madrid,0,3
+78,8,30/09/2023,Real Sociedad,Athletic Club,Real Sociedad,3,0
+71,8,01/10/2023,UD Almería,Granada CF,Draw,3,3
+77,8,01/10/2023,Deportivo Alavés,CA Osasuna,CA Osasuna,0,2
+72,8,01/10/2023,Atlético de Madrid,Cádiz CF,Atlético de Madrid,3,2
+74,8,01/10/2023,Real Betis,Valencia CF,Real Betis,3,0
+79,8,02/10/2023,UD Las Palmas,RC Celta,UD Las Palmas,2,1
+86,9,06/10/2023,Athletic Club,UD Almería,Athletic Club,3,0
+82,9,07/10/2023,Cádiz CF,Girona FC,Girona FC,0,1
+88,9,07/10/2023,Real Madrid,CA Osasuna,Real Madrid,4,0
+84,9,07/10/2023,RCD Mallorca,Valencia CF,Draw,1,1
+89,9,07/10/2023,Sevilla FC,Rayo Vallecano,Draw,2,2
+90,9,08/10/2023,Villarreal CF,UD Las Palmas,UD Las Palmas,1,2
+81,9,08/10/2023,Atlético de Madrid,Real Sociedad,Atlético de Madrid,2,1
+83,9,08/10/2023,RC Celta,Getafe CF,Draw,2,2
+85,9,08/10/2023,Deportivo Alavés,Real Betis,Draw,1,1
+87,9,08/10/2023,Granada CF,FC Barcelona,Draw,2,2
+99,10,20/10/2023,CA Osasuna,Granada CF,CA Osasuna,2,0
+97,10,21/10/2023,Real Sociedad,RCD Mallorca,Real Sociedad,1,0
+95,10,21/10/2023,Getafe CF,Real Betis,Draw,1,1
+98,10,21/10/2023,Sevilla FC,Real Madrid,Draw,1,1
+94,10,21/10/2023,RC Celta,Atlético de Madrid,Atlético de Madrid,0,3
+91,10,22/10/2023,UD Las Palmas,Rayo Vallecano,Rayo Vallecano,0,1
+92,10,22/10/2023,Girona FC,UD Almería,Girona FC,5,2
+100,10,22/10/2023,Villarreal CF,Deportivo Alavés,Draw,1,1
+93,10,22/10/2023,FC Barcelona,Athletic Club,FC Barcelona,1,0
+96,10,23/10/2023,Valencia CF,Cádiz CF,Valencia CF,2,0
+108,11,27/10/2023,Girona FC,RC Celta,Girona FC,1,0
+101,11,28/10/2023,UD Almería,UD Las Palmas,UD Las Palmas,1,2
+103,11,28/10/2023,FC Barcelona,Real Madrid,Real Madrid,1,2
+109,11,28/10/2023,RCD Mallorca,Getafe CF,Draw,0,0
+105,11,28/10/2023,Cádiz CF,Sevilla FC,Draw,2,2
+104,11,29/10/2023,Real Betis,CA Osasuna,Real Betis,2,1
+106,11,29/10/2023,Rayo Vallecano,Real Sociedad,Draw,2,2
+102,11,29/10/2023,Athletic Club,Valencia CF,Draw,2,2
+110,11,29/10/2023,Atlético de Madrid,Deportivo Alavés,Atlético de Madrid,2,1
+107,11,30/10/2023,Granada CF,Villarreal CF,Villarreal CF,2,3
+115,12,03/11/2023,UD Las Palmas,Atlético de Madrid,UD Las Palmas,2,1
+118,12,04/11/2023,CA Osasuna,Girona FC,Girona FC,2,4
+111,12,04/11/2023,Real Betis,RCD Mallorca,Real Betis,2,0
+112,12,04/11/2023,RC Celta,Sevilla FC,Draw,1,1
+116,12,04/11/2023,Real Sociedad,FC Barcelona,FC Barcelona,0,1
+113,12,05/11/2023,Deportivo Alavés,UD Almería,Deportivo Alavés,1,0
+120,12,05/11/2023,Valencia CF,Granada CF,Valencia CF,1,0
+114,12,05/11/2023,Villarreal CF,Athletic Club,Athletic Club,2,3
+119,12,05/11/2023,Real Madrid,Rayo Vallecano,Draw,0,0
+117,12,06/11/2023,Getafe CF,Cádiz CF,Getafe CF,1,0
+122,13,10/11/2023,Athletic Club,RC Celta,Athletic Club,4,3
+128,13,11/11/2023,Rayo Vallecano,Girona FC,Girona FC,1,2
+121,13,11/11/2023,UD Almería,Real Sociedad,Real Sociedad,1,3
+127,13,11/11/2023,Granada CF,Getafe CF,Draw,1,1
+129,13,11/11/2023,CA Osasuna,UD Las Palmas,Draw,1,1
+124,13,11/11/2023,Real Madrid,Valencia CF,Real Madrid,5,1
+130,13,12/11/2023,FC Barcelona,Deportivo Alavés,FC Barcelona,2,1
+125,13,12/11/2023,Sevilla FC,Real Betis,Draw,1,1
+123,13,12/11/2023,Atlético de Madrid,Villarreal CF,Atlético de Madrid,3,1
+126,13,29/11/2023,RCD Mallorca,Cádiz CF,Draw,1,1
+135,14,24/11/2023,Deportivo Alavés,Granada CF,Deportivo Alavés,3,1
+138,14,25/11/2023,Rayo Vallecano,FC Barcelona,Draw,1,1
+139,14,25/11/2023,Valencia CF,RC Celta,Draw,0,0
+136,14,25/11/2023,Getafe CF,UD Almería,Getafe CF,2,1
+131,14,25/11/2023,Atlético de Madrid,RCD Mallorca,Atlético de Madrid,1,0
+140,14,26/11/2023,Villarreal CF,CA Osasuna,Villarreal CF,3,1
+134,14,26/11/2023,Real Sociedad,Sevilla FC,Real Sociedad,2,1
+133,14,26/11/2023,Cádiz CF,Real Madrid,Real Madrid,0,3
+132,14,26/11/2023,Real Betis,UD Las Palmas,Real Betis,1,0
+137,14,27/11/2023,Girona FC,Athletic Club,Draw,1,1
+148,15,01/12/2023,UD Las Palmas,Getafe CF,UD Las Palmas,2,0
+143,15,02/12/2023,Girona FC,Valencia CF,Girona FC,2,1
+142,15,02/12/2023,Athletic Club,Rayo Vallecano,Athletic Club,4,0
+149,15,02/12/2023,Real Madrid,Granada CF,Real Madrid,2,0
+144,15,02/12/2023,CA Osasuna,Real Sociedad,Draw,1,1
+150,15,03/12/2023,RCD Mallorca,Deportivo Alavés,Draw,0,0
+141,15,03/12/2023,UD Almería,Real Betis,Draw,0,0
+145,15,03/12/2023,Sevilla FC,Villarreal CF,Draw,1,1
+146,15,03/12/2023,FC Barcelona,Atlético de Madrid,FC Barcelona,1,0
+147,15,04/12/2023,RC Celta,Cádiz CF,Draw,1,1
+154,16,08/12/2023,Getafe CF,Valencia CF,Getafe CF,1,0
+156,16,09/12/2023,Deportivo Alavés,UD Las Palmas,UD Las Palmas,0,1
+152,16,09/12/2023,Real Betis,Real Madrid,Draw,1,1
+160,16,09/12/2023,Villarreal CF,Real Sociedad,Real Sociedad,0,3
+155,16,09/12/2023,RCD Mallorca,Sevilla FC,RCD Mallorca,1,0
+157,16,10/12/2023,Atlético de Madrid,UD Almería,Atlético de Madrid,2,1
+153,16,10/12/2023,Cádiz CF,CA Osasuna,Draw,1,1
+151,16,10/12/2023,FC Barcelona,Girona FC,Girona FC,2,4
+158,16,11/12/2023,Granada CF,Athletic Club,Draw,1,1
+159,16,11/12/2023,Rayo Vallecano,RC Celta,Draw,0,0
+164,17,15/12/2023,CA Osasuna,Rayo Vallecano,CA Osasuna,1,0
+163,17,16/12/2023,RC Celta,Granada CF,RC Celta,1,0
+162,17,16/12/2023,Athletic Club,Atlético de Madrid,Athletic Club,2,0
+169,17,16/12/2023,Sevilla FC,Getafe CF,Getafe CF,0,3
+166,17,16/12/2023,Valencia CF,FC Barcelona,Draw,1,1
+161,17,17/12/2023,UD Almería,RCD Mallorca,Draw,0,0
+167,17,17/12/2023,Real Sociedad,Real Betis,Draw,0,0
+168,17,17/12/2023,UD Las Palmas,Cádiz CF,Draw,1,1
+165,17,17/12/2023,Real Madrid,Villarreal CF,Real Madrid,4,1
+170,17,18/12/2023,Girona FC,Deportivo Alavés,Girona FC,3,0
+176,18,19/12/2023,Rayo Vallecano,Valencia CF,Valencia CF,0,1
+172,18,19/12/2023,Atlético de Madrid,Getafe CF,Draw,3,3
+177,18,19/12/2023,Granada CF,Sevilla FC,Sevilla FC,0,3
+179,18,20/12/2023,FC Barcelona,UD Almería,FC Barcelona,3,2
+171,18,20/12/2023,Athletic Club,UD Las Palmas,Athletic Club,1,0
+180,18,20/12/2023,Villarreal CF,RC Celta,Villarreal CF,3,2
+173,18,21/12/2023,Real Betis,Girona FC,Draw,1,1
+174,18,21/12/2023,Cádiz CF,Real Sociedad,Draw,0,0
+175,18,21/12/2023,RCD Mallorca,CA Osasuna,RCD Mallorca,3,2
+178,18,21/12/2023,Deportivo Alavés,Real Madrid,Real Madrid,0,1
+181,19,02/01/2024,Getafe CF,Rayo Vallecano,Rayo Vallecano,0,2
+190,19,02/01/2024,Real Sociedad,Deportivo Alavés,Draw,1,1
+182,19,02/01/2024,Valencia CF,Villarreal CF,Valencia CF,3,1
+188,19,03/01/2024,Granada CF,Cádiz CF,Granada CF,2,0
+187,19,03/01/2024,RC Celta,Real Betis,RC Celta,2,1
+189,19,03/01/2024,Real Madrid,RCD Mallorca,Real Madrid,1,0
+185,19,03/01/2024,Girona FC,Atlético de Madrid,Girona FC,4,3
+183,19,04/01/2024,CA Osasuna,UD Almería,CA Osasuna,1,0
+184,19,04/01/2024,Sevilla FC,Athletic Club,Athletic Club,0,2
+186,19,04/01/2024,UD Las Palmas,FC Barcelona,FC Barcelona,1,2
+200,20,12/01/2024,Sevilla FC,Deportivo Alavés,Deportivo Alavés,2,3
+198,20,13/01/2024,UD Las Palmas,Villarreal CF,UD Las Palmas,3,0
+199,20,13/01/2024,RCD Mallorca,RC Celta,Draw,1,1
+192,20,13/01/2024,Athletic Club,Real Sociedad,Athletic Club,2,1
+195,20,13/01/2024,Real Betis,Granada CF,Real Betis,1,0
+191,20,14/01/2024,UD Almería,Girona FC,Draw,0,0
+196,20,14/01/2024,Cádiz CF,Valencia CF,Valencia CF,1,4
+194,20,31/01/2024,FC Barcelona,CA Osasuna,FC Barcelona,1,0
+193,20,31/01/2024,Atlético de Madrid,Rayo Vallecano,Atlético de Madrid,2,1
+197,20,01/02/2024,Getafe CF,Real Madrid,Real Madrid,0,2
+203,21,19/01/2024,Deportivo Alavés,Cádiz CF,Deportivo Alavés,1,0
+210,21,20/01/2024,Rayo Vallecano,UD Las Palmas,UD Las Palmas,0,2
+209,21,20/01/2024,Villarreal CF,RCD Mallorca,Draw,1,1
+205,21,20/01/2024,Valencia CF,Athletic Club,Valencia CF,1,0
+201,21,20/01/2024,RC Celta,Real Sociedad,Real Sociedad,0,1
+208,21,21/01/2024,CA Osasuna,Getafe CF,CA Osasuna,3,2
+204,21,21/01/2024,Real Madrid,UD Almería,Real Madrid,3,2
+207,21,21/01/2024,Real Betis,FC Barcelona,FC Barcelona,2,4
+202,21,21/01/2024,Girona FC,Sevilla FC,Girona FC,5,1
+206,21,22/01/2024,Granada CF,Atlético de Madrid,Atlético de Madrid,0,1
+220,22,26/01/2024,UD Almería,Deportivo Alavés,Deportivo Alavés,0,3
+219,22,27/01/2024,Real Sociedad,Rayo Vallecano,Draw,0,0
+215,22,27/01/2024,UD Las Palmas,Real Madrid,Real Madrid,1,2
+212,22,27/01/2024,FC Barcelona,Villarreal CF,Villarreal CF,3,5
+217,22,27/01/2024,RCD Mallorca,Real Betis,Real Betis,0,1
+213,22,28/01/2024,RC Celta,Girona FC,Girona FC,0,1
+216,22,28/01/2024,Cádiz CF,Athletic Club,Draw,0,0
+218,22,28/01/2024,Sevilla FC,CA Osasuna,Draw,1,1
+211,22,28/01/2024,Atlético de Madrid,Valencia CF,Atlético de Madrid,2,0
+214,22,29/01/2024,Getafe CF,Granada CF,Getafe CF,2,0
+221,23,02/02/2024,Athletic Club,RCD Mallorca,Athletic Club,4,0
+227,23,03/02/2024,Valencia CF,UD Almería,Valencia CF,2,1
+225,23,03/02/2024,Granada CF,UD Las Palmas,Draw,1,1
+226,23,03/02/2024,Deportivo Alavés,FC Barcelona,FC Barcelona,1,3
+223,23,03/02/2024,Girona FC,Real Sociedad,Draw,0,0
+229,23,04/02/2024,Villarreal CF,Cádiz CF,Draw,0,0
+230,23,04/02/2024,CA Osasuna,RC Celta,RC Celta,0,3
+222,23,04/02/2024,Real Betis,Getafe CF,Draw,1,1
+228,23,04/02/2024,Real Madrid,Atlético de Madrid,Draw,1,1
+224,23,05/02/2024,Rayo Vallecano,Sevilla FC,Sevilla FC,1,2
+237,24,09/02/2024,Cádiz CF,Real Betis,Real Betis,0,2
+235,24,10/02/2024,Deportivo Alavés,Villarreal CF,Draw,1,1
+240,24,10/02/2024,Real Sociedad,CA Osasuna,CA Osasuna,0,1
+239,24,10/02/2024,Real Madrid,Girona FC,Real Madrid,4,0
+234,24,10/02/2024,UD Las Palmas,Valencia CF,UD Las Palmas,2,0
+238,24,11/02/2024,Getafe CF,RC Celta,Getafe CF,3,2
+233,24,11/02/2024,RCD Mallorca,Rayo Vallecano,RCD Mallorca,2,1
+236,24,11/02/2024,Sevilla FC,Atlético de Madrid,Sevilla FC,1,0
+232,24,11/02/2024,FC Barcelona,Granada CF,Draw,3,3
+231,24,12/02/2024,UD Almería,Athletic Club,Draw,0,0
+248,25,16/02/2024,Villarreal CF,Getafe CF,Draw,1,1
+242,25,17/02/2024,Atlético de Madrid,UD Las Palmas,Atlético de Madrid,5,0
+247,25,17/02/2024,CA Osasuna,Cádiz CF,CA Osasuna,2,0
+246,25,17/02/2024,RC Celta,FC Barcelona,FC Barcelona,1,2
+249,25,17/02/2024,Valencia CF,Sevilla FC,Draw,0,0
+244,25,18/02/2024,Rayo Vallecano,Real Madrid,Draw,1,1
+245,25,18/02/2024,Granada CF,UD Almería,Draw,1,1
+243,25,18/02/2024,RCD Mallorca,Real Sociedad,Real Sociedad,1,2
+250,25,18/02/2024,Real Betis,Deportivo Alavés,Draw,0,0
+241,25,19/02/2024,Athletic Club,Girona FC,Athletic Club,3,2
+256,26,23/02/2024,Real Sociedad,Villarreal CF,Villarreal CF,1,3
+252,26,24/02/2024,FC Barcelona,Getafe CF,FC Barcelona,4,0
+259,26,24/02/2024,Deportivo Alavés,RCD Mallorca,Draw,1,1
+251,26,24/02/2024,UD Almería,Atlético de Madrid,Draw,2,2
+253,26,25/02/2024,Cádiz CF,RC Celta,Draw,2,2
+260,26,25/02/2024,Real Betis,Athletic Club,Real Betis,3,1
+258,26,25/02/2024,UD Las Palmas,CA Osasuna,Draw,1,1
+255,26,25/02/2024,Real Madrid,Sevilla FC,Real Madrid,1,0
+254,26,26/02/2024,Girona FC,Rayo Vallecano,Girona FC,3,0
+257,26,04/04/2024,Granada CF,Valencia CF,Valencia CF,0,1
+264,27,01/03/2024,RC Celta,UD Almería,RC Celta,1,0
+268,27,02/03/2024,Sevilla FC,Real Sociedad,Sevilla FC,3,2
+265,27,02/03/2024,Rayo Vallecano,Cádiz CF,Draw,1,1
+263,27,02/03/2024,Getafe CF,UD Las Palmas,Draw,3,3
+267,27,02/03/2024,Valencia CF,Real Madrid,Draw,2,2
+269,27,03/03/2024,Villarreal CF,Granada CF,Villarreal CF,5,1
+262,27,03/03/2024,Atlético de Madrid,Real Betis,Atlético de Madrid,2,1
+266,27,03/03/2024,RCD Mallorca,Girona FC,RCD Mallorca,1,0
+261,27,03/03/2024,Athletic Club,FC Barcelona,Draw,0,0
+270,27,04/03/2024,CA Osasuna,Deportivo Alavés,CA Osasuna,1,0
+272,28,08/03/2024,FC Barcelona,RCD Mallorca,FC Barcelona,1,0
+280,28,09/03/2024,Valencia CF,Getafe CF,Valencia CF,1,0
+278,28,09/03/2024,Cádiz CF,Atlético de Madrid,Cádiz CF,2,0
+275,28,09/03/2024,Granada CF,Real Sociedad,Real Sociedad,2,3
+274,28,09/03/2024,Girona FC,CA Osasuna,Girona FC,2,0
+276,28,10/03/2024,Deportivo Alavés,Rayo Vallecano,Deportivo Alavés,1,0
+277,28,10/03/2024,UD Las Palmas,Athletic Club,Athletic Club,0,2
+279,28,10/03/2024,Real Madrid,RC Celta,Real Madrid,4,0
+273,28,10/03/2024,Real Betis,Villarreal CF,Villarreal CF,2,3
+271,28,11/03/2024,UD Almería,Sevilla FC,Draw,2,2
+286,29,15/03/2024,Real Sociedad,Cádiz CF,Real Sociedad,2,0
+289,29,16/03/2024,RCD Mallorca,Granada CF,RCD Mallorca,1,0
+283,29,16/03/2024,CA Osasuna,Real Madrid,Real Madrid,2,4
+282,29,16/03/2024,Getafe CF,Girona FC,Getafe CF,1,0
+290,29,16/03/2024,Athletic Club,Deportivo Alavés,Athletic Club,2,0
+287,29,17/03/2024,Sevilla FC,RC Celta,RC Celta,1,2
+284,29,17/03/2024,UD Las Palmas,UD Almería,UD Almería,0,1
+288,29,17/03/2024,Villarreal CF,Valencia CF,Villarreal CF,1,0
+285,29,17/03/2024,Rayo Vallecano,Real Betis,Rayo Vallecano,2,0
+281,29,17/03/2024,Atlético de Madrid,FC Barcelona,FC Barcelona,0,3
+293,30,29/03/2024,Cádiz CF,Granada CF,Cádiz CF,1,0
+295,30,30/03/2024,Getafe CF,Sevilla FC,Sevilla FC,0,1
+291,30,30/03/2024,UD Almería,CA Osasuna,CA Osasuna,0,3
+300,30,30/03/2024,Valencia CF,RCD Mallorca,Draw,0,0
+292,30,30/03/2024,FC Barcelona,UD Las Palmas,FC Barcelona,1,0
+294,30,31/03/2024,RC Celta,Rayo Vallecano,Draw,0,0
+299,30,31/03/2024,Girona FC,Real Betis,Girona FC,3,2
+296,30,31/03/2024,Deportivo Alavés,Real Sociedad,Real Sociedad,0,1
+297,30,31/03/2024,Real Madrid,Athletic Club,Real Madrid,2,0
+298,30,01/04/2024,Villarreal CF,Atlético de Madrid,Atlético de Madrid,1,2
+303,31,12/04/2024,Real Betis,RC Celta,Real Betis,2,1
+302,31,13/04/2024,Atlético de Madrid,Girona FC,Atlético de Madrid,3,1
+309,31,13/04/2024,Rayo Vallecano,Getafe CF,Draw,0,0
+304,31,13/04/2024,RCD Mallorca,Real Madrid,Real Madrid,0,1
+308,31,13/04/2024,Cádiz CF,FC Barcelona,FC Barcelona,0,1
+306,31,14/04/2024,UD Las Palmas,Sevilla FC,Sevilla FC,0,2
+310,31,14/04/2024,Granada CF,Deportivo Alavés,Granada CF,2,0
+301,31,14/04/2024,Athletic Club,Villarreal CF,Draw,1,1
+307,31,14/04/2024,Real Sociedad,UD Almería,Draw,2,2
+305,31,15/04/2024,CA Osasuna,Valencia CF,Valencia CF,0,1
+312,32,19/04/2024,Athletic Club,Granada CF,Draw,1,1
+313,32,20/04/2024,RC Celta,UD Las Palmas,RC Celta,4,1
+320,32,20/04/2024,Rayo Vallecano,CA Osasuna,Rayo Vallecano,2,1
+317,32,20/04/2024,Valencia CF,Real Betis,Real Betis,1,2
+318,32,20/04/2024,Girona FC,Cádiz CF,Girona FC,4,1
+314,32,21/04/2024,Getafe CF,Real Sociedad,Draw,1,1
+311,32,21/04/2024,UD Almería,Villarreal CF,Villarreal CF,1,2
+315,32,21/04/2024,Deportivo Alavés,Atlético de Madrid,Deportivo Alavés,2,0
+316,32,21/04/2024,Real Madrid,FC Barcelona,Real Madrid,3,2
+319,32,22/04/2024,Sevilla FC,RCD Mallorca,Sevilla FC,2,1
+330,33,26/04/2024,Real Sociedad,Real Madrid,Real Madrid,0,1
+328,33,27/04/2024,UD Las Palmas,Girona FC,Girona FC,0,2
+321,33,27/04/2024,UD Almería,Getafe CF,Getafe CF,1,3
+326,33,27/04/2024,Deportivo Alavés,RC Celta,Deportivo Alavés,3,0
+327,33,27/04/2024,Atlético de Madrid,Athletic Club,Atlético de Madrid,3,1
+324,33,28/04/2024,Cádiz CF,RCD Mallorca,Draw,1,1
+325,33,28/04/2024,Granada CF,CA Osasuna,Granada CF,3,0
+329,33,28/04/2024,Villarreal CF,Rayo Vallecano,Villarreal CF,3,0
+323,33,28/04/2024,Real Betis,Sevilla FC,Draw,1,1
+322,33,29/04/2024,FC Barcelona,Valencia CF,FC Barcelona,4,2
+333,34,03/05/2024,Getafe CF,Athletic Club,Athletic Club,0,2
+339,34,04/05/2024,Real Sociedad,UD Las Palmas,Real Sociedad,2,0
+337,34,04/05/2024,Real Madrid,Cádiz CF,Real Madrid,3,0
+335,34,04/05/2024,Girona FC,FC Barcelona,Girona FC,4,2
+334,34,04/05/2024,RCD Mallorca,Atlético de Madrid,Atlético de Madrid,0,1
+336,34,05/05/2024,CA Osasuna,Real Betis,Real Betis,0,2
+331,34,05/05/2024,RC Celta,Villarreal CF,RC Celta,3,2
+340,34,05/05/2024,Valencia CF,Deportivo Alavés,Deportivo Alavés,0,1
+332,34,05/05/2024,Rayo Vallecano,UD Almería,UD Almería,0,1
+338,34,05/05/2024,Sevilla FC,Granada CF,Sevilla FC,3,0
+346,35,10/05/2024,Deportivo Alavés,Girona FC,Draw,2,2
+350,35,11/05/2024,RCD Mallorca,UD Las Palmas,RCD Mallorca,1,0
+349,35,11/05/2024,Villarreal CF,Sevilla FC,Villarreal CF,3,2
+345,35,11/05/2024,Granada CF,Real Madrid,Real Madrid,0,4
+341,35,11/05/2024,Athletic Club,CA Osasuna,Draw,2,2
+344,35,12/05/2024,Cádiz CF,Getafe CF,Cádiz CF,1,0
+342,35,12/05/2024,Atlético de Madrid,RC Celta,Atlético de Madrid,1,0
+348,35,12/05/2024,Valencia CF,Rayo Vallecano,Draw,0,0
+347,35,12/05/2024,Real Betis,UD Almería,Real Betis,3,2
+343,35,13/05/2024,FC Barcelona,Real Sociedad,FC Barcelona,2,0
+358,36,14/05/2024,CA Osasuna,RCD Mallorca,Draw,1,1
+360,36,14/05/2024,Real Madrid,Deportivo Alavés,Real Madrid,5,0
+352,36,14/05/2024,Girona FC,Villarreal CF,Villarreal CF,0,1
+357,36,15/05/2024,Sevilla FC,Cádiz CF,Cádiz CF,0,1
+359,36,15/05/2024,Rayo Vallecano,Granada CF,Rayo Vallecano,2,1
+354,36,15/05/2024,RC Celta,Athletic Club,RC Celta,2,1
+355,36,15/05/2024,Getafe CF,Atlético de Madrid,Atlético de Madrid,0,3
+356,36,16/05/2024,UD Las Palmas,Real Betis,Draw,2,2
+351,36,16/05/2024,UD Almería,FC Barcelona,FC Barcelona,0,2
+353,36,16/05/2024,Real Sociedad,Valencia CF,Real Sociedad,1,0
+366,37,18/05/2024,Deportivo Alavés,Getafe CF,Deportivo Alavés,1,0
+361,37,19/05/2024,Athletic Club,Sevilla FC,Athletic Club,2,0
+362,37,19/05/2024,Atlético de Madrid,CA Osasuna,CA Osasuna,1,4
+363,37,19/05/2024,FC Barcelona,Rayo Vallecano,FC Barcelona,3,0
+364,37,19/05/2024,Real Betis,Real Sociedad,Real Sociedad,0,2
+365,37,19/05/2024,Cádiz CF,UD Las Palmas,Draw,0,0
+367,37,19/05/2024,RCD Mallorca,UD Almería,Draw,2,2
+368,37,19/05/2024,Granada CF,RC Celta,RC Celta,1,2
+369,37,19/05/2024,Valencia CF,Girona FC,Girona FC,1,3
+370,37,19/05/2024,Villarreal CF,Real Madrid,Draw,4,4
+374,38,24/05/2024,Girona FC,Granada CF,Girona FC,7,0
+375,38,25/05/2024,CA Osasuna,Villarreal CF,Draw,1,1
+377,38,25/05/2024,Real Sociedad,Atlético de Madrid,Atlético de Madrid,0,2
+371,38,25/05/2024,UD Almería,Cádiz CF,UD Almería,6,1
+376,38,25/05/2024,Rayo Vallecano,Athletic Club,Athletic Club,0,1
+379,38,25/05/2024,Real Madrid,Real Betis,Draw,0,0
+373,38,26/05/2024,Getafe CF,RCD Mallorca,RCD Mallorca,1,2
+372,38,26/05/2024,RC Celta,Valencia CF,Draw,2,2
+380,38,26/05/2024,UD Las Palmas,Deportivo Alavés,Draw,1,1
+378,38,26/05/2024,Sevilla FC,FC Barcelona,FC Barcelona,1,2
+1,1,15/08/2024,Athletic Club,Getafe CF,Draw,1,1
+2,1,15/08/2024,Real Betis,Girona FC,Draw,1,1
+8,1,16/08/2024,RC Celta,Deportivo Alavés,RC Celta,2,1
+4,1,16/08/2024,UD Las Palmas,Sevilla FC,Draw,2,2
+9,1,17/08/2024,CA Osasuna,CD Leganés,Draw,1,1
+6,1,17/08/2024,Valencia CF,FC Barcelona,FC Barcelona,1,2
+7,1,18/08/2024,Real Sociedad,Rayo Vallecano,Rayo Vallecano,1,2
+3,1,18/08/2024,RCD Mallorca,Real Madrid,Draw,1,1
+10,1,19/08/2024,Real Valladolid CF,RCD Espanyol de Barcelona,Real Valladolid CF,1,0
+5,1,19/08/2024,Villarreal CF,Atlético de Madrid,Draw,2,2
+12,2,23/08/2024,RC Celta,Valencia CF,RC Celta,3,1
+15,2,23/08/2024,Sevilla FC,Villarreal CF,Villarreal CF,1,2
+20,2,24/08/2024,CA Osasuna,RCD Mallorca,CA Osasuna,1,0
+19,2,24/08/2024,FC Barcelona,Athletic Club,FC Barcelona,2,1
+13,2,24/08/2024,Getafe CF,Rayo Vallecano,Draw,0,0
+18,2,24/08/2024,RCD Espanyol de Barcelona,Real Sociedad,Real Sociedad,0,1
+14,2,25/08/2024,Real Madrid,Real Valladolid CF,Real Madrid,3,0
+17,2,25/08/2024,CD Leganés,UD Las Palmas,CD Leganés,2,1
+16,2,25/08/2024,Deportivo Alavés,Real Betis,Draw,0,0
+11,2,25/08/2024,Atlético de Madrid,Girona FC,Atlético de Madrid,3,0
+27,3,26/08/2024,Villarreal CF,RC Celta,Villarreal CF,4,3
+24,3,27/08/2024,RCD Mallorca,Sevilla FC,Draw,0,0
+26,3,27/08/2024,Rayo Vallecano,FC Barcelona,FC Barcelona,1,2
+21,3,28/08/2024,Athletic Club,Valencia CF,Athletic Club,1,0
+29,3,28/08/2024,Real Valladolid CF,CD Leganés,Draw,0,0
+28,3,28/08/2024,Real Sociedad,Deportivo Alavés,Deportivo Alavés,1,2
+30,3,28/08/2024,Atlético de Madrid,RCD Espanyol de Barcelona,Draw,0,0
+23,3,29/08/2024,Girona FC,CA Osasuna,Girona FC,4,0
+25,3,29/08/2024,UD Las Palmas,Real Madrid,Draw,1,1
+22,3,18/09/2024,Real Betis,Getafe CF,Real Betis,2,1
+32,4,31/08/2024,FC Barcelona,Real Valladolid CF,FC Barcelona,7,0
+31,4,31/08/2024,Athletic Club,Atlético de Madrid,Atlético de Madrid,0,1
+37,4,31/08/2024,RCD Espanyol de Barcelona,Rayo Vallecano,RCD Espanyol de Barcelona,2,1
+34,4,31/08/2024,Valencia CF,Villarreal CF,Draw,1,1
+36,4,31/08/2024,CD Leganés,RCD Mallorca,RCD Mallorca,0,1
+35,4,01/09/2024,Deportivo Alavés,UD Las Palmas,Deportivo Alavés,2,0
+39,4,01/09/2024,CA Osasuna,RC Celta,CA Osasuna,3,2
+40,4,01/09/2024,Sevilla FC,Girona FC,Girona FC,0,2
+33,4,01/09/2024,Getafe CF,Real Sociedad,Draw,0,0
+38,4,01/09/2024,Real Madrid,Real Betis,Real Madrid,2,0
+42,5,13/09/2024,Real Betis,CD Leganés,Real Betis,2,0
+44,5,14/09/2024,RCD Mallorca,Villarreal CF,Villarreal CF,1,2
+50,5,14/09/2024,RCD Espanyol de Barcelona,Deportivo Alavés,RCD Espanyol de Barcelona,3,2
+47,5,14/09/2024,Sevilla FC,Getafe CF,Sevilla FC,1,0
+49,5,14/09/2024,Real Sociedad,Real Madrid,Real Madrid,0,2
+43,5,15/09/2024,RC Celta,Real Valladolid CF,RC Celta,3,1
+46,5,15/09/2024,Girona FC,FC Barcelona,FC Barcelona,1,4
+45,5,15/09/2024,UD Las Palmas,Athletic Club,Athletic Club,2,3
+41,5,15/09/2024,Atlético de Madrid,Valencia CF,Atlético de Madrid,3,0
+48,5,16/09/2024,Rayo Vallecano,CA Osasuna,Rayo Vallecano,3,1
+54,6,20/09/2024,Deportivo Alavés,Sevilla FC,Deportivo Alavés,2,1
+58,6,21/09/2024,Real Valladolid CF,Real Sociedad,Draw,0,0
+59,6,21/09/2024,CA Osasuna,UD Las Palmas,CA Osasuna,2,1
+57,6,21/09/2024,Valencia CF,Girona FC,Valencia CF,2,0
+60,6,21/09/2024,Real Madrid,RCD Espanyol de Barcelona,Real Madrid,4,1
+53,6,22/09/2024,Getafe CF,CD Leganés,Draw,1,1
+51,6,22/09/2024,Athletic Club,RC Celta,Athletic Club,3,1
+56,6,22/09/2024,Villarreal CF,FC Barcelona,FC Barcelona,1,5
+55,6,22/09/2024,Rayo Vallecano,Atlético de Madrid,Draw,1,1
+52,6,23/09/2024,Real Betis,RCD Mallorca,RCD Mallorca,1,2
+63,7,17/09/2024,RCD Mallorca,Real Sociedad,RCD Mallorca,1,0
+66,7,19/09/2024,CD Leganés,Athletic Club,Athletic Club,0,2
+64,7,24/09/2024,Sevilla FC,Real Valladolid CF,Sevilla FC,2,1
+69,7,24/09/2024,Valencia CF,CA Osasuna,Draw,0,0
+70,7,24/09/2024,Real Madrid,Deportivo Alavés,Real Madrid,3,2
+62,7,25/09/2024,Girona FC,Rayo Vallecano,Draw,0,0
+61,7,25/09/2024,FC Barcelona,Getafe CF,FC Barcelona,1,0
+65,7,26/09/2024,RCD Espanyol de Barcelona,Villarreal CF,Villarreal CF,1,2
+68,7,26/09/2024,UD Las Palmas,Real Betis,Draw,1,1
+67,7,26/09/2024,RC Celta,Atlético de Madrid,Atlético de Madrid,0,1
+76,8,27/09/2024,Real Valladolid CF,RCD Mallorca,RCD Mallorca,1,2
+78,8,28/09/2024,Getafe CF,Deportivo Alavés,Getafe CF,2,0
+79,8,28/09/2024,Rayo Vallecano,CD Leganés,Draw,1,1
+74,8,28/09/2024,Real Sociedad,Valencia CF,Real Sociedad,3,0
+75,8,28/09/2024,CA Osasuna,FC Barcelona,CA Osasuna,4,2
+73,8,29/09/2024,RC Celta,Girona FC,Draw,1,1
+71,8,29/09/2024,Athletic Club,Sevilla FC,Draw,1,1
+80,8,29/09/2024,Real Betis,RCD Espanyol de Barcelona,Real Betis,1,0
+72,8,29/09/2024,Atlético de Madrid,Real Madrid,Draw,1,1
+77,8,30/09/2024,Villarreal CF,UD Las Palmas,Villarreal CF,3,1
+84,9,04/10/2024,CD Leganés,Valencia CF,Draw,0,0
+85,9,05/10/2024,RCD Espanyol de Barcelona,RCD Mallorca,RCD Espanyol de Barcelona,2,1
+81,9,05/10/2024,Getafe CF,CA Osasuna,Draw,1,1
+89,9,05/10/2024,UD Las Palmas,RC Celta,RC Celta,0,1
+90,9,05/10/2024,Real Valladolid CF,Rayo Vallecano,Rayo Vallecano,1,2
+82,9,05/10/2024,Real Madrid,Villarreal CF,Real Madrid,2,0
+86,9,06/10/2024,Girona FC,Athletic Club,Girona FC,2,1
+83,9,06/10/2024,Deportivo Alavés,FC Barcelona,FC Barcelona,0,3
+88,9,06/10/2024,Sevilla FC,Real Betis,Sevilla FC,1,0
+87,9,06/10/2024,Real Sociedad,Atlético de Madrid,Draw,1,1
+96,10,18/10/2024,Deportivo Alavés,Real Valladolid CF,Real Valladolid CF,2,3
+100,10,19/10/2024,Athletic Club,RCD Espanyol de Barcelona,Athletic Club,4,1
+97,10,19/10/2024,CA Osasuna,Real Betis,Real Betis,1,2
+94,10,19/10/2024,Girona FC,Real Sociedad,Real Sociedad,0,1
+93,10,19/10/2024,RC Celta,Real Madrid,Real Madrid,1,2
+95,10,20/10/2024,RCD Mallorca,Rayo Vallecano,RCD Mallorca,1,0
+91,10,20/10/2024,Atlético de Madrid,CD Leganés,Atlético de Madrid,3,1
+98,10,20/10/2024,Villarreal CF,Getafe CF,Draw,1,1
+92,10,20/10/2024,FC Barcelona,Sevilla FC,FC Barcelona,5,1
+99,10,21/10/2024,Valencia CF,UD Las Palmas,UD Las Palmas,2,3
+102,11,25/10/2024,RCD Espanyol de Barcelona,Sevilla FC,Sevilla FC,0,2
+109,11,26/10/2024,Real Valladolid CF,Villarreal CF,Villarreal CF,1,2
+110,11,26/10/2024,Rayo Vallecano,Deportivo Alavés,Rayo Vallecano,1,0
+107,11,26/10/2024,UD Las Palmas,Girona FC,UD Las Palmas,1,0
+105,11,26/10/2024,Real Madrid,FC Barcelona,FC Barcelona,0,4
+106,11,27/10/2024,CD Leganés,RC Celta,CD Leganés,3,0
+101,11,27/10/2024,Getafe CF,Valencia CF,Draw,1,1
+104,11,27/10/2024,Real Betis,Atlético de Madrid,Real Betis,1,0
+108,11,27/10/2024,Real Sociedad,CA Osasuna,CA Osasuna,0,2
+103,11,28/10/2024,RCD Mallorca,Athletic Club,Draw,0,0
+116,12,01/11/2024,Deportivo Alavés,RCD Mallorca,Deportivo Alavés,1,0
+115,12,02/11/2024,CA Osasuna,Real Valladolid CF,CA Osasuna,1,0
+114,12,02/11/2024,Girona FC,CD Leganés,Girona FC,4,3
+112,12,03/11/2024,Atlético de Madrid,UD Las Palmas,Atlético de Madrid,2,0
+120,12,03/11/2024,FC Barcelona,RCD Espanyol de Barcelona,FC Barcelona,3,1
+119,12,03/11/2024,Sevilla FC,Real Sociedad,Real Sociedad,0,2
+111,12,03/11/2024,Athletic Club,Real Betis,Draw,1,1
+113,12,04/11/2024,RC Celta,Getafe CF,RC Celta,1,0
+117,12,18/12/2024,Villarreal CF,Rayo Vallecano,Draw,1,1
+118,12,03/01/2025,Valencia CF,Real Madrid,Real Madrid,1,2
+129,13,08/11/2024,Rayo Vallecano,UD Las Palmas,UD Las Palmas,1,3
+128,13,09/11/2024,Real Madrid,CA Osasuna,Real Madrid,4,0
+130,13,09/11/2024,Villarreal CF,Deportivo Alavés,Villarreal CF,3,0
+123,13,09/11/2024,CD Leganés,Sevilla FC,CD Leganés,1,0
+121,13,10/11/2024,Real Betis,RC Celta,Draw,2,2
+126,13,10/11/2024,RCD Mallorca,Atlético de Madrid,Atlético de Madrid,0,1
+122,13,10/11/2024,Getafe CF,Girona FC,Girona FC,0,1
+125,13,10/11/2024,Real Valladolid CF,Athletic Club,Draw,1,1
+127,13,10/11/2024,Real Sociedad,FC Barcelona,Real Sociedad,1,0
+124,13,18/12/2024,RCD Espanyol de Barcelona,Valencia CF,Draw,1,1
+132,14,22/11/2024,Getafe CF,Real Valladolid CF,Getafe CF,2,0
+137,14,23/11/2024,Valencia CF,Real Betis,Valencia CF,4,2
+139,14,23/11/2024,Atlético de Madrid,Deportivo Alavés,Atlético de Madrid,2,1
+134,14,23/11/2024,UD Las Palmas,RCD Mallorca,RCD Mallorca,2,3
+140,14,23/11/2024,Girona FC,RCD Espanyol de Barcelona,Girona FC,4,1
+136,14,23/11/2024,RC Celta,FC Barcelona,Draw,2,2
+133,14,24/11/2024,CA Osasuna,Villarreal CF,Draw,2,2
+138,14,24/11/2024,Sevilla FC,Rayo Vallecano,Sevilla FC,1,0
+135,14,24/11/2024,CD Leganés,Real Madrid,Real Madrid,0,3
+131,14,24/11/2024,Athletic Club,Real Sociedad,Athletic Club,1,0
+142,15,29/11/2024,RCD Mallorca,Valencia CF,RCD Mallorca,2,1
+141,15,30/11/2024,FC Barcelona,UD Las Palmas,UD Las Palmas,1,2
+143,15,30/11/2024,Deportivo Alavés,CD Leganés,Draw,1,1
+144,15,30/11/2024,RCD Espanyol de Barcelona,RC Celta,RCD Espanyol de Barcelona,3,1
+146,15,30/11/2024,Real Valladolid CF,Atlético de Madrid,Atlético de Madrid,0,5
+149,15,01/12/2024,Villarreal CF,Girona FC,Draw,2,2
+148,15,01/12/2024,Real Madrid,Getafe CF,Real Madrid,2,0
+145,15,01/12/2024,Rayo Vallecano,Athletic Club,Athletic Club,1,2
+147,15,01/12/2024,Real Sociedad,Real Betis,Real Sociedad,2,0
+150,15,02/12/2024,Sevilla FC,CA Osasuna,Draw,1,1
+153,16,06/12/2024,RC Celta,RCD Mallorca,RC Celta,2,0
+155,16,07/12/2024,UD Las Palmas,Real Valladolid CF,UD Las Palmas,2,1
+157,16,07/12/2024,Real Betis,FC Barcelona,Draw,2,2
+158,16,07/12/2024,Valencia CF,Rayo Vallecano,Rayo Vallecano,0,1
+154,16,07/12/2024,Girona FC,Real Madrid,Real Madrid,0,3
+156,16,08/12/2024,CD Leganés,Real Sociedad,Real Sociedad,0,3
+151,16,08/12/2024,Athletic Club,Villarreal CF,Athletic Club,2,0
+159,16,08/12/2024,CA Osasuna,Deportivo Alavés,Draw,2,2
+152,16,08/12/2024,Atlético de Madrid,Sevilla FC,Atlético de Madrid,4,3
+160,16,09/12/2024,Getafe CF,RCD Espanyol de Barcelona,Getafe CF,1,0
+169,17,13/12/2024,Real Valladolid CF,Valencia CF,Real Valladolid CF,1,0
+165,17,14/12/2024,RCD Espanyol de Barcelona,CA Osasuna,Draw,0,0
+168,17,14/12/2024,RCD Mallorca,Girona FC,RCD Mallorca,2,1
+167,17,14/12/2024,Sevilla FC,RC Celta,Sevilla FC,1,0
+163,17,14/12/2024,Rayo Vallecano,Real Madrid,Draw,3,3
+161,17,15/12/2024,Atlético de Madrid,Getafe CF,Atlético de Madrid,1,0
+164,17,15/12/2024,Deportivo Alavés,Athletic Club,Draw,1,1
+166,17,15/12/2024,Villarreal CF,Real Betis,Real Betis,1,2
+170,17,15/12/2024,Real Sociedad,UD Las Palmas,Draw,0,0
+162,17,15/12/2024,FC Barcelona,CD Leganés,CD Leganés,0,1
+174,18,20/12/2024,Girona FC,Real Valladolid CF,Girona FC,3,0
+173,18,21/12/2024,Getafe CF,RCD Mallorca,RCD Mallorca,0,1
+172,18,21/12/2024,RC Celta,Real Sociedad,RC Celta,2,0
+177,18,21/12/2024,CA Osasuna,Athletic Club,Athletic Club,1,2
+178,18,21/12/2024,FC Barcelona,Atlético de Madrid,Atlético de Madrid,1,2
+179,18,22/12/2024,Valencia CF,Deportivo Alavés,Draw,2,2
+175,18,22/12/2024,Real Madrid,Sevilla FC,Real Madrid,4,2
+176,18,22/12/2024,CD Leganés,Villarreal CF,Villarreal CF,2,5
+180,18,22/12/2024,UD Las Palmas,RCD Espanyol de Barcelona,UD Las Palmas,1,0
+171,18,22/12/2024,Real Betis,Rayo Vallecano,Draw,1,1
+187,19,03/12/2024,RCD Mallorca,FC Barcelona,FC Barcelona,1,5
+181,19,04/12/2024,Athletic Club,Real Madrid,Athletic Club,2,1
+189,19,10/01/2025,Rayo Vallecano,RC Celta,Rayo Vallecano,2,1
+185,19,11/01/2025,Deportivo Alavés,Girona FC,Girona FC,0,1
+188,19,11/01/2025,Real Valladolid CF,Real Betis,Real Valladolid CF,1,0
+186,19,11/01/2025,RCD Espanyol de Barcelona,CD Leganés,Draw,1,1
+184,19,11/01/2025,Sevilla FC,Valencia CF,Draw,1,1
+190,19,12/01/2025,UD Las Palmas,Getafe CF,Getafe CF,1,2
+182,19,12/01/2025,Atlético de Madrid,CA Osasuna,Atlético de Madrid,1,0
+183,19,13/01/2025,Real Sociedad,Villarreal CF,Real Sociedad,1,0
+193,20,17/01/2025,RCD Espanyol de Barcelona,Real Valladolid CF,RCD Espanyol de Barcelona,2,1
+191,20,18/01/2025,Girona FC,Sevilla FC,Sevilla FC,1,2
+195,20,18/01/2025,CD Leganés,Atlético de Madrid,CD Leganés,1,0
+200,20,18/01/2025,Real Betis,Deportivo Alavés,Deportivo Alavés,1,3
+196,20,18/01/2025,Getafe CF,FC Barcelona,Draw,1,1
+194,20,19/01/2025,RC Celta,Athletic Club,Athletic Club,1,2
+199,20,19/01/2025,Real Madrid,UD Las Palmas,Real Madrid,4,1
+192,20,19/01/2025,CA Osasuna,Rayo Vallecano,Draw,1,1
+198,20,19/01/2025,Valencia CF,Real Sociedad,Valencia CF,1,0
+197,20,20/01/2025,Villarreal CF,RCD Mallorca,Villarreal CF,4,0
+204,21,24/01/2025,UD Las Palmas,CA Osasuna,Draw,1,1
+206,21,25/01/2025,RCD Mallorca,Real Betis,Real Betis,0,1
+202,21,25/01/2025,Atlético de Madrid,Villarreal CF,Draw,1,1
+210,21,25/01/2025,Sevilla FC,RCD Espanyol de Barcelona,Draw,1,1
+209,21,25/01/2025,Real Valladolid CF,Real Madrid,Real Madrid,0,3
+208,21,26/01/2025,Rayo Vallecano,Girona FC,Rayo Vallecano,2,1
+207,21,26/01/2025,Real Sociedad,Getafe CF,Getafe CF,0,3
+201,21,26/01/2025,Athletic Club,CD Leganés,Draw,0,0
+203,21,26/01/2025,FC Barcelona,Valencia CF,FC Barcelona,7,1
+205,21,27/01/2025,Deportivo Alavés,RC Celta,Draw,1,1
+216,22,31/01/2025,CD Leganés,Rayo Vallecano,Rayo Vallecano,0,1
+212,22,01/02/2025,Getafe CF,Sevilla FC,Draw,0,0
+215,22,01/02/2025,Villarreal CF,Real Valladolid CF,Villarreal CF,5,1
+211,22,01/02/2025,Atlético de Madrid,RCD Mallorca,Atlético de Madrid,2,0
+217,22,01/02/2025,RCD Espanyol de Barcelona,Real Madrid,RCD Espanyol de Barcelona,1,0
+220,22,02/02/2025,FC Barcelona,Deportivo Alavés,FC Barcelona,1,0
+219,22,02/02/2025,Valencia CF,RC Celta,Valencia CF,2,1
+214,22,02/02/2025,CA Osasuna,Real Sociedad,CA Osasuna,2,1
+218,22,02/02/2025,Real Betis,Athletic Club,Draw,2,2
+213,22,03/02/2025,Girona FC,UD Las Palmas,Girona FC,2,1
+223,23,07/02/2025,Rayo Vallecano,Real Valladolid CF,Rayo Vallecano,1,0
+228,23,08/02/2025,RC Celta,Real Betis,RC Celta,3,2
+221,23,08/02/2025,Athletic Club,Girona FC,Athletic Club,3,0
+224,23,08/02/2025,UD Las Palmas,Villarreal CF,Villarreal CF,1,2
+226,23,08/02/2025,Real Madrid,Atlético de Madrid,Draw,1,1
+225,23,09/02/2025,Deportivo Alavés,Getafe CF,Getafe CF,0,1
+229,23,09/02/2025,Valencia CF,CD Leganés,Valencia CF,2,0
+230,23,09/02/2025,Real Sociedad,RCD Espanyol de Barcelona,Real Sociedad,2,1
+227,23,09/02/2025,Sevilla FC,FC Barcelona,FC Barcelona,1,4
+222,23,10/02/2025,RCD Mallorca,CA Osasuna,Draw,1,1
+236,24,14/02/2025,Girona FC,Getafe CF,Getafe CF,1,2
+240,24,15/02/2025,CD Leganés,Deportivo Alavés,Draw,3,3
+234,24,15/02/2025,CA Osasuna,Real Madrid,Draw,1,1
+231,24,15/02/2025,Atlético de Madrid,RC Celta,Draw,1,1
+238,24,15/02/2025,Villarreal CF,Valencia CF,Draw,1,1
+235,24,16/02/2025,RCD Espanyol de Barcelona,Athletic Club,Draw,1,1
+237,24,16/02/2025,Real Valladolid CF,Sevilla FC,Sevilla FC,0,4
+239,24,16/02/2025,RCD Mallorca,UD Las Palmas,RCD Mallorca,3,1
+233,24,16/02/2025,Real Betis,Real Sociedad,Real Betis,3,0
+232,24,17/02/2025,FC Barcelona,Rayo Vallecano,FC Barcelona,1,0
+242,25,21/02/2025,RC Celta,CA Osasuna,RC Celta,1,0
+244,25,22/02/2025,Deportivo Alavés,RCD Espanyol de Barcelona,RCD Espanyol de Barcelona,0,1
+243,25,22/02/2025,Rayo Vallecano,Villarreal CF,Villarreal CF,0,1
+245,25,22/02/2025,Valencia CF,Atlético de Madrid,Atlético de Madrid,0,3
+246,25,22/02/2025,UD Las Palmas,FC Barcelona,FC Barcelona,0,2
+241,25,23/02/2025,Athletic Club,Real Valladolid CF,Athletic Club,7,1
+248,25,23/02/2025,Real Madrid,Girona FC,Real Madrid,2,0
+247,25,23/02/2025,Getafe CF,Real Betis,Real Betis,1,2
+250,25,23/02/2025,Real Sociedad,CD Leganés,Real Sociedad,3,0
+249,25,24/02/2025,Sevilla FC,RCD Mallorca,Draw,1,1
+258,26,28/02/2025,Real Valladolid CF,UD Las Palmas,Draw,1,1
+256,26,01/03/2025,Girona FC,RC Celta,Draw,2,2
+254,26,01/03/2025,Rayo Vallecano,Sevilla FC,Draw,1,1
+252,26,01/03/2025,Real Betis,Real Madrid,Real Betis,2,1
+255,26,01/03/2025,Atlético de Madrid,Athletic Club,Atlético de Madrid,1,0
+257,26,02/03/2025,CD Leganés,Getafe CF,CD Leganés,1,0
+251,26,02/03/2025,FC Barcelona,Real Sociedad,FC Barcelona,4,0
+259,26,02/03/2025,RCD Mallorca,Deportivo Alavés,Draw,1,1
+253,26,02/03/2025,CA Osasuna,Valencia CF,Draw,3,3
+260,26,27/04/2025,Villarreal CF,RCD Espanyol de Barcelona,Villarreal CF,1,0
+264,27,08/03/2025,RC Celta,CD Leganés,RC Celta,2,1
+267,27,08/03/2025,Deportivo Alavés,Villarreal CF,Deportivo Alavés,1,0
+266,27,08/03/2025,Valencia CF,Real Valladolid CF,Valencia CF,2,1
+269,27,09/03/2025,Getafe CF,Atlético de Madrid,Getafe CF,2,1
+270,27,09/03/2025,Real Madrid,Rayo Vallecano,Real Madrid,2,1
+261,27,09/03/2025,Athletic Club,RCD Mallorca,Draw,1,1
+263,27,09/03/2025,Real Betis,UD Las Palmas,Real Betis,1,0
+265,27,09/03/2025,Real Sociedad,Sevilla FC,Sevilla FC,0,1
+268,27,10/03/2025,RCD Espanyol de Barcelona,Girona FC,Draw,1,1
+262,27,27/03/2025,FC Barcelona,CA Osasuna,FC Barcelona,3,0
+279,28,14/03/2025,UD Las Palmas,Deportivo Alavés,Draw,2,2
+276,28,15/03/2025,Real Valladolid CF,RC Celta,RC Celta,0,1
+280,28,15/03/2025,RCD Mallorca,RCD Espanyol de Barcelona,RCD Mallorca,2,1
+278,28,15/03/2025,Villarreal CF,Real Madrid,Real Madrid,1,2
+272,28,15/03/2025,Girona FC,Valencia CF,Draw,1,1
+275,28,16/03/2025,CD Leganés,Real Betis,Real Betis,2,3
+274,28,16/03/2025,Sevilla FC,Athletic Club,Athletic Club,0,1
+273,28,16/03/2025,Rayo Vallecano,Real Sociedad,Draw,2,2
+277,28,16/03/2025,CA Osasuna,Getafe CF,Getafe CF,1,2
+271,28,16/03/2025,Atlético de Madrid,FC Barcelona,FC Barcelona,2,4
+286,29,29/03/2025,Real Sociedad,Real Valladolid CF,Real Sociedad,2,1
+288,29,29/03/2025,RCD Espanyol de Barcelona,Atlético de Madrid,Draw,1,1
+287,29,29/03/2025,Deportivo Alavés,Rayo Vallecano,Rayo Vallecano,0,2
+290,29,29/03/2025,Real Madrid,CD Leganés,Real Madrid,3,2
+285,29,30/03/2025,Getafe CF,Villarreal CF,Villarreal CF,1,2
+282,29,30/03/2025,FC Barcelona,Girona FC,FC Barcelona,4,1
+281,29,30/03/2025,Athletic Club,CA Osasuna,Draw,0,0
+289,29,30/03/2025,Valencia CF,RCD Mallorca,Valencia CF,1,0
+283,29,30/03/2025,Real Betis,Sevilla FC,Real Betis,2,1
+284,29,31/03/2025,RC Celta,UD Las Palmas,Draw,1,1
+300,30,04/04/2025,Rayo Vallecano,RCD Espanyol de Barcelona,RCD Espanyol de Barcelona,0,4
+299,30,05/04/2025,Girona FC,Deportivo Alavés,Deportivo Alavés,0,1
+292,30,05/04/2025,Real Madrid,Valencia CF,Valencia CF,1,2
+297,30,05/04/2025,RCD Mallorca,RC Celta,RC Celta,1,2
+291,30,05/04/2025,FC Barcelona,Real Betis,Draw,1,1
+293,30,06/04/2025,UD Las Palmas,Real Sociedad,Real Sociedad,1,3
+296,30,06/04/2025,Sevilla FC,Atlético de Madrid,Atlético de Madrid,1,2
+298,30,06/04/2025,Real Valladolid CF,Getafe CF,Getafe CF,0,4
+295,30,06/04/2025,Villarreal CF,Athletic Club,Draw,0,0
+294,30,07/04/2025,CD Leganés,CA Osasuna,Draw,1,1
+309,31,11/04/2025,Valencia CF,Sevilla FC,Valencia CF,1,0
+308,31,12/04/2025,Real Sociedad,RCD Mallorca,RCD Mallorca,0,2
+304,31,12/04/2025,Getafe CF,UD Las Palmas,UD Las Palmas,1,3
+310,31,12/04/2025,RC Celta,RCD Espanyol de Barcelona,RCD Espanyol de Barcelona,0,2
+306,31,12/04/2025,CD Leganés,FC Barcelona,FC Barcelona,0,1
+307,31,13/04/2025,CA Osasuna,Girona FC,CA Osasuna,2,1
+305,31,13/04/2025,Deportivo Alavés,Real Madrid,Real Madrid,0,1
+303,31,13/04/2025,Real Betis,Villarreal CF,Villarreal CF,1,2
+301,31,13/04/2025,Athletic Club,Rayo Vallecano,Athletic Club,3,1
+302,31,14/04/2025,Atlético de Madrid,Real Valladolid CF,Atlético de Madrid,4,2
+313,32,18/04/2025,RCD Espanyol de Barcelona,Getafe CF,RCD Espanyol de Barcelona,1,0
+312,32,19/04/2025,Rayo Vallecano,Valencia CF,Draw,1,1
+311,32,19/04/2025,FC Barcelona,RC Celta,FC Barcelona,4,3
+320,32,19/04/2025,RCD Mallorca,CD Leganés,Draw,0,0
+315,32,19/04/2025,UD Las Palmas,Atlético de Madrid,UD Las Palmas,1,0
+317,32,20/04/2025,Real Valladolid CF,CA Osasuna,CA Osasuna,2,3
+318,32,20/04/2025,Villarreal CF,Real Sociedad,Draw,2,2
+319,32,20/04/2025,Sevilla FC,Deportivo Alavés,Draw,1,1
+314,32,20/04/2025,Real Madrid,Athletic Club,Real Madrid,1,0
+316,32,21/04/2025,Girona FC,Real Betis,Real Betis,1,3
+330,33,22/04/2025,Valencia CF,RCD Espanyol de Barcelona,Draw,1,1
+323,33,22/04/2025,FC Barcelona,RCD Mallorca,FC Barcelona,1,0
+321,33,23/04/2025,Athletic Club,UD Las Palmas,Athletic Club,1,0
+325,33,23/04/2025,RC Celta,Villarreal CF,RC Celta,3,0
+326,33,23/04/2025,Getafe CF,Real Madrid,Real Madrid,0,1
+328,33,23/04/2025,Deportivo Alavés,Real Sociedad,Deportivo Alavés,1,0
+327,33,24/04/2025,CA Osasuna,Sevilla FC,CA Osasuna,1,0
+329,33,24/04/2025,CD Leganés,Girona FC,Draw,1,1
+322,33,24/04/2025,Atlético de Madrid,Rayo Vallecano,Atlético de Madrid,3,0
+324,33,24/04/2025,Real Betis,Real Valladolid CF,Real Betis,5,1
+338,34,02/05/2025,Rayo Vallecano,Getafe CF,Rayo Vallecano,1,0
+333,34,03/05/2025,Deportivo Alavés,Atlético de Madrid,Draw,0,0
+339,34,03/05/2025,Villarreal CF,CA Osasuna,Villarreal CF,4,2
+332,34,03/05/2025,UD Las Palmas,Valencia CF,Valencia CF,2,3
+336,34,03/05/2025,Real Valladolid CF,FC Barcelona,FC Barcelona,1,2
+337,34,04/05/2025,Real Madrid,RC Celta,Real Madrid,3,2
+340,34,04/05/2025,Sevilla FC,CD Leganés,Draw,2,2
+334,34,04/05/2025,RCD Espanyol de Barcelona,Real Betis,Real Betis,1,2
+335,34,04/05/2025,Real Sociedad,Athletic Club,Draw,0,0
+331,34,05/05/2025,Girona FC,RCD Mallorca,Girona FC,1,0
+347,35,09/05/2025,UD Las Palmas,Rayo Vallecano,Rayo Vallecano,0,1
+348,35,10/05/2025,Valencia CF,Getafe CF,Valencia CF,3,0
+344,35,10/05/2025,RC Celta,Sevilla FC,RC Celta,3,2
+345,35,10/05/2025,Girona FC,Villarreal CF,Villarreal CF,0,1
+346,35,10/05/2025,RCD Mallorca,Real Valladolid CF,RCD Mallorca,2,1
+341,35,10/05/2025,Atlético de Madrid,Real Sociedad,Atlético de Madrid,4,0
+350,35,11/05/2025,CD Leganés,RCD Espanyol de Barcelona,CD Leganés,3,2
+342,35,11/05/2025,FC Barcelona,Real Madrid,FC Barcelona,4,3
+349,35,11/05/2025,Athletic Club,Deportivo Alavés,Athletic Club,1,0
+343,35,11/05/2025,Real Betis,CA Osasuna,Draw,1,1
+357,36,13/05/2025,Real Valladolid CF,Girona FC,Girona FC,0,1
+356,36,13/05/2025,Real Sociedad,RC Celta,RC Celta,0,1
+359,36,13/05/2025,Sevilla FC,UD Las Palmas,Sevilla FC,1,0
+351,36,14/05/2025,Deportivo Alavés,Valencia CF,Deportivo Alavés,1,0
+360,36,14/05/2025,Villarreal CF,CD Leganés,Villarreal CF,3,0
+358,36,14/05/2025,Real Madrid,RCD Mallorca,Real Madrid,2,1
+354,36,15/05/2025,CA Osasuna,Atlético de Madrid,CA Osasuna,2,0
+355,36,15/05/2025,Rayo Vallecano,Real Betis,Draw,2,2
+352,36,15/05/2025,RCD Espanyol de Barcelona,FC Barcelona,FC Barcelona,0,2
+353,36,15/05/2025,Getafe CF,Athletic Club,Athletic Club,0,2
+361,37,18/05/2025,Atlético de Madrid,Real Betis,Atlético de Madrid,4,1
+362,37,18/05/2025,FC Barcelona,Villarreal CF,Villarreal CF,2,3
+363,37,18/05/2025,RC Celta,Rayo Vallecano,Rayo Vallecano,1,2
+364,37,18/05/2025,Valencia CF,Athletic Club,Athletic Club,0,1
+365,37,18/05/2025,RCD Mallorca,Getafe CF,Getafe CF,1,2
+366,37,18/05/2025,Real Sociedad,Girona FC,Real Sociedad,3,2
+367,37,18/05/2025,Sevilla FC,Real Madrid,Real Madrid,0,2
+368,37,18/05/2025,Real Valladolid CF,Deportivo Alavés,Deportivo Alavés,0,1
+369,37,18/05/2025,UD Las Palmas,CD Leganés,CD Leganés,0,1
+370,37,18/05/2025,CA Osasuna,RCD Espanyol de Barcelona,CA Osasuna,2,0
+372,38,23/05/2025,Real Betis,Valencia CF,Draw,1,1
+373,38,24/05/2025,Real Madrid,Real Sociedad,Real Madrid,2,0
+375,38,24/05/2025,CD Leganés,Real Valladolid CF,CD Leganés,3,0
+376,38,24/05/2025,RCD Espanyol de Barcelona,UD Las Palmas,RCD Espanyol de Barcelona,2,0
+374,38,24/05/2025,Deportivo Alavés,CA Osasuna,Draw,1,1
+378,38,24/05/2025,Getafe CF,RC Celta,RC Celta,1,2
+379,38,24/05/2025,Rayo Vallecano,RCD Mallorca,Draw,0,0
+377,38,25/05/2025,Girona FC,Atlético de Madrid,Atlético de Madrid,0,4
+380,38,25/05/2025,Villarreal CF,Sevilla FC,Villarreal CF,4,2
+371,38,25/05/2025,Athletic Club,FC Barcelona,FC Barcelona,0,3
