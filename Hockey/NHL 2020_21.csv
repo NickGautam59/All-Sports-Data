@@ -1,0 +1,869 @@
+Date,Home Team,Away Team,Result,Home SCORE,Away SCORE
+13/01/2021,Philadelphia Flyers,Pittsburgh Penguins,Philadelphia Flyers,6,3
+14/01/2021,Toronto Maple Leafs,Montréal Canadiens,Toronto Maple Leafs,5,4
+14/01/2021,Tampa Bay Lightning,Chicago Blackhawks,Tampa Bay Lightning,5,1
+14/01/2021,Edmonton Oilers,Vancouver Canucks,Vancouver Canucks,3,5
+14/01/2021,Colorado Avalanche,St. Louis Blues,St. Louis Blues,1,4
+15/01/2021,Buffalo Sabres,Washington Capitals,Washington Capitals,4,6
+15/01/2021,New Jersey Devils,Boston Bruins,Boston Bruins,2,3
+15/01/2021,New York Rangers,New York Islanders,New York Islanders,0,4
+15/01/2021,Detroit Red Wings,Carolina Hurricanes,Carolina Hurricanes,0,3
+15/01/2021,Nashville Predators,Columbus Blue Jackets,Nashville Predators,3,1
+15/01/2021,Winnipeg Jets,Calgary Flames,Winnipeg Jets,4,3
+15/01/2021,Edmonton Oilers,Vancouver Canucks,Edmonton Oilers,5,2
+15/01/2021,Arizona Coyotes,San Jose Sharks,San Jose Sharks,3,4
+15/01/2021,Vegas Golden Knights,Anaheim Ducks,Vegas Golden Knights,5,2
+15/01/2021,Los Angeles Kings,Minnesota Wild,Minnesota Wild,3,4
+16/01/2021,Buffalo Sabres,Washington Capitals,Washington Capitals,1,2
+16/01/2021,Philadelphia Flyers,Pittsburgh Penguins,Philadelphia Flyers,5,2
+16/01/2021,Tampa Bay Lightning,Chicago Blackhawks,Tampa Bay Lightning,5,2
+16/01/2021,Ottawa Senators,Toronto Maple Leafs,Ottawa Senators,5,3
+16/01/2021,Colorado Avalanche,St. Louis Blues,Colorado Avalanche,8,0
+16/01/2021,New Jersey Devils,Boston Bruins,New Jersey Devils,2,1
+16/01/2021,Arizona Coyotes,San Jose Sharks,Arizona Coyotes,5,3
+17/01/2021,Edmonton Oilers,Montréal Canadiens,Montréal Canadiens,1,5
+17/01/2021,New York Rangers,New York Islanders,New York Rangers,5,0
+17/01/2021,Detroit Red Wings,Carolina Hurricanes,Detroit Red Wings,4,2
+17/01/2021,Ottawa Senators,Toronto Maple Leafs,Toronto Maple Leafs,2,3
+17/01/2021,Nashville Predators,Columbus Blue Jackets,Nashville Predators,5,2
+17/01/2021,Los Angeles Kings,Minnesota Wild,Minnesota Wild,3,4
+17/01/2021,Calgary Flames,Vancouver Canucks,Calgary Flames,3,0
+17/01/2021,Vegas Golden Knights,Anaheim Ducks,Vegas Golden Knights,2,1
+17/01/2021,Pittsburgh Penguins,Washington Capitals,Pittsburgh Penguins,4,3
+18/01/2021,Florida Panthers,Chicago Blackhawks,Florida Panthers,5,2
+18/01/2021,Detroit Red Wings,Columbus Blue Jackets,Columbus Blue Jackets,2,3
+18/01/2021,New York Islanders,Boston Bruins,New York Islanders,1,0
+19/01/2021,Toronto Maple Leafs,Winnipeg Jets,Toronto Maple Leafs,3,1
+19/01/2021,Philadelphia Flyers,Buffalo Sabres,Buffalo Sabres,1,6
+19/01/2021,St. Louis Blues,San Jose Sharks,St. Louis Blues,5,4
+19/01/2021,Nashville Predators,Carolina Hurricanes,Carolina Hurricanes,2,4
+19/01/2021,Calgary Flames,Vancouver Canucks,Calgary Flames,5,2
+19/01/2021,Edmonton Oilers,Montréal Canadiens,Montréal Canadiens,1,3
+19/01/2021,Anaheim Ducks,Minnesota Wild,Anaheim Ducks,1,0
+19/01/2021,Vegas Golden Knights,Arizona Coyotes,Vegas Golden Knights,4,2
+20/01/2021,New York Rangers,New Jersey Devils,New Jersey Devils,3,4
+20/01/2021,Philadelphia Flyers,Buffalo Sabres,Philadelphia Flyers,3,0
+20/01/2021,Florida Panthers,Chicago Blackhawks,Florida Panthers,5,4
+20/01/2021,Pittsburgh Penguins,Washington Capitals,Pittsburgh Penguins,5,4
+20/01/2021,Ottawa Senators,Winnipeg Jets,Winnipeg Jets,3,4
+20/01/2021,Detroit Red Wings,Columbus Blue Jackets,Detroit Red Wings,3,2
+20/01/2021,Los Angeles Kings,Colorado Avalanche,Colorado Avalanche,2,3
+21/01/2021,Toronto Maple Leafs,Edmonton Oilers,Edmonton Oilers,1,3
+21/01/2021,St. Louis Blues,San Jose Sharks,San Jose Sharks,1,2
+21/01/2021,Anaheim Ducks,Minnesota Wild,Minnesota Wild,2,3
+21/01/2021,Vancouver Canucks,Montréal Canadiens,Vancouver Canucks,6,5
+21/01/2021,Vegas Golden Knights,Arizona Coyotes,Vegas Golden Knights,5,2
+22/01/2021,Boston Bruins,Philadelphia Flyers,Boston Bruins,5,4
+22/01/2021,New York Islanders,New Jersey Devils,New York Islanders,4,1
+22/01/2021,Columbus Blue Jackets,Tampa Bay Lightning,Tampa Bay Lightning,2,3
+22/01/2021,Ottawa Senators,Winnipeg Jets,Winnipeg Jets,1,4
+22/01/2021,Vancouver Canucks,Montréal Canadiens,Montréal Canadiens,3,7
+22/01/2021,Los Angeles Kings,Colorado Avalanche,Los Angeles Kings,4,2
+23/01/2021,Washington Capitals,Buffalo Sabres,Washington Capitals,4,3
+23/01/2021,Pittsburgh Penguins,New York Rangers,Pittsburgh Penguins,4,3
+23/01/2021,Toronto Maple Leafs,Edmonton Oilers,Toronto Maple Leafs,4,2
+23/01/2021,Chicago Blackhawks,Detroit Red Wings,Chicago Blackhawks,4,1
+23/01/2021,Minnesota Wild,San Jose Sharks,Minnesota Wild,4,1
+23/01/2021,Dallas Stars,Nashville Predators,Dallas Stars,7,0
+23/01/2021,Arizona Coyotes,Vegas Golden Knights,Arizona Coyotes,5,2
+23/01/2021,Anaheim Ducks,Colorado Avalanche,Colorado Avalanche,2,3
+23/01/2021,Columbus Blue Jackets,Tampa Bay Lightning,Columbus Blue Jackets,5,2
+24/01/2021,Boston Bruins,Philadelphia Flyers,Boston Bruins,6,1
+24/01/2021,Vancouver Canucks,Montréal Canadiens,Montréal Canadiens,2,5
+24/01/2021,St. Louis Blues,Los Angeles Kings,St. Louis Blues,4,2
+24/01/2021,Winnipeg Jets,Ottawa Senators,Winnipeg Jets,6,3
+24/01/2021,Chicago Blackhawks,Detroit Red Wings,Chicago Blackhawks,6,2
+24/01/2021,Washington Capitals,Buffalo Sabres,Buffalo Sabres,3,4
+24/01/2021,Calgary Flames,Toronto Maple Leafs,Toronto Maple Leafs,2,3
+24/01/2021,Arizona Coyotes,Vegas Golden Knights,Vegas Golden Knights,0,1
+25/01/2021,New Jersey Devils,New York Islanders,New Jersey Devils,2,0
+25/01/2021,Pittsburgh Penguins,New York Rangers,Pittsburgh Penguins,3,2
+25/01/2021,St. Louis Blues,Los Angeles Kings,Los Angeles Kings,3,6
+25/01/2021,Minnesota Wild,San Jose Sharks,San Jose Sharks,3,5
+25/01/2021,Dallas Stars,Nashville Predators,Dallas Stars,3,2
+25/01/2021,Anaheim Ducks,Colorado Avalanche,Anaheim Ducks,3,1
+25/01/2021,Winnipeg Jets,Edmonton Oilers,Edmonton Oilers,3,4
+26/01/2021,Vancouver Canucks,Ottawa Senators,Vancouver Canucks,7,1
+27/01/2021,Boston Bruins,Pittsburgh Penguins,Boston Bruins,3,2
+27/01/2021,Buffalo Sabres,New York Rangers,Buffalo Sabres,3,2
+27/01/2021,New Jersey Devils,Philadelphia Flyers,Philadelphia Flyers,3,5
+27/01/2021,Washington Capitals,New York Islanders,Washington Capitals,3,2
+27/01/2021,Columbus Blue Jackets,Florida Panthers,Florida Panthers,3,4
+27/01/2021,Nashville Predators,Chicago Blackhawks,Nashville Predators,3,2
+27/01/2021,Winnipeg Jets,Edmonton Oilers,Winnipeg Jets,6,4
+27/01/2021,Minnesota Wild,Los Angeles Kings,Los Angeles Kings,1,2
+27/01/2021,Dallas Stars,Detroit Red Wings,Dallas Stars,2,1
+27/01/2021,Calgary Flames,Toronto Maple Leafs,Toronto Maple Leafs,3,4
+27/01/2021,Colorado Avalanche,San Jose Sharks,Colorado Avalanche,7,3
+27/01/2021,Arizona Coyotes,Anaheim Ducks,Anaheim Ducks,0,1
+27/01/2021,Vegas Golden Knights,St. Louis Blues,St. Louis Blues,4,5
+28/01/2021,Nashville Predators,Chicago Blackhawks,Nashville Predators,2,1
+28/01/2021,Vancouver Canucks,Ottawa Senators,Vancouver Canucks,5,1
+29/01/2021,Boston Bruins,Pittsburgh Penguins,Boston Bruins,4,1
+29/01/2021,Buffalo Sabres,New York Rangers,New York Rangers,2,3
+29/01/2021,New Jersey Devils,Philadelphia Flyers,Philadelphia Flyers,1,3
+29/01/2021,Washington Capitals,New York Islanders,Washington Capitals,6,3
+29/01/2021,Carolina Hurricanes,Tampa Bay Lightning,Carolina Hurricanes,1,0
+29/01/2021,Columbus Blue Jackets,Florida Panthers,Columbus Blue Jackets,3,2
+29/01/2021,Montréal Canadiens,Calgary Flames,Montréal Canadiens,4,2
+29/01/2021,Minnesota Wild,Los Angeles Kings,Minnesota Wild,5,3
+29/01/2021,Dallas Stars,Detroit Red Wings,Dallas Stars,7,3
+29/01/2021,Colorado Avalanche,San Jose Sharks,Colorado Avalanche,3,0
+29/01/2021,Arizona Coyotes,Anaheim Ducks,Arizona Coyotes,3,2
+29/01/2021,Edmonton Oilers,Toronto Maple Leafs,Toronto Maple Leafs,3,4
+29/01/2021,Vancouver Canucks,Ottawa Senators,Vancouver Canucks,4,1
+30/01/2021,Chicago Blackhawks,Columbus Blue Jackets,Columbus Blue Jackets,1,2
+30/01/2021,Buffalo Sabres,New Jersey Devils,Buffalo Sabres,4,3
+31/01/2021,Edmonton Oilers,Toronto Maple Leafs,Edmonton Oilers,4,3
+31/01/2021,New York Rangers,Pittsburgh Penguins,Pittsburgh Penguins,4,5
+31/01/2021,Philadelphia Flyers,New York Islanders,Philadelphia Flyers,3,2
+31/01/2021,Washington Capitals,Boston Bruins,Washington Capitals,4,3
+31/01/2021,Carolina Hurricanes,Dallas Stars,Carolina Hurricanes,4,1
+31/01/2021,Tampa Bay Lightning,Nashville Predators,Tampa Bay Lightning,4,3
+31/01/2021,Detroit Red Wings,Florida Panthers,Florida Panthers,2,3
+31/01/2021,Montréal Canadiens,Calgary Flames,Calgary Flames,0,2
+31/01/2021,Minnesota Wild,Colorado Avalanche,Colorado Avalanche,1,5
+31/01/2021,Anaheim Ducks,St. Louis Blues,St. Louis Blues,1,6
+31/01/2021,Winnipeg Jets,Vancouver Canucks,Vancouver Canucks,1,4
+31/01/2021,Buffalo Sabres,New Jersey Devils,New Jersey Devils,3,5
+31/01/2021,Carolina Hurricanes,Dallas Stars,Carolina Hurricanes,4,3
+31/01/2021,Detroit Red Wings,Florida Panthers,Florida Panthers,2,3
+01/02/2021,Chicago Blackhawks,Columbus Blue Jackets,Chicago Blackhawks,3,1
+01/02/2021,Philadelphia Flyers,New York Islanders,Philadelphia Flyers,4,3
+01/02/2021,Minnesota Wild,Colorado Avalanche,Minnesota Wild,4,3
+01/02/2021,Anaheim Ducks,St. Louis Blues,St. Louis Blues,1,4
+01/02/2021,Edmonton Oilers,Ottawa Senators,Edmonton Oilers,8,5
+02/02/2021,New York Rangers,Pittsburgh Penguins,New York Rangers,3,1
+02/02/2021,Washington Capitals,Boston Bruins,Boston Bruins,3,5
+02/02/2021,Tampa Bay Lightning,Nashville Predators,Tampa Bay Lightning,5,2
+02/02/2021,Montréal Canadiens,Vancouver Canucks,Montréal Canadiens,6,2
+02/02/2021,Winnipeg Jets,Calgary Flames,Calgary Flames,3,4
+03/02/2021,Columbus Blue Jackets,Dallas Stars,Dallas Stars,3,6
+03/02/2021,Montréal Canadiens,Vancouver Canucks,Montréal Canadiens,5,3
+03/02/2021,Chicago Blackhawks,Carolina Hurricanes,Carolina Hurricanes,3,4
+03/02/2021,St. Louis Blues,Arizona Coyotes,St. Louis Blues,4,3
+03/02/2021,Winnipeg Jets,Calgary Flames,Winnipeg Jets,3,2
+03/02/2021,Colorado Avalanche,Minnesota Wild,Colorado Avalanche,2,1
+03/02/2021,Edmonton Oilers,Ottawa Senators,Edmonton Oilers,4,2
+03/02/2021,Los Angeles Kings,Anaheim Ducks,Anaheim Ducks,1,3
+03/02/2021,Tampa Bay Lightning,Detroit Red Wings,Tampa Bay Lightning,5,1
+04/02/2021,Philadelphia Flyers,Boston Bruins,Boston Bruins,3,4
+05/02/2021,New York Rangers,Washington Capitals,New York Rangers,4,2
+05/02/2021,Florida Panthers,Nashville Predators,Nashville Predators,5,6
+05/02/2021,Columbus Blue Jackets,Dallas Stars,Columbus Blue Jackets,4,3
+05/02/2021,Montréal Canadiens,Ottawa Senators,Ottawa Senators,2,3
+05/02/2021,Toronto Maple Leafs,Vancouver Canucks,Toronto Maple Leafs,7,3
+05/02/2021,Chicago Blackhawks,Carolina Hurricanes,Chicago Blackhawks,6,4
+05/02/2021,St. Louis Blues,Arizona Coyotes,Arizona Coyotes,3,4
+05/02/2021,Winnipeg Jets,Calgary Flames,Winnipeg Jets,4,1
+06/02/2021,Philadelphia Flyers,Boston Bruins,Boston Bruins,1,2
+06/02/2021,Tampa Bay Lightning,Detroit Red Wings,Tampa Bay Lightning,3,1
+06/02/2021,Florida Panthers,Nashville Predators,Florida Panthers,2,1
+06/02/2021,Vegas Golden Knights,Los Angeles Kings,Vegas Golden Knights,5,2
+06/02/2021,Anaheim Ducks,San Jose Sharks,San Jose Sharks,4,5
+06/02/2021,Ottawa Senators,Montréal Canadiens,Montréal Canadiens,1,2
+06/02/2021,St. Louis Blues,Arizona Coyotes,Arizona Coyotes,1,3
+07/02/2021,New York Islanders,Pittsburgh Penguins,New York Islanders,4,3
+07/02/2021,Toronto Maple Leafs,Vancouver Canucks,Toronto Maple Leafs,5,1
+07/02/2021,Calgary Flames,Edmonton Oilers,Calgary Flames,6,4
+07/02/2021,Anaheim Ducks,San Jose Sharks,Anaheim Ducks,2,1
+07/02/2021,Washington Capitals,Philadelphia Flyers,Philadelphia Flyers,4,7
+07/02/2021,Dallas Stars,Chicago Blackhawks,Chicago Blackhawks,1,2
+07/02/2021,Florida Panthers,Detroit Red Wings,Detroit Red Wings,1,4
+07/02/2021,Columbus Blue Jackets,Carolina Hurricanes,Carolina Hurricanes,5,6
+07/02/2021,Vegas Golden Knights,Los Angeles Kings,Vegas Golden Knights,4,3
+09/02/2021,New York Rangers,New York Islanders,New York Islanders,0,2
+09/02/2021,Columbus Blue Jackets,Carolina Hurricanes,Columbus Blue Jackets,3,2
+09/02/2021,Ottawa Senators,Edmonton Oilers,Edmonton Oilers,1,3
+09/02/2021,Toronto Maple Leafs,Vancouver Canucks,Toronto Maple Leafs,3,1
+09/02/2021,Nashville Predators,Tampa Bay Lightning,Tampa Bay Lightning,1,4
+09/02/2021,St. Louis Blues,Arizona Coyotes,Arizona Coyotes,3,4
+10/02/2021,Florida Panthers,Detroit Red Wings,Florida Panthers,2,1
+10/02/2021,Ottawa Senators,Edmonton Oilers,Edmonton Oilers,2,3
+10/02/2021,Nashville Predators,Tampa Bay Lightning,Tampa Bay Lightning,1,6
+10/02/2021,Dallas Stars,Chicago Blackhawks,Chicago Blackhawks,1,2
+10/02/2021,Calgary Flames,Winnipeg Jets,Calgary Flames,3,2
+10/02/2021,Vegas Golden Knights,Anaheim Ducks,Vegas Golden Knights,5,4
+10/02/2021,Los Angeles Kings,San Jose Sharks,San Jose Sharks,3,4
+11/02/2021,New York Rangers,Boston Bruins,Boston Bruins,2,3
+11/02/2021,Montréal Canadiens,Toronto Maple Leafs,Toronto Maple Leafs,2,4
+12/02/2021,New York Islanders,Pittsburgh Penguins,Pittsburgh Penguins,3,4
+12/02/2021,Florida Panthers,Tampa Bay Lightning,Florida Panthers,5,2
+12/02/2021,Chicago Blackhawks,Columbus Blue Jackets,Columbus Blue Jackets,5,6
+12/02/2021,Nashville Predators,Detroit Red Wings,Nashville Predators,3,2
+12/02/2021,Winnipeg Jets,Ottawa Senators,Winnipeg Jets,5,1
+12/02/2021,Montréal Canadiens,Edmonton Oilers,Edmonton Oilers,0,3
+12/02/2021,Dallas Stars,Carolina Hurricanes,Carolina Hurricanes,3,5
+12/02/2021,Vancouver Canucks,Calgary Flames,Calgary Flames,1,3
+12/02/2021,Vegas Golden Knights,Anaheim Ducks,Anaheim Ducks,0,1
+12/02/2021,Los Angeles Kings,San Jose Sharks,Los Angeles Kings,6,2
+13/02/2021,New York Rangers,Boston Bruins,Boston Bruins,0,1
+13/02/2021,Arizona Coyotes,St. Louis Blues,St. Louis Blues,1,4
+13/02/2021,Winnipeg Jets,Ottawa Senators,Ottawa Senators,1,2
+13/02/2021,San Jose Sharks,Vegas Golden Knights,Vegas Golden Knights,1,3
+14/02/2021,New York Islanders,Boston Bruins,New York Islanders,4,2
+14/02/2021,Florida Panthers,Tampa Bay Lightning,Tampa Bay Lightning,1,6
+14/02/2021,Toronto Maple Leafs,Montréal Canadiens,Montréal Canadiens,1,2
+14/02/2021,Chicago Blackhawks,Columbus Blue Jackets,Chicago Blackhawks,3,2
+14/02/2021,Nashville Predators,Detroit Red Wings,Detroit Red Wings,2,4
+14/02/2021,Dallas Stars,Carolina Hurricanes,Carolina Hurricanes,3,4
+14/02/2021,Arizona Coyotes,St. Louis Blues,St. Louis Blues,4,5
+14/02/2021,Vancouver Canucks,Calgary Flames,Vancouver Canucks,3,1
+14/02/2021,Pittsburgh Penguins,Washington Capitals,Pittsburgh Penguins,6,3
+15/02/2021,Vegas Golden Knights,Colorado Avalanche,Vegas Golden Knights,1,0
+15/02/2021,Arizona Coyotes,St. Louis Blues,Arizona Coyotes,1,0
+16/02/2021,Buffalo Sabres,New York Islanders,New York Islanders,1,3
+16/02/2021,Toronto Maple Leafs,Ottawa Senators,Ottawa Senators,5,6
+16/02/2021,Carolina Hurricanes,Columbus Blue Jackets,Carolina Hurricanes,7,3
+16/02/2021,Tampa Bay Lightning,Florida Panthers,Florida Panthers,4,6
+16/02/2021,Detroit Red Wings,Chicago Blackhawks,Chicago Blackhawks,2,3
+16/02/2021,Edmonton Oilers,Winnipeg Jets,Winnipeg Jets,5,6
+16/02/2021,Vancouver Canucks,Calgary Flames,Calgary Flames,3,4
+16/02/2021,San Jose Sharks,Anaheim Ducks,San Jose Sharks,3,2
+17/02/2021,Buffalo Sabres,New York Islanders,New York Islanders,0,3
+17/02/2021,Pittsburgh Penguins,Washington Capitals,Washington Capitals,1,3
+17/02/2021,New York Rangers,New Jersey Devils,New Jersey Devils,2,5
+17/02/2021,Vegas Golden Knights,Colorado Avalanche,Colorado Avalanche,2,3
+17/02/2021,Los Angeles Kings,Minnesota Wild,Los Angeles Kings,4,0
+17/02/2021,Carolina Hurricanes,Florida Panthers,Florida Panthers,3,4
+18/02/2021,Toronto Maple Leafs,Ottawa Senators,Toronto Maple Leafs,2,1
+18/02/2021,Detroit Red Wings,Chicago Blackhawks,Chicago Blackhawks,0,2
+18/02/2021,Calgary Flames,Vancouver Canucks,Vancouver Canucks,1,5
+18/02/2021,Edmonton Oilers,Winnipeg Jets,Edmonton Oilers,3,2
+19/02/2021,Boston Bruins,New Jersey Devils,New Jersey Devils,2,3
+19/02/2021,Philadelphia Flyers,New York Rangers,New York Rangers,2,3
+19/02/2021,Pittsburgh Penguins,New York Islanders,Pittsburgh Penguins,4,1
+19/02/2021,Columbus Blue Jackets,Nashville Predators,Columbus Blue Jackets,3,0
+19/02/2021,Toronto Maple Leafs,Ottawa Senators,Toronto Maple Leafs,7,3
+19/02/2021,Washington Capitals,Buffalo Sabres,Washington Capitals,3,1
+19/02/2021,St. Louis Blues,San Jose Sharks,St. Louis Blues,3,2
+19/02/2021,Arizona Coyotes,Los Angeles Kings,Los Angeles Kings,2,3
+19/02/2021,Anaheim Ducks,Minnesota Wild,Minnesota Wild,1,3
+20/02/2021,Carolina Hurricanes,Chicago Blackhawks,Carolina Hurricanes,5,3
+20/02/2021,Detroit Red Wings,Florida Panthers,Florida Panthers,2,7
+20/02/2021,Calgary Flames,Edmonton Oilers,Edmonton Oilers,1,2
+20/02/2021,Vancouver Canucks,Winnipeg Jets,Winnipeg Jets,0,2
+20/02/2021,New Jersey Devils,Buffalo Sabres,Buffalo Sabres,2,3
+20/02/2021,Washington Capitals,New York Rangers,New York Rangers,1,4
+20/02/2021,Colorado Avalanche,Vegas Golden Knights,Colorado Avalanche,3,2
+20/02/2021,Detroit Red Wings,Florida Panthers,Detroit Red Wings,2,1
+21/02/2021,St. Louis Blues,San Jose Sharks,San Jose Sharks,4,5
+21/02/2021,Arizona Coyotes,Los Angeles Kings,Los Angeles Kings,2,4
+21/02/2021,Pittsburgh Penguins,New York Islanders,Pittsburgh Penguins,3,2
+21/02/2021,Columbus Blue Jackets,Nashville Predators,Nashville Predators,2,4
+21/02/2021,Montréal Canadiens,Toronto Maple Leafs,Toronto Maple Leafs,3,5
+21/02/2021,Carolina Hurricanes,Tampa Bay Lightning,Carolina Hurricanes,4,0
+21/02/2021,Anaheim Ducks,Minnesota Wild,Minnesota Wild,1,5
+21/02/2021,Edmonton Oilers,Calgary Flames,Edmonton Oilers,7,1
+21/02/2021,Washington Capitals,New Jersey Devils,Washington Capitals,4,3
+22/02/2021,Ottawa Senators,Montréal Canadiens,Ottawa Senators,3,2
+22/02/2021,Boston Bruins,Philadelphia Flyers,Boston Bruins,7,3
+22/02/2021,Vancouver Canucks,Winnipeg Jets,Winnipeg Jets,3,4
+23/02/2021,Florida Panthers,Dallas Stars,Florida Panthers,3,1
+23/02/2021,Carolina Hurricanes,Tampa Bay Lightning,Tampa Bay Lightning,2,4
+23/02/2021,New York Islanders,Buffalo Sabres,New York Islanders,3,2
+23/02/2021,Toronto Maple Leafs,Calgary Flames,Calgary Flames,0,3
+23/02/2021,St. Louis Blues,Los Angeles Kings,Los Angeles Kings,0,3
+23/02/2021,Colorado Avalanche,Vegas Golden Knights,Vegas Golden Knights,0,3
+23/02/2021,Arizona Coyotes,Anaheim Ducks,Arizona Coyotes,4,3
+23/02/2021,San Jose Sharks,Minnesota Wild,Minnesota Wild,2,6
+24/02/2021,New Jersey Devils,Buffalo Sabres,Buffalo Sabres,1,2
+24/02/2021,Washington Capitals,Pittsburgh Penguins,Pittsburgh Penguins,2,3
+24/02/2021,Columbus Blue Jackets,Chicago Blackhawks,Chicago Blackhawks,5,6
+24/02/2021,Ottawa Senators,Montréal Canadiens,Ottawa Senators,5,4
+24/02/2021,Detroit Red Wings,Nashville Predators,Nashville Predators,0,2
+24/02/2021,Vancouver Canucks,Edmonton Oilers,Edmonton Oilers,3,4
+24/02/2021,Tampa Bay Lightning,Carolina Hurricanes,Tampa Bay Lightning,3,0
+24/02/2021,Florida Panthers,Dallas Stars,Dallas Stars,0,3
+25/02/2021,Philadelphia Flyers,New York Rangers,Philadelphia Flyers,4,3
+25/02/2021,Toronto Maple Leafs,Calgary Flames,Toronto Maple Leafs,2,1
+25/02/2021,Colorado Avalanche,Minnesota Wild,Minnesota Wild,2,6
+25/02/2021,Arizona Coyotes,Anaheim Ducks,Arizona Coyotes,4,3
+25/02/2021,St. Louis Blues,Los Angeles Kings,Los Angeles Kings,1,2
+26/02/2021,New York Islanders,Boston Bruins,New York Islanders,7,2
+26/02/2021,Washington Capitals,Pittsburgh Penguins,Washington Capitals,5,2
+26/02/2021,Tampa Bay Lightning,Carolina Hurricanes,Tampa Bay Lightning,3,1
+26/02/2021,Florida Panthers,Dallas Stars,Florida Panthers,3,2
+26/02/2021,Columbus Blue Jackets,Chicago Blackhawks,Chicago Blackhawks,0,2
+26/02/2021,Ottawa Senators,Calgary Flames,Ottawa Senators,6,1
+26/02/2021,Buffalo Sabres,New Jersey Devils,New Jersey Devils,3,4
+26/02/2021,Detroit Red Wings,Nashville Predators,Detroit Red Wings,5,2
+26/02/2021,Winnipeg Jets,Montréal Canadiens,Winnipeg Jets,6,3
+26/02/2021,Vancouver Canucks,Edmonton Oilers,Edmonton Oilers,0,3
+27/02/2021,New York Rangers,Boston Bruins,New York Rangers,6,2
+27/02/2021,Minnesota Wild,Los Angeles Kings,Minnesota Wild,3,1
+27/02/2021,Arizona Coyotes,Colorado Avalanche,Colorado Avalanche,2,3
+27/02/2021,Buffalo Sabres,Philadelphia Flyers,Philadelphia Flyers,0,3
+27/02/2021,New Jersey Devils,Washington Capitals,Washington Capitals,2,5
+27/02/2021,Ottawa Senators,Calgary Flames,Calgary Flames,3,6
+27/02/2021,Nashville Predators,Columbus Blue Jackets,Nashville Predators,2,1
+28/02/2021,Edmonton Oilers,Toronto Maple Leafs,Toronto Maple Leafs,0,4
+28/02/2021,New York Islanders,Pittsburgh Penguins,Pittsburgh Penguins,3,4
+28/02/2021,Tampa Bay Lightning,Dallas Stars,Tampa Bay Lightning,5,0
+28/02/2021,Florida Panthers,Carolina Hurricanes,Carolina Hurricanes,3,4
+28/02/2021,Chicago Blackhawks,Detroit Red Wings,Detroit Red Wings,3,5
+28/02/2021,Minnesota Wild,Los Angeles Kings,Minnesota Wild,4,3
+28/02/2021,Arizona Coyotes,Colorado Avalanche,Colorado Avalanche,2,6
+28/02/2021,Winnipeg Jets,Montréal Canadiens,Winnipeg Jets,2,1
+28/02/2021,Anaheim Ducks,Vegas Golden Knights,Vegas Golden Knights,2,3
+28/02/2021,San Jose Sharks,St. Louis Blues,St. Louis Blues,6,7
+28/02/2021,New York Rangers,Boston Bruins,Boston Bruins,1,4
+28/02/2021,Nashville Predators,Columbus Blue Jackets,Nashville Predators,3,1
+28/02/2021,Buffalo Sabres,Philadelphia Flyers,Philadelphia Flyers,0,3
+28/02/2021,New Jersey Devils,Washington Capitals,Washington Capitals,2,3
+28/02/2021,New York Islanders,Pittsburgh Penguins,New York Islanders,2,0
+01/03/2021,Chicago Blackhawks,Detroit Red Wings,Chicago Blackhawks,7,2
+02/03/2021,Florida Panthers,Carolina Hurricanes,Carolina Hurricanes,2,3
+02/03/2021,Ottawa Senators,Calgary Flames,Ottawa Senators,5,1
+02/03/2021,Winnipeg Jets,Vancouver Canucks,Vancouver Canucks,0,4
+02/03/2021,Edmonton Oilers,Toronto Maple Leafs,Toronto Maple Leafs,0,3
+02/03/2021,Vegas Golden Knights,Minnesota Wild,Vegas Golden Knights,5,4
+02/03/2021,Anaheim Ducks,St. Louis Blues,St. Louis Blues,4,5
+02/03/2021,San Jose Sharks,Colorado Avalanche,San Jose Sharks,6,2
+03/03/2021,New Jersey Devils,New York Islanders,New York Islanders,1,4
+03/03/2021,New York Rangers,Buffalo Sabres,New York Rangers,3,2
+03/03/2021,Pittsburgh Penguins,Philadelphia Flyers,Pittsburgh Penguins,5,2
+03/03/2021,Columbus Blue Jackets,Detroit Red Wings,Columbus Blue Jackets,4,1
+03/03/2021,Montréal Canadiens,Ottawa Senators,Montréal Canadiens,3,1
+03/03/2021,Nashville Predators,Carolina Hurricanes,Carolina Hurricanes,2,4
+03/03/2021,Winnipeg Jets,Vancouver Canucks,Winnipeg Jets,5,2
+03/03/2021,Dallas Stars,Tampa Bay Lightning,Tampa Bay Lightning,0,2
+04/03/2021,Boston Bruins,Washington Capitals,Washington Capitals,1,2
+04/03/2021,Edmonton Oilers,Toronto Maple Leafs,Toronto Maple Leafs,1,6
+04/03/2021,Anaheim Ducks,St. Louis Blues,St. Louis Blues,2,3
+04/03/2021,Vegas Golden Knights,Minnesota Wild,Vegas Golden Knights,5,1
+04/03/2021,Los Angeles Kings,Arizona Coyotes,Arizona Coyotes,2,3
+04/03/2021,San Jose Sharks,Colorado Avalanche,Colorado Avalanche,0,4
+05/03/2021,New York Islanders,Buffalo Sabres,New York Islanders,5,2
+05/03/2021,New Jersey Devils,New York Rangers,New York Rangers,1,6
+05/03/2021,Carolina Hurricanes,Detroit Red Wings,Carolina Hurricanes,5,2
+05/03/2021,Pittsburgh Penguins,Philadelphia Flyers,Philadelphia Flyers,3,4
+05/03/2021,Montréal Canadiens,Winnipeg Jets,Winnipeg Jets,3,4
+05/03/2021,Chicago Blackhawks,Tampa Bay Lightning,Tampa Bay Lightning,2,3
+05/03/2021,Nashville Predators,Florida Panthers,Florida Panthers,4,5
+05/03/2021,Dallas Stars,Columbus Blue Jackets,Columbus Blue Jackets,2,3
+05/03/2021,Calgary Flames,Ottawa Senators,Calgary Flames,7,3
+05/03/2021,Vancouver Canucks,Toronto Maple Leafs,Vancouver Canucks,3,1
+06/03/2021,Boston Bruins,Washington Capitals,Boston Bruins,5,1
+06/03/2021,Chicago Blackhawks,Tampa Bay Lightning,Chicago Blackhawks,4,3
+06/03/2021,Colorado Avalanche,Anaheim Ducks,Colorado Avalanche,3,2
+06/03/2021,Arizona Coyotes,Minnesota Wild,Minnesota Wild,1,5
+06/03/2021,Los Angeles Kings,St. Louis Blues,St. Louis Blues,2,3
+06/03/2021,San Jose Sharks,Vegas Golden Knights,Vegas Golden Knights,4,5
+06/03/2021,New Jersey Devils,New York Rangers,New York Rangers,3,6
+06/03/2021,New York Islanders,Buffalo Sabres,New York Islanders,5,2
+06/03/2021,Pittsburgh Penguins,Philadelphia Flyers,Pittsburgh Penguins,4,3
+06/03/2021,Nashville Predators,Florida Panthers,Florida Panthers,2,6
+07/03/2021,Arizona Coyotes,Minnesota Wild,Arizona Coyotes,5,2
+07/03/2021,Montréal Canadiens,Winnipeg Jets,Montréal Canadiens,7,1
+07/03/2021,Vancouver Canucks,Toronto Maple Leafs,Vancouver Canucks,4,2
+07/03/2021,Dallas Stars,Columbus Blue Jackets,Dallas Stars,5,0
+07/03/2021,Colorado Avalanche,Anaheim Ducks,Anaheim Ducks,4,5
+07/03/2021,Los Angeles Kings,St. Louis Blues,Los Angeles Kings,4,3
+07/03/2021,Edmonton Oilers,Calgary Flames,Edmonton Oilers,3,2
+07/03/2021,San Jose Sharks,Vegas Golden Knights,Vegas Golden Knights,0,4
+07/03/2021,New York Islanders,Buffalo Sabres,New York Islanders,5,2
+07/03/2021,Chicago Blackhawks,Tampa Bay Lightning,Tampa Bay Lightning,3,6
+07/03/2021,Carolina Hurricanes,Florida Panthers,Carolina Hurricanes,4,2
+07/03/2021,Boston Bruins,New Jersey Devils,New Jersey Devils,0,1
+08/03/2021,Philadelphia Flyers,Washington Capitals,Washington Capitals,1,3
+08/03/2021,Pittsburgh Penguins,New York Rangers,Pittsburgh Penguins,5,1
+08/03/2021,Dallas Stars,Nashville Predators,Nashville Predators,3,4
+08/03/2021,Calgary Flames,Ottawa Senators,Ottawa Senators,3,4
+09/03/2021,Minnesota Wild,Vegas Golden Knights,Minnesota Wild,2,0
+09/03/2021,San Jose Sharks,St. Louis Blues,San Jose Sharks,3,2
+09/03/2021,Edmonton Oilers,Ottawa Senators,Edmonton Oilers,3,2
+09/03/2021,Colorado Avalanche,Arizona Coyotes,Arizona Coyotes,2,3
+09/03/2021,Vancouver Canucks,Montréal Canadiens,Vancouver Canucks,2,1
+09/03/2021,Anaheim Ducks,Los Angeles Kings,Anaheim Ducks,6,5
+09/03/2021,Pittsburgh Penguins,New York Rangers,Pittsburgh Penguins,4,2
+10/03/2021,New York Islanders,Boston Bruins,New York Islanders,3,2
+10/03/2021,Philadelphia Flyers,Buffalo Sabres,Philadelphia Flyers,5,4
+10/03/2021,Washington Capitals,New Jersey Devils,Washington Capitals,5,4
+10/03/2021,Carolina Hurricanes,Nashville Predators,Carolina Hurricanes,3,2
+10/03/2021,Columbus Blue Jackets,Florida Panthers,Florida Panthers,2,4
+10/03/2021,Toronto Maple Leafs,Winnipeg Jets,Winnipeg Jets,3,4
+10/03/2021,Detroit Red Wings,Tampa Bay Lightning,Tampa Bay Lightning,3,4
+10/03/2021,Dallas Stars,Chicago Blackhawks,Dallas Stars,6,1
+11/03/2021,Minnesota Wild,Vegas Golden Knights,Minnesota Wild,4,3
+11/03/2021,Edmonton Oilers,Ottawa Senators,Edmonton Oilers,7,1
+11/03/2021,Colorado Avalanche,Arizona Coyotes,Colorado Avalanche,2,1
+11/03/2021,Anaheim Ducks,Los Angeles Kings,Los Angeles Kings,1,5
+11/03/2021,Vancouver Canucks,Montréal Canadiens,Montréal Canadiens,1,5
+12/03/2021,Boston Bruins,New York Rangers,Boston Bruins,4,0
+12/03/2021,Buffalo Sabres,Pittsburgh Penguins,Pittsburgh Penguins,2,5
+12/03/2021,New York Islanders,New Jersey Devils,New York Islanders,5,3
+12/03/2021,Philadelphia Flyers,Washington Capitals,Washington Capitals,3,5
+12/03/2021,Carolina Hurricanes,Nashville Predators,Carolina Hurricanes,5,1
+12/03/2021,Columbus Blue Jackets,Florida Panthers,Florida Panthers,4,5
+12/03/2021,Toronto Maple Leafs,Winnipeg Jets,Toronto Maple Leafs,4,3
+12/03/2021,Detroit Red Wings,Tampa Bay Lightning,Detroit Red Wings,6,4
+12/03/2021,Dallas Stars,Chicago Blackhawks,Chicago Blackhawks,2,4
+12/03/2021,Calgary Flames,Montréal Canadiens,Calgary Flames,2,1
+13/03/2021,St. Louis Blues,Vegas Golden Knights,Vegas Golden Knights,4,5
+13/03/2021,Minnesota Wild,Arizona Coyotes,Minnesota Wild,4,0
+13/03/2021,Edmonton Oilers,Ottawa Senators,Edmonton Oilers,6,2
+13/03/2021,Colorado Avalanche,Los Angeles Kings,Colorado Avalanche,2,0
+13/03/2021,Anaheim Ducks,San Jose Sharks,San Jose Sharks,0,6
+13/03/2021,Boston Bruins,New York Rangers,New York Rangers,0,4
+13/03/2021,Columbus Blue Jackets,Dallas Stars,Columbus Blue Jackets,4,3
+14/03/2021,Calgary Flames,Montréal Canadiens,Calgary Flames,3,1
+14/03/2021,Buffalo Sabres,Pittsburgh Penguins,Pittsburgh Penguins,0,3
+14/03/2021,New Jersey Devils,New York Islanders,New York Islanders,2,3
+14/03/2021,Philadelphia Flyers,Washington Capitals,Washington Capitals,4,5
+14/03/2021,Tampa Bay Lightning,Nashville Predators,Tampa Bay Lightning,6,3
+14/03/2021,Florida Panthers,Chicago Blackhawks,Florida Panthers,4,2
+14/03/2021,Toronto Maple Leafs,Winnipeg Jets,Winnipeg Jets,2,5
+14/03/2021,St. Louis Blues,Vegas Golden Knights,Vegas Golden Knights,1,5
+14/03/2021,Vancouver Canucks,Edmonton Oilers,Vancouver Canucks,2,1
+14/03/2021,Anaheim Ducks,San Jose Sharks,San Jose Sharks,1,3
+14/03/2021,Minnesota Wild,Arizona Coyotes,Minnesota Wild,4,1
+14/03/2021,Detroit Red Wings,Carolina Hurricanes,Carolina Hurricanes,1,2
+14/03/2021,Columbus Blue Jackets,Dallas Stars,Dallas Stars,1,2
+14/03/2021,New Jersey Devils,New York Islanders,New York Islanders,2,3
+14/03/2021,Colorado Avalanche,Los Angeles Kings,Colorado Avalanche,4,1
+14/03/2021,Ottawa Senators,Toronto Maple Leafs,Ottawa Senators,4,3
+15/03/2021,Tampa Bay Lightning,Nashville Predators,Nashville Predators,1,4
+15/03/2021,Buffalo Sabres,Washington Capitals,Washington Capitals,0,6
+15/03/2021,New York Rangers,Philadelphia Flyers,Philadelphia Flyers,4,5
+15/03/2021,Florida Panthers,Chicago Blackhawks,Florida Panthers,6,3
+15/03/2021,Pittsburgh Penguins,Boston Bruins,Pittsburgh Penguins,4,1
+15/03/2021,Ottawa Senators,Vancouver Canucks,Vancouver Canucks,2,3
+16/03/2021,Winnipeg Jets,Montréal Canadiens,Montréal Canadiens,2,4
+16/03/2021,Calgary Flames,Edmonton Oilers,Calgary Flames,4,3
+16/03/2021,Vegas Golden Knights,San Jose Sharks,Vegas Golden Knights,2,1
+16/03/2021,New Jersey Devils,Buffalo Sabres,New Jersey Devils,3,2
+16/03/2021,Washington Capitals,New York Islanders,Washington Capitals,3,1
+16/03/2021,Pittsburgh Penguins,Boston Bruins,Boston Bruins,1,2
+16/03/2021,Detroit Red Wings,Carolina Hurricanes,Detroit Red Wings,4,2
+17/03/2021,Minnesota Wild,Arizona Coyotes,Minnesota Wild,3,0
+17/03/2021,Dallas Stars,Tampa Bay Lightning,Tampa Bay Lightning,3,4
+17/03/2021,Colorado Avalanche,Anaheim Ducks,Colorado Avalanche,8,4
+17/03/2021,Ottawa Senators,Vancouver Canucks,Vancouver Canucks,2,3
+17/03/2021,New York Rangers,Philadelphia Flyers,New York Rangers,9,0
+18/03/2021,Winnipeg Jets,Montréal Canadiens,Winnipeg Jets,4,3
+18/03/2021,Calgary Flames,Edmonton Oilers,Edmonton Oilers,3,7
+18/03/2021,Vegas Golden Knights,San Jose Sharks,Vegas Golden Knights,5,4
+18/03/2021,Los Angeles Kings,St. Louis Blues,Los Angeles Kings,4,1
+18/03/2021,New Jersey Devils,Pittsburgh Penguins,New Jersey Devils,3,2
+18/03/2021,Buffalo Sabres,Boston Bruins,Boston Bruins,1,4
+18/03/2021,New York Islanders,Philadelphia Flyers,Philadelphia Flyers,3,4
+18/03/2021,Carolina Hurricanes,Columbus Blue Jackets,Columbus Blue Jackets,2,3
+18/03/2021,Tampa Bay Lightning,Chicago Blackhawks,Tampa Bay Lightning,4,2
+18/03/2021,Florida Panthers,Nashville Predators,Nashville Predators,1,2
+18/03/2021,Detroit Red Wings,Dallas Stars,Detroit Red Wings,3,2
+19/03/2021,Edmonton Oilers,Winnipeg Jets,Edmonton Oilers,2,1
+19/03/2021,Colorado Avalanche,Minnesota Wild,Colorado Avalanche,5,1
+19/03/2021,Anaheim Ducks,Arizona Coyotes,Anaheim Ducks,3,2
+19/03/2021,Washington Capitals,New York Rangers,Washington Capitals,2,1
+19/03/2021,Montréal Canadiens,Vancouver Canucks,Vancouver Canucks,2,3
+19/03/2021,Toronto Maple Leafs,Calgary Flames,Calgary Flames,3,4
+20/03/2021,San Jose Sharks,St. Louis Blues,St. Louis Blues,1,2
+20/03/2021,Los Angeles Kings,Vegas Golden Knights,Vegas Golden Knights,2,4
+20/03/2021,New Jersey Devils,Pittsburgh Penguins,Pittsburgh Penguins,1,3
+20/03/2021,Florida Panthers,Nashville Predators,Florida Panthers,2,0
+20/03/2021,Colorado Avalanche,Minnesota Wild,Colorado Avalanche,6,0
+20/03/2021,Tampa Bay Lightning,Chicago Blackhawks,Tampa Bay Lightning,4,1
+20/03/2021,Washington Capitals,New York Rangers,New York Rangers,1,3
+20/03/2021,New York Islanders,Philadelphia Flyers,New York Islanders,6,1
+20/03/2021,Carolina Hurricanes,Columbus Blue Jackets,Columbus Blue Jackets,2,3
+20/03/2021,Detroit Red Wings,Dallas Stars,Dallas Stars,0,3
+20/03/2021,Montréal Canadiens,Vancouver Canucks,Montréal Canadiens,5,4
+20/03/2021,Toronto Maple Leafs,Calgary Flames,Toronto Maple Leafs,2,0
+21/03/2021,Anaheim Ducks,Arizona Coyotes,Arizona Coyotes,1,5
+21/03/2021,San Jose Sharks,St. Louis Blues,St. Louis Blues,2,5
+21/03/2021,Edmonton Oilers,Winnipeg Jets,Edmonton Oilers,4,2
+21/03/2021,Pittsburgh Penguins,New Jersey Devils,New Jersey Devils,1,2
+21/03/2021,Tampa Bay Lightning,Florida Panthers,Tampa Bay Lightning,5,3
+21/03/2021,Los Angeles Kings,Vegas Golden Knights,Los Angeles Kings,3,1
+22/03/2021,Dallas Stars,Nashville Predators,Nashville Predators,3,4
+22/03/2021,New York Rangers,Buffalo Sabres,New York Rangers,5,3
+22/03/2021,Columbus Blue Jackets,Carolina Hurricanes,Carolina Hurricanes,0,3
+22/03/2021,Ottawa Senators,Calgary Flames,Ottawa Senators,2,1
+22/03/2021,Philadelphia Flyers,New York Islanders,New York Islanders,1,2
+22/03/2021,Minnesota Wild,Anaheim Ducks,Minnesota Wild,2,1
+23/03/2021,Vegas Golden Knights,St. Louis Blues,Vegas Golden Knights,5,1
+23/03/2021,Vancouver Canucks,Winnipeg Jets,Winnipeg Jets,0,4
+23/03/2021,Arizona Coyotes,Colorado Avalanche,Colorado Avalanche,1,5
+23/03/2021,San Jose Sharks,Los Angeles Kings,San Jose Sharks,2,1
+23/03/2021,Philadelphia Flyers,New Jersey Devils,New Jersey Devils,3,4
+24/03/2021,Chicago Blackhawks,Florida Panthers,Chicago Blackhawks,3,2
+24/03/2021,Nashville Predators,Detroit Red Wings,Nashville Predators,2,0
+24/03/2021,Dallas Stars,Tampa Bay Lightning,Tampa Bay Lightning,1,2
+24/03/2021,Arizona Coyotes,Colorado Avalanche,Arizona Coyotes,5,4
+24/03/2021,Ottawa Senators,Calgary Flames,Ottawa Senators,3,1
+24/03/2021,Minnesota Wild,Anaheim Ducks,Minnesota Wild,3,2
+25/03/2021,Pittsburgh Penguins,Buffalo Sabres,Pittsburgh Penguins,5,2
+25/03/2021,Vancouver Canucks,Winnipeg Jets,Winnipeg Jets,1,5
+25/03/2021,San Jose Sharks,Los Angeles Kings,San Jose Sharks,4,2
+25/03/2021,Boston Bruins,New York Islanders,New York Islanders,3,4
+25/03/2021,Philadelphia Flyers,New York Rangers,New York Rangers,3,8
+25/03/2021,Washington Capitals,New Jersey Devils,Washington Capitals,4,3
+25/03/2021,Columbus Blue Jackets,Carolina Hurricanes,Carolina Hurricanes,3,4
+25/03/2021,Ottawa Senators,Toronto Maple Leafs,Toronto Maple Leafs,2,3
+25/03/2021,Pittsburgh Penguins,Buffalo Sabres,Pittsburgh Penguins,4,0
+26/03/2021,Minnesota Wild,St. Louis Blues,Minnesota Wild,2,0
+26/03/2021,Chicago Blackhawks,Florida Panthers,Chicago Blackhawks,3,0
+26/03/2021,Nashville Predators,Detroit Red Wings,Nashville Predators,7,1
+26/03/2021,Dallas Stars,Tampa Bay Lightning,Dallas Stars,4,3
+26/03/2021,Colorado Avalanche,Vegas Golden Knights,Colorado Avalanche,5,1
+26/03/2021,Washington Capitals,New Jersey Devils,Washington Capitals,4,0
+27/03/2021,St. Louis Blues,Anaheim Ducks,Anaheim Ducks,1,4
+27/03/2021,Calgary Flames,Winnipeg Jets,Winnipeg Jets,2,3
+27/03/2021,Arizona Coyotes,San Jose Sharks,Arizona Coyotes,5,2
+27/03/2021,Boston Bruins,Buffalo Sabres,Boston Bruins,3,2
+27/03/2021,Philadelphia Flyers,New York Rangers,Philadelphia Flyers,2,1
+27/03/2021,Colorado Avalanche,Vegas Golden Knights,Vegas Golden Knights,2,3
+27/03/2021,Detroit Red Wings,Columbus Blue Jackets,Detroit Red Wings,3,1
+27/03/2021,Carolina Hurricanes,Tampa Bay Lightning,Carolina Hurricanes,4,3
+27/03/2021,Toronto Maple Leafs,Edmonton Oilers,Toronto Maple Leafs,4,3
+27/03/2021,Pittsburgh Penguins,New York Islanders,Pittsburgh Penguins,6,3
+28/03/2021,Chicago Blackhawks,Nashville Predators,Nashville Predators,1,3
+28/03/2021,Dallas Stars,Florida Panthers,Florida Panthers,3,4
+28/03/2021,Calgary Flames,Winnipeg Jets,Calgary Flames,4,2
+28/03/2021,Arizona Coyotes,San Jose Sharks,Arizona Coyotes,4,0
+28/03/2021,Washington Capitals,New York Rangers,Washington Capitals,5,4
+28/03/2021,Detroit Red Wings,Columbus Blue Jackets,Detroit Red Wings,4,1
+28/03/2021,St. Louis Blues,Anaheim Ducks,Anaheim Ducks,2,3
+28/03/2021,Boston Bruins,New Jersey Devils,New Jersey Devils,0,1
+28/03/2021,Dallas Stars,Florida Panthers,Florida Panthers,1,4
+29/03/2021,Chicago Blackhawks,Nashville Predators,Nashville Predators,2,3
+29/03/2021,Buffalo Sabres,Philadelphia Flyers,Philadelphia Flyers,3,4
+29/03/2021,Pittsburgh Penguins,New York Islanders,Pittsburgh Penguins,2,1
+29/03/2021,Toronto Maple Leafs,Edmonton Oilers,Edmonton Oilers,2,3
+30/03/2021,Colorado Avalanche,Anaheim Ducks,Colorado Avalanche,5,2
+30/03/2021,Calgary Flames,Winnipeg Jets,Winnipeg Jets,1,5
+30/03/2021,Vegas Golden Knights,Los Angeles Kings,Vegas Golden Knights,4,1
+30/03/2021,San Jose Sharks,Minnesota Wild,San Jose Sharks,4,3
+30/03/2021,Montréal Canadiens,Edmonton Oilers,Montréal Canadiens,4,0
+30/03/2021,Boston Bruins,New Jersey Devils,Boston Bruins,5,4
+30/03/2021,New York Rangers,Washington Capitals,New York Rangers,5,2
+30/03/2021,Tampa Bay Lightning,Columbus Blue Jackets,Columbus Blue Jackets,1,3
+30/03/2021,Florida Panthers,Detroit Red Wings,Florida Panthers,4,1
+30/03/2021,Chicago Blackhawks,Carolina Hurricanes,Chicago Blackhawks,2,1
+31/03/2021,Nashville Predators,Dallas Stars,Nashville Predators,3,2
+31/03/2021,Buffalo Sabres,Philadelphia Flyers,Buffalo Sabres,6,1
+31/03/2021,Winnipeg Jets,Toronto Maple Leafs,Toronto Maple Leafs,1,3
+01/04/2021,Colorado Avalanche,Arizona Coyotes,Colorado Avalanche,9,3
+01/04/2021,Vegas Golden Knights,Los Angeles Kings,Los Angeles Kings,2,4
+01/04/2021,San Jose Sharks,Minnesota Wild,San Jose Sharks,4,2
+01/04/2021,Boston Bruins,Pittsburgh Penguins,Pittsburgh Penguins,1,4
+01/04/2021,Buffalo Sabres,New York Rangers,New York Rangers,2,3
+01/04/2021,New York Islanders,Washington Capitals,New York Islanders,8,4
+01/04/2021,Tampa Bay Lightning,Columbus Blue Jackets,Tampa Bay Lightning,3,2
+01/04/2021,Florida Panthers,Detroit Red Wings,Florida Panthers,3,2
+01/04/2021,Ottawa Senators,Montréal Canadiens,Montréal Canadiens,1,4
+02/04/2021,Chicago Blackhawks,Carolina Hurricanes,Carolina Hurricanes,3,4
+02/04/2021,Nashville Predators,Dallas Stars,Dallas Stars,1,4
+02/04/2021,Vegas Golden Knights,Minnesota Wild,Minnesota Wild,2,3
+02/04/2021,New Jersey Devils,Washington Capitals,Washington Capitals,1,2
+03/04/2021,Winnipeg Jets,Toronto Maple Leafs,Toronto Maple Leafs,1,2
+03/04/2021,Edmonton Oilers,Calgary Flames,Edmonton Oilers,3,2
+03/04/2021,Colorado Avalanche,St. Louis Blues,Colorado Avalanche,3,2
+03/04/2021,Anaheim Ducks,Arizona Coyotes,Arizona Coyotes,2,4
+03/04/2021,Los Angeles Kings,San Jose Sharks,San Jose Sharks,0,3
+03/04/2021,Boston Bruins,Pittsburgh Penguins,Boston Bruins,7,5
+03/04/2021,Tampa Bay Lightning,Detroit Red Wings,Tampa Bay Lightning,2,1
+03/04/2021,Nashville Predators,Chicago Blackhawks,Nashville Predators,3,0
+03/04/2021,Buffalo Sabres,New York Rangers,Buffalo Sabres,3,2
+03/04/2021,New York Islanders,Philadelphia Flyers,New York Islanders,3,2
+03/04/2021,Carolina Hurricanes,Dallas Stars,Dallas Stars,2,3
+03/04/2021,Florida Panthers,Columbus Blue Jackets,Florida Panthers,5,2
+03/04/2021,Montréal Canadiens,Ottawa Senators,Ottawa Senators,3,6
+04/04/2021,Colorado Avalanche,St. Louis Blues,Colorado Avalanche,2,1
+04/04/2021,Vegas Golden Knights,Minnesota Wild,Minnesota Wild,1,2
+04/04/2021,Los Angeles Kings,San Jose Sharks,San Jose Sharks,2,3
+04/04/2021,Tampa Bay Lightning,Detroit Red Wings,Detroit Red Wings,1,5
+04/04/2021,New Jersey Devils,Washington Capitals,Washington Capitals,4,5
+04/04/2021,Florida Panthers,Columbus Blue Jackets,Florida Panthers,3,0
+04/04/2021,Carolina Hurricanes,Dallas Stars,Carolina Hurricanes,1,0
+05/04/2021,Calgary Flames,Toronto Maple Leafs,Toronto Maple Leafs,2,4
+05/04/2021,Anaheim Ducks,Arizona Coyotes,Arizona Coyotes,2,3
+05/04/2021,Boston Bruins,Philadelphia Flyers,Philadelphia Flyers,2,3
+05/04/2021,Montréal Canadiens,Edmonton Oilers,Montréal Canadiens,3,2
+05/04/2021,Winnipeg Jets,Ottawa Senators,Winnipeg Jets,4,3
+06/04/2021,St. Louis Blues,Vegas Golden Knights,Vegas Golden Knights,1,6
+06/04/2021,Minnesota Wild,Colorado Avalanche,Colorado Avalanche,4,5
+06/04/2021,Calgary Flames,Toronto Maple Leafs,Toronto Maple Leafs,3,5
+06/04/2021,Los Angeles Kings,Arizona Coyotes,Arizona Coyotes,2,5
+06/04/2021,New Jersey Devils,Buffalo Sabres,Buffalo Sabres,3,5
+06/04/2021,New York Islanders,Washington Capitals,New York Islanders,1,0
+06/04/2021,New York Rangers,Pittsburgh Penguins,New York Rangers,8,4
+06/04/2021,Philadelphia Flyers,Boston Bruins,Boston Bruins,2,4
+06/04/2021,Carolina Hurricanes,Florida Panthers,Carolina Hurricanes,5,2
+06/04/2021,Columbus Blue Jackets,Tampa Bay Lightning,Columbus Blue Jackets,4,2
+06/04/2021,Detroit Red Wings,Nashville Predators,Nashville Predators,2,3
+07/04/2021,Chicago Blackhawks,Dallas Stars,Chicago Blackhawks,4,2
+07/04/2021,San Jose Sharks,Anaheim Ducks,Anaheim Ducks,1,5
+07/04/2021,Ottawa Senators,Edmonton Oilers,Edmonton Oilers,2,4
+07/04/2021,Toronto Maple Leafs,Montréal Canadiens,Toronto Maple Leafs,3,2
+08/04/2021,St. Louis Blues,Vegas Golden Knights,St. Louis Blues,3,1
+08/04/2021,Minnesota Wild,Colorado Avalanche,Minnesota Wild,8,3
+08/04/2021,Los Angeles Kings,Arizona Coyotes,Los Angeles Kings,4,3
+08/04/2021,Buffalo Sabres,New Jersey Devils,New Jersey Devils,3,6
+08/04/2021,New York Islanders,Philadelphia Flyers,New York Islanders,3,2
+08/04/2021,New York Rangers,Pittsburgh Penguins,Pittsburgh Penguins,2,5
+08/04/2021,Washington Capitals,Boston Bruins,Boston Bruins,2,4
+08/04/2021,Carolina Hurricanes,Florida Panthers,Carolina Hurricanes,3,0
+08/04/2021,Columbus Blue Jackets,Tampa Bay Lightning,Tampa Bay Lightning,4,6
+08/04/2021,Montréal Canadiens,Winnipeg Jets,Winnipeg Jets,2,4
+08/04/2021,Ottawa Senators,Edmonton Oilers,Edmonton Oilers,1,3
+08/04/2021,Detroit Red Wings,Nashville Predators,Nashville Predators,1,7
+09/04/2021,Chicago Blackhawks,Dallas Stars,Dallas Stars,1,5
+09/04/2021,Buffalo Sabres,Washington Capitals,Washington Capitals,3,4
+09/04/2021,New Jersey Devils,Pittsburgh Penguins,Pittsburgh Penguins,4,6
+09/04/2021,New York Islanders,New York Rangers,New York Rangers,1,4
+10/04/2021,St. Louis Blues,Minnesota Wild,St. Louis Blues,9,1
+10/04/2021,Vegas Golden Knights,Arizona Coyotes,Vegas Golden Knights,7,4
+10/04/2021,Anaheim Ducks,Colorado Avalanche,Colorado Avalanche,0,2
+10/04/2021,San Jose Sharks,Los Angeles Kings,San Jose Sharks,5,2
+10/04/2021,Philadelphia Flyers,Boston Bruins,Philadelphia Flyers,3,2
+10/04/2021,Dallas Stars,Florida Panthers,Dallas Stars,4,1
+10/04/2021,Carolina Hurricanes,Detroit Red Wings,Detroit Red Wings,4,5
+10/04/2021,Columbus Blue Jackets,Chicago Blackhawks,Chicago Blackhawks,3,4
+10/04/2021,Montréal Canadiens,Winnipeg Jets,Winnipeg Jets,0,5
+10/04/2021,Toronto Maple Leafs,Ottawa Senators,Toronto Maple Leafs,6,5
+11/04/2021,Nashville Predators,Tampa Bay Lightning,Tampa Bay Lightning,0,3
+11/04/2021,St. Louis Blues,Minnesota Wild,St. Louis Blues,3,2
+11/04/2021,Calgary Flames,Edmonton Oilers,Edmonton Oilers,,
+11/04/2021,San Jose Sharks,Los Angeles Kings,Los Angeles Kings,2,4
+11/04/2021,Philadelphia Flyers,Buffalo Sabres,Buffalo Sabres,3,5
+11/04/2021,Vegas Golden Knights,Arizona Coyotes,Vegas Golden Knights,1,0
+11/04/2021,Anaheim Ducks,Colorado Avalanche,Colorado Avalanche,1,4
+11/04/2021,New Jersey Devils,Pittsburgh Penguins,Pittsburgh Penguins,2,5
+11/04/2021,New York Islanders,New York Rangers,New York Islanders,3,2
+11/04/2021,Boston Bruins,Washington Capitals,Washington Capitals,1,8
+12/04/2021,Nashville Predators,Dallas Stars,Nashville Predators,3,2
+12/04/2021,Carolina Hurricanes,Detroit Red Wings,Detroit Red Wings,1,3
+12/04/2021,Columbus Blue Jackets,Chicago Blackhawks,Chicago Blackhawks,3,4
+12/04/2021,Montréal Canadiens,Toronto Maple Leafs,Montréal Canadiens,4,2
+12/04/2021,Ottawa Senators,Winnipeg Jets,Ottawa Senators,4,2
+13/04/2021,Colorado Avalanche,Arizona Coyotes,Colorado Avalanche,4,2
+13/04/2021,Los Angeles Kings,Vegas Golden Knights,Vegas Golden Knights,2,4
+13/04/2021,San Jose Sharks,Anaheim Ducks,Anaheim Ducks,0,4
+13/04/2021,Boston Bruins,Buffalo Sabres,Boston Bruins,3,2
+13/04/2021,Washington Capitals,Philadelphia Flyers,Washington Capitals,6,1
+13/04/2021,New Jersey Devils,New York Rangers,New York Rangers,0,3
+13/04/2021,Toronto Maple Leafs,Calgary Flames,Calgary Flames,2,3
+14/04/2021,Nashville Predators,Tampa Bay Lightning,Nashville Predators,7,2
+14/04/2021,Dallas Stars,Florida Panthers,Florida Panthers,2,3
+14/04/2021,Minnesota Wild,Arizona Coyotes,Minnesota Wild,5,2
+14/04/2021,Montréal Canadiens,Calgary Flames,Calgary Flames,1,4
+14/04/2021,Ottawa Senators,Winnipeg Jets,Winnipeg Jets,2,3
+14/04/2021,St. Louis Blues,Colorado Avalanche,Colorado Avalanche,3,4
+15/04/2021,Los Angeles Kings,Vegas Golden Knights,Vegas Golden Knights,2,6
+15/04/2021,San Jose Sharks,Anaheim Ducks,Anaheim Ducks,1,4
+15/04/2021,Boston Bruins,New York Islanders,Boston Bruins,4,1
+15/04/2021,New York Rangers,New Jersey Devils,New York Rangers,4,0
+15/04/2021,Washington Capitals,Buffalo Sabres,Buffalo Sabres,2,5
+15/04/2021,Carolina Hurricanes,Nashville Predators,Carolina Hurricanes,4,1
+15/04/2021,Tampa Bay Lightning,Florida Panthers,Tampa Bay Lightning,3,2
+15/04/2021,Pittsburgh Penguins,Philadelphia Flyers,Philadelphia Flyers,1,2
+15/04/2021,Toronto Maple Leafs,Winnipeg Jets,Winnipeg Jets,2,5
+15/04/2021,Detroit Red Wings,Chicago Blackhawks,Detroit Red Wings,4,1
+16/04/2021,Dallas Stars,Columbus Blue Jackets,Dallas Stars,4,1
+16/04/2021,Montréal Canadiens,Calgary Flames,Montréal Canadiens,2,1
+16/04/2021,Boston Bruins,New York Islanders,Boston Bruins,3,0
+17/04/2021,Minnesota Wild,San Jose Sharks,Minnesota Wild,3,2
+17/04/2021,Anaheim Ducks,Vegas Golden Knights,Vegas Golden Knights,0,4
+17/04/2021,New York Rangers,New Jersey Devils,New York Rangers,6,3
+17/04/2021,Philadelphia Flyers,Washington Capitals,Washington Capitals,3,6
+17/04/2021,Buffalo Sabres,Pittsburgh Penguins,Pittsburgh Penguins,2,3
+17/04/2021,Montréal Canadiens,Ottawa Senators,Ottawa Senators,0,4
+17/04/2021,Arizona Coyotes,St. Louis Blues,Arizona Coyotes,3,2
+17/04/2021,Winnipeg Jets,Edmonton Oilers,Edmonton Oilers,0,3
+17/04/2021,Carolina Hurricanes,Nashville Predators,Carolina Hurricanes,3,1
+17/04/2021,Tampa Bay Lightning,Florida Panthers,Florida Panthers,3,5
+17/04/2021,Detroit Red Wings,Chicago Blackhawks,Chicago Blackhawks,0,4
+18/04/2021,Minnesota Wild,San Jose Sharks,Minnesota Wild,5,2
+18/04/2021,Dallas Stars,Columbus Blue Jackets,Dallas Stars,5,1
+18/04/2021,Boston Bruins,Washington Capitals,Boston Bruins,6,3
+18/04/2021,New Jersey Devils,New York Rangers,New York Rangers,3,5
+18/04/2021,Buffalo Sabres,Pittsburgh Penguins,Buffalo Sabres,4,2
+18/04/2021,Anaheim Ducks,Vegas Golden Knights,Vegas Golden Knights,2,5
+18/04/2021,Philadelphia Flyers,New York Islanders,New York Islanders,0,1
+18/04/2021,Vancouver Canucks,Toronto Maple Leafs,Vancouver Canucks,3,2
+19/04/2021,Tampa Bay Lightning,Carolina Hurricanes,Tampa Bay Lightning,3,2
+19/04/2021,Florida Panthers,Columbus Blue Jackets,Florida Panthers,4,2
+19/04/2021,Dallas Stars,Detroit Red Wings,Dallas Stars,3,2
+20/04/2021,Nashville Predators,Chicago Blackhawks,Nashville Predators,5,2
+20/04/2021,Calgary Flames,Ottawa Senators,Ottawa Senators,2,4
+20/04/2021,Edmonton Oilers,Montréal Canadiens,Edmonton Oilers,4,1
+20/04/2021,Arizona Coyotes,Minnesota Wild,Minnesota Wild,2,5
+20/04/2021,Vegas Golden Knights,San Jose Sharks,Vegas Golden Knights,3,2
+20/04/2021,Buffalo Sabres,Boston Bruins,Boston Bruins,0,2
+20/04/2021,Pittsburgh Penguins,New Jersey Devils,Pittsburgh Penguins,7,6
+20/04/2021,New York Islanders,New York Rangers,New York Islanders,6,1
+20/04/2021,Tampa Bay Lightning,Carolina Hurricanes,Carolina Hurricanes,1,4
+20/04/2021,Florida Panthers,Columbus Blue Jackets,Florida Panthers,5,1
+21/04/2021,Dallas Stars,Detroit Red Wings,Dallas Stars,5,2
+21/04/2021,Vancouver Canucks,Toronto Maple Leafs,Vancouver Canucks,6,3
+21/04/2021,Los Angeles Kings,Anaheim Ducks,Los Angeles Kings,4,1
+21/04/2021,Chicago Blackhawks,Nashville Predators,Chicago Blackhawks,5,4
+22/04/2021,Arizona Coyotes,Minnesota Wild,Minnesota Wild,1,4
+22/04/2021,Vegas Golden Knights,San Jose Sharks,Vegas Golden Knights,5,2
+22/04/2021,Edmonton Oilers,Montréal Canadiens,Montréal Canadiens,3,4
+22/04/2021,New York Rangers,Philadelphia Flyers,Philadelphia Flyers,2,3
+22/04/2021,Winnipeg Jets,Toronto Maple Leafs,Toronto Maple Leafs,3,5
+22/04/2021,Buffalo Sabres,Boston Bruins,Boston Bruins,1,5
+22/04/2021,New York Islanders,Washington Capitals,Washington Capitals,0,1
+22/04/2021,Tampa Bay Lightning,Columbus Blue Jackets,Tampa Bay Lightning,3,1
+22/04/2021,Florida Panthers,Carolina Hurricanes,Carolina Hurricanes,2,4
+22/04/2021,Pittsburgh Penguins,New Jersey Devils,Pittsburgh Penguins,5,1
+22/04/2021,Detroit Red Wings,Dallas Stars,Detroit Red Wings,7,3
+23/04/2021,St. Louis Blues,Colorado Avalanche,Colorado Avalanche,2,4
+23/04/2021,Vancouver Canucks,Ottawa Senators,Ottawa Senators,0,3
+23/04/2021,Buffalo Sabres,Boston Bruins,Buffalo Sabres,6,4
+23/04/2021,New York Rangers,Philadelphia Flyers,New York Rangers,4,1
+24/04/2021,Chicago Blackhawks,Nashville Predators,Nashville Predators,1,3
+24/04/2021,Calgary Flames,Montréal Canadiens,Calgary Flames,4,2
+24/04/2021,Los Angeles Kings,Minnesota Wild,Minnesota Wild,2,4
+24/04/2021,Pittsburgh Penguins,New Jersey Devils,Pittsburgh Penguins,4,2
+24/04/2021,St. Louis Blues,Colorado Avalanche,St. Louis Blues,5,3
+24/04/2021,Winnipeg Jets,Toronto Maple Leafs,Toronto Maple Leafs,1,4
+24/04/2021,Calgary Flames,Montréal Canadiens,Calgary Flames,5,2
+24/04/2021,New York Islanders,Washington Capitals,Washington Capitals,3,6
+24/04/2021,Florida Panthers,Carolina Hurricanes,Florida Panthers,4,3
+24/04/2021,Detroit Red Wings,Dallas Stars,Dallas Stars,1,2
+25/04/2021,Anaheim Ducks,Vegas Golden Knights,Vegas Golden Knights,1,5
+25/04/2021,San Jose Sharks,Minnesota Wild,Minnesota Wild,3,6
+25/04/2021,Vancouver Canucks,Ottawa Senators,Vancouver Canucks,4,2
+25/04/2021,Los Angeles Kings,Arizona Coyotes,Arizona Coyotes,0,4
+25/04/2021,Pittsburgh Penguins,Boston Bruins,Pittsburgh Penguins,1,0
+25/04/2021,Philadelphia Flyers,New Jersey Devils,Philadelphia Flyers,4,3
+25/04/2021,New York Rangers,Buffalo Sabres,New York Rangers,6,3
+25/04/2021,Tampa Bay Lightning,Columbus Blue Jackets,Tampa Bay Lightning,4,3
+26/04/2021,Calgary Flames,Montréal Canadiens,Montréal Canadiens,1,2
+26/04/2021,St. Louis Blues,Colorado Avalanche,St. Louis Blues,4,1
+26/04/2021,Ottawa Senators,Vancouver Canucks,Ottawa Senators,2,1
+26/04/2021,Dallas Stars,Carolina Hurricanes,Dallas Stars,4,3
+27/04/2021,Nashville Predators,Florida Panthers,Nashville Predators,4,1
+27/04/2021,Winnipeg Jets,Edmonton Oilers,Edmonton Oilers,1,6
+27/04/2021,Los Angeles Kings,Anaheim Ducks,Los Angeles Kings,4,1
+27/04/2021,San Jose Sharks,Arizona Coyotes,San Jose Sharks,6,4
+27/04/2021,Washington Capitals,New York Islanders,Washington Capitals,1,0
+27/04/2021,New Jersey Devils,Philadelphia Flyers,New Jersey Devils,6,4
+27/04/2021,New York Rangers,Buffalo Sabres,New York Rangers,3,1
+27/04/2021,Pittsburgh Penguins,Boston Bruins,Boston Bruins,1,3
+27/04/2021,Columbus Blue Jackets,Detroit Red Wings,Columbus Blue Jackets,1,0
+28/04/2021,Chicago Blackhawks,Tampa Bay Lightning,Tampa Bay Lightning,4,7
+28/04/2021,Nashville Predators,Florida Panthers,Florida Panthers,4,7
+28/04/2021,Dallas Stars,Carolina Hurricanes,Carolina Hurricanes,1,5
+28/04/2021,Ottawa Senators,Vancouver Canucks,Ottawa Senators,6,3
+28/04/2021,Minnesota Wild,St. Louis Blues,St. Louis Blues,3,4
+29/04/2021,Montréal Canadiens,Toronto Maple Leafs,Toronto Maple Leafs,1,4
+29/04/2021,Winnipeg Jets,Edmonton Oilers,Edmonton Oilers,1,3
+29/04/2021,Vegas Golden Knights,Colorado Avalanche,Vegas Golden Knights,5,2
+29/04/2021,Los Angeles Kings,Anaheim Ducks,Anaheim Ducks,2,3
+29/04/2021,San Jose Sharks,Arizona Coyotes,San Jose Sharks,4,2
+29/04/2021,Tampa Bay Lightning,Dallas Stars,Tampa Bay Lightning,3,0
+29/04/2021,Boston Bruins,Buffalo Sabres,Boston Bruins,5,2
+29/04/2021,New Jersey Devils,Philadelphia Flyers,New Jersey Devils,5,3
+29/04/2021,New York Rangers,New York Islanders,New York Islanders,0,4
+29/04/2021,Washington Capitals,Pittsburgh Penguins,Pittsburgh Penguins,4,5
+29/04/2021,Carolina Hurricanes,Detroit Red Wings,Carolina Hurricanes,3,1
+29/04/2021,Toronto Maple Leafs,Vancouver Canucks,Toronto Maple Leafs,4,1
+30/04/2021,Minnesota Wild,St. Louis Blues,St. Louis Blues,4,5
+30/04/2021,Chicago Blackhawks,Florida Panthers,Florida Panthers,3,4
+30/04/2021,Edmonton Oilers,Calgary Flames,Calgary Flames,1,3
+30/04/2021,Montréal Canadiens,Winnipeg Jets,Montréal Canadiens,5,3
+01/05/2021,Colorado Avalanche,San Jose Sharks,Colorado Avalanche,3,0
+01/05/2021,Arizona Coyotes,Vegas Golden Knights,Arizona Coyotes,3,0
+01/05/2021,Anaheim Ducks,Los Angeles Kings,Los Angeles Kings,1,2
+01/05/2021,Boston Bruins,Buffalo Sabres,Boston Bruins,6,2
+01/05/2021,Detroit Red Wings,Tampa Bay Lightning,Detroit Red Wings,1,0
+01/05/2021,New York Islanders,New York Rangers,New York Islanders,3,0
+01/05/2021,Philadelphia Flyers,New Jersey Devils,New Jersey Devils,1,4
+01/05/2021,Washington Capitals,Pittsburgh Penguins,Pittsburgh Penguins,0,3
+01/05/2021,Carolina Hurricanes,Columbus Blue Jackets,Carolina Hurricanes,2,1
+01/05/2021,Montréal Canadiens,Ottawa Senators,Montréal Canadiens,3,2
+01/05/2021,Toronto Maple Leafs,Vancouver Canucks,Toronto Maple Leafs,5,1
+02/05/2021,Minnesota Wild,St. Louis Blues,Minnesota Wild,4,3
+02/05/2021,Chicago Blackhawks,Florida Panthers,Florida Panthers,4,5
+02/05/2021,Nashville Predators,Dallas Stars,Nashville Predators,1,0
+02/05/2021,Colorado Avalanche,San Jose Sharks,Colorado Avalanche,4,3
+02/05/2021,Edmonton Oilers,Calgary Flames,Edmonton Oilers,4,1
+02/05/2021,Arizona Coyotes,Vegas Golden Knights,Vegas Golden Knights,2,3
+02/05/2021,Anaheim Ducks,Los Angeles Kings,Anaheim Ducks,6,2
+02/05/2021,Detroit Red Wings,Tampa Bay Lightning,Tampa Bay Lightning,1,2
+03/05/2021,Florida Panthers,Dallas Stars,Florida Panthers,5,4
+03/05/2021,Buffalo Sabres,New York Islanders,Buffalo Sabres,4,2
+03/05/2021,New Jersey Devils,Boston Bruins,Boston Bruins,0,3
+03/05/2021,New York Rangers,Washington Capitals,Washington Capitals,3,6
+03/05/2021,Philadelphia Flyers,Pittsburgh Penguins,Philadelphia Flyers,7,2
+03/05/2021,Carolina Hurricanes,Chicago Blackhawks,Carolina Hurricanes,5,2
+03/05/2021,Columbus Blue Jackets,Nashville Predators,Nashville Predators,3,4
+03/05/2021,Montréal Canadiens,Toronto Maple Leafs,Montréal Canadiens,3,2
+03/05/2021,Ottawa Senators,Winnipeg Jets,Ottawa Senators,2,1
+04/05/2021,St. Louis Blues,Anaheim Ducks,St. Louis Blues,3,1
+04/05/2021,Minnesota Wild,Vegas Golden Knights,Minnesota Wild,6,5
+04/05/2021,Arizona Coyotes,Los Angeles Kings,Los Angeles Kings,2,3
+04/05/2021,Vancouver Canucks,Edmonton Oilers,Edmonton Oilers,3,5
+04/05/2021,San Jose Sharks,Colorado Avalanche,Colorado Avalanche,4,5
+04/05/2021,Buffalo Sabres,New York Islanders,Buffalo Sabres,4,3
+04/05/2021,New Jersey Devils,Boston Bruins,New Jersey Devils,4,3
+04/05/2021,Philadelphia Flyers,Pittsburgh Penguins,Pittsburgh Penguins,3,7
+04/05/2021,Carolina Hurricanes,Chicago Blackhawks,Carolina Hurricanes,6,3
+05/05/2021,Vancouver Canucks,Edmonton Oilers,Edmonton Oilers,1,4
+05/05/2021,Tampa Bay Lightning,Dallas Stars,Tampa Bay Lightning,6,2
+05/05/2021,Ottawa Senators,Montréal Canadiens,Ottawa Senators,5,1
+05/05/2021,New York Rangers,Washington Capitals,Washington Capitals,2,4
+05/05/2021,Columbus Blue Jackets,Nashville Predators,Columbus Blue Jackets,4,2
+06/05/2021,St. Louis Blues,Anaheim Ducks,Anaheim Ducks,2,3
+06/05/2021,Minnesota Wild,Vegas Golden Knights,Vegas Golden Knights,2,3
+06/05/2021,Calgary Flames,Winnipeg Jets,Winnipeg Jets,0,4
+06/05/2021,San Jose Sharks,Colorado Avalanche,San Jose Sharks,3,2
+06/05/2021,Arizona Coyotes,Los Angeles Kings,Los Angeles Kings,2,4
+06/05/2021,Carolina Hurricanes,Chicago Blackhawks,Chicago Blackhawks,1,2
+06/05/2021,Boston Bruins,New York Rangers,Boston Bruins,4,0
+06/05/2021,New York Islanders,New Jersey Devils,New Jersey Devils,1,2
+06/05/2021,Pittsburgh Penguins,Buffalo Sabres,Pittsburgh Penguins,8,4
+06/05/2021,Toronto Maple Leafs,Montréal Canadiens,Toronto Maple Leafs,5,2
+07/05/2021,Edmonton Oilers,Vancouver Canucks,Vancouver Canucks,3,6
+07/05/2021,Tampa Bay Lightning,Dallas Stars,Dallas Stars,2,5
+07/05/2021,Washington Capitals,Philadelphia Flyers,Philadelphia Flyers,2,4
+07/05/2021,Columbus Blue Jackets,Detroit Red Wings,Detroit Red Wings,2,5
+08/05/2021,Minnesota Wild,Anaheim Ducks,Minnesota Wild,4,3
+08/05/2021,Vegas Golden Knights,St. Louis Blues,Vegas Golden Knights,4,3
+08/05/2021,Los Angeles Kings,Colorado Avalanche,Colorado Avalanche,2,3
+08/05/2021,San Jose Sharks,Arizona Coyotes,Arizona Coyotes,2,5
+08/05/2021,Boston Bruins,New York Rangers,New York Rangers,4,5
+08/05/2021,Pittsburgh Penguins,Buffalo Sabres,Pittsburgh Penguins,1,0
+08/05/2021,Winnipeg Jets,Ottawa Senators,Ottawa Senators,2,4
+08/05/2021,New York Islanders,New Jersey Devils,New York Islanders,5,1
+08/05/2021,Washington Capitals,Philadelphia Flyers,Washington Capitals,2,1
+08/05/2021,Florida Panthers,Tampa Bay Lightning,Florida Panthers,5,1
+08/05/2021,Columbus Blue Jackets,Detroit Red Wings,Columbus Blue Jackets,5,4
+08/05/2021,Toronto Maple Leafs,Montréal Canadiens,Toronto Maple Leafs,3,2
+09/05/2021,Nashville Predators,Carolina Hurricanes,Nashville Predators,3,1
+09/05/2021,Minnesota Wild,Anaheim Ducks,Minnesota Wild,4,3
+09/05/2021,Edmonton Oilers,Vancouver Canucks,Edmonton Oilers,4,3
+09/05/2021,Vegas Golden Knights,St. Louis Blues,Vegas Golden Knights,4,1
+09/05/2021,Los Angeles Kings,Colorado Avalanche,Colorado Avalanche,2,3
+09/05/2021,San Jose Sharks,Arizona Coyotes,Arizona Coyotes,4,5
+09/05/2021,Chicago Blackhawks,Dallas Stars,Chicago Blackhawks,4,2
+10/05/2021,Calgary Flames,Ottawa Senators,Calgary Flames,6,1
+10/05/2021,Philadelphia Flyers,New Jersey Devils,Philadelphia Flyers,4,2
+10/05/2021,Montréal Canadiens,Edmonton Oilers,Edmonton Oilers,3,4
+10/05/2021,Boston Bruins,New York Islanders,Boston Bruins,3,2
+10/05/2021,Florida Panthers,Tampa Bay Lightning,Florida Panthers,4,0
+11/05/2021,Winnipeg Jets,Vancouver Canucks,Vancouver Canucks,1,3
+11/05/2021,Nashville Predators,Carolina Hurricanes,Nashville Predators,5,0
+11/05/2021,Chicago Blackhawks,Dallas Stars,Dallas Stars,4,5
+11/05/2021,Los Angeles Kings,St. Louis Blues,St. Louis Blues,1,2
+11/05/2021,Vegas Golden Knights,Colorado Avalanche,Colorado Avalanche,1,2
+11/05/2021,Washington Capitals,Boston Bruins,Washington Capitals,2,1
+12/05/2021,Winnipeg Jets,Vancouver Canucks,Winnipeg Jets,5,0
+12/05/2021,Montréal Canadiens,Edmonton Oilers,Edmonton Oilers,3,4
+13/05/2021,Ottawa Senators,Toronto Maple Leafs,Ottawa Senators,4,3
+13/05/2021,San Jose Sharks,Vegas Golden Knights,Vegas Golden Knights,0,6
+13/05/2021,Colorado Avalanche,Los Angeles Kings,Colorado Avalanche,6,0
+13/05/2021,St. Louis Blues,Minnesota Wild,St. Louis Blues,4,0
+14/05/2021,St. Louis Blues,Minnesota Wild,St. Louis Blues,7,3
+14/05/2021,Calgary Flames,Vancouver Canucks,Calgary Flames,4,1
+14/05/2021,Colorado Avalanche,Los Angeles Kings,Colorado Avalanche,5,1
+15/05/2021,Winnipeg Jets,Toronto Maple Leafs,Winnipeg Jets,4,2
+15/05/2021,Edmonton Oilers,Vancouver Canucks,Vancouver Canucks,1,4
+17/05/2021,Vancouver Canucks,Calgary Flames,Calgary Flames,5,6
+18/05/2021,Vancouver Canucks,Calgary Flames,Vancouver Canucks,4,2
+19/05/2021,Calgary Flames,Vancouver Canucks,Calgary Flames,6,2
