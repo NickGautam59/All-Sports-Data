@@ -1,0 +1,76 @@
+SEASON,Match,Date,Home Team,Away team,Home score,Away score,Result,how
+IPL 2023,1st Match,31-03-2023,Gujarat Titans,Chennai Super Kings,182/5 (19.2 ov),178/7 (20 ov),Gujarat Titans,Gujarat Titans won by 5 wkts
+IPL 2023,2nd Match,01-04-2023,Punjab Kings,Kolkata Knight Riders,191/5 (20 ov),146/7 (16 ov),Punjab Kings,Punjab Kings won by 7 runs (DLS method)
+IPL 2023,3rd Match,01-04-2023,Lucknow Super Giants,Delhi Capitals,193/6 (20 ov),143/9 (20 ov),Lucknow Super Giants,Lucknow Super Giants won by 50 runs
+IPL 2023,4th Match,02-04-2023,Sunrisers Hyderabad,Rajasthan Royals,131/8 (20 ov),203/5 (20 ov),Rajasthan Royals,Rajasthan Royals won by 72 runs
+IPL 2023,5th Match,02-04-2023,Royal Challengers Bengaluru,Mumbai Indians,172/2 (16.2 ov),171/7 (20 ov),Royal Challengers Bengaluru,Royal Challengers Bengaluru won by 8 wkts
+IPL 2023,6th Match,03-04-2023,Chennai Super Kings,Lucknow Super Giants,217/7 (20 ov),205/7 (20 ov),Chennai Super Kings,Chennai Super Kings won by 12 runs
+IPL 2023,7th Match,04-04-2023,Delhi Capitals,Gujarat Titans,162/8 (20 ov),163/4 (18.1 ov),Gujarat Titans,Gujarat Titans won by 6 wkts
+IPL 2023,8th Match,05-04-2023,Rajasthan Royals,Punjab Kings,192/7 (20 ov),197/4 (20 ov),Punjab Kings,Punjab Kings won by 5 runs
+IPL 2023,9th Match,06-04-2023,Kolkata Knight Riders,Royal Challengers Bengaluru,204/7 (20 ov),123/10 (17.4 ov),Kolkata Knight Riders,Kolkata Knight Riders won by 81 runs
+IPL 2023,10th Match,07-04-2023,Lucknow Super Giants,Sunrisers Hyderabad,127/5 (16 ov),121/8 (20 ov),Lucknow Super Giants,Lucknow Super Giants won by 5 wkts
+IPL 2023,11th Match,08-04-2023,Rajasthan Royals,Delhi Capitals,199/4 (20 ov),142/9 (20 ov),Rajasthan Royals,Rajasthan Royals won by 57 runs
+IPL 2023,12th Match,08-04-2023,Mumbai Indians,Chennai Super Kings,157/8 (20 ov),159/3 (18.1 ov),Chennai Super Kings,Chennai Super Kings won by 7 wkts
+IPL 2023,13th Match,09-04-2023,Gujarat Titans,Kolkata Knight Riders,204/4 (20 ov),207/7 (20 ov),Kolkata Knight Riders,Kolkata Knight Riders won by 3 wkts
+IPL 2023,14th Match,09-04-2023,Sunrisers Hyderabad,Punjab Kings,145/2 (17.1 ov),143/9 (20 ov),Sunrisers Hyderabad,Sunrisers Hyderabad won by 8 wkts
+IPL 2023,15th Match,10-04-2023,Royal Challengers Bengaluru,Lucknow Super Giants,212/2 (20 ov),213/9 (20 ov),Lucknow Super Giants,Lucknow Super Giants won by 1 wkt
+IPL 2023,16th Match,11-04-2023,Delhi Capitals,Mumbai Indians,172/10 (19.4 ov),173/4 (20 ov),Mumbai Indians,Mumbai Indians won by 6 wkts
+IPL 2023,17th Match,12-04-2023,Chennai Super Kings,Rajasthan Royals,172/6 (20 ov),175/8 (20 ov),Rajasthan Royals,Rajasthan Royals won by 3 runs
+IPL 2023,18th Match,13-04-2023,Punjab Kings,Gujarat Titans,153/8 (20 ov),154/4 (19.5 ov),Gujarat Titans,Gujarat Titans won by 6 wkts
+IPL 2023,19th Match,14-04-2023,Kolkata Knight Riders,Sunrisers Hyderabad,205/7 (20 ov),228/4 (20 ov),Sunrisers Hyderabad,Sunrisers Hyderabad won by 23 runs
+IPL 2023,20th Match,15-04-2023,Royal Challengers Bengaluru,Delhi Capitals,174/6 (20 ov),151/9 (20 ov),Royal Challengers Bengaluru,Royal Challengers Bengaluru won by 23 runs
+IPL 2023,21st Match,15-04-2023,Lucknow Super Giants,Punjab Kings,159/8 (20 ov),161/8 (19.3 ov),Punjab Kings,Punjab Kings won by 2 wkts
+IPL 2023,22nd Match,16-04-2023,Mumbai Indians,Kolkata Knight Riders,186/5 (17.4 ov),185/6 (20 ov),Mumbai Indians,Mumbai Indians won by 5 wkts
+IPL 2023,23rd Match,16-04-2023,Gujarat Titans,Rajasthan Royals,177/7 (20 ov),179/7 (19.2 ov),Rajasthan Royals,Rajasthan Royals won by 3 wkts
+IPL 2023,24th Match,17-04-2023,Royal Challengers Bengaluru,Chennai Super Kings,218/8 (20 ov),226/6 (20 ov),Chennai Super Kings,Chennai Super Kings won by 8 runs
+IPL 2023,25th Match,18-04-2023,Sunrisers Hyderabad,Mumbai Indians,178/10 (19.5 ov),192/5 (20 ov),Mumbai Indians,Mumbai Indians won by 14 runs
+IPL 2023,26th Match,19-04-2023,Rajasthan Royals,Lucknow Super Giants,144/6 (20 ov),154/7 (20 ov),Lucknow Super Giants,Lucknow Super Giants won by 10 runs
+IPL 2023,27th Match,20-04-2023,Punjab Kings,Royal Challengers Bengaluru,150/10 (18.2 ov),174/4 (20 ov),Royal Challengers Bengaluru,Royal Challengers Bengaluru won by 24 runs
+IPL 2023,28th Match,20-04-2023,Delhi Capitals,Kolkata Knight Riders,128/6 (19.2 ov),127/10 (20 ov),Delhi Capitals,Delhi Capitals won by 4 wkts
+IPL 2023,29th Match,21-04-2023,Chennai Super Kings,Sunrisers Hyderabad,138/3 (18.4 ov),134/7 (20 ov),Chennai Super Kings,Chennai Super Kings won by 7 wkts
+IPL 2023,30th Match,22-04-2023,Lucknow Super Giants,Gujarat Titans,128/7 (20 ov),135/6 (20 ov),Gujarat Titans,Gujarat Titans won by 7 runs
+IPL 2023,31st Match,22-04-2023,Mumbai Indians,Punjab Kings,201/6 (20 ov),214/8 (20 ov),Punjab Kings,Punjab Kings won by 13 runs
+IPL 2023,32nd Match,23-04-2023,Royal Challengers Bengaluru,Rajasthan Royals,189/9 (20 ov),182/6 (20 ov),Royal Challengers Bengaluru,Royal Challengers Bengaluru won by 7 runs
+IPL 2023,33rd Match,23-04-2023,Kolkata Knight Riders,Chennai Super Kings,186/8 (20 ov),235/4 (20 ov),Chennai Super Kings,Chennai Super Kings won by 49 runs
+IPL 2023,34th Match,24-04-2023,Sunrisers Hyderabad,Delhi Capitals,137/6 (20 ov),144/9 (20 ov),Delhi Capitals,Delhi Capitals won by 7 runs
+IPL 2023,35th Match,25-04-2023,Gujarat Titans,Mumbai Indians,207/6 (20 ov),152/9 (20 ov),Gujarat Titans,Gujarat Titans won by 55 runs
+IPL 2023,36th Match,26-04-2023,Royal Challengers Bengaluru,Kolkata Knight Riders,179/8 (20 ov),200/5 (20 ov),Kolkata Knight Riders,Kolkata Knight Riders won by 21 runs
+IPL 2023,37th Match,27-04-2023,Rajasthan Royals,Chennai Super Kings,202/5 (20 ov),170/6 (20 ov),Rajasthan Royals,Rajasthan Royals won by 32 runs
+IPL 2023,38th Match,28-04-2023,Punjab Kings,Lucknow Super Giants,201/10 (19.5 ov),257/5 (20 ov),Lucknow Super Giants,Lucknow Super Giants won by 56 runs
+IPL 2023,39th Match,29-04-2023,Kolkata Knight Riders,Gujarat Titans,179/7 (20 ov),180/3 (17.5 ov),Gujarat Titans,Gujarat Titans won by 7 wkts
+IPL 2023,40th Match,29-04-2023,Delhi Capitals,Sunrisers Hyderabad,188/6 (20 ov),197/6 (20 ov),Sunrisers Hyderabad,Sunrisers Hyderabad won by 9 runs
+IPL 2023,41st Match,30-04-2023,Chennai Super Kings,Punjab Kings,200/4 (20 ov),201/6 (20 ov),Punjab Kings,Punjab Kings won by 4 wkts
+IPL 2023,42nd Match,30-04-2023,Mumbai Indians,Rajasthan Royals,214/4 (19.3 ov),212/7 (20 ov),Mumbai Indians,Mumbai Indians won by 6 wkts
+IPL 2023,43rd Match,01-05-2023,Lucknow Super Giants,Royal Challengers Bengaluru,108/10 (19.5 ov),126/9 (20 ov),Royal Challengers Bengaluru,Royal Challengers Bengaluru won by 18 runs
+IPL 2023,44th Match,02-05-2023,Gujarat Titans,Delhi Capitals,125/6 (20 ov),130/8 (20 ov),Delhi Capitals,Delhi Capitals won by 5 runs
+IPL 2023,45th Match,03-05-2023,Lucknow Super Giants,Chennai Super Kings,*125/7 (19.2 ov),,No result,No result
+IPL 2023,46th Match,03-05-2023,Punjab Kings,Mumbai Indians,214/3 (20 ov),216/4 (18.5 ov),Mumbai Indians,Mumbai Indians won by 6 wkts
+IPL 2023,47th Match,04-05-2023,Sunrisers Hyderabad,Kolkata Knight Riders,166/8 (20 ov),171/9 (20 ov),Kolkata Knight Riders,Kolkata Knight Riders won by 5 runs
+IPL 2023,48th Match,05-05-2023,Rajasthan Royals,Gujarat Titans,118/10 (17.5 ov),119/1 (13.5 ov),Gujarat Titans,Gujarat Titans won by 9 wkts
+IPL 2023,49th Match,06-05-2023,Chennai Super Kings,Mumbai Indians,140/4 (17.4 ov),139/8 (20 ov),Chennai Super Kings,Chennai Super Kings won by 6 wkts
+IPL 2023,50th Match,06-05-2023,Delhi Capitals,Royal Challengers Bengaluru,187/3 (16.4 ov),181/4 (20 ov),Delhi Capitals,Delhi Capitals won by 7 wkts
+IPL 2023,51st Match,07-05-2023,Gujarat Titans,Lucknow Super Giants,227/2 (20 ov),171/7 (20 ov),Gujarat Titans,Gujarat Titans won by 56 runs
+IPL 2023,52nd Match,07-05-2023,Rajasthan Royals,Sunrisers Hyderabad,214/2 (20 ov),217/6 (20 ov),Sunrisers Hyderabad,Sunrisers Hyderabad won by 4 wkts
+IPL 2023,53rd Match,08-05-2023,Kolkata Knight Riders,Punjab Kings,182/5 (20 ov),179/7 (20 ov),Kolkata Knight Riders,Kolkata Knight Riders won by 5 wkts
+IPL 2023,54th Match,09-05-2023,Mumbai Indians,Royal Challengers Bengaluru,200/4 (16.3 ov),199/6 (20 ov),Mumbai Indians,Mumbai Indians won by 6 wkts
+IPL 2023,55th Match,10-05-2023,Chennai Super Kings,Delhi Capitals,167/8 (20 ov),140/8 (20 ov),Chennai Super Kings,Chennai Super Kings won by 27 runs
+IPL 2023,56th Match,11-05-2023,Kolkata Knight Riders,Rajasthan Royals,149/8 (20 ov),151/1 (13.1 ov),Rajasthan Royals,Rajasthan Royals won by 9 wkts
+IPL 2023,57th Match,12-05-2023,Mumbai Indians,Gujarat Titans,218/5 (20 ov),191/8 (20 ov),Mumbai Indians,Mumbai Indians won by 27 runs
+IPL 2023,58th Match,13-05-2023,Sunrisers Hyderabad,Lucknow Super Giants,182/6 (20 ov),185/3 (19.2 ov),Lucknow Super Giants,Lucknow Super Giants won by 7 wkts
+IPL 2023,59th Match,13-05-2023,Delhi Capitals,Punjab Kings,136/8 (20 ov),167/7 (20 ov),Punjab Kings,Punjab Kings won by 31 runs
+IPL 2023,60th Match,14-05-2023,Rajasthan Royals,Royal Challengers Bengaluru,59/10 (10.3 ov),171/5 (20 ov),Royal Challengers Bengaluru,Royal Challengers Bengaluru won by 112 runs
+IPL 2023,61st Match,14-05-2023,Chennai Super Kings,Kolkata Knight Riders,144/6 (20 ov),147/4 (18.3 ov),Kolkata Knight Riders,Kolkata Knight Riders won by 6 wkts
+IPL 2023,62nd Match,15-05-2023,Gujarat Titans,Sunrisers Hyderabad,188/9 (20 ov),154/9 (20 ov),Gujarat Titans,Gujarat Titans won by 34 runs
+IPL 2023,63rd Match,16-05-2023,Lucknow Super Giants,Mumbai Indians,177/3 (20 ov),172/5 (20 ov),Lucknow Super Giants,Lucknow Super Giants won by 5 runs
+IPL 2023,64th Match,17-05-2023,Punjab Kings,Delhi Capitals,198/8 (20 ov),213/2 (20 ov),Delhi Capitals,Delhi Capitals won by 15 runs
+IPL 2023,65th Match,18-05-2023,Sunrisers Hyderabad,Royal Challengers Bengaluru,186/5 (20 ov),187/2 (19.2 ov),Royal Challengers Bengaluru,Royal Challengers Bengaluru won by 8 wkts
+IPL 2023,66th Match,19-05-2023,Punjab Kings,Rajasthan Royals,187/5 (20 ov),189/6 (19.4 ov),Rajasthan Royals,Rajasthan Royals won by 4 wkts
+IPL 2023,67th Match,20-05-2023,Delhi Capitals,Chennai Super Kings,146/9 (20 ov),223/3 (20 ov),Chennai Super Kings,Chennai Super Kings won by 77 runs
+IPL 2023,68th Match,20-05-2023,Kolkata Knight Riders,Lucknow Super Giants,175/7 (20 ov),176/8 (20 ov),Lucknow Super Giants,Lucknow Super Giants won by 1 run
+IPL 2023,69th Match,21-05-2023,Mumbai Indians,Sunrisers Hyderabad,201/2 (18 ov),200/5 (20 ov),Mumbai Indians,Mumbai Indians won by 8 wkts
+IPL 2023,70th Match,21-05-2023,Royal Challengers Bengaluru,Gujarat Titans,197/5 (20 ov),198/4 (19.1 ov),Gujarat Titans,Gujarat Titans won by 6 wkts
+IPL 2023,Qualifier 1,23-05-2023,Gujarat Titans,Chennai Super Kings,157/10 (20 ov),172/7 (20 ov),Chennai Super Kings,Chennai Super Kings won by 15 runs
+IPL 2023,Eliminator,24-05-2023,Lucknow Super Giants,Mumbai Indians,101/10 (16.3 ov),182/8 (20 ov),Mumbai Indians,Mumbai Indians won by 81 runs
+IPL 2023,Qualifier 2,26-05-2023,Gujarat Titans,Mumbai Indians,233/3 (20 ov),171/10 (18.2 ov),Gujarat Titans,Gujarat Titans won by 62 runs
+IPL 2023,Final,28-05-2023,Chennai Super Kings,Gujarat Titans,171/5 (15 ov),214/4 (20 ov),Chennai Super Kings,Match postponed to Monday due to rain
+IPL 2023,Final (Reserve day),29-05-2023,Chennai Super Kings,Gujarat Titans,,,Chennai Super Kings,Chennai Super Kings won by 5 wkts (DLS method)

@@ -1,0 +1,63 @@
+SEASON,Match,Date,Home Team,Away team,Home score,Away score,Result,how
+IPL 2021,1st Match,09-04-2021,Mumbai Indians,Royal Challengers Bengaluru,159/9 (20 ov),160/8 (20 ov),Royal Challengers Bengaluru,RCB 9/7 won by 2 wkts
+IPL 2021,2nd Match,10-04-2021,Chennai Super Kings,Delhi Capitals,188/7 (20 ov),190/3 (18.4 ov),Delhi Capitals,DC 6/2 won by 7 wkts
+IPL 2021,3rd Match,11-04-2021,Sunrisers Hyderabad,Kolkata Knight Riders,177/5 (20 ov),187/6 (20 ov),Kolkata Knight Riders,KKR 3/6 won by 10 runs
+IPL 2021,4th Match,12-04-2021,Rajasthan Royals,Punjab Kings,217/7 (20 ov),221/6 (20 ov),Punjab Kings,PUN 1/7 won by 4 runs
+IPL 2021,5th Match,13-04-2021,Kolkata Knight Riders,Mumbai Indians,142/7 (20 ov),152/10 (20 ov),Mumbai Indians,MI 2/3 won by 10 runs
+IPL 2021,6th Match,14-04-2021,Sunrisers Hyderabad,Royal Challengers Bengaluru,143/9 (20 ov),149/8 (20 ov),Royal Challengers Bengaluru,RCB 9/7 won by 6 runs
+IPL 2021,7th Match,15-04-2021,Rajasthan Royals,Delhi Capitals,150/7 (19.4 ov),147/8 (20 ov),Rajasthan Royals,RR 4/2 won by 3 wkts
+IPL 2021,8th Match,16-04-2021,Punjab Kings,Chennai Super Kings,106/8 (20 ov),107/4 (15.4 ov),Chennai Super Kings,CSK 9/4 won by 6 wkts
+IPL 2021,9th Match,17-04-2021,Mumbai Indians,Sunrisers Hyderabad,150/5 (20 ov),137/10 (19.4 ov),Mumbai Indians,MI 2/3 won by 13 runs
+IPL 2021,10th Match,18-04-2021,Royal Challengers Bengaluru,Kolkata Knight Riders,204/4 (20 ov),166/8 (20 ov),Royal Challengers Bengaluru,RCB 9/7 won by 38 runs
+IPL 2021,11th Match,18-04-2021,Delhi Capitals,Punjab Kings,198/4 (18.2 ov),195/4 (20 ov),Delhi Capitals,DC 6/2 won by 6 wkts
+IPL 2021,12th Match,19-04-2021,Chennai Super Kings,Rajasthan Royals,188/9 (20 ov),143/9 (20 ov),Chennai Super Kings,CSK 9/4 won by 45 runs
+IPL 2021,13th Match,20-04-2021,Delhi Capitals,Mumbai Indians,138/4 (19.1 ov),137/9 (20 ov),Delhi Capitals,DC 6/2 won by 6 wkts
+IPL 2021,14th Match,21-04-2021,Punjab Kings,Sunrisers Hyderabad,120/10 (19.4 ov),121/1 (18.4 ov),Sunrisers Hyderabad,SRH 1/3 won by 9 wkts
+IPL 2021,15th Match,21-04-2021,Kolkata Knight Riders,Chennai Super Kings,202/10 (19.1 ov),220/3 (20 ov),Chennai Super Kings,CSK 9/4 won by 18 runs
+IPL 2021,16th Match,22-04-2021,Royal Challengers Bengaluru,Rajasthan Royals,181/0 (16.3 ov),177/9 (20 ov),Royal Challengers Bengaluru,RCB 9/7 won by 10 wkts
+IPL 2021,17th Match,23-04-2021,Punjab Kings,Mumbai Indians,132/1 (17.4 ov),131/6 (20 ov),Punjab Kings,PUN 1/7 won by 9 wkts
+IPL 2021,18th Match,24-04-2021,Rajasthan Royals,Kolkata Knight Riders,134/4 (18.5 ov),133/9 (20 ov),Rajasthan Royals,RR 4/2 won by 6 wkts
+IPL 2021,19th Match,25-04-2021,Chennai Super Kings,Royal Challengers Bengaluru,191/4 (20 ov),122/9 (20 ov),Chennai Super Kings,CSK 9/4 won by 69 runs
+IPL 2021,20th Match,25-04-2021,Sunrisers Hyderabad,Delhi Capitals,159/7 (20 ov) & 7/0 (1 ov),159/4 (20 ov) & 8/0 (1 ov),Delhi Capitals,Match tied (DC 6/2 won the Super Over)
+IPL 2021,21st Match,26-04-2021,Punjab Kings,Kolkata Knight Riders,123/9 (20 ov),126/5 (16.4 ov),Kolkata Knight Riders,KKR 3/6 won by 5 wkts
+IPL 2021,22nd Match,27-04-2021,Delhi Capitals,Royal Challengers Bengaluru,170/4 (20 ov),171/5 (20 ov),Royal Challengers Bengaluru,RCB 9/7 won by 1 run
+IPL 2021,23rd Match,28-04-2021,Chennai Super Kings,Sunrisers Hyderabad,173/3 (18.3 ov),171/3 (20 ov),Chennai Super Kings,CSK 9/4 won by 7 wkts
+IPL 2021,24th Match,29-04-2021,Mumbai Indians,Rajasthan Royals,172/3 (18.3 ov),171/4 (20 ov),Mumbai Indians,MI 2/3 won by 7 wkts
+IPL 2021,25th Match,29-04-2021,Delhi Capitals,Kolkata Knight Riders,156/3 (16.3 ov),154/6 (20 ov),Delhi Capitals,DC 6/2 won by 7 wkts
+IPL 2021,26th Match,30-04-2021,Punjab Kings,Royal Challengers Bengaluru,179/5 (20 ov),145/8 (20 ov),Punjab Kings,PUN 1/7 won by 34 runs
+IPL 2021,27th Match,01-05-2021,Mumbai Indians,Chennai Super Kings,219/6 (20 ov),218/4 (20 ov),Mumbai Indians,MI 2/3 won by 4 wkts
+IPL 2021,28th Match,02-05-2021,Rajasthan Royals,Sunrisers Hyderabad,220/3 (20 ov),165/8 (20 ov),Rajasthan Royals,RR 4/2 won by 55 runs
+IPL 2021,29th Match,02-05-2021,Punjab Kings,Delhi Capitals,166/6 (20 ov),167/3 (17.4 ov),Delhi Capitals,DC 6/2 won by 7 wkts
+IPL 2021,30th Match,03-05-2021,Kolkata Knight Riders,Royal Challengers Bengaluru,,,Match rescheduled due to Covid-19 pandemic,Match rescheduled due to Covid-19 pandemic
+IPL 2021,31st Match,04-05-2021,Sunrisers Hyderabad,Mumbai Indians,,,Match postponed due to Covid-19 pandemic,Match postponed due to Covid-19 pandemic
+IPL 2021,30th Match,19-09-2021,Chennai Super Kings,Mumbai Indians,156/6 (20 ov),136/8 (20 ov),Chennai Super Kings,CSK 9/4 won by 20 runs
+IPL 2021,31st Match,20-09-2021,Kolkata Knight Riders,Royal Challengers Bengaluru,94/1 (10 ov),92/10 (19 ov),Kolkata Knight Riders,KKR 3/6 won by 9 wkts
+IPL 2021,32nd Match,21-09-2021,Punjab Kings,Rajasthan Royals,183/4 (20 ov),185/10 (20 ov),Rajasthan Royals,RR 4/2 won by 2 runs
+IPL 2021,33rd Match,22-09-2021,Delhi Capitals,Sunrisers Hyderabad,139/2 (17.5 ov),134/9 (20 ov),Delhi Capitals,DC 6/2 won by 8 wkts
+IPL 2021,34th Match,23-09-2021,Mumbai Indians,Kolkata Knight Riders,155/6 (20 ov),159/3 (15.1 ov),Kolkata Knight Riders,KKR 3/6 won by 7 wkts
+IPL 2021,35th Match,24-09-2021,Royal Challengers Bengaluru,Chennai Super Kings,156/6 (20 ov),157/4 (18.1 ov),Chennai Super Kings,CSK 9/4 won by 6 wkts
+IPL 2021,36th Match,25-09-2021,Delhi Capitals,Rajasthan Royals,154/6 (20 ov),121/6 (20 ov),Delhi Capitals,DC 6/2 won by 33 runs
+IPL 2021,37th Match,25-09-2021,Sunrisers Hyderabad,Punjab Kings,120/7 (20 ov),125/7 (20 ov),Punjab Kings,PUN 1/7 won by 5 runs
+IPL 2021,38th Match,26-09-2021,Chennai Super Kings,Kolkata Knight Riders,172/8 (20 ov),171/6 (20 ov),Chennai Super Kings,CSK 9/4 won by 2 wkts
+IPL 2021,39th Match,26-09-2021,Royal Challengers Bengaluru,Mumbai Indians,165/6 (20 ov),111/10 (18.1 ov),Royal Challengers Bengaluru,RCB 9/7 won by 54 runs
+IPL 2021,40th Match,27-09-2021,Sunrisers Hyderabad,Rajasthan Royals,167/3 (18.3 ov),164/5 (20 ov),Sunrisers Hyderabad,SRH 1/3 won by 7 wkts
+IPL 2021,41st Match,28-09-2021,Kolkata Knight Riders,Delhi Capitals,130/7 (18.2 ov),127/9 (20 ov),Kolkata Knight Riders,KKR 3/6 won by 3 wkts
+IPL 2021,42nd Match,28-09-2021,Mumbai Indians,Punjab Kings,137/4 (19 ov),135/6 (20 ov),Mumbai Indians,MI 2/3 won by 6 wkts
+IPL 2021,43rd Match,29-09-2021,Rajasthan Royals,Royal Challengers Bengaluru,153/3 (17.1 ov),149/9 (20 ov),Royal Challengers Bengaluru,RCB 9/7 won by 7 wkts
+IPL 2021,44th Match,30-09-2021,Sunrisers Hyderabad,Chennai Super Kings,134/7 (20 ov),139/4 (19.4 ov),Chennai Super Kings,CSK 9/4 won by 6 wkts
+IPL 2021,45th Match,01-10-2021,Kolkata Knight Riders,Punjab Kings,165/7 (20 ov),168/5 (19.3 ov),Punjab Kings,PUN 1/7 won by 5 wkts
+IPL 2021,46th Match,02-10-2021,Mumbai Indians,Delhi Capitals,129/8 (20 ov),132/6 (19.1 ov),Delhi Capitals,DC 6/2 won by 4 wkts
+IPL 2021,47th Match,02-10-2021,Rajasthan Royals,Chennai Super Kings,190/3 (17.3 ov),189/4 (20 ov),Rajasthan Royals,RR 4/2 won by 7 wkts
+IPL 2021,48th Match,03-10-2021,Royal Challengers Bengaluru,Punjab Kings,164/7 (20 ov),158/6 (20 ov),Royal Challengers Bengaluru,RCB 9/7 won by 6 runs
+IPL 2021,49th Match,03-10-2021,Kolkata Knight Riders,Sunrisers Hyderabad,119/4 (19.4 ov),115/8 (20 ov),Kolkata Knight Riders,KKR 3/6 won by 6 wkts
+IPL 2021,50th Match,04-10-2021,Delhi Capitals,Chennai Super Kings,139/7 (19.4 ov),136/5 (20 ov),Delhi Capitals,DC 6/2 won by 3 wkts
+IPL 2021,51st Match,05-10-2021,Rajasthan Royals,Mumbai Indians,90/9 (20 ov),94/2 (8.2 ov),Mumbai Indians,MI 2/3 won by 8 wkts
+IPL 2021,52nd Match,06-10-2021,Royal Challengers Bengaluru,Sunrisers Hyderabad,137/6 (20 ov),141/7 (20 ov),Sunrisers Hyderabad,SRH 1/3 won by 4 runs
+IPL 2021,53rd Match,07-10-2021,Chennai Super Kings,Punjab Kings,134/6 (20 ov),139/4 (13 ov),Punjab Kings,PUN 1/7 won by 6 wkts
+IPL 2021,54th Match,07-10-2021,Kolkata Knight Riders,Rajasthan Royals,171/4 (20 ov),85/10 (16.1 ov),Kolkata Knight Riders,KKR 3/6 won by 86 runs
+IPL 2021,55th Match,08-10-2021,Sunrisers Hyderabad,Mumbai Indians,166/3 (20 ov),164/5 (20 ov),Mumbai Indians,MI 2/3 won by 42 runs
+IPL 2021,56th Match,08-10-2021,Royal Challengers Bengaluru,Delhi Capitals,193/8 (20 ov),235/9 (20 ov),Royal Challengers Bengaluru,RCB 9/7 won by 7 wkts
+IPL 2021,Qualifier 1,10-10-2021,Delhi Capitals,Chennai Super Kings,172/5 (20 ov),173/6 (19.4 ov),Chennai Super Kings,CSK 9/4 won by 4 wkts
+IPL 2021,Eliminator,11-10-2021,Royal Challengers Bengaluru,Kolkata Knight Riders,138/7 (20 ov),139/6 (19.4 ov),Kolkata Knight Riders,KKR 3/6 won by 4 wkts
+IPL 2021,Qualifier 2,13-10-2021,Delhi Capitals,Kolkata Knight Riders,135/5 (20 ov),136/7 (19.5 ov),Kolkata Knight Riders,KKR 3/6 won by 3 wkts
+IPL 2021,Final,15-10-2021,Chennai Super Kings,Kolkata Knight Riders,192/3 (20 ov),165/9 (20 ov),Chennai Super Kings,CSK 9/4 won by 27 runs

@@ -1,0 +1,61 @@
+SEASON,Match,Date,Home Team,Away team,Home score,Away score,Result,how
+IPL 2020,MATCH 1,19-09-2020,Mumbai Indians,Chennai Super Kings,162/9 (20),166/5 (19.2),Chennai Super Kings,Chennai Super Kings won by 5 wickets.
+IPL 2020,MATCH 2,20-09-2020,Delhi Capitals,Punjab Kings,157/8 (20),157/8 (20),Delhi Capitals,Match Tied Delhi Capitals won the Super Over.
+IPL 2020,MATCH 3,21-09-2020,Sunrisers Hyderabad,Royal Challengers Bengaluru,153/10 (19.4),163/5 (20),Royal Challengers Bengaluru,Royal Challengers Bengaluru won by 10 runs.
+IPL 2020,MATCH 4,22-09-2020,Rajasthan Royals,Chennai Super Kings,216/7 (20),200/6 (20),Rajasthan Royals,Rajasthan Royals won by 16 runs.
+IPL 2020,MATCH 5,23-09-2020,Kolkata Knight Riders,Mumbai Indians,146/9 (20),195/5 (20),Mumbai Indians,Mumbai Indians won by 49 runs.
+IPL 2020,MATCH 6,24-09-2020,Punjab Kings,Royal Challengers Bengaluru,206/3 (20),109/10 (17),Punjab Kings,Punjab Kings won by 97 runs.
+IPL 2020,MATCH 7,25-09-2020,Chennai Super Kings,Delhi Capitals,131/7 (20),175/3 (20),Delhi Capitals,Delhi Capitals won by 44 runs.
+IPL 2020,MATCH 8,26-09-2020,Kolkata Knight Riders,Sunrisers Hyderabad,145/3 (18),142/4 (20),Kolkata Knight Riders,Kolkata Knight Riders won by 7 wickets.
+IPL 2020,MATCH 9,27-09-2020,Rajasthan Royals,Punjab Kings,226/6 (19.3),223/2 (20),Rajasthan Royals,Rajasthan Royals won by 4 wickets.
+IPL 2020,MATCH 10,28-09-2020,Royal Challengers Bengaluru,Mumbai Indians,201/3 (20),201/5 (20),Royal Challengers Bengaluru,Match Tied Royal Challengers Bengaluru won the Super Over.
+IPL 2020,MATCH 11,29-09-2020,Delhi Capitals,Sunrisers Hyderabad,147/7 (20),162/4 (20),Sunrisers Hyderabad,Sunrisers Hyderabad won by 15 runs.
+IPL 2020,MATCH 12,30-09-2020,Rajasthan Royals,Kolkata Knight Riders,137/9 (20),174/6 (20),Kolkata Knight Riders,Kolkata Knight Riders won by 37 runs.
+IPL 2020,MATCH 13,01-10-2020,Punjab Kings,Mumbai Indians,143/8 (20),191/4 (20),Mumbai Indians,Mumbai Indians won by 48 runs.
+IPL 2020,MATCH 14,02-10-2020,Chennai Super Kings,Sunrisers Hyderabad,157/5 (20),164/5 (20),Sunrisers Hyderabad,Sunrisers Hyderabad won by 7 runs.
+IPL 2020,MATCH 15,03-10-2020,Royal Challengers Bengaluru,Rajasthan Royals,158/2 (19.1),154/6 (20),Royal Challengers Bengaluru,Royal Challengers Bengaluru won by 8 wickets.
+IPL 2020,MATCH 16,03-10-2020,Delhi Capitals,Kolkata Knight Riders,228/4 (20),210/8 (20),Delhi Capitals,Delhi Capitals won by 18 runs.
+IPL 2020,MATCH 17,04-10-2020,Mumbai Indians,Sunrisers Hyderabad,208/5 (20),174/7 (20),Mumbai Indians,Mumbai Indians won by 34 runs.
+IPL 2020,MATCH 18,04-10-2020,Punjab Kings,Chennai Super Kings,178/4 (20),181/0 (17.4),Chennai Super Kings,Chennai Super Kings won by 10 wickets.
+IPL 2020,MATCH 19,05-10-2020,Royal Challengers Bengaluru,Delhi Capitals,137/9 (20),196/4 (20),Delhi Capitals,Delhi Capitals won by 59 runs.
+IPL 2020,MATCH 20,06-10-2020,Mumbai Indians,Rajasthan Royals,193/4 (20),136/10 (18.1),Mumbai Indians,Mumbai Indians won by 57 runs.
+IPL 2020,MATCH 21,07-10-2020,Kolkata Knight Riders,Chennai Super Kings,167/10 (20),157/5 (20),Kolkata Knight Riders,Kolkata Knight Riders won by 10 runs.
+IPL 2020,MATCH 22,08-10-2020,Sunrisers Hyderabad,Punjab Kings,201/6 (20),132/10 (16.5),Sunrisers Hyderabad,Sunrisers Hyderabad won by 69 runs.
+IPL 2020,MATCH 23,09-10-2020,Rajasthan Royals,Delhi Capitals,138/10 (19.4),184/8 (20),Delhi Capitals,Delhi Capitals won by 46 runs.
+IPL 2020,MATCH 24,10-10-2020,Punjab Kings,Kolkata Knight Riders,162/5 (20),164/6 (20),Kolkata Knight Riders,Kolkata Knight Riders won by 2 runs.
+IPL 2020,MATCH 25,10-10-2020,Chennai Super Kings,Royal Challengers Bengaluru,132/8 (20),169/4 (20),Royal Challengers Bengaluru,Royal Challengers Bengaluru won by 37 runs.
+IPL 2020,MATCH 26,11-10-2020,Sunrisers Hyderabad,Rajasthan Royals,158/4 (20),163/5 (19.5),Rajasthan Royals,Rajasthan Royals won by 5 wickets.
+IPL 2020,MATCH 27,11-10-2020,Mumbai Indians,Delhi Capitals,166/5 (19.4),162/4 (20),Mumbai Indians,Mumbai Indians won by 5 wickets.
+IPL 2020,MATCH 28,12-10-2020,Royal Challengers Bengaluru,Kolkata Knight Riders,194/2 (20),112/9 (20),Royal Challengers Bengaluru,Royal Challengers Bengaluru won by 82 runs.
+IPL 2020,MATCH 29,13-10-2020,Sunrisers Hyderabad,Chennai Super Kings,147/8 (20),167/6 (20),Chennai Super Kings,Chennai Super Kings won by 20 runs.
+IPL 2020,MATCH 30,14-10-2020,Delhi Capitals,Rajasthan Royals,161/7 (20),148/8 (20),Delhi Capitals,Delhi Capitals won by 13 runs.
+IPL 2020,MATCH 31,15-10-2020,Royal Challengers Bengaluru,Punjab Kings,171/6 (20),177/2 (20),Punjab Kings,Punjab Kings won by 8 wickets.
+IPL 2020,MATCH 32,16-10-2020,Mumbai Indians,Kolkata Knight Riders,149/2 (16.5),148/5 (20),Mumbai Indians,Mumbai Indians won by 8 wickets.
+IPL 2020,MATCH 33,17-10-2020,Rajasthan Royals,Royal Challengers Bengaluru,177/6 (20),179/3 (19.4),Royal Challengers Bengaluru,Royal Challengers Bengaluru won by 7 wickets.
+IPL 2020,MATCH 34,17-10-2020,Delhi Capitals,Chennai Super Kings,185/5 (19.5),179/4 (20),Delhi Capitals,Delhi Capitals won by 5 wickets.
+IPL 2020,MATCH 35,18-10-2020,Sunrisers Hyderabad,Kolkata Knight Riders,163/6 (20),163/5 (20),Kolkata Knight Riders,Match Tied Kolkata Knight Riders won the Super Over.
+IPL 2020,MATCH 36,18-10-2020,Mumbai Indians,Punjab Kings,176/6 (20),176/6 (20),Punjab Kings,Match Tied Punjab Kings won the Super Over.
+IPL 2020,MATCH 37,19-10-2020,Chennai Super Kings,Rajasthan Royals,125/5 (20),126/3 (17.3),Rajasthan Royals,Rajasthan Royals won by 7 wickets.
+IPL 2020,MATCH 38,20-10-2020,Punjab Kings,Delhi Capitals,167/5 (19),164/5 (20),Punjab Kings,Punjab Kings won by 5 wickets.
+IPL 2020,MATCH 39,21-10-2020,Kolkata Knight Riders,Royal Challengers Bengaluru,84/7 (20),85/2 (13.3),Royal Challengers Bengaluru,Royal Challengers Bengaluru won by 8 wickets.
+IPL 2020,MATCH 40,22-10-2020,Rajasthan Royals,Sunrisers Hyderabad,154/6 (20),156/2 (18.1),Sunrisers Hyderabad,Sunrisers Hyderabad won by 8 wickets.
+IPL 2020,MATCH 41,23-10-2020,Chennai Super Kings,Mumbai Indians,114/9 (20),116/0 (12.2),Mumbai Indians,Mumbai Indians won by 10 wickets.
+IPL 2020,MATCH 42,24-10-2020,Kolkata Knight Riders,Delhi Capitals,194/6 (20),135/9 (20),Kolkata Knight Riders,Kolkata Knight Riders won by 59 runs.
+IPL 2020,MATCH 43,24-10-2020,Punjab Kings,Sunrisers Hyderabad,126/7 (20),114/10 (19.5),Punjab Kings,Punjab Kings won by 12 runs.
+IPL 2020,MATCH 44,25-10-2020,Royal Challengers Bengaluru,Chennai Super Kings,145/6 (20),150/2 (18.4),Chennai Super Kings,Chennai Super Kings won by 8 wickets.
+IPL 2020,MATCH 45,25-10-2020,Rajasthan Royals,Mumbai Indians,196/2 (18.2),195/5 (20),Rajasthan Royals,Rajasthan Royals won by 8 wickets.
+IPL 2020,MATCH 46,26-10-2020,Kolkata Knight Riders,Punjab Kings,149/9 (20),150/2 (18.5),Punjab Kings,Punjab Kings won by 8 wickets.
+IPL 2020,MATCH 47,27-10-2020,Sunrisers Hyderabad,Delhi Capitals,219/2 (20),131/10 (19),Sunrisers Hyderabad,Sunrisers Hyderabad won by 88 runs.
+IPL 2020,MATCH 48,28-10-2020,Mumbai Indians,Royal Challengers Bengaluru,166/5 (19.1),164/6 (20),Mumbai Indians,Mumbai Indians won by 5 wickets.
+IPL 2020,MATCH 49,29-10-2020,Chennai Super Kings,Kolkata Knight Riders,178/4 (20),172/5 (20),Chennai Super Kings,Chennai Super Kings won by 6 wickets.
+IPL 2020,MATCH 50,30-10-2020,Punjab Kings,Rajasthan Royals,185/4 (20),186/3 (17.3),Rajasthan Royals,Rajasthan Royals won by 7 wickets.
+IPL 2020,MATCH 51,31-10-2020,Delhi Capitals,Mumbai Indians,110/9 (20),111/1 (14.2),Mumbai Indians,Mumbai Indians won by 9 wickets.
+IPL 2020,MATCH 52,31-10-2020,Royal Challengers Bengaluru,Sunrisers Hyderabad,120/7 (20),121/5 (14.1),Sunrisers Hyderabad,Sunrisers Hyderabad won by 5 wickets.
+IPL 2020,MATCH 53,01-11-2020,Chennai Super Kings,Punjab Kings,154/1 (18.5),153/6 (20),Chennai Super Kings,Chennai Super Kings won by 9 wickets.
+IPL 2020,MATCH 54,01-11-2020,Kolkata Knight Riders,Rajasthan Royals,191/7 (20),131/9 (20),Kolkata Knight Riders,Kolkata Knight Riders won by 60 runs.
+IPL 2020,MATCH 55,02-11-2020,Delhi Capitals,Royal Challengers Bengaluru,154/4 (19),152/7 (20),Delhi Capitals,Delhi Capitals won by 6 wickets.
+IPL 2020,MATCH 56,03-11-2020,Sunrisers Hyderabad,Mumbai Indians,151/0 (17.1),149/8 (20),Sunrisers Hyderabad,Sunrisers Hyderabad won by 10 wickets.
+IPL 2020,Qualifier 1,05-11-2020,Mumbai Indians,Delhi Capitals,200/5 (20),143/8 (20),Mumbai Indians,Mumbai Indians won by 57 runs.
+IPL 2020,Eliminator,06-11-2020,Sunrisers Hyderabad,Royal Challengers Bengaluru,132/4 (19.4),131/7 (20),Sunrisers Hyderabad,Sunrisers Hyderabad won by 6 wickets.
+IPL 2020,Qualifier 2,08-11-2020,Delhi Capitals,Sunrisers Hyderabad,189/3 (20),172/8 (20),Delhi Capitals,Delhi Capitals won by 17 runs.
+IPL 2020,Final,10-11-2020,Mumbai Indians,Delhi Capitals,157/5 (18.4),156/7 (20),Mumbai Indians,Mumbai Indians won by 5 wickets.

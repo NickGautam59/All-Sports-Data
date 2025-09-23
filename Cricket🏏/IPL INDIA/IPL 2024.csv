@@ -1,0 +1,75 @@
+SEASON,Match,Date,Home Team,Away team,Home score,Away score,Result,how
+IPL 2024,Match 1,22-03-2024,Chennai Super Kings,Royal Challengers Bengaluru,176/4 (18.4 ov),173/6 (20 ov),Chennai Super Kings,Chennai Super Kings beat Royal Challengers Bengaluru by 6 wickets
+IPL 2024,Match 2,23-03-2024,Punjab Kings,Delhi Capitals,177/6 (19.2 ov),174/9 (20 ov),Punjab Kings,Punjab Kings beat Delhi Capitals by 4 wickets
+IPL 2024,Match 3,23-03-2024,Kolkata Knight Riders,Sunrisers Hyderabad,208/7 (20 ov),204/7 (20 ov),Kolkata Knight Riders,Kolkata Knight Riders beat Sunrisers Hyderabad by 4 runs
+IPL 2024,Match 4,24-03-2024,Rajasthan Royals,Lucknow Super Giants,193/4 (20 ov),173/6 (20 ov),Rajasthan Royals,Rajasthan Royals beat Lucknow Super Giants by 20 runs
+IPL 2024,Match 5,24-03-2024,Gujarat Titans,Mumbai Indians,168/6 (20 ov),162/9 (20 ov),Gujarat Titans,Gujarat Titans beat Mumbai Indians by 6 runs
+IPL 2024,Match 6,25-03-2024,Royal Challengers Bengaluru,Punjab Kings,178/6 (19.2 ov),176/6 (20 ov),Royal Challengers Bengaluru,Royal Challengers Bengaluru beat Punjab Kings by 4 wickets
+IPL 2024,Match 7,26-03-2024,Chennai Super Kings,Gujarat Titans,206/6 (20 ov),143/8 (20 ov),Chennai Super Kings,Chennai Super Kings beat Gujarat Titans by 63 runs
+IPL 2024,Match 8,27-03-2024,Sunrisers Hyderabad,Mumbai Indians,277/3 (20 ov),246/5 (20 ov),Sunrisers Hyderabad,Sunrisers Hyderabad beat Mumbai Indians by 31 runs
+IPL 2024,Match 9,28-03-2024,Rajasthan Royals,Delhi Capitals,185/5 (20 ov),173/5 (20 ov),Rajasthan Royals,Rajasthan Royals beat Delhi Capitals by 12 runs
+IPL 2024,Match 10,29-03-2024,Royal Challengers Bengaluru,Kolkata Knight Riders,182/6 (20 ov),186/3 (16.5 ov),Kolkata Knight Riders,Kolkata Knight Riders beat Royal Challengers Bengaluru by 7 wickets
+IPL 2024,Match 11,30-03-2024,Lucknow Super Giants,Punjab Kings,199/8 (20 ov),178/5 (20 ov),Lucknow Super Giants,Lucknow Super Giants beat Punjab Kings by 21 runs
+IPL 2024,Match 12,31-03-2024,Gujarat Titans,Sunrisers Hyderabad,168/3 (19.1 ov),162/8 (20 ov),Gujarat Titans,Gujarat Titans beat Sunrisers Hyderabad by 7 wickets
+IPL 2024,Match 13,31-03-2024,Delhi Capitals,Chennai Super Kings,191/5 (20 ov),171/6 (20 ov),Delhi Capitals,Delhi Capitals beat Chennai Super Kings by 20 runs
+IPL 2024,Match 14,01-04-2024,Mumbai Indians,Rajasthan Royals,125/9 (20 ov),127/4 (15.3 ov),Rajasthan Royals,Rajasthan Royals beat Mumbai Indians by 6 wickets
+IPL 2024,Match 15,02-04-2024,Royal Challengers Bengaluru,Lucknow Super Giants,153/10 (19.4 ov),181/5 (20 ov),Lucknow Super Giants,Lucknow Super Giants beat Royal Challengers Bengaluru by 28 runs
+IPL 2024,Match 16,03-04-2024,Delhi Capitals,Kolkata Knight Riders,166/10 (17.2 ov),272/7 (20 ov),Kolkata Knight Riders,Kolkata Knight Riders beat Delhi Capitals by 106 runs
+IPL 2024,Match 17,04-04-2024,Gujarat Titans,Punjab Kings,199/4 (20 ov),200/7 (19.5 ov),Punjab Kings,Punjab Kings beat Gujarat Titans by 3 wickets
+IPL 2024,Match 18,05-04-2024,Sunrisers Hyderabad,Chennai Super Kings,166/4 (18.1 ov),165/5 (20 ov),Sunrisers Hyderabad,Sunrisers Hyderabad beat Chennai Super Kings by 6 wickets
+IPL 2024,Match 19,06-04-2024,Rajasthan Royals,Royal Challengers Bengaluru,189/4 (19.1 ov),183/3 (20 ov),Rajasthan Royals,Rajasthan Royals beat Royal Challengers Bengaluru by 6 wickets
+IPL 2024,Match 20,07-04-2024,Mumbai Indians,Delhi Capitals,234/5 (20 ov),205/8 (20 ov),Mumbai Indians,Mumbai Indians beat Delhi Capitals by 29 runs
+IPL 2024,Match 21,07-04-2024,Lucknow Super Giants,Gujarat Titans,163/5 (20 ov),130/10 (18.5 ov),Lucknow Super Giants,Lucknow Super Giants beat Gujarat Titans by 33 runs
+IPL 2024,Match 22,08-04-2024,Chennai Super Kings,Kolkata Knight Riders,141/3 (17.4 ov),137/9 (20 ov),Chennai Super Kings,Chennai Super Kings beat Kolkata Knight Riders by 7 wickets
+IPL 2024,Match 23,09-04-2024,Punjab Kings,Sunrisers Hyderabad,180/6 (20 ov),182/9 (20 ov),Sunrisers Hyderabad,Sunrisers Hyderabad beat Punjab Kings by 2 runs
+IPL 2024,Match 24,10-04-2024,Rajasthan Royals,Gujarat Titans,196/3 (20 ov),199/7 (20 ov),Gujarat Titans,Gujarat Titans beat Rajasthan Royals by 3 wickets
+IPL 2024,Match 25,11-04-2024,Mumbai Indians,Royal Challengers Bengaluru,199/3 (15.3 ov),196/8 (20 ov),Mumbai Indians,Mumbai Indians beat Royal Challengers Bengaluru by 7 wickets
+IPL 2024,Match 26,12-04-2024,Lucknow Super Giants,Delhi Capitals,167/7 (20 ov),170/4 (18.1 ov),Delhi Capitals,Delhi Capitals beat Lucknow Super Giants by 6 wickets
+IPL 2024,Match 27,13-04-2024,Punjab Kings,Rajasthan Royals,147/8 (20 ov),152/7 (19.5 ov),Rajasthan Royals,Rajasthan Royals beat Punjab Kings by 3 wickets
+IPL 2024,Match 28,14-04-2024,Kolkata Knight Riders,Lucknow Super Giants,162/2 (15.4 ov),161/7 (20 ov),Kolkata Knight Riders,Kolkata Knight Riders beat Lucknow Super Giants by 8 wickets
+IPL 2024,Match 29,14-04-2024,Mumbai Indians,Chennai Super Kings,186/6 (20 ov),206/4 (20 ov),Chennai Super Kings,Chennai Super Kings beat Mumbai Indians by 20 runs
+IPL 2024,Match 30,15-04-2024,Royal Challengers Bengaluru,Sunrisers Hyderabad,262/7 (20 ov),287/3 (20 ov),Sunrisers Hyderabad,Sunrisers Hyderabad beat Royal Challengers Bengaluru by 25 runs
+IPL 2024,Match 31,16-04-2024,Kolkata Knight Riders,Rajasthan Royals,223/6 (20 ov),224/8 (20 ov),Rajasthan Royals,Rajasthan Royals beat Kolkata Knight Riders by 2 wickets
+IPL 2024,Match 32,17-04-2024,Gujarat Titans,Delhi Capitals,89/10 (17.3 ov),92/4 (8.5 ov),Delhi Capitals,Delhi Capitals beat Gujarat Titans by 6 wickets
+IPL 2024,Match 33,18-04-2024,Punjab Kings,Mumbai Indians,183/10 (19.1 ov),192/7 (20 ov),Mumbai Indians,Mumbai Indians beat Punjab Kings by 9 runs
+IPL 2024,Match 34,19-04-2024,Lucknow Super Giants,Chennai Super Kings,180/2 (19 ov),176/6 (20 ov),Lucknow Super Giants,Lucknow Super Giants beat Chennai Super Kings by 8 wickets
+IPL 2024,Match 35,20-04-2024,Delhi Capitals,Sunrisers Hyderabad,199/10 (19.1 ov),266/7 (20 ov),Sunrisers Hyderabad,Sunrisers Hyderabad beat Delhi Capitals by 67 runs
+IPL 2024,Match 36,21-04-2024,Kolkata Knight Riders,Royal Challengers Bengaluru,222/6 (20 ov),221/10 (20 ov),Kolkata Knight Riders,Kolkata Knight Riders beat Royal Challengers Bengaluru by 1 run
+IPL 2024,Match 37,21-04-2024,Punjab Kings,Gujarat Titans,142/10 (20 ov),146/7 (19.1 ov),Gujarat Titans,Gujarat Titans beat Punjab Kings by 3 wickets
+IPL 2024,Match 38,22-04-2024,Rajasthan Royals,Mumbai Indians,183/1 (18.4 ov),179/9 (20 ov),Rajasthan Royals,Rajasthan Royals beat Mumbai Indians by 9 wickets
+IPL 2024,Match 39,23-04-2024,Chennai Super Kings,Lucknow Super Giants,210/4 (20 ov),213/4 (19.3 ov),Lucknow Super Giants,Lucknow Super Giants beat Chennai Super Kings by 6 wickets
+IPL 2024,Match 40,24-04-2024,Delhi Capitals,Gujarat Titans,224/4 (20 ov),220/8 (20 ov),Delhi Capitals,Delhi Capitals beat Gujarat Titans by 4 runs
+IPL 2024,Match 41,25-04-2024,Sunrisers Hyderabad,Royal Challengers Bengaluru,171/8 (20 ov),206/7 (20 ov),Royal Challengers Bengaluru,Royal Challengers Bengaluru beat Sunrisers Hyderabad by 35 runs
+IPL 2024,Match 42,26-04-2024,Kolkata Knight Riders,Punjab Kings,261/6 (20 ov),262/2 (18.4 ov),Punjab Kings,Punjab Kings beat Kolkata Knight Riders by 8 wickets
+IPL 2024,Match 43,27-04-2024,Delhi Capitals,Mumbai Indians,257/4 (20 ov),247/9 (20 ov),Delhi Capitals,Delhi Capitals beat Mumbai Indians by 10 runs
+IPL 2024,Match 44,27-04-2024,Lucknow Super Giants,Rajasthan Royals,196/5 (20 ov),199/3 (19 ov),Rajasthan Royals,Rajasthan Royals beat Lucknow Super Giants by 7 wickets
+IPL 2024,Match 45,28-04-2024,Gujarat Titans,Royal Challengers Bengaluru,200/3 (20 ov),206/1 (16 ov),Royal Challengers Bengaluru,Royal Challengers Bengaluru beat Gujarat Titans by 9 wickets
+IPL 2024,Match 46,28-04-2024,Chennai Super Kings,Sunrisers Hyderabad,212/3 (20 ov),134/10 (18.5 ov),Chennai Super Kings,Chennai Super Kings beat Sunrisers Hyderabad by 78 runs
+IPL 2024,Match 47,29-04-2024,Kolkata Knight Riders,Delhi Capitals,157/3 (16.3 ov),153/9 (20 ov),Kolkata Knight Riders,Kolkata Knight Riders beat Delhi Capitals by 7 wickets
+IPL 2024,Match 48,30-04-2024,Lucknow Super Giants,Mumbai Indians,145/6 (19.2 ov),144/7 (20 ov),Lucknow Super Giants,Lucknow Super Giants beat Mumbai Indians by 4 wickets
+IPL 2024,Match 49,01-05-2024,Chennai Super Kings,Punjab Kings,162/7 (20 ov),163/3 (17.5 ov),Punjab Kings,Punjab Kings beat Chennai Super Kings by 7 wickets
+IPL 2024,Match 50,02-05-2024,Sunrisers Hyderabad,Rajasthan Royals,201/3 (20 ov),200/7 (20 ov),Sunrisers Hyderabad,Sunrisers Hyderabad beat Rajasthan Royals by 1 run
+IPL 2024,Match 51,03-05-2024,Mumbai Indians,Kolkata Knight Riders,145/10 (18.5 ov),169/10 (19.5 ov),Kolkata Knight Riders,Kolkata Knight Riders beat Mumbai Indians by 24 runs
+IPL 2024,Match 52,04-05-2024,Royal Challengers Bengaluru,Gujarat Titans,152/6 (13.4 ov),147/10 (19.3 ov),Royal Challengers Bengaluru,Royal Challengers Bengaluru beat Gujarat Titans by 4 wickets
+IPL 2024,Match 53,05-05-2024,Punjab Kings,Chennai Super Kings,139/9 (20 ov),167/9 (20 ov),Chennai Super Kings,Chennai Super Kings beat Punjab Kings by 28 runs
+IPL 2024,Match 54,05-05-2024,Lucknow Super Giants,Kolkata Knight Riders,137/10 (16.1 ov),235/6 (20 ov),Kolkata Knight Riders,Kolkata Knight Riders beat Lucknow Super Giants by 98 runs
+IPL 2024,Match 55,06-05-2024,Mumbai Indians,Sunrisers Hyderabad,174/3 (17.2 ov),173/8 (20 ov),Mumbai Indians,Mumbai Indians beat Sunrisers Hyderabad by 7 wickets
+IPL 2024,Match 56,07-05-2024,Delhi Capitals,Rajasthan Royals,221/8 (20 ov),201/8 (20 ov),Delhi Capitals,Delhi Capitals beat Rajasthan Royals by 20 runs
+IPL 2024,Match 57,08-05-2024,Sunrisers Hyderabad,Lucknow Super Giants,167/0 (9.4 ov),165/4 (20 ov),Sunrisers Hyderabad,Sunrisers Hyderabad beat Lucknow Super Giants by 10 wickets
+IPL 2024,Match 58,09-05-2024,Punjab Kings,Royal Challengers Bengaluru,181/10 (17 ov),241/7 (20 ov),Royal Challengers Bengaluru,Royal Challengers Bengaluru beat Punjab Kings by 60 runs
+IPL 2024,Match 59,10-05-2024,Gujarat Titans,Chennai Super Kings,231/3 (20 ov),196/8 (20 ov),Gujarat Titans,Gujarat Titans beat Chennai Super Kings by 35 runs
+IPL 2024,Match 60,11-05-2024,Kolkata Knight Riders,Mumbai Indians,157/7 (16 ov),139/8 (16 ov),Kolkata Knight Riders,Kolkata Knight Riders beat Mumbai Indians by 18 runs
+IPL 2024,Match 61,12-05-2024,Chennai Super Kings,Rajasthan Royals,145/5 (18.2 ov),141/5 (20 ov),Chennai Super Kings,Chennai Super Kings beat Rajasthan Royals by 5 wickets
+IPL 2024,Match 62,12-05-2024,Royal Challengers Bengaluru,Delhi Capitals,187/9 (20 ov),140/10 (19.1 ov),Royal Challengers Bengaluru,Royal Challengers Bengaluru beat Delhi Capitals by 47 runs
+IPL 2024,Match 63,13-05-2024,Gujarat Titans,Kolkata Knight Riders,,,Match Abandoned,Match Abandoned
+IPL 2024,Match 64,14-05-2024,Delhi Capitals,Lucknow Super Giants,208/4 (20 ov),189/9 (20 ov),Delhi Capitals,Delhi Capitals beat Lucknow Super Giants by 19 runs
+IPL 2024,Match 65,15-05-2024,Rajasthan Royals,Punjab Kings,144/9 (20 ov),145/5 (18.5 ov),Punjab Kings,Punjab Kings beat Rajasthan Royals by 5 wickets
+IPL 2024,Match 66,16-05-2024,Sunrisers Hyderabad,Gujarat Titans,,,Match Abandoned,Match Abandoned
+IPL 2024,Match 67,17-05-2024,Mumbai Indians,Lucknow Super Giants,196/6 (20 ov),214/6 (20 ov),Lucknow Super Giants,Lucknow Super Giants beat Mumbai Indians by 18 runs
+IPL 2024,Match 68,18-05-2024,Royal Challengers Bengaluru,Chennai Super Kings,218/5 (20 ov),191/7 (20 ov),Royal Challengers Bengaluru,Royal Challengers Bengaluru beat Chennai Super Kings by 27 runs
+IPL 2024,Match 69,19-05-2024,Sunrisers Hyderabad,Punjab Kings,215/6 (19.1 ov),214/5 (20 ov),Sunrisers Hyderabad,Sunrisers Hyderabad beat Punjab Kings by 4 wickets
+IPL 2024,Match 70,19-05-2024,Rajasthan Royals,Kolkata Knight Riders,,,Match Abandoned,Match Abandoned
+IPL 2024,Qualifier 1,21-05-2024,Kolkata Knight Riders,Sunrisers Hyderabad,164/2 (13.4 ov),159/10 (19.3 ov),Kolkata Knight Riders,Kolkata Knight Riders beat Sunrisers Hyderabad by 8 wickets
+IPL 2024,Eliminator,22-05-2024,Rajasthan Royals,Royal Challengers Bengaluru,174/6 (19 ov),172/8 (20 ov),Rajasthan Royals,Rajasthan Royals beat Royal Challengers Bengaluru by 4 wickets
+IPL 2024,Qualifier 2,24-05-2024,Sunrisers Hyderabad,Rajasthan Royals,175/9 (20 ov),139/7 (20 ov),Sunrisers Hyderabad,Sunrisers Hyderabad beat Rajasthan Royals by 36 runs
+IPL 2024,final,26-05-2024,Kolkata Knight Riders,Sunrisers Hyderabad,114/2 (10.3 ov),113/10 (18.3 ov),Kolkata Knight Riders,Kolkata Knight Riders beat Sunrisers Hyderabad by 8 wickets

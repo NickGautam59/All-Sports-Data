@@ -1,0 +1,61 @@
+SEASON,Date,Home Team,Away team,Home score,Away score,Result,how,Match
+IPL 2019,23-03-2019,Chennai Super Kings,Royal Challengers Bengaluru,71/3 (17.4 ov),70/10 (17.1 ov),Chennai Super Kings,Super Kings won by 7 wickets (with 14 balls remaining),MATCH 1
+IPL 2019,24-03-2019,Kolkata Knight Riders,Sunrisers Hyderabad,183/4 (19.4 ov),181/3 (20 ov),Kolkata Knight Riders,KKR won by 6 wickets (with 2 balls remaining),MATCH 2
+IPL 2019,24-03-2019,Mumbai Indians,Delhi Capitals,176/10 (19.2 ov),213/6 (20 ov),Delhi Capitals,Capitals won by 37 runs,MATCH 3
+IPL 2019,25-03-2019,Rajasthan Royals,Punjab Kings,170/9 (20 ov),184/4 (20 ov),Punjab Kings,Kings XI won by 14 runs,MATCH 4
+IPL 2019,26-03-2019,Delhi Capitals,Chennai Super Kings,147/6 (20 ov),150/4 (19.4 ov),Chennai Super Kings,Super Kings won by 6 wickets (with 2 balls remaining),MATCH 5
+IPL 2019,27-03-2019,Kolkata Knight Riders,Punjab Kings,218/4 (20 ov),190/4 (20 ov),Kolkata Knight Riders,KKR won by 28 runs,MATCH 6
+IPL 2019,28-03-2019,Royal Challengers Bengaluru,Mumbai Indians,181/5 (20 ov),187/8 (20 ov),Mumbai Indians,Mum Indians won by 6 runs,MATCH 7
+IPL 2019,29-03-2019,Sunrisers Hyderabad,Rajasthan Royals,201/5 (19 ov),198/2 (20 ov),Sunrisers Hyderabad,Sunrisers won by 5 wickets (with 6 balls remaining),MATCH 8
+IPL 2019,30-03-2019,Punjab Kings,Mumbai Indians,177/2 (18.4 ov),176/7 (20 ov),Punjab Kings,Kings XI won by 8 wickets (with 8 balls remaining),MATCH 9
+IPL 2019,30-03-2019,Delhi Capitals,Kolkata Knight Riders,185/6 (20 ov),185/8 (20 ov),Delhi Capitals,Match tied (Delhi Capitals won the one-over eliminator),MATCH 10
+IPL 2019,31-03-2019,Sunrisers Hyderabad,Royal Challengers Bengaluru,231/2 (20 ov),113/10 (19.5 ov),Sunrisers Hyderabad,Sunrisers won by 118 runs,MATCH 11
+IPL 2019,31-03-2019,Chennai Super Kings,Rajasthan Royals,175/5 (20 ov),167/8 (20 ov),Chennai Super Kings,Super Kings won by 8 runs,MATCH 12
+IPL 2019,01-04-2019,Punjab Kings,Delhi Capitals,166/9 (20 ov),152/10 (19.2 ov),Punjab Kings,Kings XI won by 14 runs,MATCH 13
+IPL 2019,02-04-2019,Rajasthan Royals,Royal Challengers Bengaluru,164/3 (19.5 ov),158/4 (20 ov),Rajasthan Royals,Royals won by 7 wickets (with 1 ball remaining),MATCH 14
+IPL 2019,03-04-2019,Mumbai Indians,Chennai Super Kings,170/5 (20 ov),133/8 (20 ov),Mumbai Indians,Mum Indians won by 37 runs,MATCH 15
+IPL 2019,04-04-2019,Delhi Capitals,Sunrisers Hyderabad,129/8 (20 ov),131/5 (18.3 ov),Sunrisers Hyderabad,Sunrisers won by 5 wickets (with 9 balls remaining),MATCH 16
+IPL 2019,05-04-2019,Royal Challengers Bengaluru,Kolkata Knight Riders,205/3 (20 ov),206/5 (19.1 ov),Kolkata Knight Riders,KKR won by 5 wickets (with 5 balls remaining),MATCH 17
+IPL 2019,06-04-2019,Chennai Super Kings,Punjab Kings,160/3 (20 ov),138/5 (20 ov),Chennai Super Kings,Super Kings won by 22 runs,MATCH 18
+IPL 2019,06-04-2019,Sunrisers Hyderabad,Mumbai Indians,96/10 (17.4 ov),136/7 (20 ov),Mumbai Indians,Mum Indians won by 40 runs,MATCH 19
+IPL 2019,07-04-2019,Royal Challengers Bengaluru,Delhi Capitals,149/8 (20 ov),152/6 (18.5 ov),Delhi Capitals,Capitals won by 4 wickets (with 7 balls remaining),MATCH 20
+IPL 2019,07-04-2019,Rajasthan Royals,Kolkata Knight Riders,139/3 (20 ov),140/2 (13.5 ov),Kolkata Knight Riders,KKR won by 8 wickets (with 37 balls remaining),MATCH 21
+IPL 2019,08-04-2019,Punjab Kings,Sunrisers Hyderabad,151/4 (19.5 ov),150/4 (20 ov),Punjab Kings,Kings XI won by 6 wickets (with 1 ball remaining),MATCH 22
+IPL 2019,09-04-2019,Chennai Super Kings,Kolkata Knight Riders,111/3 (17.2 ov),108/9 (20 ov),Chennai Super Kings,Super Kings won by 7 wickets (with 16 balls remaining),MATCH 23
+IPL 2019,10-04-2019,Mumbai Indians,Punjab Kings,198/7 (20 ov),197/4 (20 ov),Mumbai Indians,Mum Indians won by 3 wickets (with 0 balls remaining),MATCH 24
+IPL 2019,11-04-2019,Rajasthan Royals,Chennai Super Kings,151/7 (20 ov),155/6 (20 ov),Chennai Super Kings,Super Kings won by 4 wickets (with 0 balls remaining),MATCH 25
+IPL 2019,12-04-2019,Kolkata Knight Riders,Delhi Capitals,178/7 (20 ov),180/3 (18.5 ov),Delhi Capitals,Capitals won by 7 wickets (with 7 balls remaining),MATCH 26
+IPL 2019,13-04-2019,Mumbai Indians,Rajasthan Royals,187/5 (20 ov),188/6 (19.3 ov),Rajasthan Royals,Royals won by 4 wickets (with 3 balls remaining),MATCH 27
+IPL 2019,13-04-2019,Punjab Kings,Royal Challengers Bengaluru,173/4 (20 ov),174/2 (19.2 ov),Royal Challengers Bengaluru,RCB won by 8 wickets (with 4 balls remaining),MATCH 28
+IPL 2019,14-04-2019,Kolkata Knight Riders,Chennai Super Kings,161/8 (20 ov),162/5 (19.4 ov),Chennai Super Kings,Super Kings won by 5 wickets (with 2 balls remaining),MATCH 29
+IPL 2019,14-04-2019,Sunrisers Hyderabad,Delhi Capitals,116/10 (18.5 ov),155/7 (20 ov),Delhi Capitals,Capitals won by 39 runs,MATCH 30
+IPL 2019,15-04-2019,Mumbai Indians,Royal Challengers Bengaluru,172/5 (19 ov),171/7 (20 ov),Mumbai Indians,Mum Indians won by 5 wickets (with 6 balls remaining),MATCH 31
+IPL 2019,16-04-2019,Punjab Kings,Rajasthan Royals,182/6 (20 ov),170/7 (20 ov),Punjab Kings,Kings XI won by 12 runs,MATCH 32
+IPL 2019,17-04-2019,Sunrisers Hyderabad,Chennai Super Kings,137/4 (16.5 ov),132/5 (20 ov),Sunrisers Hyderabad,Sunrisers won by 6 wickets (with 19 balls remaining),MATCH 33
+IPL 2019,18-04-2019,Delhi Capitals,Mumbai Indians,128/9 (20 ov),168/5 (20 ov),Mumbai Indians,Mum Indians won by 40 runs,MATCH 34
+IPL 2019,19-04-2019,Kolkata Knight Riders,Royal Challengers Bengaluru,203/5 (20 ov),213/4 (20 ov),Royal Challengers Bengaluru,RCB won by 10 runs,MATCH 35
+IPL 2019,20-04-2019,Rajasthan Royals,Mumbai Indians,162/5 (19.1 ov),161/5 (20 ov),Rajasthan Royals,Royals won by 5 wickets (with 5 balls remaining),MATCH 36
+IPL 2019,20-04-2019,Delhi Capitals,Punjab Kings,166/5 (19.4 ov),163/7 (20 ov),Delhi Capitals,Capitals won by 5 wickets (with 2 balls remaining),MATCH 37
+IPL 2019,21-04-2019,Sunrisers Hyderabad,Kolkata Knight Riders,161/1 (15 ov),159/8 (20 ov),Sunrisers Hyderabad,Sunrisers won by 9 wickets (with 30 balls remaining),MATCH 38
+IPL 2019,21-04-2019,Royal Challengers Bengaluru,Chennai Super Kings,161/7 (20 ov),160/8 (20 ov),Royal Challengers Bengaluru,RCB won by 1 run,MATCH 39
+IPL 2019,22-04-2019,Rajasthan Royals,Delhi Capitals,191/6 (20 ov),193/4 (19.2 ov),Delhi Capitals,Capitals won by 6 wickets (with 4 balls remaining),MATCH 40
+IPL 2019,23-04-2019,Chennai Super Kings,Sunrisers Hyderabad,176/4 (19.5 ov),175/3 (20 ov),Chennai Super Kings,Super Kings won by 6 wickets (with 1 ball remaining),MATCH 41
+IPL 2019,24-04-2019,Royal Challengers Bengaluru,Punjab Kings,202/4 (20 ov),185/7 (20 ov),Royal Challengers Bengaluru,RCB won by 17 runs,MATCH 42
+IPL 2019,25-04-2019,Kolkata Knight Riders,Rajasthan Royals,175/6 (20 ov),177/7 (19.2 ov),Rajasthan Royals,Royals won by 3 wickets (with 4 balls remaining),MATCH 43
+IPL 2019,26-04-2019,Chennai Super Kings,Mumbai Indians,109/10 (17.4 ov),155/4 (20 ov),Mumbai Indians,Mum Indians won by 46 runs,MATCH 44
+IPL 2019,27-04-2019,Rajasthan Royals,Sunrisers Hyderabad,161/3 (19.1 ov),160/8 (20 ov),Rajasthan Royals,Royals won by 7 wickets (with 5 balls remaining),MATCH 45
+IPL 2019,28-04-2019,Delhi Capitals,Royal Challengers Bengaluru,187/5 (20 ov),171/7 (20 ov),Delhi Capitals,Capitals won by 16 runs,MATCH 46
+IPL 2019,28-04-2019,Kolkata Knight Riders,Mumbai Indians,232/2 (20 ov),198/7 (20 ov),Kolkata Knight Riders,KKR won by 34 runs,MATCH 47
+IPL 2019,29-04-2019,Sunrisers Hyderabad,Punjab Kings,212/6 (20 ov),167/8 (20 ov),Sunrisers Hyderabad,Sunrisers won by 45 runs,MATCH 48
+IPL 2019,30-04-2019,Royal Challengers Bengaluru,Rajasthan Royals,,41/1 (3.2 ov),No result,No result,MATCH 49
+IPL 2019,01-05-2019,Chennai Super Kings,Delhi Capitals,179/4 (20 ov),99/10 (16.2 ov),Chennai Super Kings,Super Kings won by 80 runs,MATCH 50
+IPL 2019,02-05-2019,Mumbai Indians,Sunrisers Hyderabad,162/5 (20 ov),162/6 (20 ov),Mumbai Indians,Match tied (Mumbai Indians won the one-over eliminator),MATCH 51
+IPL 2019,03-05-2019,Punjab Kings,Kolkata Knight Riders,183/6 (20 ov),185/3 (18 ov),Kolkata Knight Riders,KKR won by 7 wickets (with 12 balls remaining),MATCH 52
+IPL 2019,04-05-2019,Delhi Capitals,Rajasthan Royals,121/5 (16.1 ov),115/9 (20 ov),Delhi Capitals,Capitals won by 5 wickets (with 23 balls remaining),MATCH 53
+IPL 2019,04-05-2019,Royal Challengers Bengaluru,Sunrisers Hyderabad,178/6 (19.2 ov),175/7 (20 ov),Royal Challengers Bengaluru,RCB won by 4 wickets (with 4 balls remaining),MATCH 54
+IPL 2019,05-05-2019,Punjab Kings,Chennai Super Kings,173/4 (18 ov),170/5 (20 ov),Punjab Kings,Kings XI won by 6 wickets (with 12 balls remaining),MATCH 55
+IPL 2019,05-05-2019,Mumbai Indians,Kolkata Knight Riders,134/1 (16.1 ov),133/7 (20 ov),Mumbai Indians,Mum Indians won by 9 wickets (with 23 balls remaining),MATCH 56
+IPL 2019,07-05-2019,Mumbai Indians,Chennai Super Kings,132/4 (18.3 ov),131/4 (20 ov),Mumbai Indians,Mum Indians won by 6 wickets (with 9 balls remaining),Qualifier 1
+IPL 2019,08-05-2019,Delhi Capitals,Sunrisers Hyderabad,165/8 (19.5 ov),162/8 (20 ov),Delhi Capitals,Capitals won by 2 wickets (with 1 ball remaining),Eliminator
+IPL 2019,10-05-2019,Chennai Super Kings,Delhi Capitals,151/4 (19 ov),147/9 (20 ov),Chennai Super Kings,Super Kings won by 6 wickets (with 6 balls remaining),Qualifier 2
+IPL 2019,12-05-2019,Mumbai Indians,Chennai Super Kings,149/8 (20 ov),148/7 (20 ov),Mumbai Indians,Mum Indians won by 1 run,Final
